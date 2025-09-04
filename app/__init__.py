@@ -1,0 +1,3 @@
+"""Paquete de aplicación FastAPI."""
+
+

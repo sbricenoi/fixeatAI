@@ -1,0 +1,32 @@
+version: "3.9"
+services:
+  mcp:
+    build: .
+    image: fixeatai:latest
+    environment:
+      - ROLE=mcp
+      - CHROMA_PATH=/data/chroma
+    ports:
+      - "7070:7000"
+    volumes:
+      - chroma_data:/data/chroma
+    restart: unless-stopped
+
+  api:
+    build: .
+    image: fixeatai:latest
+    environment:
+      - ROLE=api
+      - MCP_SERVER_URL=http://mcp:7000
+      - X_TRACE_ID_HEADER=X-Trace-Id
+    ports:
+      - "8000:8000"
+    depends_on:
+      - mcp
+    restart: unless-stopped
+
+volumes:
+  chroma_data:
+    driver: local
+
+
