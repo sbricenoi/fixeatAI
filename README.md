@@ -14,6 +14,8 @@ Documentación inicial del microservicio de IA para diagnóstico técnico, suger
  - LLM + RAG: `docs/llm.md`
  - Entorno y configuración: `docs/entorno-configuracion.md`
  - Manual de ejecución: `docs/runbook-local.md`
+ - Despliegue AWS + Docker: `docs/deploy-aws.md`
+ - Estructura del repositorio (guía no técnica): `docs/estructura-repo.md`
 
 ### Roadmap (MVP)
 1) Definir contratos y endpoints (listo).

@@ -20,6 +20,8 @@ from services.rules.soporte import generar_pasos_soporte
 from services.predictor.heuristic import infer_from_hits, suggest_parts_and_tools
 from services.orch.rag import predict_with_llm
 from services.validation.formulario import validar_formulario as validar_formulario_payload
+from services.orch.validate import validate_with_llm
+from services.orch.ops_analyst import analyze_ops, analyze_ops_from_kb
 
 
 APP_TITLE = "FixeatAI Microservicio IA"
@@ -109,7 +111,20 @@ def soporte_tecnico(
     req: SoporteRequest,
     x_trace_id: Optional[str] = Header(default=None, alias=TRACE_HEADER),
 ) -> dict[str, Any]:
-    """Devuelve pasos recomendados de diagnóstico/reparación (mock)."""
+    """Devuelve pasos recomendados de diagnóstico/reparación.
+
+    - Si USE_LLM=true: usa RAG+LLM (mismo orquestador que predict-fallas) y retorna pasos + fuentes + signals
+    - Si USE_LLM=false: usa reglas heurísticas locales
+    """
+
+    if USE_LLM:
+        data_llm = predict_with_llm(MCP_SERVER_URL, req.descripcion_problema, req.equipo, top_k=5)
+        pasos = data_llm.get("pasos", [])
+        payload = {"pasos": pasos, "fuentes": data_llm.get("fuentes", []), "signals": data_llm.get("signals", {})}
+        log_event(logging.INFO, x_trace_id, "soporte_tecnico_llm", pasos=len(pasos))
+        return build_response(
+            data=payload, message="Secuencia generada (LLM)", code="OK", trace_id=x_trace_id
+        )
 
     pasos = generar_pasos_soporte(req.equipo, req.descripcion_problema)
     log_event(logging.INFO, x_trace_id, "soporte_tecnico", pasos=len(pasos))
@@ -151,9 +166,16 @@ def validar_formulario(
     req: ValidarRequest,
     x_trace_id: Optional[str] = Header(default=None, alias=TRACE_HEADER),
 ) -> dict[str, Any]:
-    """Valida coherencia y sugiere correcciones (mock)."""
+    """Valida coherencia y sugiere correcciones.
 
-    data = validar_formulario_payload(req.model_dump())
+    - Si USE_LLM=true: valida y mejora redacción con LLM (agrega `descripcion_mejorada`).
+    - Si USE_LLM=false: usa reglas locales.
+    """
+
+    if USE_LLM:
+        data = validate_with_llm(req.model_dump())
+    else:
+        data = validar_formulario_payload(req.model_dump())
     log_event(logging.INFO, x_trace_id, "validar_formulario", es_valido=data.get("es_valido"))
     return build_response(
         data=data, message="Validación completada", code="OK", trace_id=x_trace_id
@@ -165,5 +187,46 @@ def health() -> dict[str, Any]:
     """Endpoint de salud mínimo."""
 
     return {"status": "ok"}
+
+
+class OpsAnaliticaRequest(BaseModel):
+    # Modo 1 (recomendado): prompt + filtros para recuperar de KB
+    prompt: str | None = None
+    filtros: dict | None = None  # se mapea a where en kb_search
+    top_k: int | None = 20
+
+    # Modo 2 (alternativo): datos crudos si se desea forzar análisis local
+    visitas: list[dict] | None = None
+    inventario: list[dict] | None = None
+    equipos: list[dict] | None = None
+    tickets: list[dict] | None = None
+
+
+@app.post("/api/v1/ops-analitica")
+def ops_analitica(
+    req: OpsAnaliticaRequest,
+    x_trace_id: Optional[str] = Header(default=None, alias=TRACE_HEADER),
+) -> dict[str, Any]:
+    """Analista de operaciones: produce alertas, accionables y métricas.
+
+    - Si USE_LLM=true: usa LLM con señales heurísticas.
+    - Si USE_LLM=false: responde con heurística mínima indicando low_evidence.
+    """
+
+    payload = req.model_dump()
+    if USE_LLM and (req.prompt or req.filtros):
+        data = analyze_ops_from_kb(MCP_SERVER_URL, req.prompt or "analiza operaciones", req.filtros, top_k=req.top_k or 20)
+    elif USE_LLM:
+        data = analyze_ops(payload)
+    else:
+        data = {
+            "alertas": [],
+            "accionables": [],
+            "metricas": {},
+            "recomendaciones": ["Habilitar LLM (USE_LLM=true) o enviar prompt para análisis desde KB"],
+            "signals": {"low_evidence": True},
+        }
+    log_event(logging.INFO, x_trace_id, "ops_analitica", visitas=len(payload.get("visitas") or []))
+    return build_response(data=data, message="Análisis de operaciones", code="OK", trace_id=x_trace_id)
 
 

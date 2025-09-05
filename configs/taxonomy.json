@@ -1,0 +1,53 @@
+{
+  "brands": {
+    "ACME": [
+      "acme",
+      "Acme Incorporated"
+    ],
+    "THERMO": [
+      "thermo",
+      "thermo inc"
+    ],
+    "GENERIC": [
+      "generic"
+    ],
+    "acme inc": []
+  },
+  "models": {
+    "T900": [
+      "t900",
+      "t-900"
+    ],
+    "HORN-500": [
+      "horn-500",
+      "horn500"
+    ],
+    "GEN": [
+      "gen",
+      "generic-model"
+    ]
+  },
+  "categories": {
+    "bomba": [
+      "bomba",
+      "pump"
+    ],
+    "sensor": [
+      "sensor"
+    ],
+    "horno": [
+      "horno",
+      "oven"
+    ]
+  },
+  "synonyms": {
+    "filtro": [
+      "filtro",
+      "filter"
+    ],
+    "junta": [
+      "junta",
+      "gasket"
+    ]
+  }
+}

@@ -4,6 +4,19 @@
 - Recuperamos contexto desde la KB (`kb_search` vía MCP) y lo enviamos al LLM con un prompt que obliga un JSON estructurado.
 - El servicio puede operar en modo heurístico (sin LLM) o con LLM según `USE_LLM`.
 
+### CanonicalDoc (esquema canónico de KB)
+Campos mínimos por chunk:
+```
+id, text,
+metadata: {
+  source_type, source_ref, language?, doc_type?,
+  entities?: {brand?, model?, category?, part?, codes?},
+  tags?: [], version?, updated_at, created_at?,
+  parent_id?, chunk_index, fingerprint, quality_score,
+  pii_flags?: {}
+}
+```
+
 ### Variables de entorno
 - `USE_LLM` = true|false (default: true)
 - `OPENAI_API_KEY` = clave del proveedor (obligatoria si `USE_LLM=true`)
@@ -23,7 +36,7 @@
   "feedback_coherencia": "string"
 }
 ```
-3. Se parsea la respuesta con tolerancia a texto extra (se intenta extraer el primer bloque JSON); se añaden `fuentes`.
+3. Se parsea la respuesta con tolerancia a texto extra (se intenta extraer el primer bloque JSON); se añaden `fuentes` y `signals` (kb_hits, low_evidence).
 4. La API devuelve el estándar `traceId`, `code`, `message`, `data`.
 
 ### Endpoint de QA

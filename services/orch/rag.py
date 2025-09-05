@@ -40,18 +40,18 @@ def _parse_json_safely(raw: str) -> Dict[str, Any]:
 
 def predict_with_llm(mcp_url: str, descripcion: str, equipo: Dict[str, Any], top_k: int = 5) -> Dict[str, Any]:
     # Recuperación
-    where: Dict[str, Any] = {}
-    # Filtro básico por entidad (marca/modelo) si viene en el equipo
+    # Construcción de filtros para Chroma (requiere operador en top-level, ej. "$and")
+    conds: List[Dict[str, Any]] = []
     brand = (equipo or {}).get("marca") or (equipo or {}).get("brand")
     model = (equipo or {}).get("modelo") or (equipo or {}).get("model")
     if brand:
-        where["brand"] = {"$eq": str(brand)}
+        conds.append({"brand": {"$eq": str(brand)}})
     if model:
-        where["model"] = {"$eq": str(model)}
+        conds.append({"model": {"$eq": str(model)}})
 
     payload = {"query": descripcion, "top_k": top_k}
-    if where:
-        payload["where"] = where
+    if conds:
+        payload["where"] = {"$and": conds}
     res = requests.post(f"{mcp_url}/tools/kb_search", json=payload, timeout=10)
     hits = res.json().get("hits", [])
     context = build_context_from_hits(hits)
@@ -84,6 +84,13 @@ def predict_with_llm(mcp_url: str, descripcion: str, equipo: Dict[str, Any], top
     llm = LLMClient()
     raw = llm.complete_json(system_prompt, user_prompt)
     data = _parse_json_safely(raw)
+    # Señales: confianza y lagunas
+    num_hits = len(hits)
+    low_evidence = num_hits == 0 or (num_hits < 3 and len(context) < 400)
+    data["signals"] = {
+        "kb_hits": num_hits,
+        "low_evidence": bool(low_evidence),
+    }
     fuentes = [h.get("doc_id") for h in hits]
     data["fuentes"] = fuentes
     return data
