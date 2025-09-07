@@ -15,10 +15,17 @@ services:
   api:
     build: .
     image: fixeatai:latest
+    env_file:
+      - .env
     environment:
       - ROLE=api
       - MCP_SERVER_URL=http://mcp:7000
       - X_TRACE_ID_HEADER=X-Trace-Id
+      # Variables inyectadas desde .env (sin hardcodear secretos en el YAML)
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - USE_LLM=${USE_LLM:-true}
+      - LLM_MODEL=${LLM_MODEL:-gpt-4o-mini}
+      - CORS_ALLOW_ORIGINS=${CORS_ALLOW_ORIGINS:-*}
     ports:
       - "8000:8000"
     depends_on:
