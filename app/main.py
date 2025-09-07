@@ -15,6 +15,7 @@ import logging
 
 import requests
 from fastapi import FastAPI, Header
+from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from services.rules.soporte import generar_pasos_soporte
 from services.predictor.heuristic import infer_from_hits, suggest_parts_and_tools
@@ -22,6 +23,7 @@ from services.orch.rag import predict_with_llm
 from services.validation.formulario import validar_formulario as validar_formulario_payload
 from services.orch.validate import validate_with_llm
 from services.orch.ops_analyst import analyze_ops, analyze_ops_from_kb
+from services.orch.agents import RouterAgent, KBAgent, DBAgent, WriterAgent
 
 
 APP_TITLE = "FixeatAI Microservicio IA"
@@ -32,6 +34,17 @@ USE_LLM = os.getenv("USE_LLM", "true").lower() == "true"
 
 
 app = FastAPI(title=APP_TITLE, version=APP_VERSION)
+
+# CORS
+_cors_env = os.getenv("CORS_ALLOW_ORIGINS", "*").strip()
+_allow_origins = ["*"] if _cors_env == "*" else [o.strip() for o in _cors_env.split(",") if o.strip()]
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=_allow_origins,
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 
 def build_response(
@@ -228,5 +241,94 @@ def ops_analitica(
         }
     log_event(logging.INFO, x_trace_id, "ops_analitica", visitas=len(payload.get("visitas") or []))
     return build_response(data=data, message="Análisis de operaciones", code="OK", trace_id=x_trace_id)
+
+
+class OrquestarRequest(BaseModel):
+    query: str
+    filtros: dict | None = None
+    style: str | None = "breve"
+    sql: str | None = None
+
+
+@app.post("/api/v1/orquestar")
+def orquestar(req: OrquestarRequest, x_trace_id: Optional[str] = Header(default=None, alias=TRACE_HEADER)) -> dict[str, Any]:
+    errors: list[dict[str, Any]] = []
+    router = RouterAgent()
+    kb = KBAgent()
+    db = DBAgent()
+    writer = WriterAgent()
+
+    try:
+        route = router.run({"query": req.query})
+    except Exception as e:
+        route = None
+        errors.append({"agent": "router", "error": str(e)})
+    intent_raw = (route.content.get("raw", "") if route else "")
+    # Determinar intención estructurada si es posible
+    intent_val: str | None = None
+    try:
+        parsed = json.loads(intent_raw) if intent_raw else {}
+        if isinstance(parsed, dict):
+            intent_val = str(parsed.get("intent")) if parsed.get("intent") else None
+    except Exception:
+        intent_val = None
+
+    # Decidir uso de agentes según intención
+    need_db = (intent_val in ("db", "mixed")) or (intent_val is None and ("db" in intent_raw or "mixed" in intent_raw))
+    need_kb = (intent_val in ("kb", "mixed")) or (intent_val is None and ("kb" in intent_raw or "mixed" in intent_raw))
+
+    kb_where = None
+    if req.filtros and isinstance(req.filtros, dict) and req.filtros:
+        kb_where = req.filtros
+
+    kb_res = None
+    if need_kb:
+        try:
+            kb_res = kb.run({"query": req.query, "top_k": 8, "where": kb_where})
+        except Exception as e:
+            kb_res = None
+            errors.append({"agent": "kb", "error": str(e)})
+
+    db_rows: list[dict] = []
+    db_sql: str | None = None
+    db_backend: str | None = None
+    db_error: str | None = None
+    db_connect_error: str | None = None
+    if need_db:
+        try:
+            # Si viene SQL explícito, ejecutarlo; si no, NL2SQL
+            if req.sql:
+                db_res = db.run({"sql": req.sql})
+            else:
+                db_res = db.run({"question": req.query})
+            db_rows = db_res.content.get("rows", [])
+            db_sql = db_res.content.get("sql")
+            db_backend = db_res.content.get("backend")
+            db_error = db_res.content.get("error")
+            db_connect_error = db_res.content.get("connect_error")
+        except Exception as e:
+            errors.append({"agent": "db", "error": str(e)})
+
+    sections = []
+    if need_kb and kb_res:
+        sections.append({"title": "Contexto KB", "content": (kb_res.content.get("context", "") if kb_res else "")[:3000]})
+    if need_db and db_rows:
+        sections.append({"title": "Datos DB", "content": json.dumps(db_rows, ensure_ascii=False)[:2000]})
+    sections.append({"title": "Consulta", "content": req.query})
+    try:
+        out = writer.run({"sections": sections, "style": req.style or "breve", "rows": db_rows})
+        respuesta = out.content.get("text", "")
+    except Exception as e:
+        errors.append({"agent": "writer", "error": str(e)})
+        respuesta = (sections[0]["content"] + "\n\n" + sections[2]["content"])[:2000]
+
+    data = {
+        "router": (route.content if route else {}),
+        "kb": {"hits": len(kb_res.content.get("hits", []))} if kb_res else {"hits": 0},
+        "db": {"rows": len(db_rows), "sql": db_sql, "backend": db_backend, "error": db_error, "connect_error": db_connect_error},
+        "respuesta": respuesta,
+        "errors": errors,
+    }
+    return build_response(data=data, message="Orquestación completada", code=("OK" if not errors else "PARTIAL"), trace_id=x_trace_id)
 
 

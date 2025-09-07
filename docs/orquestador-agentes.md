@@ -15,7 +15,7 @@ Este documento define cómo reestructuraremos el proyecto para operar con varios
 ### Propuesta de reestructuración
 1) Capa de Agentes (nuevo):
    - Router/Planner: clasifica intención (consulta soporte, reporte, KPI) y define plan de herramientas.
-   - DB Agent (Text‑to‑SQL): genera y ejecuta SQL de solo lectura contra la BD (tool `db_query`).
+   - DB Agent (Text‑to‑SQL): genera y ejecuta SQL de solo lectura contra la BD (tool `db_query` o conexión MySQL directa).
    - KB Agent: usa MCP `kb_search`/filtros, construye contexto RAG.
    - Synthesizer (Enlazador): fusiona outputs (DB+KB), deduplica, resuelve conflictos y cita fuentes.
    - Writer (Redactor): adapta a canal (WhatsApp/Zendesk), tono y longitud.
@@ -64,6 +64,8 @@ Este documento define cómo reestructuraremos el proyecto para operar con varios
    - `router.py`: clasificación simple por keywords (fase 1) y, si `USE_LLM=true`, function‑calling para plan.
 4. DB tool
    - MCP: `POST /tools/db_query` con allowlist (SQL parametrizado), límite de filas y masking de PII.
+   - MySQL RDS: `services/db/mysql.py` permite ejecutar SELECT read‑only y obtener el esquema.
+   - NL2SQL: el `DBAgent` introspecciona `INFORMATION_SCHEMA` y forma un hint tipo `tabla(col tipo?, ...)` que se pasa al LLM para generar el SELECT.
 5. Orquestación demo
    - Endpoint `/api/v1/orquestar` que reciba `{text, canal?, filtros?}` y ejecute: Router → (DB?) → KB → Synth → Writer.
 6. Observabilidad
@@ -80,6 +82,15 @@ Este documento define cómo reestructuraremos el proyecto para operar con varios
 - Unit tests por agente (inputs → JSON esperado, sin LLM en modo mock).
 - E2E: chat de ejemplo → orquestación → respuesta con `sources` y `low_evidence` correctamente gestionado.
 - Pruebas anti‑alucinación: KB vacía → listas vacías y `missing_data` poblado.
+
+### Ejemplo de flujo NL2SQL
+1) Usuario pregunta: "listar SKUs con stock < 5 en SCL".
+2) Router clasifica intención `db`.
+3) DBAgent:
+   - Introspecciona esquema (o usa `DB_SCHEMA_HINT`).
+   - Prompt al LLM con el esquema: devuelve `SELECT sku, stock, bodega FROM inventario WHERE stock < 5 AND bodega = 'SCL' LIMIT 50`.
+   - Ejecuta en MySQL (solo lectura) y retorna filas.
+4) Writer sintetiza respuesta para el canal.
 
 ### Riesgos y mitigaciones
 - Alucinación en agentes: prompts estrictos, post‑filtro de fuentes y `low_evidence`.

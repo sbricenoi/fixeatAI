@@ -13,6 +13,26 @@
  - `LLM_TEMPERATURE`: float (default: 0.1)
  - `LLM_MAX_TOKENS`: entero (default: 800)
 
+#### Multi‑agente (opcional)
+- `LLM_AGENTS`: JSON para configurar modelo/base_url por agente (router, db, kb, writer, etc.).
+  Ejemplo:
+  ```json
+  {
+    "router": {"model": "gpt-4o-mini"},
+    "db": {"model": "gpt-4o-mini"},
+    "writer": {"model": "gpt-4o-mini"}
+  }
+  ```
+
+#### Base de datos MySQL (RDS)
+- `MYSQL_HOST`: endpoint de RDS
+- `MYSQL_PORT`: puerto (default: 3306)
+- `MYSQL_USER`: usuario de solo lectura
+- `MYSQL_PASSWORD`: contraseña
+- `MYSQL_DATABASE`: base de datos
+- `DB_SCHEMA_HINT` (opcional): pista de esquema si no quieres introspección en runtime, ej.
+  `inventario(sku,stock,bodega); visitas(ticket_id,equipo_model,issue)`
+
 ### Archivo .env (uso local)
 Ejemplo mínimo de `.env` en la raíz del repo:
 
@@ -21,6 +41,19 @@ OPENAI_API_KEY=sk-...tu_clave...
 USE_LLM=true
 MCP_SERVER_URL=http://localhost:7070
 X_TRACE_ID_HEADER=X-Trace-Id
+LLM_MODEL=gpt-4o-mini
+
+# Multi‑agente (opcional)
+LLM_AGENTS={"router":{"model":"gpt-4o-mini"},"db":{"model":"gpt-4o-mini"},"writer":{"model":"gpt-4o-mini"}}
+
+# MySQL RDS (si usas NL2SQL y ejecución real)
+MYSQL_HOST=tu-rds.amazonaws.com
+MYSQL_PORT=3306
+MYSQL_USER=usuario_ro
+MYSQL_PASSWORD=******
+MYSQL_DATABASE=mi_db
+# Alternativa a introspección automática
+# DB_SCHEMA_HINT=inventario(sku,stock,bodega); visitas(ticket_id,equipo_model,issue)
 ```
 
 El `Makefile` carga automáticamente `.env` al ejecutar `make run` y `make mcp`.

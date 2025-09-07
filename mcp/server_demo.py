@@ -64,6 +64,38 @@ def tool_kb_search(req: KBSearchRequest) -> dict:
     return {"hits": hits}
 
 
+class DBQueryRequest(BaseModel):
+    sql: str
+    params: Optional[list[Any]] = None
+
+
+@app.post("/tools/db_query")
+def tool_db_query(req: DBQueryRequest) -> dict:
+    """Tool de ejemplo para consultas de solo lectura.
+
+    Esta demo no se conecta a una BD real; devuelve resultados simulados
+    para queries select comunes. En producción, aquí se integraría un
+    pool de conexiones read-only y validación de consultas.
+    """
+    sql_low = (req.sql or "").strip().lower()
+    if not sql_low.startswith("select"):
+        return {"error": "solo se permiten SELECT en este endpoint"}
+    # Respuestas simuladas
+    if "from inventario" in sql_low:
+        rows = [
+            {"sku": "PUMP-ACME-01", "stock": 3, "bodega": "SCL"},
+            {"sku": "FILTRO-UNI-02", "stock": 12, "bodega": "SCL"},
+        ]
+    elif "from visitas" in sql_low:
+        rows = [
+            {"ticket_id": 1001, "equipo_model": "T900", "issue": "falla bomba"},
+            {"ticket_id": 1002, "equipo_model": "T900", "issue": "sensor humedad"},
+        ]
+    else:
+        rows = []
+    return {"rows": rows, "count": len(rows)}
+
+
 class IngestDoc(BaseModel):
     id: Optional[str] = None
     text: Optional[str] = None
