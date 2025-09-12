@@ -232,6 +232,55 @@ class DatabaseManager:
         
         return table_info
     
+    async def extract_with_joins(self, database_name: str, table_name: str, 
+                                extraction_config: Dict, limit: Optional[int] = None) -> List[Dict[str, Any]]:
+        """Extraer datos con JOINs según configuración"""
+        db_config = self.config.get_database_config(database_name)
+        
+        try:
+            connection = await self._create_connection(db_config)
+            
+            # Construir query con JOINs
+            joins = extraction_config.get("joins", [])
+            
+            # Query base
+            query_parts = [f"SELECT t.* FROM {table_name} t"]
+            
+            # Agregar JOINs
+            for i, join in enumerate(joins):
+                join_table = join.get("table", "")
+                join_condition = join.get("on", "")
+                join_type = join.get("type", "LEFT").upper()
+                
+                if join_table and join_condition:
+                    alias = f"j{i}"
+                    query_parts.append(f"{join_type} JOIN {join_table} {alias} ON {join_condition}")
+            
+            # Aplicar LIMIT si se especifica
+            if limit:
+                query_parts.append(f"LIMIT {limit}")
+            
+            query = " ".join(query_parts)
+            logger.info(f"🔗 Ejecutando query con JOINs: {query}")
+            
+            with connection.cursor() as cursor:
+                cursor.execute(query)
+                results = cursor.fetchall()
+                
+                logger.info(f"📊 Extraídos {len(results)} registros con JOINs de '{table_name}'")
+                return results
+                
+        except Exception as e:
+            logger.error(f"❌ Error en extracción con JOINs de '{table_name}': {e}")
+            # Fallback a extracción simple
+            async for batch in self.extract_table_data(database_name, table_name, limit=limit or 100):
+                return batch
+            return []
+        
+        finally:
+            if 'connection' in locals():
+                connection.close()
+    
     async def extract_table_data(self, database_name: str, table_name: str, 
                                 batch_size: int = 1000, where_clause: str = "",
                                 limit: Optional[int] = None) -> AsyncGenerator[List[Dict[str, Any]], None]:
