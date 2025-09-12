@@ -538,15 +538,15 @@ Crea una descripción técnica de 2-3 oraciones que capture la información esen
             import httpx
             kb_url = f"{self.config.kb_config.url}/tools/kb_ingest"
             
-            # Preparar documentos para ingestión
-            documents = []
+            # Preparar documentos para ingestión (formato correcto del MCP)
+            docs = []
             for i, record in enumerate(data):
                 doc_id = f"{db_name}_{table_name}_{record.get('id', i)}"
                 content = record.get('technical_narrative', str(record))
                 
                 document = {
-                    "doc_id": doc_id,
-                    "content": content,
+                    "id": doc_id,
+                    "text": content,
                     "metadata": {
                         "source_type": "database",
                         "source": f"{db_name}.{table_name}",
@@ -557,13 +557,13 @@ Crea una descripción técnica de 2-3 oraciones que capture la información esen
                         **metadata_config
                     }
                 }
-                documents.append(document)
+                docs.append(document)
             
-            # Enviar a KB
+            # Enviar a KB (formato correcto: "docs" no "documents")
             async with httpx.AsyncClient() as client:
                 response = await client.post(
                     kb_url,
-                    json={"documents": documents},
+                    json={"docs": docs},
                     timeout=30.0
                 )
                 
