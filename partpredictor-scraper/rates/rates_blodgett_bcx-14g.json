@@ -1,0 +1,151 @@
+{
+    "brand": "blodgett",
+    "model": "bcx-14g",
+    "issues": [
+        {
+            "name": "Hose Is Broken Or Leaking",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/blodgett/bcx-14g/hose-is-broken-or-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL101094.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 101094 Hose Reel Assembly, Combi",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n101094",
+                    "fix_rate": 26.0
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Leaking",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/blodgett/bcx-14g/unit-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL58487.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 58487 Solenoid Valve, Water Inlet, 24V, 1/8\" Npt",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n58487",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 322.40"
+                }
+            ]
+        },
+        {
+            "name": "Hi-limit Is Tripping Or Wont Reset",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/blodgett/bcx-14g/hi-limit-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BLR2630.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett R2630 Hi Limit Thermostat",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nR2630",
+                    "fix_rate": 70.0,
+                    "list_price": "$ 420.16"
+                }
+            ]
+        },
+        {
+            "name": "Door Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/blodgett/bcx-14g/door-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL56385.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 56385 Door Handle Kit with Washer",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n56385",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 370.24"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL54273.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 54273 Door Sensor Switch Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n54273",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 361.92"
+                }
+            ]
+        },
+        {
+            "name": "Probe Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/blodgett/bcx-14g/probe-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL50310.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 50310 TEMPERATURE PROBE ASSEMBLY",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n50310",
+                    "fix_rate": 36.0,
+                    "list_price": "$ 196.56"
+                }
+            ]
+        },
+        {
+            "name": "Pilot Is Malfunctioning",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/blodgett/bcx-14g/pilot-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL57662.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 57662 Pilot Burner/Ignitor/Sensor/Cable, Natural Gas",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n57662",
+                    "fix_rate": 54.0,
+                    "list_price": "$ 243.36"
+                }
+            ]
+        },
+        {
+            "name": "Door Switch Is Malfunctioning",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/blodgett/bcx-14g/door-switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL54273.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 54273 Door Sensor Switch Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n54273",
+                    "fix_rate": 60.0,
+                    "list_price": "$ 361.92"
+                }
+            ]
+        },
+        {
+            "name": "Valve Is Leaking",
+            "idx": 7,
+            "url": "https://www.partstown.com/part-predictor/blodgett/bcx-14g/valve-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL58487.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 58487 Solenoid Valve, Water Inlet, 24V, 1/8\" Npt",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n58487",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 322.40"
+                }
+            ]
+        }
+    ]
+}

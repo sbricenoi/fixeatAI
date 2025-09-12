@@ -1,0 +1,224 @@
+{
+    "brand": "middleby",
+    "model": "ps670",
+    "issues": [
+        {
+            "name": "Belt Is Defective",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/middleby/ps670/belt-is-defective",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/MD/MD61960.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Middleby 61960 Belt, 610J",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n61960",
+                    "fix_rate": 37.0,
+                    "list_price": "$ 128.94"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MD/MD35000-1013.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Middleby 35000-1013 Adapter, Drive Shaft, 200/310/60",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n35000-1013",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 102.97"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MD/MD22034-0003.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Middleby 22034-0003 Bushing, Flange, 3/4\"Od X 5/8\"Id",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n22034-0003",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 8.59"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MD/MD70126.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Middleby 70126 Bearing Assembly, Roll Pin",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n70126",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 468.52"
+                }
+            ]
+        },
+        {
+            "name": "Blower Motor Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/middleby/ps670/blower-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/MD/MD74097.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Middleby 74097 Inverter Replacement Kit 2HP",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n74097",
+                    "fix_rate": 38.0,
+                    "list_price": "$ 857.32"
+                }
+            ]
+        },
+        {
+            "name": "Fan Motor Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/middleby/ps670/fan-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/MD/MDM9616.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Middleby M9616 Axial Fan, 24VDC",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nM9616",
+                    "fix_rate": 44.0
+                }
+            ]
+        },
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/middleby/ps670/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/MD/MD63909.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Middleby 63909 Interlock Switch, 12A, NO2P",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n63909",
+                    "fix_rate": 62.0,
+                    "list_price": "$ 30.94"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MD/MD62044.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Middleby 62044 Air/Pressure Switch, .08 WC, Cleveland",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n62044",
+                    "fix_rate": 38.0,
+                    "list_price": "$ 68.71"
+                }
+            ]
+        },
+        {
+            "name": "Motor Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/middleby/ps670/motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/MD/MD74097.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Middleby 74097 Inverter Replacement Kit 2HP",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n74097",
+                    "fix_rate": 40.0,
+                    "list_price": "$ 857.32"
+                }
+            ]
+        },
+        {
+            "name": "Breaker Is Tripping Or Wont Reset",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/middleby/ps670/breaker-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/MD/MD63909.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Middleby 63909 Interlock Switch, 12A, NO2P",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n63909",
+                    "fix_rate": 45.0,
+                    "list_price": "$ 30.94"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MD/MD45036.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Middleby 45036 Circuit Breaker, 240V, 3A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n45036",
+                    "fix_rate": 45.0,
+                    "list_price": "$ 48.31"
+                }
+            ]
+        },
+        {
+            "name": "Cooling Fan Is Malfunctioning",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/middleby/ps670/cooling-fan-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/MD/MDM9616.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Middleby M9616 Axial Fan, 24VDC",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nM9616",
+                    "fix_rate": 55.0
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Making Noise",
+            "idx": 7,
+            "url": "https://www.partstown.com/part-predictor/middleby/ps670/unit-is-making-noise",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/MD/MD70126.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Middleby 70126 Bearing Assembly, Roll Pin",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n70126",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 468.52"
+                }
+            ]
+        },
+        {
+            "name": "Door Switch Is Malfunctioning",
+            "idx": 8,
+            "url": "https://www.partstown.com/part-predictor/middleby/ps670/door-switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/MD/MD63909.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Middleby 63909 Interlock Switch, 12A, NO2P",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n63909",
+                    "fix_rate": 88.0,
+                    "list_price": "$ 30.94"
+                }
+            ]
+        },
+        {
+            "name": "Interlock Switch Is Malfunctioning",
+            "idx": 9,
+            "url": "https://www.partstown.com/part-predictor/middleby/ps670/interlock-switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/MD/MD63909.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Middleby 63909 Interlock Switch, 12A, NO2P",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n63909",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 30.94"
+                }
+            ]
+        }
+    ]
+}

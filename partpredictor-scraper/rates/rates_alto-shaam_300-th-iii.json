@@ -1,0 +1,57 @@
+{
+    "brand": "alto-shaam",
+    "model": "300-th-iii",
+    "issues": [
+        {
+            "name": "Manifold Is Damaged Or Clogged",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/alto-shaam/300-th-iii/manifold-is-damaged-or-clogged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/ALT/ALT5035282.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Alto Shaam 5035282 Manifold & Adaptor Retrofit Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n5035282",
+                    "fix_rate": 76.0,
+                    "list_price": "$ 1,403.00"
+                }
+            ]
+        },
+        {
+            "name": "Probe Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/alto-shaam/300-th-iii/probe-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/ALT/ALT5035282.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Alto Shaam 5035282 Manifold & Adaptor Retrofit Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n5035282",
+                    "fix_rate": 67.0,
+                    "list_price": "$ 1,403.00"
+                }
+            ]
+        },
+        {
+            "name": "Heating Element Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/alto-shaam/300-th-iii/heating-element-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/ALT/ALTEL-35173.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Alto Shaam EL-35173 Element, Foil Pad, 120V, 800W",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nEL-35173",
+                    "fix_rate": 83.0,
+                    "list_price": "$ 495.00"
+                }
+            ]
+        }
+    ]
+}

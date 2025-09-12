@@ -1,0 +1,1037 @@
+{
+    "brand": "cleveland",
+    "model": "sgl-40-t4",
+    "issues": [
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/cleveland/sgl-40-t4/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLESK2474102.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland SK2474102 Rocker Switch, On/Off/On, 10A, Lighted Red",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSK2474102",
+                    "fix_rate": 37.0,
+                    "list_price": "$ 80.86"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLESK2474100.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland SK2474100 Switch, Power, Rocker, Dpdt",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSK2474100",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 64.52"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLESE00119.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland SE00119 Thermostat Replacement Kit, TR",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSE00119",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 473.82"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLESK2343502.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland SK2343502 Switch, Tilt, Dpdt, Tr # Vlbas00C-Azco",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSK2343502",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 55.56"
+                }
+            ]
+        },
+        {
+            "name": "Ignitor Is Malfunctioning Or Damaged",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/cleveland/sgl-40-t4/ignitor-is-malfunctioning-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE53437-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE53437-1 Spark Ignitor/Flame Sensor Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE53437-1",
+                    "fix_rate": 51.0,
+                    "list_price": "$ 126.25"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE53437-2.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE53437-2 Spark Ignitor/Flame Sensor Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE53437-2",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 173.13"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE003668.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE003668 Ignitor Replacement Kit, SGL-TR",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE003668",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 376.64"
+                }
+            ]
+        },
+        {
+            "name": "Burner Is Malfunctioning Or Damaged",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/cleveland/sgl-40-t4/burner-is-malfunctioning-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLESK2373100.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland SK2373100 Burner, Natural Gas, TR Skillets",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSK2373100",
+                    "fix_rate": 34.0,
+                    "list_price": "$ 128.40"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE53437-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE53437-1 Spark Ignitor/Flame Sensor Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE53437-1",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 126.25"
+                }
+            ]
+        },
+        {
+            "name": "Fuse Is Blown",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/cleveland/sgl-40-t4/fuse-is-blown",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLESK2474102.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland SK2474102 Rocker Switch, On/Off/On, 10A, Lighted Red",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSK2474102",
+                    "fix_rate": 30.0,
+                    "list_price": "$ 80.86"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE52936-8.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE52936-8 Fuse, 1.25A/250V/ AGC-1-1/4-R",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE52936-8",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 9.06"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/COV/COV300752.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Convotherm 300752 Fuse, MDA-3, 3A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n300752",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 11.11"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE53838-25.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE53838-25 Transformer, 120 to 24V, 40VA, 60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE53838-25",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 133.62"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLESE00119.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland SE00119 Thermostat Replacement Kit, TR",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSE00119",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 473.82"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Leaking",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/cleveland/sgl-40-t4/unit-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLESK2472701.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland SK2472701 Hose, Gas Connector, 24\" Long",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSK2472701",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 837.85"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLESK2379301.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland SK2379301 Ball Valve, Modified",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSK2379301",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 337.96"
+                }
+            ]
+        },
+        {
+            "name": "Controller Is Malfunctioning",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/cleveland/sgl-40-t4/controller-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLESE00119.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland SE00119 Thermostat Replacement Kit, TR",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSE00119",
+                    "fix_rate": 57.0,
+                    "list_price": "$ 473.82"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLESK2345100.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland SK2345100 RTD Temperature Sensor, TR",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSK2345100",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 410.85"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE55069-7.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE55069-7 Hi Limit/Safety Thermostat, 458F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE55069-7",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 263.15"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLESK2360700.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland SK2360700 Dial Insert, 140-425F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSK2360700",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 21.07"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLESK2138700.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland SK2138700 Knob Assembly, Tr Models",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSK2138700",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 38.18"
+                }
+            ]
+        },
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/cleveland/sgl-40-t4/thermostat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLESE00119.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland SE00119 Thermostat Replacement Kit, TR",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSE00119",
+                    "fix_rate": 59.0,
+                    "list_price": "$ 473.82"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLESK2345100.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland SK2345100 RTD Temperature Sensor, TR",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSK2345100",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 410.85"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE55069-7.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE55069-7 Hi Limit/Safety Thermostat, 458F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE55069-7",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 263.15"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLESK2360700.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland SK2360700 Dial Insert, 140-425F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSK2360700",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 21.07"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLESK50933-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland SK50933-1 Temperature Sensor, RTD",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSK50933-1",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 479.31"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLESK2138700.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland SK2138700 Knob Assembly, Tr Models",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSK2138700",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 38.18"
+                }
+            ]
+        },
+        {
+            "name": "Hi-limit Is Tripping Or Wont Reset",
+            "idx": 7,
+            "url": "https://www.partstown.com/part-predictor/cleveland/sgl-40-t4/hi-limit-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE55069-7.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE55069-7 Hi Limit/Safety Thermostat, 458F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE55069-7",
+                    "fix_rate": 77.0,
+                    "list_price": "$ 263.15"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLESK2345100.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland SK2345100 RTD Temperature Sensor, TR",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSK2345100",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 410.85"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLESE00119.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland SE00119 Thermostat Replacement Kit, TR",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSE00119",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 473.82"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE53437-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE53437-1 Spark Ignitor/Flame Sensor Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE53437-1",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 126.25"
+                }
+            ]
+        },
+        {
+            "name": "Ignition Module Is Malfunctioning",
+            "idx": 8,
+            "url": "https://www.partstown.com/part-predictor/cleveland/sgl-40-t4/ignition-module-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE53437-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE53437-1 Spark Ignitor/Flame Sensor Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE53437-1",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 126.25"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLESE00119.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland SE00119 Thermostat Replacement Kit, TR",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSE00119",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 473.82"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE003668.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE003668 Ignitor Replacement Kit, SGL-TR",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE003668",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 376.64"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEFK105693.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland FK105693 Ignition Module Field Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nFK105693",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 389.03"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE603774-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE603774-1 Ignition Module, Direct Spark",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE603774-1",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 223.20"
+                }
+            ]
+        },
+        {
+            "name": "Hose Is Broken Or Leaking",
+            "idx": 9,
+            "url": "https://www.partstown.com/part-predictor/cleveland/sgl-40-t4/hose-is-broken-or-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLESK2472701.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland SK2472701 Hose, Gas Connector, 24\" Long",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSK2472701",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 837.85"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TS/TSEZ-K.view?thumb&image.rules=G0&w=200",
+                    "product_name": "T&S Brass EZ-K Swivel Nut, Bushing, O-Ring Kit, Easyinstall",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nEZ-K",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 59.41"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLESKE600668.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland SKE600668 Drain Hose",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSKE600668",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 276.15"
+                }
+            ]
+        },
+        {
+            "name": "Probe Is Malfunctioning",
+            "idx": 10,
+            "url": "https://www.partstown.com/part-predictor/cleveland/sgl-40-t4/probe-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLESK2345100.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland SK2345100 RTD Temperature Sensor, TR",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSK2345100",
+                    "fix_rate": 53.0,
+                    "list_price": "$ 410.85"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLESE00119.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland SE00119 Thermostat Replacement Kit, TR",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSE00119",
+                    "fix_rate": 41.0,
+                    "list_price": "$ 473.82"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLESK50933-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland SK50933-1 Temperature Sensor, RTD",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSK50933-1",
+                    "fix_rate": 33.0,
+                    "list_price": "$ 479.31"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE55069-7.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE55069-7 Hi Limit/Safety Thermostat, 458F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE55069-7",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 263.15"
+                }
+            ]
+        },
+        {
+            "name": "Wiring Issue",
+            "idx": 11,
+            "url": "https://www.partstown.com/part-predictor/cleveland/sgl-40-t4/wiring-issue",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE53437-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE53437-1 Spark Ignitor/Flame Sensor Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE53437-1",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 126.25"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLESE00111.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland SE00111 Ignition Harness Kit, Sgltr",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSE00111",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 418.12"
+                }
+            ]
+        },
+        {
+            "name": "Handle Is Defective",
+            "idx": 12,
+            "url": "https://www.partstown.com/part-predictor/cleveland/sgl-40-t4/handle-is-defective",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE00508-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE00508-1 Hand Wheel Assembly/Tilt, TR Skillets",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE00508-1",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 778.43"
+                }
+            ]
+        },
+        {
+            "name": "Flame Sensor Is Malfunctioning",
+            "idx": 13,
+            "url": "https://www.partstown.com/part-predictor/cleveland/sgl-40-t4/flame-sensor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE53437-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE53437-1 Spark Ignitor/Flame Sensor Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE53437-1",
+                    "fix_rate": 62.0,
+                    "list_price": "$ 126.25"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE53437-2.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE53437-2 Spark Ignitor/Flame Sensor Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE53437-2",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 173.13"
+                }
+            ]
+        },
+        {
+            "name": "Oil Is Leaking",
+            "idx": 14,
+            "url": "https://www.partstown.com/part-predictor/cleveland/sgl-40-t4/oil-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLESK2379301.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland SK2379301 Ball Valve, Modified",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSK2379301",
+                    "fix_rate": 38.0,
+                    "list_price": "$ 337.96"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE000523.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE000523 Hydraulic Jack Assembly, TR/F Skillets",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE000523",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 1,573.59"
+                }
+            ]
+        },
+        {
+            "name": "Pilot Is Malfunctioning",
+            "idx": 15,
+            "url": "https://www.partstown.com/part-predictor/cleveland/sgl-40-t4/pilot-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE53437-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE53437-1 Spark Ignitor/Flame Sensor Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE53437-1",
+                    "fix_rate": 27.0,
+                    "list_price": "$ 126.25"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Not Reaching Set Temperature",
+            "idx": 16,
+            "url": "https://www.partstown.com/part-predictor/cleveland/sgl-40-t4/unit-is-not-reaching-set-temperature",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLESE00119.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland SE00119 Thermostat Replacement Kit, TR",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSE00119",
+                    "fix_rate": 35.0,
+                    "list_price": "$ 473.82"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE55069-7.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE55069-7 Hi Limit/Safety Thermostat, 458F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE55069-7",
+                    "fix_rate": 23.0,
+                    "list_price": "$ 263.15"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLESK2345100.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland SK2345100 RTD Temperature Sensor, TR",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSK2345100",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 410.85"
+                }
+            ]
+        },
+        {
+            "name": "Actuator Is Malfunctioning",
+            "idx": 17,
+            "url": "https://www.partstown.com/part-predictor/cleveland/sgl-40-t4/actuator-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLESK2346101.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland SK2346101 Actuator, Manual Override, 24VDC",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSK2346101",
+                    "fix_rate": 61.0,
+                    "list_price": "$ 2,789.31"
+                }
+            ]
+        },
+        {
+            "name": "Bracket Is Broken",
+            "idx": 18,
+            "url": "https://www.partstown.com/part-predictor/cleveland/sgl-40-t4/bracket-is-broken",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE53437-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE53437-1 Spark Ignitor/Flame Sensor Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE53437-1",
+                    "fix_rate": 32.0,
+                    "list_price": "$ 126.25"
+                }
+            ]
+        },
+        {
+            "name": "Motor Is Malfunctioning",
+            "idx": 19,
+            "url": "https://www.partstown.com/part-predictor/cleveland/sgl-40-t4/motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLESK2346101.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland SK2346101 Actuator, Manual Override, 24VDC",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSK2346101",
+                    "fix_rate": 48.0,
+                    "list_price": "$ 2,789.31"
+                }
+            ]
+        },
+        {
+            "name": "Ball Valve Is Malfunctioning",
+            "idx": 20,
+            "url": "https://www.partstown.com/part-predictor/cleveland/sgl-40-t4/ball-valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLESK2379301.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland SK2379301 Ball Valve, Modified",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSK2379301",
+                    "fix_rate": 75.0,
+                    "list_price": "$ 337.96"
+                }
+            ]
+        },
+        {
+            "name": "Gas Valve Is Malfunctioning",
+            "idx": 21,
+            "url": "https://www.partstown.com/part-predictor/cleveland/sgl-40-t4/gas-valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLESK2345700.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland SK2345700 Gas Solenoid Valve, TR",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSK2345700",
+                    "fix_rate": 40.0,
+                    "list_price": "$ 363.67"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEFK105693.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland FK105693 Ignition Module Field Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nFK105693",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 389.03"
+                }
+            ]
+        },
+        {
+            "name": "Unit Won't Turn On",
+            "idx": 22,
+            "url": "https://www.partstown.com/part-predictor/cleveland/sgl-40-t4/unit-wont-turn-on",
+            "results": []
+        },
+        {
+            "name": "Spring Is Malfunctioning",
+            "idx": 23,
+            "url": "https://www.partstown.com/part-predictor/cleveland/sgl-40-t4/spring-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLESK2452300.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland SK2452300 Lid Spring, Zinc Plated, Skillet",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSK2452300",
+                    "fix_rate": 53.0,
+                    "list_price": "$ 42.61"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEFA95087-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland FA95087-1 Eye Bolt, McMaster-Carr # 9489T, SEL/SGL",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nFA95087-1",
+                    "fix_rate": 47.0,
+                    "list_price": "$ 12.08"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLESSK00394-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland SSK00394-1 Hook Weldment, T1 Skillets",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSSK00394-1",
+                    "fix_rate": 47.0,
+                    "list_price": "$ 354.37"
+                }
+            ]
+        },
+        {
+            "name": "Valve Is Leaking",
+            "idx": 24,
+            "url": "https://www.partstown.com/part-predictor/cleveland/sgl-40-t4/valve-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLESK2379301.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland SK2379301 Ball Valve, Modified",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSK2379301",
+                    "fix_rate": 58.0,
+                    "list_price": "$ 337.96"
+                }
+            ]
+        },
+        {
+            "name": "Ingition Module Is Malfunctioning",
+            "idx": 25,
+            "url": "https://www.partstown.com/part-predictor/cleveland/sgl-40-t4/ingition-module-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE53437-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE53437-1 Spark Ignitor/Flame Sensor Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE53437-1",
+                    "fix_rate": 28.0,
+                    "list_price": "$ 126.25"
+                }
+            ]
+        },
+        {
+            "name": "Valve Is Malfunctioning",
+            "idx": 26,
+            "url": "https://www.partstown.com/part-predictor/cleveland/sgl-40-t4/valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLESK2379301.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland SK2379301 Ball Valve, Modified",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSK2379301",
+                    "fix_rate": 33.0,
+                    "list_price": "$ 337.96"
+                }
+            ]
+        },
+        {
+            "name": "Keypad Is Not Responding Or Damaged",
+            "idx": 27,
+            "url": "https://www.partstown.com/part-predictor/cleveland/sgl-40-t4/keypad-is-not-responding-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLESK2474102.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland SK2474102 Rocker Switch, On/Off/On, 10A, Lighted Red",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSK2474102",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 80.86"
+                }
+            ]
+        },
+        {
+            "name": "Gas Hose Is Leaking Or Damaged",
+            "idx": 28,
+            "url": "https://www.partstown.com/part-predictor/cleveland/sgl-40-t4/gas-hose-is-leaking-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLESK2472701.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland SK2472701 Hose, Gas Connector, 24\" Long",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSK2472701",
+                    "fix_rate": 38.0,
+                    "list_price": "$ 837.85"
+                }
+            ]
+        },
+        {
+            "name": "Transformer Is Malfunctioning",
+            "idx": 29,
+            "url": "https://www.partstown.com/part-predictor/cleveland/sgl-40-t4/transformer-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE53838-25.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE53838-25 Transformer, 120 to 24V, 40VA, 60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE53838-25",
+                    "fix_rate": 62.0,
+                    "list_price": "$ 133.62"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLESK2474102.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland SK2474102 Rocker Switch, On/Off/On, 10A, Lighted Red",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSK2474102",
+                    "fix_rate": 31.0,
+                    "list_price": "$ 80.86"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Shutting Down",
+            "idx": 30,
+            "url": "https://www.partstown.com/part-predictor/cleveland/sgl-40-t4/unit-is-shutting-down",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLESE00119.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland SE00119 Thermostat Replacement Kit, TR",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSE00119",
+                    "fix_rate": 31.0,
+                    "list_price": "$ 473.82"
+                }
+            ]
+        },
+        {
+            "name": "Potentiometer Is Malfunctioning",
+            "idx": 31,
+            "url": "https://www.partstown.com/part-predictor/cleveland/sgl-40-t4/potentiometer-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLESE00119.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland SE00119 Thermostat Replacement Kit, TR",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSE00119",
+                    "fix_rate": 71.0,
+                    "list_price": "$ 473.82"
+                }
+            ]
+        },
+        {
+            "name": "Sensor Is Malfunctioning",
+            "idx": 32,
+            "url": "https://www.partstown.com/part-predictor/cleveland/sgl-40-t4/sensor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE53437-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE53437-1 Spark Ignitor/Flame Sensor Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE53437-1",
+                    "fix_rate": 46.0,
+                    "list_price": "$ 126.25"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLESK2345100.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland SK2345100 RTD Temperature Sensor, TR",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSK2345100",
+                    "fix_rate": 46.0,
+                    "list_price": "$ 410.85"
+                }
+            ]
+        },
+        {
+            "name": "Door Spring Is Malfunctioning",
+            "idx": 33,
+            "url": "https://www.partstown.com/part-predictor/cleveland/sgl-40-t4/door-spring-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLESK2452300.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland SK2452300 Lid Spring, Zinc Plated, Skillet",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSK2452300",
+                    "fix_rate": 70.0,
+                    "list_price": "$ 42.61"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEFA95087-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland FA95087-1 Eye Bolt, McMaster-Carr # 9489T, SEL/SGL",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nFA95087-1",
+                    "fix_rate": 70.0,
+                    "list_price": "$ 12.08"
+                }
+            ]
+        },
+        {
+            "name": "Issue With Hardware Or Fittings",
+            "idx": 34,
+            "url": "https://www.partstown.com/part-predictor/cleveland/sgl-40-t4/issue-with-hardware-or-fittings",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE53437-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE53437-1 Spark Ignitor/Flame Sensor Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE53437-1",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 126.25"
+                }
+            ]
+        },
+        {
+            "name": "Relay Is Malfunctioning",
+            "idx": 35,
+            "url": "https://www.partstown.com/part-predictor/cleveland/sgl-40-t4/relay-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLESE00119.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland SE00119 Thermostat Replacement Kit, TR",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSE00119",
+                    "fix_rate": 62.0,
+                    "list_price": "$ 473.82"
+                }
+            ]
+        }
+    ]
+}

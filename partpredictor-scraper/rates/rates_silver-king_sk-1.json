@@ -1,0 +1,60 @@
+{
+    "brand": "silver-king",
+    "model": "sk-1",
+    "issues": [
+        {
+            "name": "Unit Is Not Dispensing",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/silver-king/sk-1/unit-is-not-dispensing",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SVK/SVK366-132S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Silver King 366-132S Rack Solenoid Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n366-132S",
+                    "fix_rate": 69.0,
+                    "list_price": "$ 494.21"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/SVK/SVK47250-SK.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Silver King 47250-SK SK-1, SK-2 LOAD CELL ASSEMBLY",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n47250-SK",
+                    "fix_rate": 31.0,
+                    "list_price": "$ 180.12"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/SVK/SVK366-139S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Silver King 366-139S Apron Assembly, SK-1 MCD",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n366-139S",
+                    "fix_rate": 31.0,
+                    "list_price": "$ 660.66"
+                }
+            ]
+        },
+        {
+            "name": "Display Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/silver-king/sk-1/display-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SVK/SVK366-139S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Silver King 366-139S Apron Assembly, SK-1 MCD",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n366-139S",
+                    "fix_rate": 62.0,
+                    "list_price": "$ 660.66"
+                }
+            ]
+        }
+    ]
+}

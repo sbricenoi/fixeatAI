@@ -1,0 +1,40 @@
+{
+    "brand": "apw-wyott",
+    "model": "tbtgdl",
+    "issues": [
+        {
+            "name": "Relay Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/apw-wyott/tbtgdl/relay-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/APW/APW2E-1475020.view?thumb&image.rules=G0&w=200",
+                    "product_name": "APW Wyott 2E-1475020 Electronic Thermostat Relay, 40A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2E-1475020",
+                    "fix_rate": 94.0,
+                    "list_price": "$ 33.88"
+                }
+            ]
+        },
+        {
+            "name": "Hi-limit Is Tripping Or Wont Reset",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/apw-wyott/tbtgdl/hi-limit-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/APW/APWAS-1486500.view?thumb&image.rules=G0&w=200",
+                    "product_name": "APW Wyott AS-1486500 High Limit Thermostat, Auto Reset, 550F, TBTGDL/TBTGIL",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nAS-1486500",
+                    "fix_rate": 78.0,
+                    "list_price": "$ 260.31"
+                }
+            ]
+        }
+    ]
+}

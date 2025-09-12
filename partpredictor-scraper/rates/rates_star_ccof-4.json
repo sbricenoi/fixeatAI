@@ -1,0 +1,23 @@
+{
+    "brand": "star",
+    "model": "ccof-4",
+    "issues": [
+        {
+            "name": "Fan Motor Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/star/ccof-4/fan-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2U-Z11118.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2U-Z11118 Motor And Fan Assembly, 220-240V, Ccof-4",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2U-Z11118",
+                    "fix_rate": 83.0,
+                    "list_price": "$ 378.13"
+                }
+            ]
+        }
+    ]
+}

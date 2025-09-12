@@ -1,0 +1,158 @@
+{
+    "brand": "frymaster",
+    "model": "fqg30u-tb",
+    "issues": [
+        {
+            "name": "Unit Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/frymaster/fqg30u-tb/unit-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8075949.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8075949 Ignition Module, Fenwal, 24V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8075949",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 157.95"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8074482.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8074482 Relay, Filter, DPDT, 24VDC, 20A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8074482",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 67.45"
+                }
+            ]
+        },
+        {
+            "name": "Unit Will Not Pump Oil",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/frymaster/fqg30u-tb/unit-will-not-pump-oil",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8261712.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8261712 Pump Motor Assembly, 115V, 60HZ, 1PH",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8261712",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 785.93"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8263191.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8263191 Filter Pump Kit, 4GPM CCW",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8263191",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 571.12"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8074482.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8074482 Relay, Filter, DPDT, 24VDC, 20A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8074482",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 67.45"
+                }
+            ]
+        },
+        {
+            "name": "Filter Pump Is Tripping",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/frymaster/fqg30u-tb/filter-pump-is-tripping",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8261712.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8261712 Pump Motor Assembly, 115V, 60HZ, 1PH",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8261712",
+                    "fix_rate": 69.0,
+                    "list_price": "$ 785.93"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8263191.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8263191 Filter Pump Kit, 4GPM CCW",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8263191",
+                    "fix_rate": 54.0,
+                    "list_price": "$ 571.12"
+                }
+            ]
+        },
+        {
+            "name": "Ignition Module Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/frymaster/fqg30u-tb/ignition-module-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8075949.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8075949 Ignition Module, Fenwal, 24V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8075949",
+                    "fix_rate": 42.0,
+                    "list_price": "$ 157.95"
+                }
+            ]
+        },
+        {
+            "name": "Motor Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/frymaster/fqg30u-tb/motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8261712.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8261712 Pump Motor Assembly, 115V, 60HZ, 1PH",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8261712",
+                    "fix_rate": 45.0,
+                    "list_price": "$ 785.93"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8263191.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8263191 Filter Pump Kit, 4GPM CCW",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8263191",
+                    "fix_rate": 45.0,
+                    "list_price": "$ 571.12"
+                }
+            ]
+        },
+        {
+            "name": "Relay Is Malfunctioning",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/frymaster/fqg30u-tb/relay-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8076084.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8076084 Relay, Latch/Valve, DPDT, 7A, 12V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8076084",
+                    "fix_rate": 60.0,
+                    "list_price": "$ 43.57"
+                }
+            ]
+        }
+    ]
+}

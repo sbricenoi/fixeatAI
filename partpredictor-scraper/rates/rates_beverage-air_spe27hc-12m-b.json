@@ -1,0 +1,67 @@
+{
+    "brand": "beverage-air",
+    "model": "spe27hc-12m-b",
+    "issues": [
+        {
+            "name": "Unit Is Not Reaching Set Temperature",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/beverage-air/spe27hc-12m-b/unit-is-not-reaching-set-temperature",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BEV/BEV00C30-123D-03.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Beverage Air 00C30-123D-03 Temperature Control Kit with Probes, ERC1120",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00C30-123D-03",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 500.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BEV/BEV501-184D.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Beverage Air 501-184D Fan Motor, Axial, 115V, 60Hz",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n501-184D",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 318.00"
+                }
+            ]
+        },
+        {
+            "name": "Controller Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/beverage-air/spe27hc-12m-b/controller-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BEV/BEV00C30-123D-03.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Beverage Air 00C30-123D-03 Temperature Control Kit with Probes, ERC1120",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00C30-123D-03",
+                    "fix_rate": 45.0,
+                    "list_price": "$ 500.00"
+                }
+            ]
+        },
+        {
+            "name": "Fan Motor Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/beverage-air/spe27hc-12m-b/fan-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BEV/BEV501-184D.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Beverage Air 501-184D Fan Motor, Axial, 115V, 60Hz",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n501-184D",
+                    "fix_rate": 55.0,
+                    "list_price": "$ 318.00"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "brand": "lincoln",
+    "model": "2501",
+    "issues": [
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/lincoln/2501/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369432.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369432 Rocker Switch, On/Off, Green Lighted",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369432",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 52.81"
+                }
+            ]
+        },
+        {
+            "name": "Capacitor Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/lincoln/2501/capacitor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369192.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369192 Capacitor, 7.5 MFD 370VAC",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369192",
+                    "fix_rate": 44.0,
+                    "list_price": "$ 40.73"
+                }
+            ]
+        },
+        {
+            "name": "Controller Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/lincoln/2501/controller-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN371109.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 371109 Control Board, Platform 3",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n371109",
+                    "fix_rate": 69.0,
+                    "list_price": "$ 1,010.56"
+                }
+            ]
+        },
+        {
+            "name": "Fan Motor Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/lincoln/2501/fan-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369192.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369192 Capacitor, 7.5 MFD 370VAC",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369192",
+                    "fix_rate": 71.0,
+                    "list_price": "$ 40.73"
+                }
+            ]
+        }
+    ]
+}

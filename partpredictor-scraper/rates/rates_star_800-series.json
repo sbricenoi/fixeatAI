@@ -1,0 +1,57 @@
+{
+    "brand": "star",
+    "model": "800-series",
+    "issues": [
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/star/800-series/thermostat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2T-Z16593.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2T-Z16593 Thermostat, GS, Gas 550F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2T-Z16593",
+                    "fix_rate": 72.0,
+                    "list_price": "$ 412.75"
+                }
+            ]
+        },
+        {
+            "name": "Burner Is Malfunctioning Or Damaged",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/star/800-series/burner-is-malfunctioning-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STAPS-Z22520.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star PS-Z22520 Direct Spark Retrofit Kit, TSA Griddles",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nPS-Z22520",
+                    "fix_rate": 38.0,
+                    "list_price": "$ 525.74"
+                }
+            ]
+        },
+        {
+            "name": "Ignition Module Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/star/800-series/ignition-module-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STAPS-Z22520.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star PS-Z22520 Direct Spark Retrofit Kit, TSA Griddles",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nPS-Z22520",
+                    "fix_rate": 71.0,
+                    "list_price": "$ 525.74"
+                }
+            ]
+        }
+    ]
+}

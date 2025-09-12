@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Unit Is Malfunctioning",
+        "parsed_name": "unit-is-malfunctioning"
+    },
+    {
+        "name": "Contactor Is Malfunctioning",
+        "parsed_name": "contactor-is-malfunctioning"
+    },
+    {
+        "name": "Unit Is Overheating",
+        "parsed_name": "unit-is-overheating"
+    },
+    {
+        "name": "Probe Is Malfunctioning",
+        "parsed_name": "probe-is-malfunctioning"
+    },
+    {
+        "name": "Interface Board Is Malfunctioning",
+        "parsed_name": "interface-board-is-malfunctioning"
+    },
+    {
+        "name": "Unit Is Making Noise",
+        "parsed_name": "unit-is-making-noise"
+    }
+]

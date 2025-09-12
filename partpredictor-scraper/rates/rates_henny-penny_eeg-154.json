@@ -1,0 +1,23 @@
+{
+    "brand": "henny-penny",
+    "model": "eeg-154",
+    "issues": [
+        {
+            "name": "Ignition Module Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/eeg-154/ignition-module-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN77839.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 77839 Ignition Module, Non CE",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n77839",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 147.60"
+                }
+            ]
+        }
+    ]
+}

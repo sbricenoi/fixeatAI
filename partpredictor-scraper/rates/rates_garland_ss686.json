@@ -1,0 +1,23 @@
+{
+    "brand": "garland",
+    "model": "ss686",
+    "issues": [
+        {
+            "name": "Burner Is Malfunctioning Or Damaged",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/garland/ss686/burner-is-malfunctioning-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4523166.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4523166 Switch, 6-Heat, C-Csa-Us",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4523166",
+                    "fix_rate": 45.0,
+                    "list_price": "$ 119.57"
+                }
+            ]
+        }
+    ]
+}

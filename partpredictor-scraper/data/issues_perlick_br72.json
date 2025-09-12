@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Unit Is Malfunctioning",
+        "parsed_name": "unit-is-malfunctioning"
+    },
+    {
+        "name": "Fan Motor Is Malfunctioning",
+        "parsed_name": "fan-motor-is-malfunctioning"
+    }
+]

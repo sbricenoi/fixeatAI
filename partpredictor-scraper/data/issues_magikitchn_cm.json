@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Burner Is Malfunctioning Or Damaged",
+        "parsed_name": "burner-is-malfunctioning-or-damaged"
+    },
+    {
+        "name": "Regulator Is Malfunctioning",
+        "parsed_name": "regulator-is-malfunctioning"
+    },
+    {
+        "name": "Valve Is Malfunctioning",
+        "parsed_name": "valve-is-malfunctioning"
+    }
+]

@@ -1,0 +1,33 @@
+{
+    "brand": "groen",
+    "model": "dee-4-series",
+    "issues": [
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/groen/dee-4-series/thermostat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GRZ009730.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen Z009730 Thermostat, Electric",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nZ009730",
+                    "fix_rate": 81.0,
+                    "list_price": "$ 221.85"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GRZ012314.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen Z012314 Knob, Thermostat, Off-1-10",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nZ012314",
+                    "fix_rate": 31.0,
+                    "list_price": "$ 13.23"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,165 @@
+{
+    "brand": "vulcan-hart",
+    "model": "vc4ed",
+    "issues": [
+        {
+            "name": "Contactor Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/vulcan-hart/vc4ed/contactor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-411497-000C5.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-411497-000C5 Contactor, 3 Pole",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-411497-000C5",
+                    "fix_rate": 40.0,
+                    "list_price": "$ 105.02"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-353589-00001.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-353589-00001 Temperature Probe",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-353589-00001",
+                    "fix_rate": 28.0,
+                    "list_price": "$ 94.37"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-913149.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-913149 NCC Temperature Control Kit with Harness",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-913149",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 506.55"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VHFE-019-40.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart FE-019-40 Fuse, Sc-15, 15A, Time-Delay",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nFE-019-40",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 85.62"
+                }
+            ]
+        },
+        {
+            "name": "Fuse Is Blown",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/vulcan-hart/vc4ed/fuse-is-blown",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-353589-00001.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-353589-00001 Temperature Probe",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-353589-00001",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 94.37"
+                }
+            ]
+        },
+        {
+            "name": "Controller Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/vulcan-hart/vc4ed/controller-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-913149.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-913149 NCC Temperature Control Kit with Harness",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-913149",
+                    "fix_rate": 68.0,
+                    "list_price": "$ 506.55"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-353589-00001.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-353589-00001 Temperature Probe",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-353589-00001",
+                    "fix_rate": 41.0,
+                    "list_price": "$ 94.37"
+                }
+            ]
+        },
+        {
+            "name": "Door Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/vulcan-hart/vc4ed/door-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-497586-00001.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-497586-00001 Door Roller Latch",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-497586-00001",
+                    "fix_rate": 39.0,
+                    "list_price": "$ 48.76"
+                }
+            ]
+        },
+        {
+            "name": "Motor Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/vulcan-hart/vc4ed/motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-913102-00347.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-913102-00347 Blower Motor, Full-Size Oven",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-913102-00347",
+                    "fix_rate": 43.0,
+                    "list_price": "$ 2,059.15"
+                }
+            ]
+        },
+        {
+            "name": "Door Switch Is Malfunctioning",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/vulcan-hart/vc4ed/door-switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-411496-000F1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-411496-000F1 Door Microswitch",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-411496-000F1",
+                    "fix_rate": 75.0,
+                    "list_price": "$ 69.31"
+                }
+            ]
+        },
+        {
+            "name": "Probe Is Malfunctioning",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/vulcan-hart/vc4ed/probe-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-353589-00001.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-353589-00001 Temperature Probe",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-353589-00001",
+                    "fix_rate": 82.0,
+                    "list_price": "$ 94.37"
+                }
+            ]
+        }
+    ]
+}

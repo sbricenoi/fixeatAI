@@ -1,0 +1,94 @@
+{
+    "brand": "silver-king",
+    "model": "skecd12-v3",
+    "issues": [
+        {
+            "name": "Valve Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/silver-king/skecd12-v3/valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SVK/SVK44349.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Silver King 44349 Pinch Valve Assembly, Skecd12-V3",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n44349",
+                    "fix_rate": 84.0,
+                    "list_price": "$ 166.28"
+                }
+            ]
+        },
+        {
+            "name": "Door Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/silver-king/skecd12-v3/door-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SVK/SVK36957S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Silver King 36957S Door Kit, SKBD3LS",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n36957S",
+                    "fix_rate": 64.0,
+                    "list_price": "$ 1,689.69"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/SVK/SVK37210.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Silver King 37210 Harness, Cabinet to Door, SKBD3L",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n37210",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 81.38"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/SVK/SVK36992S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Silver King 36992S Control Board Kit, Skbd3Ls",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n36992S",
+                    "fix_rate": 36.0,
+                    "list_price": "$ 711.73"
+                }
+            ]
+        },
+        {
+            "name": "Controller Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/silver-king/skecd12-v3/controller-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SVK/SVK36992S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Silver King 36992S Control Board Kit, Skbd3Ls",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n36992S",
+                    "fix_rate": 62.0,
+                    "list_price": "$ 711.73"
+                }
+            ]
+        },
+        {
+            "name": "Display Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/silver-king/skecd12-v3/display-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SVK/SVK37210.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Silver King 37210 Harness, Cabinet to Door, SKBD3L",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n37210",
+                    "fix_rate": 86.0,
+                    "list_price": "$ 81.38"
+                }
+            ]
+        }
+    ]
+}

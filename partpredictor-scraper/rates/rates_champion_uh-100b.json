@@ -1,0 +1,142 @@
+{
+    "brand": "champion",
+    "model": "uh-100b",
+    "issues": [
+        {
+            "name": "Unit Is Leaking",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/champion/uh-100b/unit-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA109985.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 109985 Seal, O-Ring, Electric Heater",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n109985",
+                    "fix_rate": 44.0,
+                    "list_price": "$ 8.43"
+                }
+            ]
+        },
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/champion/uh-100b/thermostat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA109069.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 109069 Thermostat with Capillary, 110-195F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n109069",
+                    "fix_rate": 31.0,
+                    "list_price": "$ 342.90"
+                }
+            ]
+        },
+        {
+            "name": "Vat Is Leaking",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/champion/uh-100b/vat-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA109985.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 109985 Seal, O-Ring, Electric Heater",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n109985",
+                    "fix_rate": 77.0,
+                    "list_price": "$ 8.43"
+                }
+            ]
+        },
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/champion/uh-100b/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA0512214.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 0512214 Push Button Switch, Green",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n0512214",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 122.86"
+                }
+            ]
+        },
+        {
+            "name": "Gasket Is Defective Or Leaking",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/champion/uh-100b/gasket-is-defective-or-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA109985.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 109985 Seal, O-Ring, Electric Heater",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n109985",
+                    "fix_rate": 55.0,
+                    "list_price": "$ 8.43"
+                }
+            ]
+        },
+        {
+            "name": "Valve Is Malfunctioning",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/champion/uh-100b/valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA0504952.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 0504952 Solenoid Valve, Fill, 120V, 5.0GPM, 501/501HT",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n0504952",
+                    "fix_rate": 64.0,
+                    "list_price": "$ 305.25"
+                }
+            ]
+        },
+        {
+            "name": "Drain Valve Is Malfunctioning",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/champion/uh-100b/drain-valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA0712367.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 0712367 Drain Manifold Assembly, FD UC",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n0712367",
+                    "fix_rate": 83.0,
+                    "list_price": "$ 701.25"
+                }
+            ]
+        },
+        {
+            "name": "Keypad Is Not Responding Or Damaged",
+            "idx": 7,
+            "url": "https://www.partstown.com/part-predictor/champion/uh-100b/keypad-is-not-responding-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA0512214.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 0512214 Push Button Switch, Green",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n0512214",
+                    "fix_rate": 83.0,
+                    "list_price": "$ 122.86"
+                }
+            ]
+        }
+    ]
+}

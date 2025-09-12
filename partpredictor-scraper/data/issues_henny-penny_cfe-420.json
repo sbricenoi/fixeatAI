@@ -1,0 +1,94 @@
+[
+    {
+        "name": "Unit Is Malfunctioning",
+        "parsed_name": "unit-is-malfunctioning"
+    },
+    {
+        "name": "Unit Will Not Pump Oil",
+        "parsed_name": "unit-will-not-pump-oil"
+    },
+    {
+        "name": "Oil Is Leaking",
+        "parsed_name": "oil-is-leaking"
+    },
+    {
+        "name": "Breaker Is Tripping Or Wont Reset",
+        "parsed_name": "breaker-is-tripping-or-wont-reset"
+    },
+    {
+        "name": "Unit Is Leaking",
+        "parsed_name": "unit-is-leaking"
+    },
+    {
+        "name": "Wiring Issue",
+        "parsed_name": "wiring-issue"
+    },
+    {
+        "name": "Probe Is Malfunctioning",
+        "parsed_name": "probe-is-malfunctioning"
+    },
+    {
+        "name": "Hi-limit Is Tripping Or Wont Reset",
+        "parsed_name": "hi-limit-is-tripping-or-wont-reset"
+    },
+    {
+        "name": "Unit Is Overheating",
+        "parsed_name": "unit-is-overheating"
+    },
+    {
+        "name": "Contactor Is Malfunctioning",
+        "parsed_name": "contactor-is-malfunctioning"
+    },
+    {
+        "name": "Unit Will Not Filter Properly",
+        "parsed_name": "unit-will-not-filter-properly"
+    },
+    {
+        "name": "Switch Is Malfunctioning",
+        "parsed_name": "switch-is-malfunctioning"
+    },
+    {
+        "name": "Motor Is Malfunctioning",
+        "parsed_name": "motor-is-malfunctioning"
+    },
+    {
+        "name": "Controller Is Malfunctioning",
+        "parsed_name": "controller-is-malfunctioning"
+    },
+    {
+        "name": "Filter Pump Is Malfunctioning",
+        "parsed_name": "filter-pump-is-malfunctioning"
+    },
+    {
+        "name": "Bracket Is Broken",
+        "parsed_name": "bracket-is-broken"
+    },
+    {
+        "name": "Smoke Coming From Unit",
+        "parsed_name": "smoke-coming-from-unit"
+    },
+    {
+        "name": "Sensor Is Malfunctioning",
+        "parsed_name": "sensor-is-malfunctioning"
+    },
+    {
+        "name": "Filter Pump Is Not Starting",
+        "parsed_name": "filter-pump-is-not-starting"
+    },
+    {
+        "name": "Fire Coming Out Of Unit",
+        "parsed_name": "fire-coming-out-of-unit"
+    },
+    {
+        "name": "Heating Element Is Malfunctioning",
+        "parsed_name": "heating-element-is-malfunctioning"
+    },
+    {
+        "name": "Valve Is Malfunctioning",
+        "parsed_name": "valve-is-malfunctioning"
+    },
+    {
+        "name": "Pump Motor Is Malfunctioning",
+        "parsed_name": "pump-motor-is-malfunctioning"
+    }
+]

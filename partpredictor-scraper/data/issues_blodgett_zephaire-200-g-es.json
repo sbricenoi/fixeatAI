@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Motor Is Malfunctioning",
+        "parsed_name": "motor-is-malfunctioning"
+    },
+    {
+        "name": "Controller Is Malfunctioning",
+        "parsed_name": "controller-is-malfunctioning"
+    },
+    {
+        "name": "Probe Is Malfunctioning",
+        "parsed_name": "probe-is-malfunctioning"
+    }
+]

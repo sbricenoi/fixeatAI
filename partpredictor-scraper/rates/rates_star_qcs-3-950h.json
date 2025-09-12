@@ -1,0 +1,23 @@
+{
+    "brand": "star",
+    "model": "qcs-3-950h",
+    "issues": [
+        {
+            "name": "Heating Element Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/star/qcs-3-950h/heating-element-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STAHT-197845.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star HT-197845 Heater Tube, Quartz, 104V, 807W for 208V Units",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nHT-197845",
+                    "fix_rate": 75.0,
+                    "list_price": "$ 108.73"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "brand": "middleby",
+    "model": "ps638g-1",
+    "issues": [
+        {
+            "name": "Belt Is Defective",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/middleby/ps638g-1/belt-is-defective",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/MD/MD50517.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Middleby 50517 Poly V-Belt 170J6",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n50517",
+                    "fix_rate": 62.0,
+                    "list_price": "$ 161.48"
+                }
+            ]
+        },
+        {
+            "name": "Blower Motor Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/middleby/ps638g-1/blower-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/MD/MD50517.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Middleby 50517 Poly V-Belt 170J6",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n50517",
+                    "fix_rate": 58.0,
+                    "list_price": "$ 161.48"
+                }
+            ]
+        },
+        {
+            "name": "Display Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/middleby/ps638g-1/display-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/MD/MD74453.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Middleby 74453 Programmable Logic Controller/Display Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n74453",
+                    "fix_rate": 71.0,
+                    "list_price": "$ 2,073.66"
+                }
+            ]
+        }
+    ]
+}

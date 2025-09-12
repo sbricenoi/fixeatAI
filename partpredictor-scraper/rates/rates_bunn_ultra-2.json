@@ -1,0 +1,168 @@
+{
+    "brand": "bunn",
+    "model": "ultra-2",
+    "issues": [
+        {
+            "name": "Unit Is Leaking",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/bunn/ultra-2/unit-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BU/BU58054.0000.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Bunn 58054.0000 Preventative Maintenance Kit, Ultra/NX",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n58054.0000",
+                    "fix_rate": 31.0,
+                    "list_price": "$ 90.60"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BU/BU32079.0001.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Bunn 32079.0001 Seal, Cooling Drum to Hopper",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n32079.0001",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 14.11"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BU/BU26780.0000.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Bunn 26780.0000 Auger Shaft Seal",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n26780.0000",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 7.71"
+                }
+            ]
+        },
+        {
+            "name": "Sensor Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/bunn/ultra-2/sensor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BU/BU38708.1000.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Bunn 38708.1000 Control Board Assembly, Position Sensor",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n38708.1000",
+                    "fix_rate": 31.0,
+                    "list_price": "$ 39.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BU/BU58054.0000.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Bunn 58054.0000 Preventative Maintenance Kit, Ultra/NX",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n58054.0000",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 90.60"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BU/BU43694.0001.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Bunn 43694.0001 Temperature Sensor Assembly, ULTRA",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n43694.0001",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 15.31"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BU/BU28081.0001.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Bunn 28081.0001 Shaft Assembly, Auger Drive",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n28081.0001",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 170.91"
+                }
+            ]
+        },
+        {
+            "name": "Motor Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/bunn/ultra-2/motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BU/BU58054.0000.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Bunn 58054.0000 Preventative Maintenance Kit, Ultra/NX",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n58054.0000",
+                    "fix_rate": 39.0,
+                    "list_price": "$ 90.60"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BU/BU28081.0001.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Bunn 28081.0001 Shaft Assembly, Auger Drive",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n28081.0001",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 170.91"
+                }
+            ]
+        },
+        {
+            "name": "Fan Motor Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/bunn/ultra-2/fan-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BU/BU29084.0004.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Bunn 29084.0004 Condensor Fan Assembly, 115V, CDS / ULT Models",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n29084.0004",
+                    "fix_rate": 43.0,
+                    "list_price": "$ 209.09"
+                }
+            ]
+        },
+        {
+            "name": "Oil Is Leaking",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/bunn/ultra-2/oil-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BU/BU58054.0000.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Bunn 58054.0000 Preventative Maintenance Kit, Ultra/NX",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n58054.0000",
+                    "fix_rate": 56.0,
+                    "list_price": "$ 90.60"
+                }
+            ]
+        },
+        {
+            "name": "Bushing Is Damaged",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/bunn/ultra-2/bushing-is-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BU/BU32189.0000.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Bunn 32189.0000 Bushing, Auger Nose",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n32189.0000",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 2.11"
+                }
+            ]
+        }
+    ]
+}

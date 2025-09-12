@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Light Is Not Functioning Or Damaged",
+        "parsed_name": "light-is-not-functioning-or-damaged"
+    },
+    {
+        "name": "Switch Is Malfunctioning",
+        "parsed_name": "switch-is-malfunctioning"
+    },
+    {
+        "name": "Socket Is Defective Or Damaged",
+        "parsed_name": "socket-is-defective-or-damaged"
+    }
+]

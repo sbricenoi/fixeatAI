@@ -1,0 +1,198 @@
+{
+    "brand": "middleby",
+    "model": "ps636g",
+    "issues": [
+        {
+            "name": "Blower Motor Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/middleby/ps636g/blower-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/MD/MD70457.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Middleby 70457 Belt, Poly-V Stretch 4EPJ410",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n70457",
+                    "fix_rate": 44.0,
+                    "list_price": "$ 119.71"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MD/MD62044.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Middleby 62044 Air/Pressure Switch, .08 WC, Cleveland",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n62044",
+                    "fix_rate": 28.0,
+                    "list_price": "$ 68.71"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MD/MD66382.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Middleby 66382 Belt, Poly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n66382",
+                    "fix_rate": 28.0,
+                    "list_price": "$ 133.60"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MD/MD73963.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Middleby 73963 Bearing Kit, Ps636 Metric Pld",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n73963",
+                    "fix_rate": 28.0,
+                    "list_price": "$ 572.63"
+                }
+            ]
+        },
+        {
+            "name": "Belt Is Defective",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/middleby/ps636g/belt-is-defective",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/MD/MD70457.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Middleby 70457 Belt, Poly-V Stretch 4EPJ410",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n70457",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 119.71"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MD/MD66382.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Middleby 66382 Belt, Poly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n66382",
+                    "fix_rate": 23.0,
+                    "list_price": "$ 133.60"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MD/MD22034-0003.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Middleby 22034-0003 Bushing, Flange, 3/4\"Od X 5/8\"Id",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n22034-0003",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 8.59"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MD/MD68469.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Middleby 68469 Conveyor Belt Section, 11' x 1/2\" Pitch",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n68469",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 157.64"
+                }
+            ]
+        },
+        {
+            "name": "Ignition Module Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/middleby/ps636g/ignition-module-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/MD/MD71037.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Middleby 71037 Spark Electrode With Cable",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n71037",
+                    "fix_rate": 65.0,
+                    "list_price": "$ 91.11"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MD/MD62285.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Middleby 62285 Ignition Module Kit with Cable",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n62285",
+                    "fix_rate": 48.0,
+                    "list_price": "$ 635.72"
+                }
+            ]
+        },
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/middleby/ps636g/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/MD/MD62044.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Middleby 62044 Air/Pressure Switch, .08 WC, Cleveland",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n62044",
+                    "fix_rate": 40.0,
+                    "list_price": "$ 68.71"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MD/MD70457.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Middleby 70457 Belt, Poly-V Stretch 4EPJ410",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n70457",
+                    "fix_rate": 35.0,
+                    "list_price": "$ 119.71"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MD/MD66382.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Middleby 66382 Belt, Poly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n66382",
+                    "fix_rate": 30.0,
+                    "list_price": "$ 133.60"
+                }
+            ]
+        },
+        {
+            "name": "Motor Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/middleby/ps636g/motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/MD/MD73964.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Middleby 73964 Bearing Kit, Blower, SGL, Metric, PLD, 624/636",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n73964",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 312.35"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Making Noise",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/middleby/ps636g/unit-is-making-noise",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/MD/MD73964.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Middleby 73964 Bearing Kit, Blower, SGL, Metric, PLD, 624/636",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n73964",
+                    "fix_rate": 71.0,
+                    "list_price": "$ 312.35"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "brand": "alto-shaam",
+    "model": "xl-400",
+    "issues": [
+        {
+            "name": "Magnetron Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/alto-shaam/xl-400/magnetron-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/ALT/ALTMA-36495.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Alto Shaam MA-36495 Magnetron",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nMA-36495",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 369.00"
+                }
+            ]
+        }
+    ]
+}

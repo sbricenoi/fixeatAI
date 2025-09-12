@@ -1,0 +1,40 @@
+{
+    "brand": "antunes",
+    "model": "ctx-200l",
+    "issues": [
+        {
+            "name": "Fan Motor Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/antunes/ctx-200l/fan-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001146.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001146 Fan, Blower, 230V, 50/60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001146",
+                    "fix_rate": 75.0,
+                    "list_price": "$ 79.00"
+                }
+            ]
+        },
+        {
+            "name": "Cooling Fan Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/antunes/ctx-200l/cooling-fan-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001146.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001146 Fan, Blower, 230V, 50/60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001146",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 79.00"
+                }
+            ]
+        }
+    ]
+}

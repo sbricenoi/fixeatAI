@@ -1,0 +1,810 @@
+[
+    {
+        "name": "270A",
+        "parsed_name": "270a"
+    },
+    {
+        "name": "270D",
+        "parsed_name": "270d"
+    },
+    {
+        "name": "336D",
+        "parsed_name": "336d"
+    },
+    {
+        "name": "4241E",
+        "parsed_name": "4241e"
+    },
+    {
+        "name": "4361A",
+        "parsed_name": "4361a"
+    },
+    {
+        "name": "4361D",
+        "parsed_name": "4361d"
+    },
+    {
+        "name": "4362A",
+        "parsed_name": "4362a"
+    },
+    {
+        "name": "4362A-2TL",
+        "parsed_name": "4362a-2tl"
+    },
+    {
+        "name": "4362D",
+        "parsed_name": "4362d"
+    },
+    {
+        "name": "4362D-2GL",
+        "parsed_name": "4362d-2gl"
+    },
+    {
+        "name": "4363D",
+        "parsed_name": "4363d"
+    },
+    {
+        "name": "4363D-2CR",
+        "parsed_name": "4363d-2cr"
+    },
+    {
+        "name": "4364A",
+        "parsed_name": "4364a"
+    },
+    {
+        "name": "436A-3T",
+        "parsed_name": "436a-3t"
+    },
+    {
+        "name": "436D",
+        "parsed_name": "436d"
+    },
+    {
+        "name": "436D-3G",
+        "parsed_name": "436d-3g"
+    },
+    {
+        "name": "436D-3T",
+        "parsed_name": "436d-3t"
+    },
+    {
+        "name": "4481AC",
+        "parsed_name": "4481ac"
+    },
+    {
+        "name": "4481AC-2GL",
+        "parsed_name": "4481ac-2gl"
+    },
+    {
+        "name": "4481AC-2GR",
+        "parsed_name": "4481ac-2gr"
+    },
+    {
+        "name": "4481AC-2TL",
+        "parsed_name": "4481ac-2tl"
+    },
+    {
+        "name": "4481AC-2TR",
+        "parsed_name": "4481ac-2tr"
+    },
+    {
+        "name": "4481AC-3TR",
+        "parsed_name": "4481ac-3tr"
+    },
+    {
+        "name": "4481AC-5R",
+        "parsed_name": "4481ac-5r"
+    },
+    {
+        "name": "4481DC",
+        "parsed_name": "4481dc"
+    },
+    {
+        "name": "4481DC-2GL",
+        "parsed_name": "4481dc-2gl"
+    },
+    {
+        "name": "4481DC-2GR",
+        "parsed_name": "4481dc-2gr"
+    },
+    {
+        "name": "4481DC-2TL",
+        "parsed_name": "4481dc-2tl"
+    },
+    {
+        "name": "4481DC-2TR",
+        "parsed_name": "4481dc-2tr"
+    },
+    {
+        "name": "4481DC-3CL",
+        "parsed_name": "4481dc-3cl"
+    },
+    {
+        "name": "4481DC-3TR",
+        "parsed_name": "4481dc-3tr"
+    },
+    {
+        "name": "4481EE",
+        "parsed_name": "4481ee"
+    },
+    {
+        "name": "4481EE-2GL",
+        "parsed_name": "4481ee-2gl"
+    },
+    {
+        "name": "4481EE-2TL",
+        "parsed_name": "4481ee-2tl"
+    },
+    {
+        "name": "4481EE-2TR",
+        "parsed_name": "4481ee-2tr"
+    },
+    {
+        "name": "4481EE-3TL",
+        "parsed_name": "4481ee-3tl"
+    },
+    {
+        "name": "4481EE-3TR",
+        "parsed_name": "4481ee-3tr"
+    },
+    {
+        "name": "4481EE-5R",
+        "parsed_name": "4481ee-5r"
+    },
+    {
+        "name": "4482EE-2GL",
+        "parsed_name": "4482ee-2gl"
+    },
+    {
+        "name": "4483AC-3GR",
+        "parsed_name": "4483ac-3gr"
+    },
+    {
+        "name": "4484DC",
+        "parsed_name": "4484dc"
+    },
+    {
+        "name": "4601AA",
+        "parsed_name": "4601aa"
+    },
+    {
+        "name": "4601AA-2GL",
+        "parsed_name": "4601aa-2gl"
+    },
+    {
+        "name": "4601AA-2GR",
+        "parsed_name": "4601aa-2gr"
+    },
+    {
+        "name": "4601AA-2TL",
+        "parsed_name": "4601aa-2tl"
+    },
+    {
+        "name": "4601AA-2TR",
+        "parsed_name": "4601aa-2tr"
+    },
+    {
+        "name": "4601AA-3CR",
+        "parsed_name": "4601aa-3cr"
+    },
+    {
+        "name": "4601AA-3GR",
+        "parsed_name": "4601aa-3gr"
+    },
+    {
+        "name": "4601AA-3TL",
+        "parsed_name": "4601aa-3tl"
+    },
+    {
+        "name": "4601AA-3TR",
+        "parsed_name": "4601aa-3tr"
+    },
+    {
+        "name": "4601AA-4GR",
+        "parsed_name": "4601aa-4gr"
+    },
+    {
+        "name": "4601AA-4TL",
+        "parsed_name": "4601aa-4tl"
+    },
+    {
+        "name": "4601AA-4TR",
+        "parsed_name": "4601aa-4tr"
+    },
+    {
+        "name": "4601AA-5R",
+        "parsed_name": "4601aa-5r"
+    },
+    {
+        "name": "4601AD",
+        "parsed_name": "4601ad"
+    },
+    {
+        "name": "4601AD-2GL",
+        "parsed_name": "4601ad-2gl"
+    },
+    {
+        "name": "4601AD-2GR",
+        "parsed_name": "4601ad-2gr"
+    },
+    {
+        "name": "4601AD-2TL",
+        "parsed_name": "4601ad-2tl"
+    },
+    {
+        "name": "4601AD-2TR",
+        "parsed_name": "4601ad-2tr"
+    },
+    {
+        "name": "4601AD-3GL",
+        "parsed_name": "4601ad-3gl"
+    },
+    {
+        "name": "4601AD-3TL",
+        "parsed_name": "4601ad-3tl"
+    },
+    {
+        "name": "4601AD-3TR",
+        "parsed_name": "4601ad-3tr"
+    },
+    {
+        "name": "4601AD-4TL",
+        "parsed_name": "4601ad-4tl"
+    },
+    {
+        "name": "4601AD-4TR",
+        "parsed_name": "4601ad-4tr"
+    },
+    {
+        "name": "4601DD",
+        "parsed_name": "4601dd"
+    },
+    {
+        "name": "4601DD-2RR",
+        "parsed_name": "4601dd-2rr"
+    },
+    {
+        "name": "4601DD-5L",
+        "parsed_name": "4601dd-5l"
+    },
+    {
+        "name": "4602DD",
+        "parsed_name": "4602dd"
+    },
+    {
+        "name": "4602DD-5R",
+        "parsed_name": "4602dd-5r"
+    },
+    {
+        "name": "4603DD",
+        "parsed_name": "4603dd"
+    },
+    {
+        "name": "4604DD",
+        "parsed_name": "4604dd"
+    },
+    {
+        "name": "4605DD-2RR",
+        "parsed_name": "4605dd-2rr"
+    },
+    {
+        "name": "4607DD-2RR",
+        "parsed_name": "4607dd-2rr"
+    },
+    {
+        "name": "460DD",
+        "parsed_name": "460dd"
+    },
+    {
+        "name": "4721AA",
+        "parsed_name": "4721aa"
+    },
+    {
+        "name": "4721AA-3GL",
+        "parsed_name": "4721aa-3gl"
+    },
+    {
+        "name": "4721AA-3GR",
+        "parsed_name": "4721aa-3gr"
+    },
+    {
+        "name": "4721AA-3TL",
+        "parsed_name": "4721aa-3tl"
+    },
+    {
+        "name": "4721AA-3TR",
+        "parsed_name": "4721aa-3tr"
+    },
+    {
+        "name": "4721DD",
+        "parsed_name": "4721dd"
+    },
+    {
+        "name": "4721DD-3CR",
+        "parsed_name": "4721dd-3cr"
+    },
+    {
+        "name": "4721DD-3GL",
+        "parsed_name": "4721dd-3gl"
+    },
+    {
+        "name": "4721DD-3GR",
+        "parsed_name": "4721dd-3gr"
+    },
+    {
+        "name": "4721DD-3TL",
+        "parsed_name": "4721dd-3tl"
+    },
+    {
+        "name": "4721DD-3TR",
+        "parsed_name": "4721dd-3tr"
+    },
+    {
+        "name": "4725AA",
+        "parsed_name": "4725aa"
+    },
+    {
+        "name": "4725DD",
+        "parsed_name": "4725dd"
+    },
+    {
+        "name": "4725DD-3GR",
+        "parsed_name": "4725dd-3gr"
+    },
+    {
+        "name": "4725DD-3TL",
+        "parsed_name": "4725dd-3tl"
+    },
+    {
+        "name": "4725DD-3TR",
+        "parsed_name": "4725dd-3tr"
+    },
+    {
+        "name": "B-Series",
+        "parsed_name": "b-series"
+    },
+    {
+        "name": "BGLM-40",
+        "parsed_name": "bglm-40"
+    },
+    {
+        "name": "BGS/12SC",
+        "parsed_name": "bgs-12sc"
+    },
+    {
+        "name": "BGS/12SCAT",
+        "parsed_name": "bgs-12scat"
+    },
+    {
+        "name": "BGS/22SC",
+        "parsed_name": "bgs-22sc"
+    },
+    {
+        "name": "BGS/23SC",
+        "parsed_name": "bgs-23sc"
+    },
+    {
+        "name": "EH-10SC",
+        "parsed_name": "eh-10sc"
+    },
+    {
+        "name": "ES/20SC",
+        "parsed_name": "es-20sc"
+    },
+    {
+        "name": "EZ18-5",
+        "parsed_name": "ez18-5"
+    },
+    {
+        "name": "GB-25SC",
+        "parsed_name": "gb-25sc"
+    },
+    {
+        "name": "GH/10TC",
+        "parsed_name": "gh-10tc"
+    },
+    {
+        "name": "GH/20SC",
+        "parsed_name": "gh-20sc"
+    },
+    {
+        "name": "GS-15SC",
+        "parsed_name": "gs-15sc"
+    },
+    {
+        "name": "GS-22SC",
+        "parsed_name": "gs-22sc"
+    },
+    {
+        "name": "GS-25CCH",
+        "parsed_name": "gs-25cch"
+    },
+    {
+        "name": "GS-25SC",
+        "parsed_name": "gs-25sc"
+    },
+    {
+        "name": "HDC-48",
+        "parsed_name": "hdc-48"
+    },
+    {
+        "name": "HDG-18",
+        "parsed_name": "hdg-18"
+    },
+    {
+        "name": "HDG-24",
+        "parsed_name": "hdg-24"
+    },
+    {
+        "name": "HDG-36",
+        "parsed_name": "hdg-36"
+    },
+    {
+        "name": "HDG-36V",
+        "parsed_name": "hdg-36v"
+    },
+    {
+        "name": "HDG-48",
+        "parsed_name": "hdg-48"
+    },
+    {
+        "name": "HDG-48-30",
+        "parsed_name": "hdg-48-30"
+    },
+    {
+        "name": "HDG-60",
+        "parsed_name": "hdg-60"
+    },
+    {
+        "name": "HDG-60-30",
+        "parsed_name": "hdg-60-30"
+    },
+    {
+        "name": "KLES/20SC",
+        "parsed_name": "kles-20sc"
+    },
+    {
+        "name": "KLGS/17SC",
+        "parsed_name": "klgs-17sc"
+    },
+    {
+        "name": "P12C-L",
+        "parsed_name": "p12c-l"
+    },
+    {
+        "name": "P12C-S",
+        "parsed_name": "p12c-s"
+    },
+    {
+        "name": "P12N-G",
+        "parsed_name": "p12n-g"
+    },
+    {
+        "name": "P16C-DC",
+        "parsed_name": "p16c-dc"
+    },
+    {
+        "name": "P16C-PF45",
+        "parsed_name": "p16c-pf45"
+    },
+    {
+        "name": "P18C-P",
+        "parsed_name": "p18c-p"
+    },
+    {
+        "name": "P18C-X",
+        "parsed_name": "p18c-x"
+    },
+    {
+        "name": "P24C-BB",
+        "parsed_name": "p24c-bb"
+    },
+    {
+        "name": "P24C-TT",
+        "parsed_name": "p24c-tt"
+    },
+    {
+        "name": "P24N-BB",
+        "parsed_name": "p24n-bb"
+    },
+    {
+        "name": "P24N-TT",
+        "parsed_name": "p24n-tt"
+    },
+    {
+        "name": "P32-NFR",
+        "parsed_name": "p32-nfr"
+    },
+    {
+        "name": "P32A-171",
+        "parsed_name": "p32a-171"
+    },
+    {
+        "name": "P32D-171",
+        "parsed_name": "p32d-171"
+    },
+    {
+        "name": "P32N-171",
+        "parsed_name": "p32n-171"
+    },
+    {
+        "name": "P36-NFR",
+        "parsed_name": "p36-nfr"
+    },
+    {
+        "name": "P36-RAD",
+        "parsed_name": "p36-rad"
+    },
+    {
+        "name": "P36A-BBB",
+        "parsed_name": "p36a-bbb"
+    },
+    {
+        "name": "P36A-BTT",
+        "parsed_name": "p36a-btt"
+    },
+    {
+        "name": "P36A-FF",
+        "parsed_name": "p36a-ff"
+    },
+    {
+        "name": "P36A-PPP",
+        "parsed_name": "p36a-ppp"
+    },
+    {
+        "name": "P36A-TTT",
+        "parsed_name": "p36a-ttt"
+    },
+    {
+        "name": "P36C-BCC",
+        "parsed_name": "p36c-bcc"
+    },
+    {
+        "name": "P36D-BBB",
+        "parsed_name": "p36d-bbb"
+    },
+    {
+        "name": "P36D-BBG",
+        "parsed_name": "p36d-bbg"
+    },
+    {
+        "name": "P36D-BTT",
+        "parsed_name": "p36d-btt"
+    },
+    {
+        "name": "P36D-PPP",
+        "parsed_name": "p36d-ppp"
+    },
+    {
+        "name": "P36D-TTT",
+        "parsed_name": "p36d-ttt"
+    },
+    {
+        "name": "P36N-BTT",
+        "parsed_name": "p36n-btt"
+    },
+    {
+        "name": "P36N-FF",
+        "parsed_name": "p36n-ff"
+    },
+    {
+        "name": "P36N-SSS",
+        "parsed_name": "p36n-sss"
+    },
+    {
+        "name": "P36N-TTC",
+        "parsed_name": "p36n-ttc"
+    },
+    {
+        "name": "P36N-TTT",
+        "parsed_name": "p36n-ttt"
+    },
+    {
+        "name": "P48N-TTT",
+        "parsed_name": "p48n-ttt"
+    },
+    {
+        "name": "P48N-TTTT",
+        "parsed_name": "p48n-tttt"
+    },
+    {
+        "name": "PCR-1G",
+        "parsed_name": "pcr-1g"
+    },
+    {
+        "name": "PE36N-TTT",
+        "parsed_name": "pe36n-ttt"
+    },
+    {
+        "name": "PLATINUM Series",
+        "parsed_name": "platinum-series"
+    },
+    {
+        "name": "R24-5",
+        "parsed_name": "r24-5"
+    },
+    {
+        "name": "S24E",
+        "parsed_name": "s24e"
+    },
+    {
+        "name": "S36A",
+        "parsed_name": "s36a"
+    },
+    {
+        "name": "S36A-2GL",
+        "parsed_name": "s36a-2gl"
+    },
+    {
+        "name": "S36A-3G",
+        "parsed_name": "s36a-3g"
+    },
+    {
+        "name": "S36A-3T",
+        "parsed_name": "s36a-3t"
+    },
+    {
+        "name": "S36D",
+        "parsed_name": "s36d"
+    },
+    {
+        "name": "S36D-2GL",
+        "parsed_name": "s36d-2gl"
+    },
+    {
+        "name": "S36D-2GR",
+        "parsed_name": "s36d-2gr"
+    },
+    {
+        "name": "S36D-2TL",
+        "parsed_name": "s36d-2tl"
+    },
+    {
+        "name": "S36D-3G",
+        "parsed_name": "s36d-3g"
+    },
+    {
+        "name": "S36D-3T",
+        "parsed_name": "s36d-3t"
+    },
+    {
+        "name": "S60AA",
+        "parsed_name": "s60aa"
+    },
+    {
+        "name": "S60AA-2GL",
+        "parsed_name": "s60aa-2gl"
+    },
+    {
+        "name": "S60AA-2GR",
+        "parsed_name": "s60aa-2gr"
+    },
+    {
+        "name": "S60AA-2TL",
+        "parsed_name": "s60aa-2tl"
+    },
+    {
+        "name": "S60AA-2TR",
+        "parsed_name": "s60aa-2tr"
+    },
+    {
+        "name": "S60AA-3GR",
+        "parsed_name": "s60aa-3gr"
+    },
+    {
+        "name": "S60AA-3TR",
+        "parsed_name": "s60aa-3tr"
+    },
+    {
+        "name": "S60AA-4GL",
+        "parsed_name": "s60aa-4gl"
+    },
+    {
+        "name": "S60DD",
+        "parsed_name": "s60dd"
+    },
+    {
+        "name": "S60DD-2G",
+        "parsed_name": "s60dd-2g"
+    },
+    {
+        "name": "S60DD-2G-T",
+        "parsed_name": "s60dd-2g-t"
+    },
+    {
+        "name": "S60DD-2GL",
+        "parsed_name": "s60dd-2gl"
+    },
+    {
+        "name": "S60DD-2GR",
+        "parsed_name": "s60dd-2gr"
+    },
+    {
+        "name": "S60DD-2RR",
+        "parsed_name": "s60dd-2rr"
+    },
+    {
+        "name": "S60DD-2TL",
+        "parsed_name": "s60dd-2tl"
+    },
+    {
+        "name": "S60DD-2TR",
+        "parsed_name": "s60dd-2tr"
+    },
+    {
+        "name": "S60DD-3G",
+        "parsed_name": "s60dd-3g"
+    },
+    {
+        "name": "S60DD-3G-T",
+        "parsed_name": "s60dd-3g-t"
+    },
+    {
+        "name": "S60DD-3GL",
+        "parsed_name": "s60dd-3gl"
+    },
+    {
+        "name": "S60DD-3GR",
+        "parsed_name": "s60dd-3gr"
+    },
+    {
+        "name": "S60DD-3TL",
+        "parsed_name": "s60dd-3tl"
+    },
+    {
+        "name": "S60DD-3TR",
+        "parsed_name": "s60dd-3tr"
+    },
+    {
+        "name": "S60DD-4TL",
+        "parsed_name": "s60dd-4tl"
+    },
+    {
+        "name": "S60DD-4TR",
+        "parsed_name": "s60dd-4tr"
+    },
+    {
+        "name": "SLES/10SC",
+        "parsed_name": "sles-10sc"
+    },
+    {
+        "name": "SLES/20SC",
+        "parsed_name": "sles-20sc"
+    },
+    {
+        "name": "SLGB-22sc",
+        "parsed_name": "slgb-22sc"
+    },
+    {
+        "name": "SLGS-12SC",
+        "parsed_name": "slgs-12sc"
+    },
+    {
+        "name": "SLGS-22CCH",
+        "parsed_name": "slgs-22cch"
+    },
+    {
+        "name": "SLGS-22SC",
+        "parsed_name": "slgs-22sc"
+    },
+    {
+        "name": "TVES-10SC",
+        "parsed_name": "tves-10sc"
+    },
+    {
+        "name": "TVES/10WC",
+        "parsed_name": "tves-10wc"
+    },
+    {
+        "name": "TVGS-12SC",
+        "parsed_name": "tvgs-12sc"
+    },
+    {
+        "name": "TVGS/12WC",
+        "parsed_name": "tvgs-12wc"
+    },
+    {
+        "name": "ULTIMATE Series",
+        "parsed_name": "ultimate-series"
+    }
+]

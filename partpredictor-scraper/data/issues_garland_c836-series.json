@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Thermocouple Is Malfunctioning",
+        "parsed_name": "thermocouple-is-malfunctioning"
+    },
+    {
+        "name": "Thermostat Is Malfunctioning",
+        "parsed_name": "thermostat-is-malfunctioning"
+    }
+]

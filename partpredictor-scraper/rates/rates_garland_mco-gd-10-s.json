@@ -1,0 +1,40 @@
+{
+    "brand": "garland",
+    "model": "mco-gd-10-s",
+    "issues": [
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/garland/mco-gd-10-s/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL1955401.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 1955401 Rocker Switch, DPDT, On/Off/On",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1955401",
+                    "fix_rate": 45.0,
+                    "list_price": "$ 41.62"
+                }
+            ]
+        },
+        {
+            "name": "Ignition Module Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/garland/mco-gd-10-s/ignition-module-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GLCK4533053.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland CK4533053 Ignition Module Kit with Adaptor",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nCK4533053",
+                    "fix_rate": 83.0,
+                    "list_price": "$ 255.12"
+                }
+            ]
+        }
+    ]
+}

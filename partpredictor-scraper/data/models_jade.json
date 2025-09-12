@@ -1,0 +1,90 @@
+[
+    {
+        "name": "JBB-236",
+        "parsed_name": "jbb-236"
+    },
+    {
+        "name": "JBR-6-36",
+        "parsed_name": "jbr-6-36"
+    },
+    {
+        "name": "JCM SERIES",
+        "parsed_name": "jcm-series"
+    },
+    {
+        "name": "JCM-18",
+        "parsed_name": "jcm-18"
+    },
+    {
+        "name": "JCM-30",
+        "parsed_name": "jcm-30"
+    },
+    {
+        "name": "JCM-36",
+        "parsed_name": "jcm-36"
+    },
+    {
+        "name": "JCM-42",
+        "parsed_name": "jcm-42"
+    },
+    {
+        "name": "JCM-48",
+        "parsed_name": "jcm-48"
+    },
+    {
+        "name": "JCM-60",
+        "parsed_name": "jcm-60"
+    },
+    {
+        "name": "JCM-72",
+        "parsed_name": "jcm-72"
+    },
+    {
+        "name": "JGT-2424",
+        "parsed_name": "jgt-2424"
+    },
+    {
+        "name": "JHP SERIES",
+        "parsed_name": "jhp-series"
+    },
+    {
+        "name": "JHPE SERIES",
+        "parsed_name": "jhpe-series"
+    },
+    {
+        "name": "JRLH SERIES",
+        "parsed_name": "jrlh-series"
+    },
+    {
+        "name": "JSB SERIES",
+        "parsed_name": "jsb-series"
+    },
+    {
+        "name": "JSB-36",
+        "parsed_name": "jsb-36"
+    },
+    {
+        "name": "JTPC-18",
+        "parsed_name": "jtpc-18"
+    },
+    {
+        "name": "JTRH SERIES",
+        "parsed_name": "jtrh-series"
+    },
+    {
+        "name": "JTRH-2FHT",
+        "parsed_name": "jtrh-2fht"
+    },
+    {
+        "name": "JTRH-36",
+        "parsed_name": "jtrh-36"
+    },
+    {
+        "name": "JTRH-36GT",
+        "parsed_name": "jtrh-36gt"
+    },
+    {
+        "name": "JTRH-6",
+        "parsed_name": "jtrh-6"
+    }
+]

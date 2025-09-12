@@ -1,0 +1,145 @@
+{
+    "brand": "perlick",
+    "model": "fr24",
+    "issues": [
+        {
+            "name": "Unit Is Not Reaching Set Temperature",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/perlick/fr24/unit-is-not-reaching-set-temperature",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PE/PE57466.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Perlick 57466 Controller, Solid State",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n57466",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 299.00"
+                }
+            ]
+        },
+        {
+            "name": "Fan Motor Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/perlick/fr24/fan-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PE/PEC15239A.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Perlick C15239A Fan Motor, 120V, 60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nC15239A",
+                    "fix_rate": 41.0,
+                    "list_price": "$ 145.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/PE/PE63461.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Perlick 63461 Fan Blade, 4 Fin, 4\", 5/8",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n63461",
+                    "fix_rate": 28.0,
+                    "list_price": "$ 24.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/PE/PE65666.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Perlick 65666 Evaporator Fan Guard, Plastic",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n65666",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 7.00"
+                }
+            ]
+        },
+        {
+            "name": "Compressor Is Not Running",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/perlick/fr24/compressor-is-not-running",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PE/PEC22999CMP01.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Perlick C22999CMP01 Compressor, FFL12HBX, EM",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nC22999CMP01",
+                    "fix_rate": 20.0,
+                    "list_price": "$ 961.00"
+                }
+            ]
+        },
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/perlick/fr24/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PE/PEC31659.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Perlick C31659 Switch, Momentary, Rocker, Spst, Red Light",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nC31659",
+                    "fix_rate": 80.0,
+                    "list_price": "$ 22.00"
+                }
+            ]
+        },
+        {
+            "name": "Condenser Fan Motor Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/perlick/fr24/condenser-fan-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PE/PEC22999FMTR03.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Perlick C22999FMTR03 Fan Motor with Blade and Bracket, 115V, 60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nC22999FMTR03",
+                    "fix_rate": 42.0,
+                    "list_price": "$ 491.00"
+                }
+            ]
+        },
+        {
+            "name": "Fan Motor Is Making Noise",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/perlick/fr24/fan-motor-is-making-noise",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PE/PEC22999FMTR03.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Perlick C22999FMTR03 Fan Motor with Blade and Bracket, 115V, 60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nC22999FMTR03",
+                    "fix_rate": 62.0,
+                    "list_price": "$ 491.00"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Making Noise",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/perlick/fr24/unit-is-making-noise",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PE/PEC22999FMTR03.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Perlick C22999FMTR03 Fan Motor with Blade and Bracket, 115V, 60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nC22999FMTR03",
+                    "fix_rate": 62.0,
+                    "list_price": "$ 491.00"
+                }
+            ]
+        }
+    ]
+}

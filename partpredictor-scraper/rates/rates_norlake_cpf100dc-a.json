@@ -1,0 +1,94 @@
+{
+    "brand": "norlake",
+    "model": "cpf100dc-a",
+    "issues": [
+        {
+            "name": "Unit Is Not Reaching Set Temperature",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/norlake/cpf100dc-a/unit-is-not-reaching-set-temperature",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/NOR/NOR142085S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Norlake 142085S Control, Dixell, Programmed, XR06CX SR",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n142085S",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 407.36"
+                }
+            ]
+        },
+        {
+            "name": "Fan Motor Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/norlake/cpf100dc-a/fan-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/NOR/NOR154111.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Norlake 154111 Fan Motor, 39W, 120-230V, 50/60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n154111",
+                    "fix_rate": 27.0,
+                    "list_price": "$ 202.45"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/NOR/NOR142085S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Norlake 142085S Control, Dixell, Programmed, XR06CX SR",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n142085S",
+                    "fix_rate": 23.0,
+                    "list_price": "$ 407.36"
+                }
+            ]
+        },
+        {
+            "name": "Controller Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/norlake/cpf100dc-a/controller-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/NOR/NOR142085S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Norlake 142085S Control, Dixell, Programmed, XR06CX SR",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n142085S",
+                    "fix_rate": 56.0,
+                    "list_price": "$ 407.36"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/NOR/NOR145288.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Norlake 145288 Probe, 5 Ft, Dixell, 18Nb-Ntc",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n145288",
+                    "fix_rate": 31.0,
+                    "list_price": "$ 69.51"
+                }
+            ]
+        },
+        {
+            "name": "Probe Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/norlake/cpf100dc-a/probe-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/NOR/NOR145288.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Norlake 145288 Probe, 5 Ft, Dixell, 18Nb-Ntc",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n145288",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 69.51"
+                }
+            ]
+        }
+    ]
+}

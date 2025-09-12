@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Controller Is Malfunctioning",
+        "parsed_name": "controller-is-malfunctioning"
+    },
+    {
+        "name": "Probe Is Malfunctioning",
+        "parsed_name": "probe-is-malfunctioning"
+    },
+    {
+        "name": "Switch Is Malfunctioning",
+        "parsed_name": "switch-is-malfunctioning"
+    }
+]

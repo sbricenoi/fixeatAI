@@ -1,0 +1,46 @@
+[
+    {
+        "name": "Ignitor Is Malfunctioning Or Damaged",
+        "parsed_name": "ignitor-is-malfunctioning-or-damaged"
+    },
+    {
+        "name": "Ignition Module Is Malfunctioning",
+        "parsed_name": "ignition-module-is-malfunctioning"
+    },
+    {
+        "name": "Switch Is Malfunctioning",
+        "parsed_name": "switch-is-malfunctioning"
+    },
+    {
+        "name": "Flame Sensor Is Malfunctioning",
+        "parsed_name": "flame-sensor-is-malfunctioning"
+    },
+    {
+        "name": "Door Switch Is Malfunctioning",
+        "parsed_name": "door-switch-is-malfunctioning"
+    },
+    {
+        "name": "Controller Is Malfunctioning",
+        "parsed_name": "controller-is-malfunctioning"
+    },
+    {
+        "name": "Unit Is Not Reaching Set Temperature",
+        "parsed_name": "unit-is-not-reaching-set-temperature"
+    },
+    {
+        "name": "Probe Is Malfunctioning",
+        "parsed_name": "probe-is-malfunctioning"
+    },
+    {
+        "name": "Gas Valve Is Malfunctioning",
+        "parsed_name": "gas-valve-is-malfunctioning"
+    },
+    {
+        "name": "Motor Is Malfunctioning",
+        "parsed_name": "motor-is-malfunctioning"
+    },
+    {
+        "name": "Unit Is Not Lighting",
+        "parsed_name": "unit-is-not-lighting"
+    }
+]

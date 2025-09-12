@@ -1,0 +1,23 @@
+{
+    "brand": "follett",
+    "model": "7ci100a",
+    "issues": [
+        {
+            "name": "Bushing Is Damaged",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/follett/7ci100a/bushing-is-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FOL/FOL00957886.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Follett 00957886 Bushing Housing Assembly with Insulation, 7 Series",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00957886",
+                    "fix_rate": 71.0,
+                    "list_price": "$ 394.00"
+                }
+            ]
+        }
+    ]
+}

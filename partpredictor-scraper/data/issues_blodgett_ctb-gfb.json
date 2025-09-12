@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Contactor Is Malfunctioning",
+        "parsed_name": "contactor-is-malfunctioning"
+    },
+    {
+        "name": "Fan Motor Is Malfunctioning",
+        "parsed_name": "fan-motor-is-malfunctioning"
+    },
+    {
+        "name": "Door Is Malfunctioning",
+        "parsed_name": "door-is-malfunctioning"
+    },
+    {
+        "name": "Switch Is Malfunctioning",
+        "parsed_name": "switch-is-malfunctioning"
+    },
+    {
+        "name": "Controller Is Malfunctioning",
+        "parsed_name": "controller-is-malfunctioning"
+    },
+    {
+        "name": "Unit Is Not Reaching Set Temperature",
+        "parsed_name": "unit-is-not-reaching-set-temperature"
+    },
+    {
+        "name": "Blower Motor Is Malfunctioning",
+        "parsed_name": "blower-motor-is-malfunctioning"
+    },
+    {
+        "name": "Motor Is Malfunctioning",
+        "parsed_name": "motor-is-malfunctioning"
+    },
+    {
+        "name": "Probe Is Malfunctioning",
+        "parsed_name": "probe-is-malfunctioning"
+    },
+    {
+        "name": "Door Switch Is Malfunctioning",
+        "parsed_name": "door-switch-is-malfunctioning"
+    },
+    {
+        "name": "Latch Is Damaged Or Not Latching",
+        "parsed_name": "latch-is-damaged-or-not-latching"
+    },
+    {
+        "name": "Potentiometer Is Malfunctioning",
+        "parsed_name": "potentiometer-is-malfunctioning"
+    },
+    {
+        "name": "Fuse Is Blown",
+        "parsed_name": "fuse-is-blown"
+    },
+    {
+        "name": "Breaker Is Tripping Or Wont Reset",
+        "parsed_name": "breaker-is-tripping-or-wont-reset"
+    },
+    {
+        "name": "Roller Is Damaged Or Missing",
+        "parsed_name": "roller-is-damaged-or-missing"
+    },
+    {
+        "name": "Blower Wheel Is Malfunctioning",
+        "parsed_name": "blower-wheel-is-malfunctioning"
+    },
+    {
+        "name": "Unit Is Making Noise",
+        "parsed_name": "unit-is-making-noise"
+    },
+    {
+        "name": "Unit Is Shutting Down",
+        "parsed_name": "unit-is-shutting-down"
+    },
+    {
+        "name": "Buzzer Is Malfunctioning",
+        "parsed_name": "buzzer-is-malfunctioning"
+    },
+    {
+        "name": "Relay Board Is Malfunctioning",
+        "parsed_name": "relay-board-is-malfunctioning"
+    }
+]

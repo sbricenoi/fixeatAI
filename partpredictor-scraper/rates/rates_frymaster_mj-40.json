@@ -1,0 +1,50 @@
+{
+    "brand": "frymaster",
+    "model": "mj-40",
+    "issues": [
+        {
+            "name": "Pilot Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/frymaster/mj-40/pilot-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8072427.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8072427 Gas Valve, Natural Gas, 1/2\" x 1/2\", Millivolt",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8072427",
+                    "fix_rate": 48.0,
+                    "list_price": "$ 353.50"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8073485.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8073485 Thermopile/Pilot Generator with Forked Connector",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8073485",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 80.93"
+                }
+            ]
+        },
+        {
+            "name": "Gas Valve Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/frymaster/mj-40/gas-valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8072427.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8072427 Gas Valve, Natural Gas, 1/2\" x 1/2\", Millivolt",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8072427",
+                    "fix_rate": 67.0,
+                    "list_price": "$ 353.50"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "brand": "vulcan-hart",
+    "model": "sg6d",
+    "issues": [
+        {
+            "name": "Controller Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/vulcan-hart/sg6d/controller-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-353589-00001.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-353589-00001 Temperature Probe",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-353589-00001",
+                    "fix_rate": 70.0,
+                    "list_price": "$ 94.37"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-913149.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-913149 NCC Temperature Control Kit with Harness",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-913149",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 506.55"
+                }
+            ]
+        },
+        {
+            "name": "Ignition Module Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/vulcan-hart/sg6d/ignition-module-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-423756-00004.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-423756-00004 Ignition Control Board, Dual Point",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-423756-00004",
+                    "fix_rate": 71.0,
+                    "list_price": "$ 265.82"
+                }
+            ]
+        }
+    ]
+}

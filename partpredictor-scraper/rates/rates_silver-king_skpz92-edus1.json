@@ -1,0 +1,40 @@
+{
+    "brand": "silver-king",
+    "model": "skpz92-edus1",
+    "issues": [
+        {
+            "name": "Unit Is Not Reaching Set Temperature",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/silver-king/skpz92-edus1/unit-is-not-reaching-set-temperature",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SVK/SVK20889.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Silver King 20889 Temperature Control, 9531N221",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n20889",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 67.44"
+                }
+            ]
+        },
+        {
+            "name": "Controller Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/silver-king/skpz92-edus1/controller-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SVK/SVK20889.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Silver King 20889 Temperature Control, 9531N221",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n20889",
+                    "fix_rate": 62.0,
+                    "list_price": "$ 67.44"
+                }
+            ]
+        }
+    ]
+}

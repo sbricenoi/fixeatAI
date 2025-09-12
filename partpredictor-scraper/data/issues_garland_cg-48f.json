@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Ignition Module Is Malfunctioning",
+        "parsed_name": "ignition-module-is-malfunctioning"
+    },
+    {
+        "name": "Pilot Is Malfunctioning",
+        "parsed_name": "pilot-is-malfunctioning"
+    },
+    {
+        "name": "Controller Is Malfunctioning",
+        "parsed_name": "controller-is-malfunctioning"
+    },
+    {
+        "name": "Switch Is Malfunctioning",
+        "parsed_name": "switch-is-malfunctioning"
+    },
+    {
+        "name": "Thermostat Is Malfunctioning",
+        "parsed_name": "thermostat-is-malfunctioning"
+    },
+    {
+        "name": "Burner Is Malfunctioning Or Damaged",
+        "parsed_name": "burner-is-malfunctioning-or-damaged"
+    },
+    {
+        "name": "Flame Sensor Is Malfunctioning",
+        "parsed_name": "flame-sensor-is-malfunctioning"
+    }
+]

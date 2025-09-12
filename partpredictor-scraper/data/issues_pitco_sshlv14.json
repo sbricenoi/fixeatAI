@@ -1,0 +1,162 @@
+[
+    {
+        "name": "Unit Is Malfunctioning",
+        "parsed_name": "unit-is-malfunctioning"
+    },
+    {
+        "name": "Hi-limit Is Tripping Or Wont Reset",
+        "parsed_name": "hi-limit-is-tripping-or-wont-reset"
+    },
+    {
+        "name": "Probe Is Malfunctioning",
+        "parsed_name": "probe-is-malfunctioning"
+    },
+    {
+        "name": "Unit Is Overheating",
+        "parsed_name": "unit-is-overheating"
+    },
+    {
+        "name": "Oil Is Leaking",
+        "parsed_name": "oil-is-leaking"
+    },
+    {
+        "name": "Pilot Is Malfunctioning",
+        "parsed_name": "pilot-is-malfunctioning"
+    },
+    {
+        "name": "Unit Is Leaking",
+        "parsed_name": "unit-is-leaking"
+    },
+    {
+        "name": "Actuator Is Malfunctioning",
+        "parsed_name": "actuator-is-malfunctioning"
+    },
+    {
+        "name": "Drain Valve Is Malfunctioning",
+        "parsed_name": "drain-valve-is-malfunctioning"
+    },
+    {
+        "name": "Burner Is Malfunctioning Or Damaged",
+        "parsed_name": "burner-is-malfunctioning-or-damaged"
+    },
+    {
+        "name": "Unit Is Not Draining",
+        "parsed_name": "unit-is-not-draining"
+    },
+    {
+        "name": "Vat Is Malfunctioning",
+        "parsed_name": "vat-is-malfunctioning"
+    },
+    {
+        "name": "Motor Is Malfunctioning",
+        "parsed_name": "motor-is-malfunctioning"
+    },
+    {
+        "name": "Unit Will Not Pump Oil",
+        "parsed_name": "unit-will-not-pump-oil"
+    },
+    {
+        "name": "Unit Is Not Reaching Set Temperature",
+        "parsed_name": "unit-is-not-reaching-set-temperature"
+    },
+    {
+        "name": "Valve Is Malfunctioning",
+        "parsed_name": "valve-is-malfunctioning"
+    },
+    {
+        "name": "Switch Is Malfunctioning",
+        "parsed_name": "switch-is-malfunctioning"
+    },
+    {
+        "name": "Fuse Is Blown",
+        "parsed_name": "fuse-is-blown"
+    },
+    {
+        "name": "Filter Pump Is Tripping",
+        "parsed_name": "filter-pump-is-tripping"
+    },
+    {
+        "name": "Flame Rollout Switch Is Malfunctioning",
+        "parsed_name": "flame-rollout-switch-is-malfunctioning"
+    },
+    {
+        "name": "Unit Is Not Lighting",
+        "parsed_name": "unit-is-not-lighting"
+    },
+    {
+        "name": "Breaker Is Tripping Or Wont Reset",
+        "parsed_name": "breaker-is-tripping-or-wont-reset"
+    },
+    {
+        "name": "Unit Is Shutting Down",
+        "parsed_name": "unit-is-shutting-down"
+    },
+    {
+        "name": "Unit Won't Turn On",
+        "parsed_name": "unit-won't-turn-on"
+    },
+    {
+        "name": "Ignition Module Is Malfunctioning",
+        "parsed_name": "ignition-module-is-malfunctioning"
+    },
+    {
+        "name": "Unit Will Not Filter Properly",
+        "parsed_name": "unit-will-not-filter-properly"
+    },
+    {
+        "name": "Drain Valve Is Leaking",
+        "parsed_name": "drain-valve-is-leaking"
+    },
+    {
+        "name": "Unit Is Not Maintaining Temperature",
+        "parsed_name": "unit-is-not-maintaining-temperature"
+    },
+    {
+        "name": "Relay Board Is Malfunctioning",
+        "parsed_name": "relay-board-is-malfunctioning"
+    },
+    {
+        "name": "Thermostat Is Malfunctioning",
+        "parsed_name": "thermostat-is-malfunctioning"
+    },
+    {
+        "name": "Vat Is Leaking",
+        "parsed_name": "vat-is-leaking"
+    },
+    {
+        "name": "Gas Valve Is Malfunctioning",
+        "parsed_name": "gas-valve-is-malfunctioning"
+    },
+    {
+        "name": "Transformer Is Malfunctioning",
+        "parsed_name": "transformer-is-malfunctioning"
+    },
+    {
+        "name": "Valve Is Leaking",
+        "parsed_name": "valve-is-leaking"
+    },
+    {
+        "name": "Gasket Is Defective Or Leaking",
+        "parsed_name": "gasket-is-defective-or-leaking"
+    },
+    {
+        "name": "Return Valve Is Malfunctioning",
+        "parsed_name": "return-valve-is-malfunctioning"
+    },
+    {
+        "name": "Ball Valve Is Malfunctioning",
+        "parsed_name": "ball-valve-is-malfunctioning"
+    },
+    {
+        "name": "Flame Sensor Is Malfunctioning",
+        "parsed_name": "flame-sensor-is-malfunctioning"
+    },
+    {
+        "name": "Drain Motor Is Malfunctioning",
+        "parsed_name": "drain-motor-is-malfunctioning"
+    },
+    {
+        "name": "O Ring Is Damaged Or Leaking",
+        "parsed_name": "o-ring-is-damaged-or-leaking"
+    }
+]

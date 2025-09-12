@@ -1,0 +1,33 @@
+{
+    "brand": "manitowoc-ice",
+    "model": "cnf-0202",
+    "issues": [
+        {
+            "name": "Drain Line Is Leaking",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/manitowoc-ice/cnf-0202/drain-line-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/MAN/MAN000005164.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Manitowoc Ice 5164 Sanitizer, Pint",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n5164",
+                    "fix_rate": 86.0,
+                    "list_price": "$ 30.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MAN/MAN000008400.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Manitowoc Ice 000008400 COMPRESSOR OVERLOAD AEZ4425Z 1",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n000008400",
+                    "fix_rate": 71.0,
+                    "list_price": "$ 57.80"
+                }
+            ]
+        }
+    ]
+}

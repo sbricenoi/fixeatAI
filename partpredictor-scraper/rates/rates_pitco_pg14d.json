@@ -1,0 +1,353 @@
+{
+    "brand": "pitco",
+    "model": "pg14d",
+    "issues": [
+        {
+            "name": "Pilot Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/pitco/pg14d/pilot-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PTP5047541.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco P5047541 Thermopile",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nP5047541",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 129.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PTP6071267.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco P6071267 Knob, Unitrol, On/Off/Pilot",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nP6071267",
+                    "fix_rate": 20.0,
+                    "list_price": "$ 25.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60070701.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60070701 HI Limit Thermostat, Manual Reset",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60070701",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 342.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PTP5045638.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco P5045638 Gas Valve, Robershaw, 24V, Natural Gas",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nP5045638",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 346.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PTPP10210.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco PP10210 Transformer, 40VA, 120/208/240V to 24V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nPP10210",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 207.00"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Leaking",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/pitco/pg14d/unit-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PTP5045638.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco P5045638 Gas Valve, Robershaw, 24V, Natural Gas",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nP5045638",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 346.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PTPP10945.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco PP10945 Water Valve With Handle, 3/8\", Brass",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nPP10945",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 204.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PTA3318603-C.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco A3318603-C Tank Overflow Hose, 22\", Rtg18/Pg14D",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nA3318603-C",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 405.00"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/pitco/pg14d/unit-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PTP6071267.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco P6071267 Knob, Unitrol, On/Off/Pilot",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nP6071267",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 25.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PTPP10210.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco PP10210 Transformer, 40VA, 120/208/240V to 24V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nPP10210",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 207.00"
+                }
+            ]
+        },
+        {
+            "name": "Gas Valve Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/pitco/pg14d/gas-valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PTP5045638.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco P5045638 Gas Valve, Robershaw, 24V, Natural Gas",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nP5045638",
+                    "fix_rate": 47.0,
+                    "list_price": "$ 346.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PTP6071267.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco P6071267 Knob, Unitrol, On/Off/Pilot",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nP6071267",
+                    "fix_rate": 28.0,
+                    "list_price": "$ 25.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PTP5047541.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco P5047541 Thermopile",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nP5047541",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 129.00"
+                }
+            ]
+        },
+        {
+            "name": "Hose Is Broken Or Leaking",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/pitco/pg14d/hose-is-broken-or-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PTA3318607-C.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco A3318607-C Overflow Hose, Tank, 36\", Cpe14/Dpe10",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nA3318607-C",
+                    "fix_rate": 31.0,
+                    "list_price": "$ 309.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PTA3318603-C.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco A3318603-C Tank Overflow Hose, 22\", Rtg18/Pg14D",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nA3318603-C",
+                    "fix_rate": 31.0,
+                    "list_price": "$ 405.00"
+                }
+            ]
+        },
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/pitco/pg14d/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PTPP10093.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco PP10093 Switch, Rocker, SPDT",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nPP10093",
+                    "fix_rate": 46.0,
+                    "list_price": "$ 93.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PTPP10654.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco PP10654 Rocker Switch, Spst, On/Off",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nPP10654",
+                    "fix_rate": 31.0,
+                    "list_price": "$ 109.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PTPP10210.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco PP10210 Transformer, 40VA, 120/208/240V to 24V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nPP10210",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 207.00"
+                }
+            ]
+        },
+        {
+            "name": "Transformer Is Malfunctioning",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/pitco/pg14d/transformer-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PTPP10210.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco PP10210 Transformer, 40VA, 120/208/240V to 24V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nPP10210",
+                    "fix_rate": 82.0,
+                    "list_price": "$ 207.00"
+                }
+            ]
+        },
+        {
+            "name": "Valve Is Leaking",
+            "idx": 7,
+            "url": "https://www.partstown.com/part-predictor/pitco/pg14d/valve-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PTPP10945.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco PP10945 Water Valve With Handle, 3/8\", Brass",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nPP10945",
+                    "fix_rate": 37.0,
+                    "list_price": "$ 204.00"
+                }
+            ]
+        },
+        {
+            "name": "Valve Is Malfunctioning",
+            "idx": 8,
+            "url": "https://www.partstown.com/part-predictor/pitco/pg14d/valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PTPP10944.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco PP10944 Knob, Manual Refill Valve",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nPP10944",
+                    "fix_rate": 28.0,
+                    "list_price": "$ 127.00"
+                }
+            ]
+        },
+        {
+            "name": "Hi-limit Is Tripping Or Wont Reset",
+            "idx": 9,
+            "url": "https://www.partstown.com/part-predictor/pitco/pg14d/hi-limit-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60070701.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60070701 HI Limit Thermostat, Manual Reset",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60070701",
+                    "fix_rate": 65.0,
+                    "list_price": "$ 342.00"
+                }
+            ]
+        },
+        {
+            "name": "Gas Valve Knob Needs Replaced",
+            "idx": 10,
+            "url": "https://www.partstown.com/part-predictor/pitco/pg14d/gas-valve-knob-needs-replaced",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PTP6071267.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco P6071267 Knob, Unitrol, On/Off/Pilot",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nP6071267",
+                    "fix_rate": 43.0,
+                    "list_price": "$ 25.00"
+                }
+            ]
+        },
+        {
+            "name": "Unit Won't Turn On",
+            "idx": 11,
+            "url": "https://www.partstown.com/part-predictor/pitco/pg14d/unit-wont-turn-on",
+            "results": []
+        },
+        {
+            "name": "Not Filling Properly",
+            "idx": 12,
+            "url": "https://www.partstown.com/part-predictor/pitco/pg14d/not-filling-properly",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PTA3318603-C.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco A3318603-C Tank Overflow Hose, 22\", Rtg18/Pg14D",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nA3318603-C",
+                    "fix_rate": 42.0,
+                    "list_price": "$ 405.00"
+                }
+            ]
+        },
+        {
+            "name": "Thermopile Is Malfunctioning",
+            "idx": 13,
+            "url": "https://www.partstown.com/part-predictor/pitco/pg14d/thermopile-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PTP5047541.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco P5047541 Thermopile",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nP5047541",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 129.00"
+                }
+            ]
+        }
+    ]
+}

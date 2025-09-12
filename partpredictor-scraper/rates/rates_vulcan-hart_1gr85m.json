@@ -1,0 +1,23 @@
+{
+    "brand": "vulcan-hart",
+    "model": "1gr85m",
+    "issues": [
+        {
+            "name": "Pilot Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/vulcan-hart/1gr85m/pilot-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-410839-00004.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-410839-00004 Thermopile",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-410839-00004",
+                    "fix_rate": 42.0,
+                    "list_price": "$ 79.15"
+                }
+            ]
+        }
+    ]
+}

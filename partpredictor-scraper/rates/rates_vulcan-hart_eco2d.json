@@ -1,0 +1,60 @@
+{
+    "brand": "vulcan-hart",
+    "model": "eco2d",
+    "issues": [
+        {
+            "name": "Door Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/vulcan-hart/eco2d/door-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-411496-000F1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-411496-000F1 Door Microswitch",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-411496-000F1",
+                    "fix_rate": 30.0,
+                    "list_price": "$ 69.31"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-497586-00001.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-497586-00001 Door Roller Latch",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-497586-00001",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 48.76"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-347545-00001.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-347545-00001 Catch Assembly, Door, Roller Ball Style",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-347545-00001",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 65.47"
+                }
+            ]
+        },
+        {
+            "name": "Motor Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/vulcan-hart/eco2d/motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-354262-00001.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-354262-00001 Blower Wheel",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-354262-00001",
+                    "fix_rate": 45.0,
+                    "list_price": "$ 239.71"
+                }
+            ]
+        }
+    ]
+}

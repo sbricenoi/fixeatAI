@@ -1,0 +1,165 @@
+{
+    "brand": "blodgett",
+    "model": "1400",
+    "issues": [
+        {
+            "name": "Controller Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/blodgett/1400/controller-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL51584.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 51584 Controller, Digital, Solid State",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n51584",
+                    "fix_rate": 55.0,
+                    "list_price": "$ 1,116.96"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL23392.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 23392 Temperature Probe",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n23392",
+                    "fix_rate": 34.0,
+                    "list_price": "$ 153.92"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL51700.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 51700 Control Panel Replacement Kit, 3 Button, 1415",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n51700",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 1,688.96"
+                }
+            ]
+        },
+        {
+            "name": "Probe Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/blodgett/1400/probe-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL23392.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 23392 Temperature Probe",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n23392",
+                    "fix_rate": 67.0,
+                    "list_price": "$ 153.92"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL51584.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 51584 Controller, Digital, Solid State",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n51584",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 1,116.96"
+                }
+            ]
+        },
+        {
+            "name": "Fan Motor Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/blodgett/1400/fan-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL21430.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 21430 Axial Fan, 230V, CTB",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n21430",
+                    "fix_rate": 55.0,
+                    "list_price": "$ 157.04"
+                }
+            ]
+        },
+        {
+            "name": "Contactor Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/blodgett/1400/contactor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL20547.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 20547 Contactor, 230V, 50/60HZ, 35A, 3 Pole",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n20547",
+                    "fix_rate": 60.0,
+                    "list_price": "$ 296.00"
+                }
+            ]
+        },
+        {
+            "name": "Hi-limit Is Tripping Or Wont Reset",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/blodgett/1400/hi-limit-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL56760.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 56760 Hi Limit/Thermal Switch, Manual Reset",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n56760",
+                    "fix_rate": 70.0,
+                    "list_price": "$ 145.60"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL21430.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 21430 Axial Fan, 230V, CTB",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n21430",
+                    "fix_rate": 60.0,
+                    "list_price": "$ 157.04"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Not Reaching Set Temperature",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/blodgett/1400/unit-is-not-reaching-set-temperature",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL51584.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 51584 Controller, Digital, Solid State",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n51584",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 1,116.96"
+                }
+            ]
+        },
+        {
+            "name": "Potentiometer Is Malfunctioning",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/blodgett/1400/potentiometer-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL51584.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 51584 Controller, Digital, Solid State",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n51584",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 1,116.96"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+[
+    {
+        "name": "Fuse Is Blown",
+        "parsed_name": "fuse-is-blown"
+    },
+    {
+        "name": "Unit Is Leaking",
+        "parsed_name": "unit-is-leaking"
+    },
+    {
+        "name": "Motor Is Malfunctioning",
+        "parsed_name": "motor-is-malfunctioning"
+    },
+    {
+        "name": "Unit Won't Turn On",
+        "parsed_name": "unit-won't-turn-on"
+    },
+    {
+        "name": "Wiring Issue",
+        "parsed_name": "wiring-issue"
+    },
+    {
+        "name": "Switch Is Malfunctioning",
+        "parsed_name": "switch-is-malfunctioning"
+    },
+    {
+        "name": "Door Is Malfunctioning",
+        "parsed_name": "door-is-malfunctioning"
+    },
+    {
+        "name": "Keypad Is Not Responding Or Damaged",
+        "parsed_name": "keypad-is-not-responding-or-damaged"
+    },
+    {
+        "name": "Unit Is Shutting Down",
+        "parsed_name": "unit-is-shutting-down"
+    },
+    {
+        "name": "Unit Is Not Draining",
+        "parsed_name": "unit-is-not-draining"
+    },
+    {
+        "name": "Relay Is Malfunctioning",
+        "parsed_name": "relay-is-malfunctioning"
+    },
+    {
+        "name": "Controller Is Malfunctioning",
+        "parsed_name": "controller-is-malfunctioning"
+    },
+    {
+        "name": "Door Switch Is Malfunctioning",
+        "parsed_name": "door-switch-is-malfunctioning"
+    },
+    {
+        "name": "Contactor Is Malfunctioning",
+        "parsed_name": "contactor-is-malfunctioning"
+    },
+    {
+        "name": "Float Is Malfunctioning",
+        "parsed_name": "float-is-malfunctioning"
+    },
+    {
+        "name": "Probe Is Malfunctioning",
+        "parsed_name": "probe-is-malfunctioning"
+    }
+]

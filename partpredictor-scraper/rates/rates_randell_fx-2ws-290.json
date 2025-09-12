@@ -1,0 +1,50 @@
+{
+    "brand": "randell",
+    "model": "fx-2ws-290",
+    "issues": [
+        {
+            "name": "Unit Is Not Reaching Set Temperature",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/randell/fx-2ws-290/unit-is-not-reaching-set-temperature",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFFLT9902.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF FLT9902 Filter Drier, 1/4\" x .042\", EKP-032 SC",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF FLT9902",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 33.80"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFCMP1604.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF CMP1604 Compressor, 1/4HP, R290, 115 Volt, 60HZ, EM2X3125U",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF CMP1604",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 460.86"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Leaking",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/randell/fx-2ws-290/unit-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFFLT9902.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF FLT9902 Filter Drier, 1/4\" x .042\", EKP-032 SC",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF FLT9902",
+                    "fix_rate": 71.0,
+                    "list_price": "$ 33.80"
+                }
+            ]
+        }
+    ]
+}

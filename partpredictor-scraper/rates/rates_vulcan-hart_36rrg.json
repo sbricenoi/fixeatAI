@@ -1,0 +1,87 @@
+{
+    "brand": "vulcan-hart",
+    "model": "36rrg",
+    "issues": [
+        {
+            "name": "Controller Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/vulcan-hart/36rrg/controller-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-498438-0000A.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-498438-0000A Temperature Control, Solid State, 115VAC",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-498438-0000A",
+                    "fix_rate": 86.0,
+                    "list_price": "$ 586.96"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-498443.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-498443 Ignition Module, Fenwal",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-498443",
+                    "fix_rate": 43.0,
+                    "list_price": "$ 240.57"
+                }
+            ]
+        },
+        {
+            "name": "Pilot Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/vulcan-hart/36rrg/pilot-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-498443.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-498443 Ignition Module, Fenwal",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-498443",
+                    "fix_rate": 58.0,
+                    "list_price": "$ 240.57"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-498438-0000A.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-498438-0000A Temperature Control, Solid State, 115VAC",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-498438-0000A",
+                    "fix_rate": 42.0,
+                    "list_price": "$ 586.96"
+                }
+            ]
+        },
+        {
+            "name": "Ignition Module Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/vulcan-hart/36rrg/ignition-module-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-498443.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-498443 Ignition Module, Fenwal",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-498443",
+                    "fix_rate": 88.0,
+                    "list_price": "$ 240.57"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-498438-0000A.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-498438-0000A Temperature Control, Solid State, 115VAC",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-498438-0000A",
+                    "fix_rate": 62.0,
+                    "list_price": "$ 586.96"
+                }
+            ]
+        }
+    ]
+}

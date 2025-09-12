@@ -1,0 +1,1854 @@
+{
+    "brand": "turbochef",
+    "model": "sota-ngo",
+    "issues": [
+        {
+            "name": "Fuse Is Blown",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/turbochef/sota-ngo/fuse-is-blown",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100599.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100599 Fuse, 20 Amp, ATMR, Individual",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100599",
+                    "fix_rate": 58.0,
+                    "list_price": "$ 37.62"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3015.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3015 Magnetron Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3015",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 155.52"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC101344.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 101344 SCREWPPHSS M5X25MM LG X.8MM",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n101344",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 1.76"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC101273.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 101273 Relay 2 Pole",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n101273",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 54.61"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100592.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100592 Fuse, 12 Amp, ATMR12",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100592",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 33.36"
+                }
+            ]
+        },
+        {
+            "name": "Display Is Blank",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/turbochef/sota-ngo/display-is-blank",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100592.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100592 Fuse, 12 Amp, ATMR12",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100592",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 33.36"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCENC-3011.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef ENC-3011 Display Board Servive Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nENC-3011",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 732.06"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCCON-3004-2-24.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef CON-3004-2-24 Control Board Service Kit, Ngo",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nCON-3004-2-24",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 882.77"
+                }
+            ]
+        },
+        {
+            "name": "Blower Motor Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/turbochef/sota-ngo/blower-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI3-3209-4.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I3-3209-4 SERVICE KIT I3 AND I1 BLOWER",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI3-3209-4",
+                    "fix_rate": 62.0,
+                    "list_price": "$ 1,197.81"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI3-3209-3.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I3-3209-3 SERVICE KIT I3 AND I1 BLOWER MOTOR TO",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI3-3209-3",
+                    "fix_rate": 35.0,
+                    "list_price": "$ 1,197.81"
+                }
+            ]
+        },
+        {
+            "name": "Magnetron Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/turbochef/sota-ngo/magnetron-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3015.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3015 Magnetron Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3015",
+                    "fix_rate": 51.0,
+                    "list_price": "$ 155.52"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100599.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100599 Fuse, 20 Amp, ATMR, Individual",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100599",
+                    "fix_rate": 32.0,
+                    "list_price": "$ 37.62"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3062-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3062-1 Transformer, 208/240 Volt, 60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3062-1",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 405.70"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100481.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100481 Diode, High Voltage",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100481",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 28.02"
+                }
+            ]
+        },
+        {
+            "name": "Probe Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/turbochef/sota-ngo/probe-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCHHC-6595.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef HHC-6595 Temperature Sensor, 3\", RTD",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nHHC-6595",
+                    "fix_rate": 96.0
+                }
+            ]
+        },
+        {
+            "name": "Door Is Malfunctioning",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/turbochef/sota-ngo/door-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCENC-3050.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef ENC-3050 Door Switch Assembly, Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nENC-3050",
+                    "fix_rate": 20.0,
+                    "list_price": "$ 224.75"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI1-3213.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I1-3213 SERVICE KIT NGO-SOTA DOOR SP",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI1-3213",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 43.71"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC102012.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 102012 Switch, Interlock, NGO Oven Primary Switch Only",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n102012",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 8.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100599.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100599 Fuse, 20 Amp, ATMR, Individual",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100599",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 37.62"
+                }
+            ]
+        },
+        {
+            "name": "Motor Is Malfunctioning",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/turbochef/sota-ngo/motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC105108.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 105108 Stirrer Motor, 15 RPM, 230V, 60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n105108",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 379.27"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI3-3209-4.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I3-3209-4 SERVICE KIT I3 AND I1 BLOWER",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI3-3209-4",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 1,197.81"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI3-3209-3.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I3-3209-3 SERVICE KIT I3 AND I1 BLOWER MOTOR TO",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI3-3209-3",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 1,197.81"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3015.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3015 Magnetron Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3015",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 155.52"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI1-3214.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I1-3214 SERVICE KIT STIRRER SHAFT ASSEMBLY ALL",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI1-3214",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 280.64"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI1-3212.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I1-3212 SERVICE KIT MICROWAVE STIRRER",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI1-3212",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 101.76"
+                }
+            ]
+        },
+        {
+            "name": "Door Switch Is Malfunctioning",
+            "idx": 7,
+            "url": "https://www.partstown.com/part-predictor/turbochef/sota-ngo/door-switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCENC-3050.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef ENC-3050 Door Switch Assembly, Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nENC-3050",
+                    "fix_rate": 37.0,
+                    "list_price": "$ 224.75"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC102012.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 102012 Switch, Interlock, NGO Oven Primary Switch Only",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n102012",
+                    "fix_rate": 32.0,
+                    "list_price": "$ 8.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI1-3207.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I1-3207 Door Microswitch Service Kit, Ngo/Encore",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI1-3207",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 10.93"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI1-3213.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I1-3213 SERVICE KIT NGO-SOTA DOOR SP",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI1-3213",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 43.71"
+                }
+            ]
+        },
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 8,
+            "url": "https://www.partstown.com/part-predictor/turbochef/sota-ngo/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC102012.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 102012 Switch, Interlock, NGO Oven Primary Switch Only",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n102012",
+                    "fix_rate": 35.0,
+                    "list_price": "$ 8.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCENC-3050.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef ENC-3050 Door Switch Assembly, Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nENC-3050",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 224.75"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI1-3207.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I1-3207 Door Microswitch Service Kit, Ngo/Encore",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI1-3207",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 10.93"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100599.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100599 Fuse, 20 Amp, ATMR, Individual",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100599",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 37.62"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI1-3213.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I1-3213 SERVICE KIT NGO-SOTA DOOR SP",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI1-3213",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 43.71"
+                }
+            ]
+        },
+        {
+            "name": "Hi-limit Is Tripping Or Wont Reset",
+            "idx": 9,
+            "url": "https://www.partstown.com/part-predictor/turbochef/sota-ngo/hi-limit-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC102075.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 102075 Hi Limit Thermostat EGO 3 Pole",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n102075",
+                    "fix_rate": 44.0,
+                    "list_price": "$ 170.84"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCHHC-6595.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef HHC-6595 Temperature Sensor, 3\", RTD",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nHHC-6595",
+                    "fix_rate": 17.0
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI3-3209-3.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I3-3209-3 SERVICE KIT I3 AND I1 BLOWER MOTOR TO",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI3-3209-3",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 1,197.81"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCECS-9566.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef ECS-9566 Heater, Helical, ECO ST",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nECS-9566",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 164.77"
+                }
+            ]
+        },
+        {
+            "name": "Transformer Is Malfunctioning",
+            "idx": 10,
+            "url": "https://www.partstown.com/part-predictor/turbochef/sota-ngo/transformer-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3062-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3062-1 Transformer, 208/240 Volt, 60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3062-1",
+                    "fix_rate": 74.0,
+                    "list_price": "$ 405.70"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3015.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3015 Magnetron Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3015",
+                    "fix_rate": 52.0,
+                    "list_price": "$ 155.52"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100481.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100481 Diode, High Voltage",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100481",
+                    "fix_rate": 33.0,
+                    "list_price": "$ 28.02"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100599.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100599 Fuse, 20 Amp, ATMR, Individual",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100599",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 37.62"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100232.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100232 Capacitor, High Voltage, Dual, 0.91UF0.19UF",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100232",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 74.45"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3061-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3061-1 Filament Transformer Kit, 208/240V, 60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3061-1",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 200.93"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3020.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3020 Capacitor Service Upgrade Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3020",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 77.60"
+                }
+            ]
+        },
+        {
+            "name": "Door Spring Is Malfunctioning",
+            "idx": 11,
+            "url": "https://www.partstown.com/part-predictor/turbochef/sota-ngo/door-spring-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI1-3213.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I1-3213 SERVICE KIT NGO-SOTA DOOR SP",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI1-3213",
+                    "fix_rate": 81.0,
+                    "list_price": "$ 43.71"
+                }
+            ]
+        },
+        {
+            "name": "Relay Is Malfunctioning",
+            "idx": 12,
+            "url": "https://www.partstown.com/part-predictor/turbochef/sota-ngo/relay-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100599.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100599 Fuse, 20 Amp, ATMR, Individual",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100599",
+                    "fix_rate": 40.0,
+                    "list_price": "$ 37.62"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC101273.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 101273 Relay 2 Pole",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n101273",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 54.61"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC105160.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 105160 Relay, Mechinal, DPDT, 2 Pole",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n105160",
+                    "fix_rate": 28.0,
+                    "list_price": "$ 59.92"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3005.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3005 Solid State Relay, Dual 40A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3005",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 303.72"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3015.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3015 Magnetron Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3015",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 155.52"
+                }
+            ]
+        },
+        {
+            "name": "Stirrer Is Malfunctioning",
+            "idx": 13,
+            "url": "https://www.partstown.com/part-predictor/turbochef/sota-ngo/stirrer-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC105108.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 105108 Stirrer Motor, 15 RPM, 230V, 60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n105108",
+                    "fix_rate": 65.0,
+                    "list_price": "$ 379.27"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI1-3214.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I1-3214 SERVICE KIT STIRRER SHAFT ASSEMBLY ALL",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI1-3214",
+                    "fix_rate": 33.0,
+                    "list_price": "$ 280.64"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI1-3212.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I1-3212 SERVICE KIT MICROWAVE STIRRER",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI1-3212",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 101.76"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3015.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3015 Magnetron Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3015",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 155.52"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI3-3209-4.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I3-3209-4 SERVICE KIT I3 AND I1 BLOWER",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI3-3209-4",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 1,197.81"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100481.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100481 Diode, High Voltage",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100481",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 28.02"
+                }
+            ]
+        },
+        {
+            "name": "Hinge Is Defective Or Damaged",
+            "idx": 14,
+            "url": "https://www.partstown.com/part-predictor/turbochef/sota-ngo/hinge-is-defective-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI1-3220-2.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I1-3220-2 SERVICE KIT NGO-SOTA RIGHT H",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI1-3220-2",
+                    "fix_rate": 36.0,
+                    "list_price": "$ 260.86"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI1-3213.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I1-3213 SERVICE KIT NGO-SOTA DOOR SP",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI1-3213",
+                    "fix_rate": 36.0,
+                    "list_price": "$ 43.71"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI1-3220-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I1-3220-1 SERVICE KIT NGO-SOTA LEFT HINGE ASSEMB",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI1-3220-1",
+                    "fix_rate": 31.0,
+                    "list_price": "$ 260.86"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCENC-3050.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef ENC-3050 Door Switch Assembly, Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nENC-3050",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 224.75"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100599.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100599 Fuse, 20 Amp, ATMR, Individual",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100599",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 37.62"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC102012.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 102012 Switch, Interlock, NGO Oven Primary Switch Only",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n102012",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 8.00"
+                }
+            ]
+        },
+        {
+            "name": "Spring Is Malfunctioning",
+            "idx": 15,
+            "url": "https://www.partstown.com/part-predictor/turbochef/sota-ngo/spring-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI1-3213.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I1-3213 SERVICE KIT NGO-SOTA DOOR SP",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI1-3213",
+                    "fix_rate": 69.0,
+                    "list_price": "$ 43.71"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCENC-3050.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef ENC-3050 Door Switch Assembly, Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nENC-3050",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 224.75"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Making Noise",
+            "idx": 16,
+            "url": "https://www.partstown.com/part-predictor/turbochef/sota-ngo/unit-is-making-noise",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI3-3209-4.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I3-3209-4 SERVICE KIT I3 AND I1 BLOWER",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI3-3209-4",
+                    "fix_rate": 37.0,
+                    "list_price": "$ 1,197.81"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI3-3209-3.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I3-3209-3 SERVICE KIT I3 AND I1 BLOWER MOTOR TO",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI3-3209-3",
+                    "fix_rate": 20.0,
+                    "list_price": "$ 1,197.81"
+                }
+            ]
+        },
+        {
+            "name": "Fan Motor Is Malfunctioning",
+            "idx": 17,
+            "url": "https://www.partstown.com/part-predictor/turbochef/sota-ngo/fan-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI3-3209-4.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I3-3209-4 SERVICE KIT I3 AND I1 BLOWER",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI3-3209-4",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 1,197.81"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI3-3209-3.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I3-3209-3 SERVICE KIT I3 AND I1 BLOWER MOTOR TO",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI3-3209-3",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 1,197.81"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100757.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100757 Cooling Fan, Axial, With Thermal Protection, 240V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100757",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 101.24"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCHHB-3234.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef HHB-3234 Cooling Fan Service Kit, 230V, 50/60Hz",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nHHB-3234",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 92.24"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Overheating",
+            "idx": 18,
+            "url": "https://www.partstown.com/part-predictor/turbochef/sota-ngo/unit-is-overheating",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC102075.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 102075 Hi Limit Thermostat EGO 3 Pole",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n102075",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 170.84"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCHHC-6595.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef HHC-6595 Temperature Sensor, 3\", RTD",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nHHC-6595",
+                    "fix_rate": 16.0
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCECS-9566.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef ECS-9566 Heater, Helical, ECO ST",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nECS-9566",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 164.77"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC105108.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 105108 Stirrer Motor, 15 RPM, 230V, 60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n105108",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 379.27"
+                }
+            ]
+        },
+        {
+            "name": "Breaker Is Tripping Or Wont Reset",
+            "idx": 19,
+            "url": "https://www.partstown.com/part-predictor/turbochef/sota-ngo/breaker-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCECS-9566.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef ECS-9566 Heater, Helical, ECO ST",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nECS-9566",
+                    "fix_rate": 27.0,
+                    "list_price": "$ 164.77"
+                }
+            ]
+        },
+        {
+            "name": "Wiring Issue",
+            "idx": 20,
+            "url": "https://www.partstown.com/part-predictor/turbochef/sota-ngo/wiring-issue",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3015.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3015 Magnetron Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3015",
+                    "fix_rate": 20.0,
+                    "list_price": "$ 155.52"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3062-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3062-1 Transformer, 208/240 Volt, 60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3062-1",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 405.70"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100599.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100599 Fuse, 20 Amp, ATMR, Individual",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100599",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 37.62"
+                }
+            ]
+        },
+        {
+            "name": "Blower Motor Is Making Noise",
+            "idx": 21,
+            "url": "https://www.partstown.com/part-predictor/turbochef/sota-ngo/blower-motor-is-making-noise",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI3-3209-4.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I3-3209-4 SERVICE KIT I3 AND I1 BLOWER",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI3-3209-4",
+                    "fix_rate": 62.0,
+                    "list_price": "$ 1,197.81"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI3-3209-3.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I3-3209-3 SERVICE KIT I3 AND I1 BLOWER MOTOR TO",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI3-3209-3",
+                    "fix_rate": 44.0,
+                    "list_price": "$ 1,197.81"
+                }
+            ]
+        },
+        {
+            "name": "Relay Board Is Malfunctioning",
+            "idx": 22,
+            "url": "https://www.partstown.com/part-predictor/turbochef/sota-ngo/relay-board-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCCON-3062-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef CON-3062-1 SERVICE KIT TRAIC BOARD I-SERIS",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nCON-3062-1",
+                    "fix_rate": 47.0,
+                    "list_price": "$ 315.89"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100599.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100599 Fuse, 20 Amp, ATMR, Individual",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100599",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 37.62"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC105160.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 105160 Relay, Mechinal, DPDT, 2 Pole",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n105160",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 59.92"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3015.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3015 Magnetron Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3015",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 155.52"
+                }
+            ]
+        },
+        {
+            "name": "Filter Is Malfunctioning",
+            "idx": 23,
+            "url": "https://www.partstown.com/part-predictor/turbochef/sota-ngo/filter-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC105406.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 105406 Filter, EMI, 1PH, 30A, Low Leakage, Replaces 10054",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n105406",
+                    "fix_rate": 48.0,
+                    "list_price": "$ 72.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI1-9039.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I1-9039 Air Filter, Sota Oven",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI1-9039",
+                    "fix_rate": 23.0,
+                    "list_price": "$ 24.66"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100599.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100599 Fuse, 20 Amp, ATMR, Individual",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100599",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 37.62"
+                }
+            ]
+        },
+        {
+            "name": "Controller Is Malfunctioning",
+            "idx": 24,
+            "url": "https://www.partstown.com/part-predictor/turbochef/sota-ngo/controller-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3015.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3015 Magnetron Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3015",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 155.52"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCCON-3004-2-24.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef CON-3004-2-24 Control Board Service Kit, Ngo",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nCON-3004-2-24",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 882.77"
+                }
+            ]
+        },
+        {
+            "name": "Unit Making A Grinding Noise",
+            "idx": 25,
+            "url": "https://www.partstown.com/part-predictor/turbochef/sota-ngo/unit-making-a-grinding-noise",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI3-3209-4.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I3-3209-4 SERVICE KIT I3 AND I1 BLOWER",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI3-3209-4",
+                    "fix_rate": 56.0,
+                    "list_price": "$ 1,197.81"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI3-3209-3.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I3-3209-3 SERVICE KIT I3 AND I1 BLOWER MOTOR TO",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI3-3209-3",
+                    "fix_rate": 28.0,
+                    "list_price": "$ 1,197.81"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC105108.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 105108 Stirrer Motor, 15 RPM, 230V, 60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n105108",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 379.27"
+                }
+            ]
+        },
+        {
+            "name": "Capacitor Is Malfunctioning",
+            "idx": 26,
+            "url": "https://www.partstown.com/part-predictor/turbochef/sota-ngo/capacitor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3015.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3015 Magnetron Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3015",
+                    "fix_rate": 57.0,
+                    "list_price": "$ 155.52"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100232.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100232 Capacitor, High Voltage, Dual, 0.91UF0.19UF",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100232",
+                    "fix_rate": 46.0,
+                    "list_price": "$ 74.45"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3062-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3062-1 Transformer, 208/240 Volt, 60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3062-1",
+                    "fix_rate": 40.0,
+                    "list_price": "$ 405.70"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100599.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100599 Fuse, 20 Amp, ATMR, Individual",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100599",
+                    "fix_rate": 37.0,
+                    "list_price": "$ 37.62"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100481.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100481 Diode, High Voltage",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100481",
+                    "fix_rate": 31.0,
+                    "list_price": "$ 28.02"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCENC-3010-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef ENC-3010-1 Capacitor, 2500V, 50/60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nENC-3010-1",
+                    "fix_rate": 20.0,
+                    "list_price": "$ 89.80"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3020.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3020 Capacitor Service Upgrade Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3020",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 77.60"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3061-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3061-1 Filament Transformer Kit, 208/240V, 60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3061-1",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 200.93"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC101344.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 101344 SCREWPPHSS M5X25MM LG X.8MM",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n101344",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 1.76"
+                }
+            ]
+        },
+        {
+            "name": "Display Is Malfunctioning",
+            "idx": 27,
+            "url": "https://www.partstown.com/part-predictor/turbochef/sota-ngo/display-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCENC-3011.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef ENC-3011 Display Board Servive Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nENC-3011",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 732.06"
+                }
+            ]
+        },
+        {
+            "name": "Unit Won't Turn On",
+            "idx": 28,
+            "url": "https://www.partstown.com/part-predictor/turbochef/sota-ngo/unit-wont-turn-on",
+            "results": []
+        },
+        {
+            "name": "Latch Is Damaged Or Not Latching",
+            "idx": 29,
+            "url": "https://www.partstown.com/part-predictor/turbochef/sota-ngo/latch-is-damaged-or-not-latching",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCENC-3050.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef ENC-3050 Door Switch Assembly, Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nENC-3050",
+                    "fix_rate": 41.0,
+                    "list_price": "$ 224.75"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-1076-2.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-1076-2 Door Actuator",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-1076-2",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 87.90"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI1-3210.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I1-3210 SERVICE KIT DOOR SHUNT PLATE SOTA",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI1-3210",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 352.86"
+                }
+            ]
+        },
+        {
+            "name": "Motor Is Making Noise",
+            "idx": 30,
+            "url": "https://www.partstown.com/part-predictor/turbochef/sota-ngo/motor-is-making-noise",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI3-3209-4.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I3-3209-4 SERVICE KIT I3 AND I1 BLOWER",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI3-3209-4",
+                    "fix_rate": 32.0,
+                    "list_price": "$ 1,197.81"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI3-3209-3.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I3-3209-3 SERVICE KIT I3 AND I1 BLOWER MOTOR TO",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI3-3209-3",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 1,197.81"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC105108.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 105108 Stirrer Motor, 15 RPM, 230V, 60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n105108",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 379.27"
+                }
+            ]
+        },
+        {
+            "name": "Smoke Coming From Unit",
+            "idx": 31,
+            "url": "https://www.partstown.com/part-predictor/turbochef/sota-ngo/smoke-coming-from-unit",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3062-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3062-1 Transformer, 208/240 Volt, 60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3062-1",
+                    "fix_rate": 38.0,
+                    "list_price": "$ 405.70"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3015.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3015 Magnetron Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3015",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 155.52"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100481.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100481 Diode, High Voltage",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100481",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 28.02"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100232.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100232 Capacitor, High Voltage, Dual, 0.91UF0.19UF",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100232",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 74.45"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC105406.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 105406 Filter, EMI, 1PH, 30A, Low Leakage, Replaces 10054",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n105406",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 72.00"
+                }
+            ]
+        },
+        {
+            "name": "Sensor Is Malfunctioning",
+            "idx": 32,
+            "url": "https://www.partstown.com/part-predictor/turbochef/sota-ngo/sensor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCHHC-6595.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef HHC-6595 Temperature Sensor, 3\", RTD",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nHHC-6595",
+                    "fix_rate": 42.0
+                }
+            ]
+        },
+        {
+            "name": "Unit Making Noise",
+            "idx": 33,
+            "url": "https://www.partstown.com/part-predictor/turbochef/sota-ngo/unit-making-noise",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC105108.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 105108 Stirrer Motor, 15 RPM, 230V, 60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n105108",
+                    "fix_rate": 32.0,
+                    "list_price": "$ 379.27"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3015.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3015 Magnetron Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3015",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 155.52"
+                }
+            ]
+        },
+        {
+            "name": "Fan Motor Is Making Noise",
+            "idx": 34,
+            "url": "https://www.partstown.com/part-predictor/turbochef/sota-ngo/fan-motor-is-making-noise",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI3-3209-4.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I3-3209-4 SERVICE KIT I3 AND I1 BLOWER",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI3-3209-4",
+                    "fix_rate": 40.0,
+                    "list_price": "$ 1,197.81"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI3-3209-3.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I3-3209-3 SERVICE KIT I3 AND I1 BLOWER MOTOR TO",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI3-3209-3",
+                    "fix_rate": 23.0,
+                    "list_price": "$ 1,197.81"
+                }
+            ]
+        },
+        {
+            "name": "Filter Is Damaged",
+            "idx": 35,
+            "url": "https://www.partstown.com/part-predictor/turbochef/sota-ngo/filter-is-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC105406.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 105406 Filter, EMI, 1PH, 30A, Low Leakage, Replaces 10054",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n105406",
+                    "fix_rate": 83.0,
+                    "list_price": "$ 72.00"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Shutting Down",
+            "idx": 36,
+            "url": "https://www.partstown.com/part-predictor/turbochef/sota-ngo/unit-is-shutting-down",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCHHC-6595.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef HHC-6595 Temperature Sensor, 3\", RTD",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nHHC-6595",
+                    "fix_rate": 30.0
+                }
+            ]
+        },
+        {
+            "name": "Cooling Fan Is Malfunctioning",
+            "idx": 37,
+            "url": "https://www.partstown.com/part-predictor/turbochef/sota-ngo/cooling-fan-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100757.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100757 Cooling Fan, Axial, With Thermal Protection, 240V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100757",
+                    "fix_rate": 61.0,
+                    "list_price": "$ 101.24"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100592.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100592 Fuse, 12 Amp, ATMR12",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100592",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 33.36"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCHHB-3234.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef HHB-3234 Cooling Fan Service Kit, 230V, 50/60Hz",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nHHB-3234",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 92.24"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Not Reaching Set Temperature",
+            "idx": 38,
+            "url": "https://www.partstown.com/part-predictor/turbochef/sota-ngo/unit-is-not-reaching-set-temperature",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCHHC-6595.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef HHC-6595 Temperature Sensor, 3\", RTD",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nHHC-6595",
+                    "fix_rate": 23.0
+                }
+            ]
+        },
+        {
+            "name": "Handle Is Defective",
+            "idx": 39,
+            "url": "https://www.partstown.com/part-predictor/turbochef/sota-ngo/handle-is-defective",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC105325.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 105325 Screw, Socket Head, 1/4-28 x 1/2\" Long",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n105325",
+                    "fix_rate": 28.0,
+                    "list_price": "$ 0.34"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCHHC-6595.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef HHC-6595 Temperature Sensor, 3\", RTD",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nHHC-6595",
+                    "fix_rate": 28.0
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI1-9851.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I1-9851 Bearing Hub Assembly, Panini Press",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI1-9851",
+                    "fix_rate": 24.0,
+                    "list_price": "$ 229.03"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC105326.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 105326 Washer, Flat, 9/32\" ID x 11/16\" OD",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n105326",
+                    "fix_rate": 24.0,
+                    "list_price": "$ 0.19"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC102962.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 102962 Nut with External Lock Washer, 8-32",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n102962",
+                    "fix_rate": 24.0,
+                    "list_price": "$ 1.82"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI1-9828.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I1-9828 Stud Ring, Dual Bearing",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI1-9828",
+                    "fix_rate": 20.0,
+                    "list_price": "$ 53.02"
+                }
+            ]
+        },
+        {
+            "name": "Heating Element Is Malfunctioning",
+            "idx": 40,
+            "url": "https://www.partstown.com/part-predictor/turbochef/sota-ngo/heating-element-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCECS-9566.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef ECS-9566 Heater, Helical, ECO ST",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nECS-9566",
+                    "fix_rate": 71.0,
+                    "list_price": "$ 164.77"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3005.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3005 Solid State Relay, Dual 40A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3005",
+                    "fix_rate": 33.0,
+                    "list_price": "$ 303.72"
+                }
+            ]
+        },
+        {
+            "name": "Keypad Is Not Responding Or Damaged",
+            "idx": 41,
+            "url": "https://www.partstown.com/part-predictor/turbochef/sota-ngo/keypad-is-not-responding-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI1-3217-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I1-3217-1 SERVICE KIT SOTA KEYPAD AND",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI1-3217-1",
+                    "fix_rate": 27.0,
+                    "list_price": "$ 190.36"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI1-3217-2.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I1-3217-2 SERVICE KIT STARKBUCKS NGO K",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI1-3217-2",
+                    "fix_rate": 23.0,
+                    "list_price": "$ 177.56"
+                }
+            ]
+        },
+        {
+            "name": "Wave Guide Is Malfunctioning",
+            "idx": 42,
+            "url": "https://www.partstown.com/part-predictor/turbochef/sota-ngo/wave-guide-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3015.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3015 Magnetron Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3015",
+                    "fix_rate": 73.0,
+                    "list_price": "$ 155.52"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI1-3202.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I1-3202 SERVICE KIT NGO WAVEGUIDE",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI1-3202",
+                    "fix_rate": 64.0,
+                    "list_price": "$ 326.91"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100481.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100481 Diode, High Voltage",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100481",
+                    "fix_rate": 41.0,
+                    "list_price": "$ 28.02"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3062-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3062-1 Transformer, 208/240 Volt, 60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3062-1",
+                    "fix_rate": 23.0,
+                    "list_price": "$ 405.70"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI1-3214.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I1-3214 SERVICE KIT STIRRER SHAFT ASSEMBLY ALL",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI1-3214",
+                    "fix_rate": 23.0,
+                    "list_price": "$ 280.64"
+                }
+            ]
+        },
+        {
+            "name": "I/o Control Board Is Malfunctioning",
+            "idx": 43,
+            "url": "https://www.partstown.com/part-predictor/turbochef/sota-ngo/i-o-control-board-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCCON-3004-2-24.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef CON-3004-2-24 Control Board Service Kit, Ngo",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nCON-3004-2-24",
+                    "fix_rate": 37.0,
+                    "list_price": "$ 882.77"
+                }
+            ]
+        },
+        {
+            "name": "Diode Is Malfunctioning",
+            "idx": 44,
+            "url": "https://www.partstown.com/part-predictor/turbochef/sota-ngo/diode-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100481.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100481 Diode, High Voltage",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100481",
+                    "fix_rate": 80.0,
+                    "list_price": "$ 28.02"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3015.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3015 Magnetron Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3015",
+                    "fix_rate": 47.0,
+                    "list_price": "$ 155.52"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3062-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3062-1 Transformer, 208/240 Volt, 60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3062-1",
+                    "fix_rate": 33.0,
+                    "list_price": "$ 405.70"
+                }
+            ]
+        },
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 45,
+            "url": "https://www.partstown.com/part-predictor/turbochef/sota-ngo/thermostat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC102086.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 102086 Thermostat, Snap Disc, Close on Rise, 120F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n102086",
+                    "fix_rate": 33.0,
+                    "list_price": "$ 10.52"
+                }
+            ]
+        },
+        {
+            "name": "Actuator Is Malfunctioning",
+            "idx": 46,
+            "url": "https://www.partstown.com/part-predictor/turbochef/sota-ngo/actuator-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-1076-2.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-1076-2 Door Actuator",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-1076-2",
+                    "fix_rate": 46.0,
+                    "list_price": "$ 87.90"
+                }
+            ]
+        },
+        {
+            "name": "Blower Wheel Is Malfunctioning",
+            "idx": 47,
+            "url": "https://www.partstown.com/part-predictor/turbochef/sota-ngo/blower-wheel-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI3-3209-4.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I3-3209-4 SERVICE KIT I3 AND I1 BLOWER",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI3-3209-4",
+                    "fix_rate": 80.0,
+                    "list_price": "$ 1,197.81"
+                }
+            ]
+        },
+        {
+            "name": "Motor Speed Control Is Malfunctioning",
+            "idx": 48,
+            "url": "https://www.partstown.com/part-predictor/turbochef/sota-ngo/motor-speed-control-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCCON-7039.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef CON-7039 Motor Drive Controller, 240VAC, 4A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nCON-7039",
+                    "fix_rate": 83.0,
+                    "list_price": "$ 1,794.28"
+                }
+            ]
+        },
+        {
+            "name": "Thermocouple Is Malfunctioning",
+            "idx": 49,
+            "url": "https://www.partstown.com/part-predictor/turbochef/sota-ngo/thermocouple-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCHHC-6595.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef HHC-6595 Temperature Sensor, 3\", RTD",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nHHC-6595",
+                    "fix_rate": 98.0
+                }
+            ]
+        },
+        {
+            "name": "Door Shunt Is Malfunctioning",
+            "idx": 50,
+            "url": "https://www.partstown.com/part-predictor/turbochef/sota-ngo/door-shunt-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI1-3210.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I1-3210 SERVICE KIT DOOR SHUNT PLATE SOTA",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI1-3210",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 352.86"
+                }
+            ]
+        }
+    ]
+}

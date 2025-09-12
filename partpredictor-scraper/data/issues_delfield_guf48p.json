@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Unit Is Not Reaching Set Temperature",
+        "parsed_name": "unit-is-not-reaching-set-temperature"
+    },
+    {
+        "name": "Fan Motor Is Malfunctioning",
+        "parsed_name": "fan-motor-is-malfunctioning"
+    },
+    {
+        "name": "Door Is Malfunctioning",
+        "parsed_name": "door-is-malfunctioning"
+    },
+    {
+        "name": "Compressor Is Not Running",
+        "parsed_name": "compressor-is-not-running"
+    },
+    {
+        "name": "Controller Is Malfunctioning",
+        "parsed_name": "controller-is-malfunctioning"
+    }
+]

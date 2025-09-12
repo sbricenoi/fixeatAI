@@ -1,0 +1,274 @@
+{
+    "brand": "jackson",
+    "model": "dishstar-ht",
+    "issues": [
+        {
+            "name": "Unit Is Leaking",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/jackson/dishstar-ht/unit-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/JAC/JAC6680-011-86-42.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jackson 6680-011-86-42 Gauge, 0-100 PSI, with Green Zone",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n6680-011-86-42",
+                    "fix_rate": 38.0,
+                    "list_price": "$ 134.02"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/JAC/JAC04820-003-06-13.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jackson 04820-003-06-13 Vacuum Breaker Assembly, 125 PSI, 180 Degrees F, Brass, Complete, 1/2\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n04820-003-06-13",
+                    "fix_rate": 24.0,
+                    "list_price": "$ 109.44"
+                }
+            ]
+        },
+        {
+            "name": "Contactor Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/jackson/dishstar-ht/contactor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/JAC/JAC5945-002-74-20.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jackson 5945-002-74-20 Contactor, 208-240V, 30A, 2 Pole",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n5945-002-74-20",
+                    "fix_rate": 78.0,
+                    "list_price": "$ 57.98"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/JAC/JAC6685-004-17-27.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jackson 6685-004-17-27 THERMOSTAT, ELAN ELECTRONIC, DUAL",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n6685-004-17-27",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 581.89"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/JAC/JAC6685-004-17-26.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jackson 6685-004-17-26 Thermistor Probe, 4\" Long",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n6685-004-17-26",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 48.00"
+                }
+            ]
+        },
+        {
+            "name": "Door Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/jackson/dishstar-ht/door-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/JAC/JAC5340-003-32-37.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jackson 05340-003-32-37 Door Spring, Avenger Series",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n05340-003-32-37",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 19.59"
+                }
+            ]
+        },
+        {
+            "name": "Wiring Issue",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/jackson/dishstar-ht/wiring-issue",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/JAC/JAC5945-002-74-20.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jackson 5945-002-74-20 Contactor, 208-240V, 30A, 2 Pole",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n5945-002-74-20",
+                    "fix_rate": 62.0,
+                    "list_price": "$ 57.98"
+                }
+            ]
+        },
+        {
+            "name": "Motor Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/jackson/dishstar-ht/motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/JAC/JAC6105-004-35-22.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jackson 6105-004-35-22 Motor And Pump Assembly, 115/230V, 60Hz, 1Hp",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n6105-004-35-22",
+                    "fix_rate": 47.0,
+                    "list_price": "$ 1,683.82"
+                }
+            ]
+        },
+        {
+            "name": "Hose Is Broken Or Leaking",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/jackson/dishstar-ht/hose-is-broken-or-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/JAC/JAC6680-011-86-42.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jackson 6680-011-86-42 Gauge, 0-100 PSI, with Green Zone",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n6680-011-86-42",
+                    "fix_rate": 44.0,
+                    "list_price": "$ 134.02"
+                }
+            ]
+        },
+        {
+            "name": "Heating Element Is Malfunctioning",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/jackson/dishstar-ht/heating-element-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/JAC/JAC5945-002-74-20.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jackson 5945-002-74-20 Contactor, 208-240V, 30A, 2 Pole",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n5945-002-74-20",
+                    "fix_rate": 43.0,
+                    "list_price": "$ 57.98"
+                }
+            ]
+        },
+        {
+            "name": "Door Spring Is Malfunctioning",
+            "idx": 7,
+            "url": "https://www.partstown.com/part-predictor/jackson/dishstar-ht/door-spring-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/JAC/JAC5340-003-32-37.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jackson 05340-003-32-37 Door Spring, Avenger Series",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n05340-003-32-37",
+                    "fix_rate": 85.0,
+                    "list_price": "$ 19.59"
+                }
+            ]
+        },
+        {
+            "name": "Breaker Is Tripping Or Wont Reset",
+            "idx": 8,
+            "url": "https://www.partstown.com/part-predictor/jackson/dishstar-ht/breaker-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/JAC/JAC04820-003-06-13.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jackson 04820-003-06-13 Vacuum Breaker Assembly, 125 PSI, 180 Degrees F, Brass, Complete, 1/2\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n04820-003-06-13",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 109.44"
+                }
+            ]
+        },
+        {
+            "name": "Valve Is Malfunctioning",
+            "idx": 9,
+            "url": "https://www.partstown.com/part-predictor/jackson/dishstar-ht/valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/JAC/JAC4810-003-71-56.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jackson 4810-003-71-56 Solenoid Valve, 208V, 60Hz, 1/2\", 8210G094Hw",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4810-003-71-56",
+                    "fix_rate": 60.0,
+                    "list_price": "$ 385.61"
+                }
+            ]
+        },
+        {
+            "name": "Fuse Is Blown",
+            "idx": 10,
+            "url": "https://www.partstown.com/part-predictor/jackson/dishstar-ht/fuse-is-blown",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/JAC/JAC5920-003-75-24.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jackson 5920-003-75-24 Fuse, Polytron Timer, Avenger HT",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n5920-003-75-24",
+                    "fix_rate": 67.0,
+                    "list_price": "$ 3.42"
+                }
+            ]
+        },
+        {
+            "name": "Water Pressure Issue",
+            "idx": 11,
+            "url": "https://www.partstown.com/part-predictor/jackson/dishstar-ht/water-pressure-issue",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/JAC/JAC6680-011-86-42.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jackson 6680-011-86-42 Gauge, 0-100 PSI, with Green Zone",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n6680-011-86-42",
+                    "fix_rate": 71.0,
+                    "list_price": "$ 134.02"
+                }
+            ]
+        },
+        {
+            "name": "End Cap Is Malfunctioning",
+            "idx": 12,
+            "url": "https://www.partstown.com/part-predictor/jackson/dishstar-ht/end-cap-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/JAC/JAC4730-111-60-41.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jackson 4730-111-60-41 Plug, Rinse Arm, Stainless Steel",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4730-111-60-41",
+                    "fix_rate": 83.0,
+                    "list_price": "$ 8.18"
+                }
+            ]
+        },
+        {
+            "name": "Spring Is Malfunctioning",
+            "idx": 13,
+            "url": "https://www.partstown.com/part-predictor/jackson/dishstar-ht/spring-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/JAC/JAC5340-003-32-37.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jackson 05340-003-32-37 Door Spring, Avenger Series",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n05340-003-32-37",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 19.59"
+                }
+            ]
+        }
+    ]
+}

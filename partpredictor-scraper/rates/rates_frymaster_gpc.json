@@ -1,0 +1,192 @@
+{
+    "brand": "frymaster",
+    "model": "gpc",
+    "issues": [
+        {
+            "name": "Probe Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/frymaster/gpc/probe-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL8064764.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 8064764 Temperature Sensor/Probe with Wire Leads & Connectors, Pasta Cooker",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8064764",
+                    "fix_rate": 57.0,
+                    "list_price": "$ 197.56"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM1081444.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 1081444 Controller, SMS III, GPC/GPCB/GPCR/GPCRB",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1081444",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 949.22"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8090193.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8090193 Flat Washer, 1/4\", Nylon",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8090193",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 10.75"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Leaking",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/frymaster/gpc/unit-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8130453.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8130453 Nut, Stainless Steel Slip, Chrome, 1-1/4\" NPT",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8130453",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 23.13"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM1063338SP.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 1063338SP Ignition Cable, 36\", FBR18",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1063338SP",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 144.97"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8130451-FRY.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8130451-FRY Nipple, 1-1/4\" x 12\", Chrome",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8130451-FRY",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 59.19"
+                }
+            ]
+        },
+        {
+            "name": "Ignition Module Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/frymaster/gpc/ignition-module-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8260981.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8260981 Ignitor and Gasket Kit, Natural Gas",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8260981",
+                    "fix_rate": 42.0,
+                    "list_price": "$ 164.27"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM1063338SP.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 1063338SP Ignition Cable, 36\", FBR18",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1063338SP",
+                    "fix_rate": 31.0,
+                    "list_price": "$ 144.97"
+                }
+            ]
+        },
+        {
+            "name": "Ignitor Is Malfunctioning Or Damaged",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/frymaster/gpc/ignitor-is-malfunctioning-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8260981.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8260981 Ignitor and Gasket Kit, Natural Gas",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8260981",
+                    "fix_rate": 63.0,
+                    "list_price": "$ 164.27"
+                }
+            ]
+        },
+        {
+            "name": "Blower Motor Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/frymaster/gpc/blower-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM1081540.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 1081540 Blower Motor Assembly, 120V, GSMS",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1081540",
+                    "fix_rate": 58.0,
+                    "list_price": "$ 495.88"
+                }
+            ]
+        },
+        {
+            "name": "Controller Is Malfunctioning",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/frymaster/gpc/controller-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM1081444.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 1081444 Controller, SMS III, GPC/GPCB/GPCR/GPCRB",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1081444",
+                    "fix_rate": 60.0,
+                    "list_price": "$ 949.22"
+                }
+            ]
+        },
+        {
+            "name": "Ingition Module Is Malfunctioning",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/frymaster/gpc/ingition-module-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8260981.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8260981 Ignitor and Gasket Kit, Natural Gas",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8260981",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 164.27"
+                }
+            ]
+        },
+        {
+            "name": "Motor Is Malfunctioning",
+            "idx": 7,
+            "url": "https://www.partstown.com/part-predictor/frymaster/gpc/motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM1081540.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 1081540 Blower Motor Assembly, 120V, GSMS",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1081540",
+                    "fix_rate": 83.0,
+                    "list_price": "$ 495.88"
+                }
+            ]
+        }
+    ]
+}

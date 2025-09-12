@@ -1,0 +1,23 @@
+{
+    "brand": "imperial",
+    "model": "icve",
+    "issues": [
+        {
+            "name": "Motor Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/imperial/icve/motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP40497-230.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 40497-230 ICV MOTOR ASSY 230V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n40497-230",
+                    "fix_rate": 62.0,
+                    "list_price": "$ 1,144.43"
+                }
+            ]
+        }
+    ]
+}

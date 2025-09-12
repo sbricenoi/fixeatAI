@@ -1,0 +1,50 @@
+{
+    "brand": "jade",
+    "model": "jhpe-series",
+    "issues": [
+        {
+            "name": "Burner Is Malfunctioning Or Damaged",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/jade/jhpe-series/burner-is-malfunctioning-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/JD/JD4611200000.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jade 4611200000 Pilot Tip, Stainless Steel with Nut",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4611200000",
+                    "fix_rate": 47.0,
+                    "list_price": "$ 42.57"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/JD/JD3000010836.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jade 3000010836 Burner Assembly, Open Top, Front, JSR/JTRH/LIF",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3000010836",
+                    "fix_rate": 40.0,
+                    "list_price": "$ 182.02"
+                }
+            ]
+        },
+        {
+            "name": "Pilot Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/jade/jhpe-series/pilot-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/JD/JD4611200000.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jade 4611200000 Pilot Tip, Stainless Steel with Nut",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4611200000",
+                    "fix_rate": 67.0,
+                    "list_price": "$ 42.57"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+[
+    {
+        "name": "Probe Is Malfunctioning",
+        "parsed_name": "probe-is-malfunctioning"
+    },
+    {
+        "name": "Door Is Malfunctioning",
+        "parsed_name": "door-is-malfunctioning"
+    },
+    {
+        "name": "Fuse Is Blown",
+        "parsed_name": "fuse-is-blown"
+    },
+    {
+        "name": "Contactor Is Malfunctioning",
+        "parsed_name": "contactor-is-malfunctioning"
+    },
+    {
+        "name": "Handle Is Defective",
+        "parsed_name": "handle-is-defective"
+    },
+    {
+        "name": "Door Gasket Is Defective",
+        "parsed_name": "door-gasket-is-defective"
+    },
+    {
+        "name": "Latch Is Damaged Or Not Latching",
+        "parsed_name": "latch-is-damaged-or-not-latching"
+    },
+    {
+        "name": "Ignition Module Is Malfunctioning",
+        "parsed_name": "ignition-module-is-malfunctioning"
+    },
+    {
+        "name": "Burner Is Malfunctioning Or Damaged",
+        "parsed_name": "burner-is-malfunctioning-or-damaged"
+    },
+    {
+        "name": "Ignitor Is Malfunctioning Or Damaged",
+        "parsed_name": "ignitor-is-malfunctioning-or-damaged"
+    },
+    {
+        "name": "Wiring Issue",
+        "parsed_name": "wiring-issue"
+    },
+    {
+        "name": "Display Is Malfunctioning",
+        "parsed_name": "display-is-malfunctioning"
+    },
+    {
+        "name": "Relay Board Is Malfunctioning",
+        "parsed_name": "relay-board-is-malfunctioning"
+    }
+]

@@ -1,0 +1,23 @@
+{
+    "brand": "follett",
+    "model": "7ud100a",
+    "issues": [
+        {
+            "name": "Unit Is Leaking",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/follett/7ud100a/unit-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FOL/FOL00957860.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Follett 00957860 Front Seal and O-Ring Assembly, Auger",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00957860",
+                    "fix_rate": 62.0,
+                    "list_price": "$ 77.27"
+                }
+            ]
+        }
+    ]
+}

@@ -23,6 +23,27 @@ except Exception:
 _collection = _chroma.get_or_create_collection("kb_tech")
 
 
+def get_all_documents() -> list[dict[str, Any]]:
+    """Obtiene todos los documentos del KB para análisis de taxonomía."""
+    try:
+        # Obtener todos los documentos de la colección (sin incluir 'ids' explícitamente)
+        results = _collection.get(include=["documents", "metadatas"])
+        
+        documents = []
+        for i, doc_id in enumerate(results["ids"]):
+            documents.append({
+                "id": doc_id,
+                "text": results["documents"][i] if i < len(results["documents"]) else "",
+                "metadata": results["metadatas"][i] if i < len(results["metadatas"]) else {}
+            })
+        
+        return documents
+        
+    except Exception as e:
+        print(f"Error obteniendo documentos del KB: {e}")
+        return []
+
+
 def ingest_docs(docs: list[dict[str, Any]]) -> None:
     texts = [d["text"] for d in docs]
     embeddings = _model.encode(texts, normalize_embeddings=True).tolist()

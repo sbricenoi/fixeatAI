@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Pilot Is Malfunctioning",
+        "parsed_name": "pilot-is-malfunctioning"
+    },
+    {
+        "name": "Hinge Is Defective Or Damaged",
+        "parsed_name": "hinge-is-defective-or-damaged"
+    },
+    {
+        "name": "Door Is Malfunctioning",
+        "parsed_name": "door-is-malfunctioning"
+    }
+]

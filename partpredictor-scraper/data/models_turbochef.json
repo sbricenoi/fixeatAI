@@ -1,0 +1,146 @@
+[
+    {
+        "name": "Bullet",
+        "parsed_name": "bullet"
+    },
+    {
+        "name": "C3/AB",
+        "parsed_name": "c3-ab"
+    },
+    {
+        "name": "C3/C",
+        "parsed_name": "c3-c"
+    },
+    {
+        "name": "C3/CMulti ED",
+        "parsed_name": "c3-cmulti-ed"
+    },
+    {
+        "name": "C3/CMulti EW",
+        "parsed_name": "c3-cmulti-ew"
+    },
+    {
+        "name": "C3/CMulti UK",
+        "parsed_name": "c3-cmulti-uk"
+    },
+    {
+        "name": "C3/D",
+        "parsed_name": "c3-d"
+    },
+    {
+        "name": "C3/D ED",
+        "parsed_name": "c3-d-ed"
+    },
+    {
+        "name": "C3/D EW",
+        "parsed_name": "c3-d-ew"
+    },
+    {
+        "name": "C3/D UK",
+        "parsed_name": "c3-d-uk"
+    },
+    {
+        "name": "C3Multi",
+        "parsed_name": "c3multi"
+    },
+    {
+        "name": "ECO",
+        "parsed_name": "eco"
+    },
+    {
+        "name": "ECO ST",
+        "parsed_name": "eco-st"
+    },
+    {
+        "name": "Encore",
+        "parsed_name": "encore"
+    },
+    {
+        "name": "Encore 2",
+        "parsed_name": "encore-2"
+    },
+    {
+        "name": "Fire",
+        "parsed_name": "fire"
+    },
+    {
+        "name": "HHB",
+        "parsed_name": "hhb"
+    },
+    {
+        "name": "HHB2",
+        "parsed_name": "hhb2"
+    },
+    {
+        "name": "HhC 1618",
+        "parsed_name": "hhc-1618"
+    },
+    {
+        "name": "HhC 2020",
+        "parsed_name": "hhc-2020"
+    },
+    {
+        "name": "HhC 2620",
+        "parsed_name": "hhc-2620"
+    },
+    {
+        "name": "HHC-2020",
+        "parsed_name": "hhc-2020"
+    },
+    {
+        "name": "HHD-9500",
+        "parsed_name": "hhd-9500"
+    },
+    {
+        "name": "HHD-9500-152-DL",
+        "parsed_name": "hhd-9500-152-dl"
+    },
+    {
+        "name": "HHD-9500-21",
+        "parsed_name": "hhd-9500-21"
+    },
+    {
+        "name": "HHD-95001",
+        "parsed_name": "hhd-95001"
+    },
+    {
+        "name": "HHS",
+        "parsed_name": "hhs"
+    },
+    {
+        "name": "HHS-9500",
+        "parsed_name": "hhs-9500"
+    },
+    {
+        "name": "i3",
+        "parsed_name": "i3"
+    },
+    {
+        "name": "i5",
+        "parsed_name": "i5"
+    },
+    {
+        "name": "NGC",
+        "parsed_name": "ngc"
+    },
+    {
+        "name": "Sota",
+        "parsed_name": "sota"
+    },
+    {
+        "name": "Sota Marine",
+        "parsed_name": "sota-marine"
+    },
+    {
+        "name": "Sota NGO",
+        "parsed_name": "sota-ngo"
+    },
+    {
+        "name": "TORNADO",
+        "parsed_name": "tornado"
+    },
+    {
+        "name": "TORNADO 2",
+        "parsed_name": "tornado-2"
+    }
+]

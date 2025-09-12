@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Unit Is Not Reaching Set Temperature",
+        "parsed_name": "unit-is-not-reaching-set-temperature"
+    },
+    {
+        "name": "Compressor Is Not Running",
+        "parsed_name": "compressor-is-not-running"
+    },
+    {
+        "name": "Fan Motor Is Malfunctioning",
+        "parsed_name": "fan-motor-is-malfunctioning"
+    },
+    {
+        "name": "Controller Is Malfunctioning",
+        "parsed_name": "controller-is-malfunctioning"
+    },
+    {
+        "name": "Door Is Malfunctioning",
+        "parsed_name": "door-is-malfunctioning"
+    },
+    {
+        "name": "Fan Blade Is Damaged Or Not Spinning",
+        "parsed_name": "fan-blade-is-damaged-or-not-spinning"
+    },
+    {
+        "name": "Hinge Is Defective Or Damaged",
+        "parsed_name": "hinge-is-defective-or-damaged"
+    },
+    {
+        "name": "Relay Is Malfunctioning",
+        "parsed_name": "relay-is-malfunctioning"
+    },
+    {
+        "name": "Motor Is Malfunctioning",
+        "parsed_name": "motor-is-malfunctioning"
+    },
+    {
+        "name": "Display Is Malfunctioning",
+        "parsed_name": "display-is-malfunctioning"
+    }
+]

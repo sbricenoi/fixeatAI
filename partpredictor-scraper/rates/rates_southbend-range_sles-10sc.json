@@ -1,0 +1,57 @@
+{
+    "brand": "southbend-range",
+    "model": "sles-10sc",
+    "issues": [
+        {
+            "name": "Contactor Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/southbend-range/sles-10sc/contactor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1179680.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1179680 Contactor, 3 Pole, 75A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1179680",
+                    "fix_rate": 57.0,
+                    "list_price": "$ 543.45"
+                }
+            ]
+        },
+        {
+            "name": "Door Switch Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/southbend-range/sles-10sc/door-switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1177567.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1177567 Door Switch, SPDT, 15A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1177567",
+                    "fix_rate": 73.0,
+                    "list_price": "$ 27.56"
+                }
+            ]
+        },
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/southbend-range/sles-10sc/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1177541.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1177541 Switch, Power, Black, SPDT",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1177541",
+                    "fix_rate": 60.0,
+                    "list_price": "$ 72.47"
+                }
+            ]
+        }
+    ]
+}

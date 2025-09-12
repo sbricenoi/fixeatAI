@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Unit Is Leaking",
+        "parsed_name": "unit-is-leaking"
+    },
+    {
+        "name": "Pilot Is Malfunctioning",
+        "parsed_name": "pilot-is-malfunctioning"
+    },
+    {
+        "name": "Gas Valve Is Malfunctioning",
+        "parsed_name": "gas-valve-is-malfunctioning"
+    },
+    {
+        "name": "Controller Is Malfunctioning",
+        "parsed_name": "controller-is-malfunctioning"
+    },
+    {
+        "name": "Switch Is Malfunctioning",
+        "parsed_name": "switch-is-malfunctioning"
+    },
+    {
+        "name": "Valve Is Malfunctioning",
+        "parsed_name": "valve-is-malfunctioning"
+    }
+]

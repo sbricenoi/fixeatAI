@@ -1,0 +1,861 @@
+{
+    "brand": "blodgett",
+    "model": "zephaire-g-plus",
+    "issues": [
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/blodgett/zephaire-g-plus/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL7636.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 7636 Switch, Rocker, 3PDT, 115V, Off/Hi/Lo",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7636",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 83.20"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL32291.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 32291 Blower Motor Kit, 115V, 2 Speed, 1/2HP No Wheel",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n32291",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 1,316.64"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL6502.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 6502 Rocker Switch, Dpdt, Cook/Cool Down, Red",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n6502",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 42.64"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL6500.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 6500 Switch, Rocker, Dpst, Blue",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n6500",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 37.44"
+                }
+            ]
+        },
+        {
+            "name": "Blower Motor Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/blodgett/zephaire-g-plus/blower-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL23077.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 23077 Capacitor for 2 Speed Motor",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n23077",
+                    "fix_rate": 24.0,
+                    "list_price": "$ 162.24"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL32291.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 32291 Blower Motor Kit, 115V, 2 Speed, 1/2HP No Wheel",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n32291",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 1,316.64"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL15853.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 15853 Blower Wheel Assembly, DFG/Zephaire",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n15853",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 330.72"
+                }
+            ]
+        },
+        {
+            "name": "Fan Motor Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/blodgett/zephaire-g-plus/fan-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL23077.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 23077 Capacitor for 2 Speed Motor",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n23077",
+                    "fix_rate": 20.0,
+                    "list_price": "$ 162.24"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL20348.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 20348 Spark Box Assembly with Screws",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n20348",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 491.92"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL15853.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 15853 Blower Wheel Assembly, DFG/Zephaire",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n15853",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 330.72"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL32291.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 32291 Blower Motor Kit, 115V, 2 Speed, 1/2HP No Wheel",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n32291",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 1,316.64"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL56966.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 56966 Blower Motor, AC500 XCEL/DFG/SHO, 3/4HP",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n56966",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 1,740.96"
+                }
+            ]
+        },
+        {
+            "name": "Door Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/blodgett/zephaire-g-plus/door-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL36037.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 36037 Lower Door Support and Microswitch Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n36037",
+                    "fix_rate": 24.0,
+                    "list_price": "$ 956.80"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL4887.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 4887 Chain and Turnbuckle Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4887",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 172.64"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL21098.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 21098 Door Roller Catch Assembly with Screws, Zephaire",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n21098",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 217.36"
+                }
+            ]
+        },
+        {
+            "name": "Motor Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/blodgett/zephaire-g-plus/motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL32291.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 32291 Blower Motor Kit, 115V, 2 Speed, 1/2HP No Wheel",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n32291",
+                    "fix_rate": 33.0,
+                    "list_price": "$ 1,316.64"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL23077.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 23077 Capacitor for 2 Speed Motor",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n23077",
+                    "fix_rate": 24.0,
+                    "list_price": "$ 162.24"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL56966.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 56966 Blower Motor, AC500 XCEL/DFG/SHO, 3/4HP",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n56966",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 1,740.96"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL15853.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 15853 Blower Wheel Assembly, DFG/Zephaire",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n15853",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 330.72"
+                }
+            ]
+        },
+        {
+            "name": "Capacitor Is Malfunctioning",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/blodgett/zephaire-g-plus/capacitor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL23077.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 23077 Capacitor for 2 Speed Motor",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n23077",
+                    "fix_rate": 61.0,
+                    "list_price": "$ 162.24"
+                }
+            ]
+        },
+        {
+            "name": "Pilot Is Malfunctioning",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/blodgett/zephaire-g-plus/pilot-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL56463.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 56463 Pilot Burner Kit, Natural Gas",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n56463",
+                    "fix_rate": 55.0,
+                    "list_price": "$ 246.49"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL20348.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 20348 Spark Box Assembly with Screws",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n20348",
+                    "fix_rate": 32.0,
+                    "list_price": "$ 491.92"
+                }
+            ]
+        },
+        {
+            "name": "Controller Is Malfunctioning",
+            "idx": 7,
+            "url": "https://www.partstown.com/part-predictor/blodgett/zephaire-g-plus/controller-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL33152.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 33152 Temperature Control",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n33152",
+                    "fix_rate": 32.0,
+                    "list_price": "$ 438.88"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL57561.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 57561 Infinite Control/Digital Timer Kit with Potentiometer",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n57561",
+                    "fix_rate": 31.0,
+                    "list_price": "$ 575.12"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL57562.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 57562 Temperature Probe, 1K Ohm RTD",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n57562",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 112.32"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL18588.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 18588 Temperature Probe, 100K",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n18588",
+                    "fix_rate": 23.0,
+                    "list_price": "$ 109.20"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL20348.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 20348 Spark Box Assembly with Screws",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n20348",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 491.92"
+                }
+            ]
+        },
+        {
+            "name": "Ignition Module Is Malfunctioning",
+            "idx": 8,
+            "url": "https://www.partstown.com/part-predictor/blodgett/zephaire-g-plus/ignition-module-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL20348.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 20348 Spark Box Assembly with Screws",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n20348",
+                    "fix_rate": 62.0,
+                    "list_price": "$ 491.92"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL56463.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 56463 Pilot Burner Kit, Natural Gas",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n56463",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 246.49"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL33152.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 33152 Temperature Control",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n33152",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 438.88"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL54388.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 54388 Ignition Module, Fenwall HV100G",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n54388",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 370.24"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Not Reaching Set Temperature",
+            "idx": 9,
+            "url": "https://www.partstown.com/part-predictor/blodgett/zephaire-g-plus/unit-is-not-reaching-set-temperature",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL33152.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 33152 Temperature Control",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n33152",
+                    "fix_rate": 28.0,
+                    "list_price": "$ 438.88"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL57561.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 57561 Infinite Control/Digital Timer Kit with Potentiometer",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n57561",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 575.12"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL57562.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 57562 Temperature Probe, 1K Ohm RTD",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n57562",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 112.32"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL18588.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 18588 Temperature Probe, 100K",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n18588",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 109.20"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL20348.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 20348 Spark Box Assembly with Screws",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n20348",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 491.92"
+                }
+            ]
+        },
+        {
+            "name": "Gas Valve Is Malfunctioning",
+            "idx": 10,
+            "url": "https://www.partstown.com/part-predictor/blodgett/zephaire-g-plus/gas-valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL30005.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 30005 Gas Valve, Natural Gas, 24V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n30005",
+                    "fix_rate": 45.0,
+                    "list_price": "$ 277.69"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL20348.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 20348 Spark Box Assembly with Screws",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n20348",
+                    "fix_rate": 27.0,
+                    "list_price": "$ 491.92"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL30006.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 30006 Gas Valve, 24V, Propane",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n30006",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 277.68"
+                }
+            ]
+        },
+        {
+            "name": "Probe Is Malfunctioning",
+            "idx": 11,
+            "url": "https://www.partstown.com/part-predictor/blodgett/zephaire-g-plus/probe-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL18588.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 18588 Temperature Probe, 100K",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n18588",
+                    "fix_rate": 47.0,
+                    "list_price": "$ 109.20"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL57562.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 57562 Temperature Probe, 1K Ohm RTD",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n57562",
+                    "fix_rate": 38.0,
+                    "list_price": "$ 112.32"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL33152.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 33152 Temperature Control",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n33152",
+                    "fix_rate": 28.0,
+                    "list_price": "$ 438.88"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL57561.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 57561 Infinite Control/Digital Timer Kit with Potentiometer",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n57561",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 575.12"
+                }
+            ]
+        },
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 12,
+            "url": "https://www.partstown.com/part-predictor/blodgett/zephaire-g-plus/thermostat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL33152.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 33152 Temperature Control",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n33152",
+                    "fix_rate": 24.0,
+                    "list_price": "$ 438.88"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL57561.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 57561 Infinite Control/Digital Timer Kit with Potentiometer",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n57561",
+                    "fix_rate": 24.0,
+                    "list_price": "$ 575.12"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL57562.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 57562 Temperature Probe, 1K Ohm RTD",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n57562",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 112.32"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL18588.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 18588 Temperature Probe, 100K",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n18588",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 109.20"
+                }
+            ]
+        },
+        {
+            "name": "Wiring Issue",
+            "idx": 13,
+            "url": "https://www.partstown.com/part-predictor/blodgett/zephaire-g-plus/wiring-issue",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL56463.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 56463 Pilot Burner Kit, Natural Gas",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n56463",
+                    "fix_rate": 45.0,
+                    "list_price": "$ 246.49"
+                }
+            ]
+        },
+        {
+            "name": "Transformer Is Malfunctioning",
+            "idx": 14,
+            "url": "https://www.partstown.com/part-predictor/blodgett/zephaire-g-plus/transformer-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL20355.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 20355 Transformer, 115/24V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n20355",
+                    "fix_rate": 71.0,
+                    "list_price": "$ 92.56"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL20348.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 20348 Spark Box Assembly with Screws",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n20348",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 491.92"
+                }
+            ]
+        },
+        {
+            "name": "Ignitor Is Malfunctioning Or Damaged",
+            "idx": 15,
+            "url": "https://www.partstown.com/part-predictor/blodgett/zephaire-g-plus/ignitor-is-malfunctioning-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL56463.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 56463 Pilot Burner Kit, Natural Gas",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n56463",
+                    "fix_rate": 62.0,
+                    "list_price": "$ 246.49"
+                }
+            ]
+        },
+        {
+            "name": "Door Switch Is Malfunctioning",
+            "idx": 16,
+            "url": "https://www.partstown.com/part-predictor/blodgett/zephaire-g-plus/door-switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL35702.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 35702 Door Switch Kit with Hardware",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n35702",
+                    "fix_rate": 54.0,
+                    "list_price": "$ 189.28"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Overheating",
+            "idx": 17,
+            "url": "https://www.partstown.com/part-predictor/blodgett/zephaire-g-plus/unit-is-overheating",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL57561.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 57561 Infinite Control/Digital Timer Kit with Potentiometer",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n57561",
+                    "fix_rate": 30.0,
+                    "list_price": "$ 575.12"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL57562.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 57562 Temperature Probe, 1K Ohm RTD",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n57562",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 112.32"
+                }
+            ]
+        },
+        {
+            "name": "Flame Sensor Is Malfunctioning",
+            "idx": 18,
+            "url": "https://www.partstown.com/part-predictor/blodgett/zephaire-g-plus/flame-sensor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL56463.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 56463 Pilot Burner Kit, Natural Gas",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n56463",
+                    "fix_rate": 41.0,
+                    "list_price": "$ 246.49"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL20348.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 20348 Spark Box Assembly with Screws",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n20348",
+                    "fix_rate": 27.0,
+                    "list_price": "$ 491.92"
+                }
+            ]
+        },
+        {
+            "name": "Filter Pump Is Not Starting",
+            "idx": 19,
+            "url": "https://www.partstown.com/part-predictor/blodgett/zephaire-g-plus/filter-pump-is-not-starting",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL23077.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 23077 Capacitor for 2 Speed Motor",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n23077",
+                    "fix_rate": 53.0,
+                    "list_price": "$ 162.24"
+                }
+            ]
+        },
+        {
+            "name": "Ingition Module Is Malfunctioning",
+            "idx": 20,
+            "url": "https://www.partstown.com/part-predictor/blodgett/zephaire-g-plus/ingition-module-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL20348.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 20348 Spark Box Assembly with Screws",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n20348",
+                    "fix_rate": 56.0,
+                    "list_price": "$ 491.92"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL56463.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 56463 Pilot Burner Kit, Natural Gas",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n56463",
+                    "fix_rate": 39.0,
+                    "list_price": "$ 246.49"
+                }
+            ]
+        },
+        {
+            "name": "Unit Won't Turn On",
+            "idx": 21,
+            "url": "https://www.partstown.com/part-predictor/blodgett/zephaire-g-plus/unit-wont-turn-on",
+            "results": []
+        },
+        {
+            "name": "Burner Is Malfunctioning Or Damaged",
+            "idx": 22,
+            "url": "https://www.partstown.com/part-predictor/blodgett/zephaire-g-plus/burner-is-malfunctioning-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL56463.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 56463 Pilot Burner Kit, Natural Gas",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n56463",
+                    "fix_rate": 33.0,
+                    "list_price": "$ 246.49"
+                }
+            ]
+        },
+        {
+            "name": "Motor Is Making Noise",
+            "idx": 23,
+            "url": "https://www.partstown.com/part-predictor/blodgett/zephaire-g-plus/motor-is-making-noise",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL32291.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 32291 Blower Motor Kit, 115V, 2 Speed, 1/2HP No Wheel",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n32291",
+                    "fix_rate": 64.0,
+                    "list_price": "$ 1,316.64"
+                }
+            ]
+        },
+        {
+            "name": "Relay Is Malfunctioning",
+            "idx": 24,
+            "url": "https://www.partstown.com/part-predictor/blodgett/zephaire-g-plus/relay-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL20355.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 20355 Transformer, 115/24V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n20355",
+                    "fix_rate": 45.0,
+                    "list_price": "$ 92.56"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL37058.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 37058 Relay, DPST, 24V, 25A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n37058",
+                    "fix_rate": 45.0,
+                    "list_price": "$ 128.96"
+                }
+            ]
+        },
+        {
+            "name": "Gasket Is Defective Or Leaking",
+            "idx": 25,
+            "url": "https://www.partstown.com/part-predictor/blodgett/zephaire-g-plus/gasket-is-defective-or-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL17519.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 17519 Gasket Set with Screws, Perimeter, DFG/MARK V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n17519",
+                    "fix_rate": 56.0,
+                    "list_price": "$ 243.36"
+                }
+            ]
+        },
+        {
+            "name": "Indicator Light Is Malfunctioning",
+            "idx": 26,
+            "url": "https://www.partstown.com/part-predictor/blodgett/zephaire-g-plus/indicator-light-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL18265.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 18265 Indicator Light, Red, 28V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n18265",
+                    "fix_rate": 67.0,
+                    "list_price": "$ 31.20"
+                }
+            ]
+        },
+        {
+            "name": "Cooling Fan Is Malfunctioning",
+            "idx": 27,
+            "url": "https://www.partstown.com/part-predictor/blodgett/zephaire-g-plus/cooling-fan-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL21134.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 21134 Fan with Screw, 120V, 50/60HZ, 30 CFM",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n21134",
+                    "fix_rate": 62.0,
+                    "list_price": "$ 107.12"
+                }
+            ]
+        }
+    ]
+}

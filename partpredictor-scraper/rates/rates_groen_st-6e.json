@@ -1,0 +1,378 @@
+{
+    "brand": "groen",
+    "model": "st-6e",
+    "issues": [
+        {
+            "name": "Door Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/groen/st-6e/door-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GR129723.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen 129723 Handle, Door",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n129723",
+                    "fix_rate": 52.0,
+                    "list_price": "$ 68.23"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GR140752.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen 140752 Latch Assembly, St-6E",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n140752",
+                    "fix_rate": 32.0,
+                    "list_price": "$ 302.68"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GR149880.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen 149880 Probe, Float Black",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n149880",
+                    "fix_rate": 28.0,
+                    "list_price": "$ 106.10"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GRZ074252.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen Z074252 Door Cam, Unlatch Lift",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nZ074252",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 113.34"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GR140748.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen 140748 Door Gasket",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n140748",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 123.93"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GR153505.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen 153505 Fan, Muffin, 24VDC, 80MM",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n153505",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 67.17"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GR140754.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen 140754 Insulation Switch, Vortex, 6 Pan",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n140754",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 203.32"
+                }
+            ]
+        },
+        {
+            "name": "Handle Is Defective",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/groen/st-6e/handle-is-defective",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GR129723.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen 129723 Handle, Door",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n129723",
+                    "fix_rate": 79.0,
+                    "list_price": "$ 68.23"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GR149880.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen 149880 Probe, Float Black",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n149880",
+                    "fix_rate": 32.0,
+                    "list_price": "$ 106.10"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GR140752.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen 140752 Latch Assembly, St-6E",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n140752",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 302.68"
+                }
+            ]
+        },
+        {
+            "name": "Probe Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/groen/st-6e/probe-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GR149880.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen 149880 Probe, Float Black",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n149880",
+                    "fix_rate": 83.0,
+                    "list_price": "$ 106.10"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Leaking",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/groen/st-6e/unit-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GRZ071235.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen Z071235 Fill Solenoid, Water, 3/4\" Thread, Dual 3/8\" Hose Barbs",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nZ071235",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 209.06"
+                }
+            ]
+        },
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/groen/st-6e/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GR149880.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen 149880 Probe, Float Black",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n149880",
+                    "fix_rate": 53.0,
+                    "list_price": "$ 106.10"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GRZ096857.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen Z096857 Door Switch, Magnetic Reed",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nZ096857",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 51.86"
+                }
+            ]
+        },
+        {
+            "name": "Valve Is Malfunctioning",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/groen/st-6e/valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GR149880.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen 149880 Probe, Float Black",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n149880",
+                    "fix_rate": 82.0,
+                    "list_price": "$ 106.10"
+                }
+            ]
+        },
+        {
+            "name": "Hose Is Broken Or Leaking",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/groen/st-6e/hose-is-broken-or-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GR149880.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen 149880 Probe, Float Black",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n149880",
+                    "fix_rate": 31.0,
+                    "list_price": "$ 106.10"
+                }
+            ]
+        },
+        {
+            "name": "Door Switch Is Malfunctioning",
+            "idx": 7,
+            "url": "https://www.partstown.com/part-predictor/groen/st-6e/door-switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GRZ096857.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen Z096857 Door Switch, Magnetic Reed",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nZ096857",
+                    "fix_rate": 77.0,
+                    "list_price": "$ 51.86"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GR149880.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen 149880 Probe, Float Black",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n149880",
+                    "fix_rate": 38.0,
+                    "list_price": "$ 106.10"
+                }
+            ]
+        },
+        {
+            "name": "Fan Motor Is Malfunctioning",
+            "idx": 8,
+            "url": "https://www.partstown.com/part-predictor/groen/st-6e/fan-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GR153505.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen 153505 Fan, Muffin, 24VDC, 80MM",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n153505",
+                    "fix_rate": 54.0,
+                    "list_price": "$ 67.17"
+                }
+            ]
+        },
+        {
+            "name": "Float Is Malfunctioning",
+            "idx": 9,
+            "url": "https://www.partstown.com/part-predictor/groen/st-6e/float-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GR149880.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen 149880 Probe, Float Black",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n149880",
+                    "fix_rate": 92.0,
+                    "list_price": "$ 106.10"
+                }
+            ]
+        },
+        {
+            "name": "Latch Is Damaged Or Not Latching",
+            "idx": 10,
+            "url": "https://www.partstown.com/part-predictor/groen/st-6e/latch-is-damaged-or-not-latching",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GR140752.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen 140752 Latch Assembly, St-6E",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n140752",
+                    "fix_rate": 69.0,
+                    "list_price": "$ 302.68"
+                }
+            ]
+        },
+        {
+            "name": "Contactor Is Malfunctioning",
+            "idx": 11,
+            "url": "https://www.partstown.com/part-predictor/groen/st-6e/contactor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GR149880.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen 149880 Probe, Float Black",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n149880",
+                    "fix_rate": 58.0,
+                    "list_price": "$ 106.10"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Overheating",
+            "idx": 12,
+            "url": "https://www.partstown.com/part-predictor/groen/st-6e/unit-is-overheating",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GR149880.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen 149880 Probe, Float Black",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n149880",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 106.10"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Malfunctioning",
+            "idx": 13,
+            "url": "https://www.partstown.com/part-predictor/groen/st-6e/unit-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GR149880.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen 149880 Probe, Float Black",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n149880",
+                    "fix_rate": 45.0,
+                    "list_price": "$ 106.10"
+                }
+            ]
+        },
+        {
+            "name": "Not Filling Properly",
+            "idx": 14,
+            "url": "https://www.partstown.com/part-predictor/groen/st-6e/not-filling-properly",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GR149880.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen 149880 Probe, Float Black",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n149880",
+                    "fix_rate": 89.0,
+                    "list_price": "$ 106.10"
+                }
+            ]
+        },
+        {
+            "name": "Valve Is Leaking",
+            "idx": 15,
+            "url": "https://www.partstown.com/part-predictor/groen/st-6e/valve-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GR149880.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen 149880 Probe, Float Black",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n149880",
+                    "fix_rate": 62.0,
+                    "list_price": "$ 106.10"
+                }
+            ]
+        }
+    ]
+}

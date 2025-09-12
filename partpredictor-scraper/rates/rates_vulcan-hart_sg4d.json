@@ -1,0 +1,303 @@
+{
+    "brand": "vulcan-hart",
+    "model": "sg4d",
+    "issues": [
+        {
+            "name": "Ignition Module Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/vulcan-hart/sg4d/ignition-module-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-353589-00001.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-353589-00001 Temperature Probe",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-353589-00001",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 94.37"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-423756-00004.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-423756-00004 Ignition Control Board, Dual Point",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-423756-00004",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 265.82"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-913102-00292.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-913102-00292 Spark Igition Control",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-913102-00292",
+                    "fix_rate": 23.0,
+                    "list_price": "$ 264.27"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-423754-00001.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-423754-00001 Ignitor/Flame Sensor Assembly, SG4",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-423754-00001",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 62.79"
+                }
+            ]
+        },
+        {
+            "name": "Door Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/vulcan-hart/sg4d/door-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-347545-00001.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-347545-00001 Catch Assembly, Door, Roller Ball Style",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-347545-00001",
+                    "fix_rate": 32.0,
+                    "list_price": "$ 65.47"
+                }
+            ]
+        },
+        {
+            "name": "Probe Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/vulcan-hart/sg4d/probe-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-353589-00001.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-353589-00001 Temperature Probe",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-353589-00001",
+                    "fix_rate": 80.0,
+                    "list_price": "$ 94.37"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-913149.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-913149 NCC Temperature Control Kit with Harness",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-913149",
+                    "fix_rate": 40.0,
+                    "list_price": "$ 506.55"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-428897-00001.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-428897-00001 Temperature Control with Potentiometer",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-428897-00001",
+                    "fix_rate": 20.0,
+                    "list_price": "$ 293.03"
+                }
+            ]
+        },
+        {
+            "name": "Fan Motor Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/vulcan-hart/sg4d/fan-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-913102-00333.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-913102-00333 Blower Motor Kit, 120V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-913102-00333",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 1,827.70"
+                }
+            ]
+        },
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/vulcan-hart/sg4d/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-358628-00001.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-358628-00001 Switch, Rocker, DPDT",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-358628-00001",
+                    "fix_rate": 33.0,
+                    "list_price": "$ 39.96"
+                }
+            ]
+        },
+        {
+            "name": "Controller Is Malfunctioning",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/vulcan-hart/sg4d/controller-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-353589-00001.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-353589-00001 Temperature Probe",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-353589-00001",
+                    "fix_rate": 48.0,
+                    "list_price": "$ 94.37"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-913149.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-913149 NCC Temperature Control Kit with Harness",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-913149",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 506.55"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-423756-00004.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-423756-00004 Ignition Control Board, Dual Point",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-423756-00004",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 265.82"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-428897-00001.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-428897-00001 Temperature Control with Potentiometer",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-428897-00001",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 293.03"
+                }
+            ]
+        },
+        {
+            "name": "Door Switch Is Malfunctioning",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/vulcan-hart/sg4d/door-switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-499310-000G1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-499310-000G1 Door Microswitch Replacement Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-499310-000G1",
+                    "fix_rate": 23.0,
+                    "list_price": "$ 90.14"
+                }
+            ]
+        },
+        {
+            "name": "Gas Valve Is Malfunctioning",
+            "idx": 7,
+            "url": "https://www.partstown.com/part-predictor/vulcan-hart/sg4d/gas-valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-410841-00018.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-410841-00018 Gas Valve, 24V, Natural Gas",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-410841-00018",
+                    "fix_rate": 38.0,
+                    "list_price": "$ 453.99"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-423756-00004.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-423756-00004 Ignition Control Board, Dual Point",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-423756-00004",
+                    "fix_rate": 24.0,
+                    "list_price": "$ 265.82"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-957897-000G1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-957897-000G1 Gas Valve Kit, Natural Gas",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-957897-000G1",
+                    "fix_rate": 24.0,
+                    "list_price": "$ 330.07"
+                }
+            ]
+        },
+        {
+            "name": "Ingition Module Is Malfunctioning",
+            "idx": 8,
+            "url": "https://www.partstown.com/part-predictor/vulcan-hart/sg4d/ingition-module-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-423756-00004.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-423756-00004 Ignition Control Board, Dual Point",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-423756-00004",
+                    "fix_rate": 56.0,
+                    "list_price": "$ 265.82"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-353589-00001.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-353589-00001 Temperature Probe",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-353589-00001",
+                    "fix_rate": 28.0,
+                    "list_price": "$ 94.37"
+                }
+            ]
+        },
+        {
+            "name": "Motor Is Malfunctioning",
+            "idx": 9,
+            "url": "https://www.partstown.com/part-predictor/vulcan-hart/sg4d/motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-913102-00333.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-913102-00333 Blower Motor Kit, 120V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-913102-00333",
+                    "fix_rate": 58.0,
+                    "list_price": "$ 1,827.70"
+                }
+            ]
+        },
+        {
+            "name": "Fire Coming Out Of Unit",
+            "idx": 10,
+            "url": "https://www.partstown.com/part-predictor/vulcan-hart/sg4d/fire-coming-out-of-unit",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-353589-00001.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-353589-00001 Temperature Probe",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-353589-00001",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 94.37"
+                }
+            ]
+        }
+    ]
+}

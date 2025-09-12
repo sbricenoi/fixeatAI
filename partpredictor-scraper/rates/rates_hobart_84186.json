@@ -1,0 +1,23 @@
+{
+    "brand": "hobart",
+    "model": "84186",
+    "issues": [
+        {
+            "name": "Belt Is Defective",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/hobart/84186/belt-is-defective",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HOB/HOB00-291704.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hobart 00-291704 Belt, Food Cutter",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-291704",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 12.98"
+                }
+            ]
+        }
+    ]
+}

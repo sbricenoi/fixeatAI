@@ -1,0 +1,193 @@
+{
+    "brand": "groen",
+    "model": "ssb-5e",
+    "issues": [
+        {
+            "name": "Unit Is Leaking",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/groen/ssb-5e/unit-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GR149880.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen 149880 Probe, Float Black",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n149880",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 106.10"
+                }
+            ]
+        },
+        {
+            "name": "Contactor Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/groen/ssb-5e/contactor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GR145081.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen 145081 Contactor, 24V, 50A, 3 Pole",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n145081",
+                    "fix_rate": 53.0,
+                    "list_price": "$ 635.18"
+                }
+            ]
+        },
+        {
+            "name": "Door Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/groen/ssb-5e/door-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GR129723.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen 129723 Handle, Door",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n129723",
+                    "fix_rate": 44.0,
+                    "list_price": "$ 68.23"
+                }
+            ]
+        },
+        {
+            "name": "Fan Motor Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/groen/ssb-5e/fan-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GR153505.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen 153505 Fan, Muffin, 24VDC, 80MM",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n153505",
+                    "fix_rate": 64.0,
+                    "list_price": "$ 67.17"
+                }
+            ]
+        },
+        {
+            "name": "Cooling Fan Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/groen/ssb-5e/cooling-fan-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GR153505.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen 153505 Fan, Muffin, 24VDC, 80MM",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n153505",
+                    "fix_rate": 67.0,
+                    "list_price": "$ 67.17"
+                }
+            ]
+        },
+        {
+            "name": "Probe Is Malfunctioning",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/groen/ssb-5e/probe-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GR149880.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen 149880 Probe, Float Black",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n149880",
+                    "fix_rate": 73.0,
+                    "list_price": "$ 106.10"
+                }
+            ]
+        },
+        {
+            "name": "Float Is Malfunctioning",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/groen/ssb-5e/float-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GR149880.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen 149880 Probe, Float Black",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n149880",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 106.10"
+                }
+            ]
+        },
+        {
+            "name": "Handle Is Defective",
+            "idx": 7,
+            "url": "https://www.partstown.com/part-predictor/groen/ssb-5e/handle-is-defective",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GR129723.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen 129723 Handle, Door",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n129723",
+                    "fix_rate": 80.0,
+                    "list_price": "$ 68.23"
+                }
+            ]
+        },
+        {
+            "name": "Relay Board Is Malfunctioning",
+            "idx": 8,
+            "url": "https://www.partstown.com/part-predictor/groen/ssb-5e/relay-board-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GR160649.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen 160649 Relay Board",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n160649",
+                    "fix_rate": 80.0,
+                    "list_price": "$ 574.09"
+                }
+            ]
+        },
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 9,
+            "url": "https://www.partstown.com/part-predictor/groen/ssb-5e/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GR149880.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen 149880 Probe, Float Black",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n149880",
+                    "fix_rate": 71.0,
+                    "list_price": "$ 106.10"
+                }
+            ]
+        },
+        {
+            "name": "Door Is Leaking",
+            "idx": 10,
+            "url": "https://www.partstown.com/part-predictor/groen/ssb-5e/door-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GR125907.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen 125907 Door Gasket, Silicone, 5-Pan 18\" x 14-5/8\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n125907",
+                    "fix_rate": 83.0,
+                    "list_price": "$ 175.57"
+                }
+            ]
+        }
+    ]
+}

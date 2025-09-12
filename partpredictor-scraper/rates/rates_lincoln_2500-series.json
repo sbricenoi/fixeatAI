@@ -1,0 +1,1177 @@
+{
+    "brand": "lincoln",
+    "model": "2500-series",
+    "issues": [
+        {
+            "name": "Hi-limit Is Tripping Or Wont Reset",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/lincoln/2500-series/hi-limit-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369470.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369470 Insulation Seal",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369470",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 37.60"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369192.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369192 Capacitor, 7.5 MFD 370VAC",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369192",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 40.73"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN357067.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 357067 High Limit Thermostat, Oven Cavity",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n357067",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 135.92"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN371038.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 371038 Relay, Solid State, 50A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n371038",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 238.19"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369131.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369131 Thermocouple Probe with 1 Red/1 White Lead",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369131",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 94.55"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN371109.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 371109 Control Board, Platform 3",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n371109",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 1,010.56"
+                }
+            ]
+        },
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/lincoln/2500-series/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369432.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369432 Rocker Switch, On/Off, Green Lighted",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369432",
+                    "fix_rate": 32.0,
+                    "list_price": "$ 52.81"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN371109.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 371109 Control Board, Platform 3",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n371109",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 1,010.56"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MER/MER8076645.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merco 8076645 SWITCH,ROCKER,DPST, LIGHT 250V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8076645",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 41.41"
+                }
+            ]
+        },
+        {
+            "name": "Controller Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/lincoln/2500-series/controller-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN371109.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 371109 Control Board, Platform 3",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n371109",
+                    "fix_rate": 67.0,
+                    "list_price": "$ 1,010.56"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369470.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369470 Insulation Seal",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369470",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 37.60"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369131.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369131 Thermocouple Probe with 1 Red/1 White Lead",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369131",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 94.55"
+                }
+            ]
+        },
+        {
+            "name": "Capacitor Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/lincoln/2500-series/capacitor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369192.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369192 Capacitor, 7.5 MFD 370VAC",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369192",
+                    "fix_rate": 59.0,
+                    "list_price": "$ 40.73"
+                }
+            ]
+        },
+        {
+            "name": "Motor Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/lincoln/2500-series/motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN371110.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 371110 Stepper Motor DCTI",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n371110",
+                    "fix_rate": 40.0,
+                    "list_price": "$ 916.06"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369192.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369192 Capacitor, 7.5 MFD 370VAC",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369192",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 40.73"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369470.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369470 Insulation Seal",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369470",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 37.60"
+                }
+            ]
+        },
+        {
+            "name": "Blower Motor Is Malfunctioning",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/lincoln/2500-series/blower-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369192.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369192 Capacitor, 7.5 MFD 370VAC",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369192",
+                    "fix_rate": 49.0,
+                    "list_price": "$ 40.73"
+                }
+            ]
+        },
+        {
+            "name": "Fan Motor Is Malfunctioning",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/lincoln/2500-series/fan-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369192.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369192 Capacitor, 7.5 MFD 370VAC",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369192",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 40.73"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369470.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369470 Insulation Seal",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369470",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 37.60"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN370466.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 370466 Timer, Cool Down, 30 Minute, 230V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n370466",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 99.17"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Overheating",
+            "idx": 7,
+            "url": "https://www.partstown.com/part-predictor/lincoln/2500-series/unit-is-overheating",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369470.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369470 Insulation Seal",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369470",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 37.60"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN371038.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 371038 Relay, Solid State, 50A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n371038",
+                    "fix_rate": 24.0,
+                    "list_price": "$ 238.19"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369131.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369131 Thermocouple Probe with 1 Red/1 White Lead",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369131",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 94.55"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN371109.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 371109 Control Board, Platform 3",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n371109",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 1,010.56"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN357067.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 357067 High Limit Thermostat, Oven Cavity",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n357067",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 135.92"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369192.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369192 Capacitor, 7.5 MFD 370VAC",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369192",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 40.73"
+                }
+            ]
+        },
+        {
+            "name": "Fuse Is Blown",
+            "idx": 8,
+            "url": "https://www.partstown.com/part-predictor/lincoln/2500-series/fuse-is-blown",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN4605660.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 4605660 Fuse, 250 Volt, 7 Amp, Time Delay",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4605660",
+                    "fix_rate": 27.0,
+                    "list_price": "$ 3.70"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369470.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369470 Insulation Seal",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369470",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 37.60"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369192.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369192 Capacitor, 7.5 MFD 370VAC",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369192",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 40.73"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369432.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369432 Rocker Switch, On/Off, Green Lighted",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369432",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 52.81"
+                }
+            ]
+        },
+        {
+            "name": "Relay Is Malfunctioning",
+            "idx": 9,
+            "url": "https://www.partstown.com/part-predictor/lincoln/2500-series/relay-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN371038.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 371038 Relay, Solid State, 50A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n371038",
+                    "fix_rate": 49.0,
+                    "list_price": "$ 238.19"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN371109.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 371109 Control Board, Platform 3",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n371109",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 1,010.56"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369470.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369470 Insulation Seal",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369470",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 37.60"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN370466.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 370466 Timer, Cool Down, 30 Minute, 230V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n370466",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 99.17"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369131.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369131 Thermocouple Probe with 1 Red/1 White Lead",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369131",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 94.55"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369422.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369422 Relay, Oven Start, 240V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369422",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 88.96"
+                }
+            ]
+        },
+        {
+            "name": "Display Is Malfunctioning",
+            "idx": 10,
+            "url": "https://www.partstown.com/part-predictor/lincoln/2500-series/display-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN371109.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 371109 Control Board, Platform 3",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n371109",
+                    "fix_rate": 65.0,
+                    "list_price": "$ 1,010.56"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369470.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369470 Insulation Seal",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369470",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 37.60"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN371430.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 371430 Membrane Switch, DCTI",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n371430",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 472.62"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369131.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369131 Thermocouple Probe with 1 Red/1 White Lead",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369131",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 94.55"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369427.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369427 Transformer, 208/240V to 24V, 20VA",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369427",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 119.36"
+                }
+            ]
+        },
+        {
+            "name": "Contactor Is Malfunctioning",
+            "idx": 11,
+            "url": "https://www.partstown.com/part-predictor/lincoln/2500-series/contactor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN370739.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 370739 Contactor, 40A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n370739",
+                    "fix_rate": 70.0,
+                    "list_price": "$ 626.49"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN371109.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 371109 Control Board, Platform 3",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n371109",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 1,010.56"
+                }
+            ]
+        },
+        {
+            "name": "Wiring Issue",
+            "idx": 12,
+            "url": "https://www.partstown.com/part-predictor/lincoln/2500-series/wiring-issue",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369470.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369470 Insulation Seal",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369470",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 37.60"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369418.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369418 Element, 208V, Color Code Red",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369418",
+                    "fix_rate": 28.0,
+                    "list_price": "$ 320.42"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN371109.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 371109 Control Board, Platform 3",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n371109",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 1,010.56"
+                }
+            ]
+        },
+        {
+            "name": "Unit Won't Turn On",
+            "idx": 13,
+            "url": "https://www.partstown.com/part-predictor/lincoln/2500-series/unit-wont-turn-on",
+            "results": []
+        },
+        {
+            "name": "Unit Is Not Reaching Set Temperature",
+            "idx": 14,
+            "url": "https://www.partstown.com/part-predictor/lincoln/2500-series/unit-is-not-reaching-set-temperature",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369470.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369470 Insulation Seal",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369470",
+                    "fix_rate": 40.0,
+                    "list_price": "$ 37.60"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369131.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369131 Thermocouple Probe with 1 Red/1 White Lead",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369131",
+                    "fix_rate": 35.0,
+                    "list_price": "$ 94.55"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN371109.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 371109 Control Board, Platform 3",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n371109",
+                    "fix_rate": 31.0,
+                    "list_price": "$ 1,010.56"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369192.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369192 Capacitor, 7.5 MFD 370VAC",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369192",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 40.73"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN357067.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 357067 High Limit Thermostat, Oven Cavity",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n357067",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 135.92"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN370739.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 370739 Contactor, 40A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n370739",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 626.49"
+                }
+            ]
+        },
+        {
+            "name": "Thermocouple Is Malfunctioning",
+            "idx": 15,
+            "url": "https://www.partstown.com/part-predictor/lincoln/2500-series/thermocouple-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369131.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369131 Thermocouple Probe with 1 Red/1 White Lead",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369131",
+                    "fix_rate": 79.0,
+                    "list_price": "$ 94.55"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369470.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369470 Insulation Seal",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369470",
+                    "fix_rate": 63.0,
+                    "list_price": "$ 37.60"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN371109.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 371109 Control Board, Platform 3",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n371109",
+                    "fix_rate": 55.0,
+                    "list_price": "$ 1,010.56"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN371038.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 371038 Relay, Solid State, 50A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n371038",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 238.19"
+                }
+            ]
+        },
+        {
+            "name": "Keypad Is Not Responding Or Damaged",
+            "idx": 16,
+            "url": "https://www.partstown.com/part-predictor/lincoln/2500-series/keypad-is-not-responding-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN371109.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 371109 Control Board, Platform 3",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n371109",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 1,010.56"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN371430.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 371430 Membrane Switch, DCTI",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n371430",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 472.62"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369470.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369470 Insulation Seal",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369470",
+                    "fix_rate": 23.0,
+                    "list_price": "$ 37.60"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN371108.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 371108 Membrane Switch/Overlay, DCTI",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n371108",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 946.99"
+                }
+            ]
+        },
+        {
+            "name": "Breaker Is Tripping Or Wont Reset",
+            "idx": 17,
+            "url": "https://www.partstown.com/part-predictor/lincoln/2500-series/breaker-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369470.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369470 Insulation Seal",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369470",
+                    "fix_rate": 32.0,
+                    "list_price": "$ 37.60"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369418.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369418 Element, 208V, Color Code Red",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369418",
+                    "fix_rate": 32.0,
+                    "list_price": "$ 320.42"
+                }
+            ]
+        },
+        {
+            "name": "Conveyor Motor Is Malfunctioning",
+            "idx": 18,
+            "url": "https://www.partstown.com/part-predictor/lincoln/2500-series/conveyor-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN371110.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 371110 Stepper Motor DCTI",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n371110",
+                    "fix_rate": 86.0,
+                    "list_price": "$ 916.06"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN371109.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 371109 Control Board, Platform 3",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n371109",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 1,010.56"
+                }
+            ]
+        },
+        {
+            "name": "Transformer Is Malfunctioning",
+            "idx": 19,
+            "url": "https://www.partstown.com/part-predictor/lincoln/2500-series/transformer-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369427.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369427 Transformer, 208/240V to 24V, 20VA",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369427",
+                    "fix_rate": 63.0,
+                    "list_price": "$ 119.36"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN371109.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 371109 Control Board, Platform 3",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n371109",
+                    "fix_rate": 48.0,
+                    "list_price": "$ 1,010.56"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369470.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369470 Insulation Seal",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369470",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 37.60"
+                }
+            ]
+        },
+        {
+            "name": "Cooling Fan Is Malfunctioning",
+            "idx": 20,
+            "url": "https://www.partstown.com/part-predictor/lincoln/2500-series/cooling-fan-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369378.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369378 Axial Fan, 220-240V, 50/60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369378",
+                    "fix_rate": 46.0,
+                    "list_price": "$ 180.00"
+                }
+            ]
+        },
+        {
+            "name": "Belt Is Defective",
+            "idx": 21,
+            "url": "https://www.partstown.com/part-predictor/lincoln/2500-series/belt-is-defective",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN371110.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 371110 Stepper Motor DCTI",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n371110",
+                    "fix_rate": 48.0,
+                    "list_price": "$ 916.06"
+                }
+            ]
+        },
+        {
+            "name": "Display Is Blank",
+            "idx": 22,
+            "url": "https://www.partstown.com/part-predictor/lincoln/2500-series/display-is-blank",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN371109.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 371109 Control Board, Platform 3",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n371109",
+                    "fix_rate": 55.0,
+                    "list_price": "$ 1,010.56"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369470.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369470 Insulation Seal",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369470",
+                    "fix_rate": 23.0,
+                    "list_price": "$ 37.60"
+                }
+            ]
+        },
+        {
+            "name": "Heating Element Is Malfunctioning",
+            "idx": 23,
+            "url": "https://www.partstown.com/part-predictor/lincoln/2500-series/heating-element-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369418.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369418 Element, 208V, Color Code Red",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369418",
+                    "fix_rate": 60.0,
+                    "list_price": "$ 320.42"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369470.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369470 Insulation Seal",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369470",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 37.60"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Shutting Down",
+            "idx": 24,
+            "url": "https://www.partstown.com/part-predictor/lincoln/2500-series/unit-is-shutting-down",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369432.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369432 Rocker Switch, On/Off, Green Lighted",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369432",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 52.81"
+                }
+            ]
+        },
+        {
+            "name": "Filter Pump Is Not Starting",
+            "idx": 25,
+            "url": "https://www.partstown.com/part-predictor/lincoln/2500-series/filter-pump-is-not-starting",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369192.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369192 Capacitor, 7.5 MFD 370VAC",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369192",
+                    "fix_rate": 37.0,
+                    "list_price": "$ 40.73"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN371110.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 371110 Stepper Motor DCTI",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n371110",
+                    "fix_rate": 32.0,
+                    "list_price": "$ 916.06"
+                }
+            ]
+        },
+        {
+            "name": "Probe Is Malfunctioning",
+            "idx": 26,
+            "url": "https://www.partstown.com/part-predictor/lincoln/2500-series/probe-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369470.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369470 Insulation Seal",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369470",
+                    "fix_rate": 68.0,
+                    "list_price": "$ 37.60"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369131.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369131 Thermocouple Probe with 1 Red/1 White Lead",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369131",
+                    "fix_rate": 68.0,
+                    "list_price": "$ 94.55"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN371109.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 371109 Control Board, Platform 3",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n371109",
+                    "fix_rate": 58.0,
+                    "list_price": "$ 1,010.56"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN371038.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 371038 Relay, Solid State, 50A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n371038",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 238.19"
+                }
+            ]
+        },
+        {
+            "name": "Run Capacitor Is Malfunctioning",
+            "idx": 27,
+            "url": "https://www.partstown.com/part-predictor/lincoln/2500-series/run-capacitor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369192.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369192 Capacitor, 7.5 MFD 370VAC",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369192",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 40.73"
+                }
+            ]
+        },
+        {
+            "name": "Belt Is Not Moving",
+            "idx": 28,
+            "url": "https://www.partstown.com/part-predictor/lincoln/2500-series/belt-is-not-moving",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN371110.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 371110 Stepper Motor DCTI",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n371110",
+                    "fix_rate": 42.0,
+                    "list_price": "$ 916.06"
+                }
+            ]
+        },
+        {
+            "name": "Insulation Is Damaged",
+            "idx": 29,
+            "url": "https://www.partstown.com/part-predictor/lincoln/2500-series/insulation-is-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369470.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369470 Insulation Seal",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369470",
+                    "fix_rate": 75.0,
+                    "list_price": "$ 37.60"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369418.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369418 Element, 208V, Color Code Red",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369418",
+                    "fix_rate": 42.0,
+                    "list_price": "$ 320.42"
+                }
+            ]
+        },
+        {
+            "name": "Conveyor Belt Is Malfunctioning",
+            "idx": 30,
+            "url": "https://www.partstown.com/part-predictor/lincoln/2500-series/conveyor-belt-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN371110.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 371110 Stepper Motor DCTI",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n371110",
+                    "fix_rate": 55.0,
+                    "list_price": "$ 916.06"
+                }
+            ]
+        },
+        {
+            "name": "Stepper Motor Is Malfunctioning",
+            "idx": 31,
+            "url": "https://www.partstown.com/part-predictor/lincoln/2500-series/stepper-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN371110.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 371110 Stepper Motor DCTI",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n371110",
+                    "fix_rate": 91.0,
+                    "list_price": "$ 916.06"
+                }
+            ]
+        },
+        {
+            "name": "Heating Element Is Not Heating Properly",
+            "idx": 32,
+            "url": "https://www.partstown.com/part-predictor/lincoln/2500-series/heating-element-is-not-heating-properly",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369470.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369470 Insulation Seal",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369470",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 37.60"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369418.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369418 Element, 208V, Color Code Red",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369418",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 320.42"
+                }
+            ]
+        },
+        {
+            "name": "Coupling Is Damaged",
+            "idx": 33,
+            "url": "https://www.partstown.com/part-predictor/lincoln/2500-series/coupling-is-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369410.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369410 Coupling Sleeve",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369410",
+                    "fix_rate": 67.0,
+                    "list_price": "$ 57.91"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369460.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369460 Spring, Compression, 1300 Series",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369460",
+                    "fix_rate": 56.0,
+                    "list_price": "$ 44.12"
+                }
+            ]
+        },
+        {
+            "name": "Gasket Is Defective Or Leaking",
+            "idx": 34,
+            "url": "https://www.partstown.com/part-predictor/lincoln/2500-series/gasket-is-defective-or-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369470.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369470 Insulation Seal",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369470",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 37.60"
+                }
+            ]
+        },
+        {
+            "name": "Oil Is Leaking",
+            "idx": 35,
+            "url": "https://www.partstown.com/part-predictor/lincoln/2500-series/oil-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369192.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369192 Capacitor, 7.5 MFD 370VAC",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369192",
+                    "fix_rate": 71.0,
+                    "list_price": "$ 40.73"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,150 @@
+{
+    "brand": "cleveland",
+    "model": "24cga10.2",
+    "issues": [
+        {
+            "name": "Unit Is Leaking",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/cleveland/24cga10.2/unit-is-leaking",
+            "results": []
+        },
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/cleveland/24cga10.2/switch-is-malfunctioning",
+            "results": []
+        },
+        {
+            "name": "Probe Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/cleveland/24cga10.2/probe-is-malfunctioning",
+            "results": []
+        },
+        {
+            "name": "Door Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/cleveland/24cga10.2/door-is-malfunctioning",
+            "results": []
+        },
+        {
+            "name": "Hose Is Broken Or Leaking",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/cleveland/24cga10.2/hose-is-broken-or-leaking",
+            "results": []
+        },
+        {
+            "name": "Hi-limit Is Tripping Or Wont Reset",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/cleveland/24cga10.2/hi-limit-is-tripping-or-wont-reset",
+            "results": []
+        },
+        {
+            "name": "Valve Is Malfunctioning",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/cleveland/24cga10.2/valve-is-malfunctioning",
+            "results": []
+        },
+        {
+            "name": "Gasket Is Defective Or Leaking",
+            "idx": 7,
+            "url": "https://www.partstown.com/part-predictor/cleveland/24cga10.2/gasket-is-defective-or-leaking",
+            "results": []
+        },
+        {
+            "name": "Blower Motor Is Malfunctioning",
+            "idx": 8,
+            "url": "https://www.partstown.com/part-predictor/cleveland/24cga10.2/blower-motor-is-malfunctioning",
+            "results": []
+        },
+        {
+            "name": "Unit Is Malfunctioning",
+            "idx": 9,
+            "url": "https://www.partstown.com/part-predictor/cleveland/24cga10.2/unit-is-malfunctioning",
+            "results": []
+        },
+        {
+            "name": "Unit Is Overheating",
+            "idx": 10,
+            "url": "https://www.partstown.com/part-predictor/cleveland/24cga10.2/unit-is-overheating",
+            "results": []
+        },
+        {
+            "name": "Pilot Is Malfunctioning",
+            "idx": 11,
+            "url": "https://www.partstown.com/part-predictor/cleveland/24cga10.2/pilot-is-malfunctioning",
+            "results": []
+        },
+        {
+            "name": "Valve Is Leaking",
+            "idx": 12,
+            "url": "https://www.partstown.com/part-predictor/cleveland/24cga10.2/valve-is-leaking",
+            "results": []
+        },
+        {
+            "name": "Latch Is Damaged Or Not Latching",
+            "idx": 13,
+            "url": "https://www.partstown.com/part-predictor/cleveland/24cga10.2/latch-is-damaged-or-not-latching",
+            "results": []
+        },
+        {
+            "name": "Breaker Is Tripping Or Wont Reset",
+            "idx": 14,
+            "url": "https://www.partstown.com/part-predictor/cleveland/24cga10.2/breaker-is-tripping-or-wont-reset",
+            "results": []
+        },
+        {
+            "name": "Ignition Module Is Malfunctioning",
+            "idx": 15,
+            "url": "https://www.partstown.com/part-predictor/cleveland/24cga10.2/ignition-module-is-malfunctioning",
+            "results": []
+        },
+        {
+            "name": "Unit Is Shutting Down",
+            "idx": 16,
+            "url": "https://www.partstown.com/part-predictor/cleveland/24cga10.2/unit-is-shutting-down",
+            "results": []
+        },
+        {
+            "name": "Handle Is Defective",
+            "idx": 17,
+            "url": "https://www.partstown.com/part-predictor/cleveland/24cga10.2/handle-is-defective",
+            "results": []
+        },
+        {
+            "name": "Door Switch Is Malfunctioning",
+            "idx": 18,
+            "url": "https://www.partstown.com/part-predictor/cleveland/24cga10.2/door-switch-is-malfunctioning",
+            "results": []
+        },
+        {
+            "name": "Motor Is Malfunctioning",
+            "idx": 19,
+            "url": "https://www.partstown.com/part-predictor/cleveland/24cga10.2/motor-is-malfunctioning",
+            "results": []
+        },
+        {
+            "name": "Buzzer Is Malfunctioning",
+            "idx": 20,
+            "url": "https://www.partstown.com/part-predictor/cleveland/24cga10.2/buzzer-is-malfunctioning",
+            "results": []
+        },
+        {
+            "name": "Drain Valve Is Malfunctioning",
+            "idx": 21,
+            "url": "https://www.partstown.com/part-predictor/cleveland/24cga10.2/drain-valve-is-malfunctioning",
+            "results": []
+        },
+        {
+            "name": "Door Gasket Is Defective",
+            "idx": 22,
+            "url": "https://www.partstown.com/part-predictor/cleveland/24cga10.2/door-gasket-is-defective",
+            "results": []
+        },
+        {
+            "name": "Controller Is Malfunctioning",
+            "idx": 23,
+            "url": "https://www.partstown.com/part-predictor/cleveland/24cga10.2/controller-is-malfunctioning",
+            "results": []
+        }
+    ]
+}

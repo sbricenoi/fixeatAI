@@ -1,0 +1,23 @@
+{
+    "brand": "hoshizaki",
+    "model": "r2a-fs",
+    "issues": [
+        {
+            "name": "Unit Is Not Reaching Set Temperature",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/hoshizaki/r2a-fs/unit-is-not-reaching-set-temperature",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HOS/HOSSP-5505.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hoshizaki SP-5505 Heater, TXV",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSP-5505",
+                    "fix_rate": 45.0,
+                    "list_price": "$ 67.60"
+                }
+            ]
+        }
+    ]
+}

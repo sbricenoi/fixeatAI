@@ -1,0 +1,43 @@
+{
+    "brand": "hobart",
+    "model": "am14t",
+    "issues": [
+        {
+            "name": "Unit Is Leaking",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/hobart/am14t/unit-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HOB/HOB00-119050.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hobart 00-119050 Gasket, Pump Housing To Shroud",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-119050",
+                    "fix_rate": 30.0,
+                    "list_price": "$ 19.74"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HOB/HOB00-119051.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hobart 00-119051 Gasket, Motor & Pump Unit, Drain, Brown",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-119051",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 5.04"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HOB/HOB00-119054.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hobart 00-119054 Gasket, Pump Discharge",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-119054",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 13.45"
+                }
+            ]
+        }
+    ]
+}

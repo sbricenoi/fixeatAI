@@ -1,0 +1,121 @@
+{
+    "brand": "manitowoc-ice",
+    "model": "iy0524a",
+    "issues": [
+        {
+            "name": "Probe Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/manitowoc-ice/iy0524a/probe-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/MAN/MAN000016053.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Manitowoc Ice 000016053 Water Level Probe Kit with Harness",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n000016053",
+                    "fix_rate": 42.0,
+                    "list_price": "$ 89.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MAN/MAN000008660.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Manitowoc Ice 000008660 Ice Thickness Probe Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n000008660",
+                    "fix_rate": 35.0,
+                    "list_price": "$ 143.80"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MAN/MAN000015573.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Manitowoc Ice 000015573 Thermistor Probe, NTC, IP68",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n000015573",
+                    "fix_rate": 23.0,
+                    "list_price": "$ 56.60"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MAN/MAN000009120.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Manitowoc Ice 000009120 Water Inlet Valve Kit, 115V, 60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n000009120",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 172.50"
+                }
+            ]
+        },
+        {
+            "name": "Filter Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/manitowoc-ice/iy0524a/filter-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/MAN/MAN3005939.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Manitowoc Ice 3005939 Air Filter",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3005939",
+                    "fix_rate": 79.0,
+                    "list_price": "$ 43.00"
+                }
+            ]
+        },
+        {
+            "name": "Valve Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/manitowoc-ice/iy0524a/valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/MAN/MAN000009120.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Manitowoc Ice 000009120 Water Inlet Valve Kit, 115V, 60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n000009120",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 172.50"
+                }
+            ]
+        },
+        {
+            "name": "Condenser Fan Motor Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/manitowoc-ice/iy0524a/condenser-fan-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/MAN/MAN2412929.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Manitowoc Ice 2412929 Fan Motor with Capacitor, 115V, 60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2412929",
+                    "fix_rate": 67.0,
+                    "list_price": "$ 444.90"
+                }
+            ]
+        },
+        {
+            "name": "Water Inlet Valve Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/manitowoc-ice/iy0524a/water-inlet-valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/MAN/MAN000009120.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Manitowoc Ice 000009120 Water Inlet Valve Kit, 115V, 60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n000009120",
+                    "fix_rate": 83.0,
+                    "list_price": "$ 172.50"
+                }
+            ]
+        }
+    ]
+}

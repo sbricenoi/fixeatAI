@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Pilot Is Malfunctioning",
+        "parsed_name": "pilot-is-malfunctioning"
+    },
+    {
+        "name": "Ignitor Is Malfunctioning Or Damaged",
+        "parsed_name": "ignitor-is-malfunctioning-or-damaged"
+    },
+    {
+        "name": "Thermostat Is Malfunctioning",
+        "parsed_name": "thermostat-is-malfunctioning"
+    }
+]

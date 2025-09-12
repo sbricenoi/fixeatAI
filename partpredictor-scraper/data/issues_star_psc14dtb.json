@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Probe Is Malfunctioning",
+        "parsed_name": "probe-is-malfunctioning"
+    },
+    {
+        "name": "Relay Is Malfunctioning",
+        "parsed_name": "relay-is-malfunctioning"
+    },
+    {
+        "name": "Wiring Issue",
+        "parsed_name": "wiring-issue"
+    },
+    {
+        "name": "Controller Is Malfunctioning",
+        "parsed_name": "controller-is-malfunctioning"
+    },
+    {
+        "name": "Switch Is Malfunctioning",
+        "parsed_name": "switch-is-malfunctioning"
+    },
+    {
+        "name": "Heating Element Is Malfunctioning",
+        "parsed_name": "heating-element-is-malfunctioning"
+    },
+    {
+        "name": "Transformer Is Malfunctioning",
+        "parsed_name": "transformer-is-malfunctioning"
+    },
+    {
+        "name": "Unit Is Overheating",
+        "parsed_name": "unit-is-overheating"
+    },
+    {
+        "name": "Unit Won't Turn On",
+        "parsed_name": "unit-won't-turn-on"
+    }
+]

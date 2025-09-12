@@ -1,0 +1,23 @@
+{
+    "brand": "vulcan-hart",
+    "model": "cef40",
+    "issues": [
+        {
+            "name": "Contactor Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/vulcan-hart/cef40/contactor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-945037-00050.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-945037-00050 Contactor, 208-240 Volt, 50/60HZ, 50 Amp, 3 Pole",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-945037-00050",
+                    "fix_rate": 62.0,
+                    "list_price": "$ 293.17"
+                }
+            ]
+        }
+    ]
+}

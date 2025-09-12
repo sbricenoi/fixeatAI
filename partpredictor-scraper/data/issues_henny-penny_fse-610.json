@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Handle Is Defective",
+        "parsed_name": "handle-is-defective"
+    },
+    {
+        "name": "Door Is Malfunctioning",
+        "parsed_name": "door-is-malfunctioning"
+    },
+    {
+        "name": "Spring Is Malfunctioning",
+        "parsed_name": "spring-is-malfunctioning"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Probe Is Malfunctioning",
+        "parsed_name": "probe-is-malfunctioning"
+    },
+    {
+        "name": "Interface Board Is Malfunctioning",
+        "parsed_name": "interface-board-is-malfunctioning"
+    }
+]

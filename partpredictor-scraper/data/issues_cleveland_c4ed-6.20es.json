@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Handle Is Defective",
+        "parsed_name": "handle-is-defective"
+    },
+    {
+        "name": "Door Is Malfunctioning",
+        "parsed_name": "door-is-malfunctioning"
+    }
+]

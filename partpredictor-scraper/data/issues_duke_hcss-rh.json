@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Breaker Is Tripping Or Wont Reset",
+        "parsed_name": "breaker-is-tripping-or-wont-reset"
+    },
+    {
+        "name": "Unit Is Overheating",
+        "parsed_name": "unit-is-overheating"
+    }
+]

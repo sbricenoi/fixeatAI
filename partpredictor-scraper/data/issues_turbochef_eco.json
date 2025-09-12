@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Magnetron Is Malfunctioning",
+        "parsed_name": "magnetron-is-malfunctioning"
+    },
+    {
+        "name": "Fuse Is Blown",
+        "parsed_name": "fuse-is-blown"
+    },
+    {
+        "name": "Transformer Is Malfunctioning",
+        "parsed_name": "transformer-is-malfunctioning"
+    },
+    {
+        "name": "Wave Guide Is Malfunctioning",
+        "parsed_name": "wave-guide-is-malfunctioning"
+    },
+    {
+        "name": "Relay Is Malfunctioning",
+        "parsed_name": "relay-is-malfunctioning"
+    },
+    {
+        "name": "Diode Is Malfunctioning",
+        "parsed_name": "diode-is-malfunctioning"
+    },
+    {
+        "name": "Probe Is Malfunctioning",
+        "parsed_name": "probe-is-malfunctioning"
+    }
+]

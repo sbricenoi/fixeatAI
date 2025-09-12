@@ -1,0 +1,12 @@
+[
+    {
+        "brand": "delfield",
+        "brand_idx": 0,
+        "model": "d4472n-12",
+        "model_idx": 0,
+        "issue": "Unit Is Not Reaching Set Temperature",
+        "issue_idx": 0,
+        "issue_url": "https://www.partstown.com/part-predictor/delfield/d4472n-12/unit-is-not-reaching-set-temperature",
+        "error": "could not convert string to float: ''"
+    }
+]

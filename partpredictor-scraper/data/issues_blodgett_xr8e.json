@@ -1,0 +1,66 @@
+[
+    {
+        "name": "Door Is Malfunctioning",
+        "parsed_name": "door-is-malfunctioning"
+    },
+    {
+        "name": "Latch Is Damaged Or Not Latching",
+        "parsed_name": "latch-is-damaged-or-not-latching"
+    },
+    {
+        "name": "Switch Is Malfunctioning",
+        "parsed_name": "switch-is-malfunctioning"
+    },
+    {
+        "name": "Handle Is Defective",
+        "parsed_name": "handle-is-defective"
+    },
+    {
+        "name": "Motor Is Malfunctioning",
+        "parsed_name": "motor-is-malfunctioning"
+    },
+    {
+        "name": "Pulley Is Damaged Or Defective",
+        "parsed_name": "pulley-is-damaged-or-defective"
+    },
+    {
+        "name": "Spring Is Malfunctioning",
+        "parsed_name": "spring-is-malfunctioning"
+    },
+    {
+        "name": "Contactor Is Malfunctioning",
+        "parsed_name": "contactor-is-malfunctioning"
+    },
+    {
+        "name": "Belt Is Defective",
+        "parsed_name": "belt-is-defective"
+    },
+    {
+        "name": "Controller Is Malfunctioning",
+        "parsed_name": "controller-is-malfunctioning"
+    },
+    {
+        "name": "Fan Motor Is Malfunctioning",
+        "parsed_name": "fan-motor-is-malfunctioning"
+    },
+    {
+        "name": "Thermostat Is Malfunctioning",
+        "parsed_name": "thermostat-is-malfunctioning"
+    },
+    {
+        "name": "Hinge Is Defective Or Damaged",
+        "parsed_name": "hinge-is-defective-or-damaged"
+    },
+    {
+        "name": "Probe Is Malfunctioning",
+        "parsed_name": "probe-is-malfunctioning"
+    },
+    {
+        "name": "Blower Motor Is Malfunctioning",
+        "parsed_name": "blower-motor-is-malfunctioning"
+    },
+    {
+        "name": "Fan Motor Is Making Noise",
+        "parsed_name": "fan-motor-is-making-noise"
+    }
+]

@@ -1,0 +1,23 @@
+{
+    "brand": "garland",
+    "model": "xpe24ac",
+    "issues": [
+        {
+            "name": "Fuse Is Blown",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/garland/xpe24ac/fuse-is-blown",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4600638.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4600638 Fuse, 250V, 10A, Slow Blow",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4600638",
+                    "fix_rate": 56.0,
+                    "list_price": "$ 21.92"
+                }
+            ]
+        }
+    ]
+}

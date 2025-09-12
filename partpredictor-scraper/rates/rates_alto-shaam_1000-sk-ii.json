@@ -1,0 +1,23 @@
+{
+    "brand": "alto-shaam",
+    "model": "1000-sk-ii",
+    "issues": [
+        {
+            "name": "Controller Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/alto-shaam/1000-sk-ii/controller-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/ALT/ALTCC-34488R.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Alto Shaam CC-34488R Control Thermostat with Digital",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nCC-34488R",
+                    "fix_rate": 86.0,
+                    "list_price": "$ 368.00"
+                }
+            ]
+        }
+    ]
+}

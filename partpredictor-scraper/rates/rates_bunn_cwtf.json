@@ -1,0 +1,40 @@
+{
+    "brand": "bunn",
+    "model": "cwtf",
+    "issues": [
+        {
+            "name": "Fuse Is Blown",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/bunn/cwtf/fuse-is-blown",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BU/BU20211.0100.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Bunn 20211.0100 In-Line Thermal Fuse",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n20211.0100",
+                    "fix_rate": 83.0,
+                    "list_price": "$ 8.30"
+                }
+            ]
+        },
+        {
+            "name": "Hi-limit Is Tripping Or Wont Reset",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/bunn/cwtf/hi-limit-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BU/BU29329.1000.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Bunn 29329.1000 Hi Limit Thermostat",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n29329.1000",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 8.51"
+                }
+            ]
+        }
+    ]
+}

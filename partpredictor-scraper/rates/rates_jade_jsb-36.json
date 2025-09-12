@@ -1,0 +1,124 @@
+{
+    "brand": "jade",
+    "model": "jsb-36",
+    "issues": [
+        {
+            "name": "Burner Is Malfunctioning Or Damaged",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/jade/jsb-36/burner-is-malfunctioning-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/JD/JD1212200000.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jade 1212200000 Infra Red Burner, Salamander, 9\" x 23-1/4\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1212200000",
+                    "fix_rate": 31.0,
+                    "list_price": "$ 1,369.29"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/JD/JD4418500200.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jade 4418500200 Burner Valve, Horizontal, Split",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4418500200",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 68.49"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/JD/JD4611200000.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jade 4611200000 Pilot Tip, Stainless Steel with Nut",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4611200000",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 42.57"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/JD/JD5612600000.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jade 5612600000 Tubing, 1/4' x .028\", Rigid, Stainless Steel, Sold per Inch",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n5612600000",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 1.67"
+                }
+            ]
+        },
+        {
+            "name": "Pilot Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/jade/jsb-36/pilot-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/JD/JD4418500200.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jade 4418500200 Burner Valve, Horizontal, Split",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4418500200",
+                    "fix_rate": 28.0,
+                    "list_price": "$ 68.49"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/JD/JD4611200000.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jade 4611200000 Pilot Tip, Stainless Steel with Nut",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4611200000",
+                    "fix_rate": 20.0,
+                    "list_price": "$ 42.57"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/JD/JD4613100100.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jade 4613100100 Pilot Burner, Salamander",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4613100100",
+                    "fix_rate": 20.0,
+                    "list_price": "$ 441.68"
+                }
+            ]
+        },
+        {
+            "name": "Gas Hose Is Leaking Or Damaged",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/jade/jsb-36/gas-hose-is-leaking-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DR/DR1675KIT48.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Dormont 1675KIT48 3/4\" DIA., 48\" BLUE HOSE, SNAPFAST, FULL",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1675KIT48",
+                    "fix_rate": 78.0,
+                    "list_price": "$ 505.54"
+                }
+            ]
+        },
+        {
+            "name": "Regulator Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/jade/jsb-36/regulator-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DR/DR1675KIT48.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Dormont 1675KIT48 3/4\" DIA., 48\" BLUE HOSE, SNAPFAST, FULL",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1675KIT48",
+                    "fix_rate": 71.0,
+                    "list_price": "$ 505.54"
+                }
+            ]
+        }
+    ]
+}

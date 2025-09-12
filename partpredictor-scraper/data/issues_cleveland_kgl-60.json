@@ -1,0 +1,114 @@
+[
+    {
+        "name": "Potentiometer Is Malfunctioning",
+        "parsed_name": "potentiometer-is-malfunctioning"
+    },
+    {
+        "name": "Ignitor Is Malfunctioning Or Damaged",
+        "parsed_name": "ignitor-is-malfunctioning-or-damaged"
+    },
+    {
+        "name": "Switch Is Malfunctioning",
+        "parsed_name": "switch-is-malfunctioning"
+    },
+    {
+        "name": "Gas Valve Is Malfunctioning",
+        "parsed_name": "gas-valve-is-malfunctioning"
+    },
+    {
+        "name": "Controller Is Malfunctioning",
+        "parsed_name": "controller-is-malfunctioning"
+    },
+    {
+        "name": "Ignition Module Is Malfunctioning",
+        "parsed_name": "ignition-module-is-malfunctioning"
+    },
+    {
+        "name": "Gasket Is Defective Or Leaking",
+        "parsed_name": "gasket-is-defective-or-leaking"
+    },
+    {
+        "name": "Hi-limit Is Tripping Or Wont Reset",
+        "parsed_name": "hi-limit-is-tripping-or-wont-reset"
+    },
+    {
+        "name": "Valve Is Malfunctioning",
+        "parsed_name": "valve-is-malfunctioning"
+    },
+    {
+        "name": "Probe Is Malfunctioning",
+        "parsed_name": "probe-is-malfunctioning"
+    },
+    {
+        "name": "Unit Is Not Reaching Set Temperature",
+        "parsed_name": "unit-is-not-reaching-set-temperature"
+    },
+    {
+        "name": "Unit Won't Turn On",
+        "parsed_name": "unit-won't-turn-on"
+    },
+    {
+        "name": "Wiring Issue",
+        "parsed_name": "wiring-issue"
+    },
+    {
+        "name": "Relay Is Malfunctioning",
+        "parsed_name": "relay-is-malfunctioning"
+    },
+    {
+        "name": "Unit Is Shutting Down",
+        "parsed_name": "unit-is-shutting-down"
+    },
+    {
+        "name": "Blower Motor Is Malfunctioning",
+        "parsed_name": "blower-motor-is-malfunctioning"
+    },
+    {
+        "name": "O Ring Is Damaged Or Leaking",
+        "parsed_name": "o-ring-is-damaged-or-leaking"
+    },
+    {
+        "name": "Thermostat Is Malfunctioning",
+        "parsed_name": "thermostat-is-malfunctioning"
+    },
+    {
+        "name": "Unit Is Overheating",
+        "parsed_name": "unit-is-overheating"
+    },
+    {
+        "name": "Ingition Module Is Malfunctioning",
+        "parsed_name": "ingition-module-is-malfunctioning"
+    },
+    {
+        "name": "Spring Is Malfunctioning",
+        "parsed_name": "spring-is-malfunctioning"
+    },
+    {
+        "name": "Faucet Is Malfunctioning",
+        "parsed_name": "faucet-is-malfunctioning"
+    },
+    {
+        "name": "Pressure Relief Valve Is Leaking",
+        "parsed_name": "pressure-relief-valve-is-leaking"
+    },
+    {
+        "name": "Pressure Relief Valve Is Malfunctioning",
+        "parsed_name": "pressure-relief-valve-is-malfunctioning"
+    },
+    {
+        "name": "Valve Is Leaking",
+        "parsed_name": "valve-is-leaking"
+    },
+    {
+        "name": "Fire Coming Out Of Unit",
+        "parsed_name": "fire-coming-out-of-unit"
+    },
+    {
+        "name": "Pilot Safety Valve Is Malfunctioning",
+        "parsed_name": "pilot-safety-valve-is-malfunctioning"
+    },
+    {
+        "name": "Drain Valve Is Leaking",
+        "parsed_name": "drain-valve-is-leaking"
+    }
+]

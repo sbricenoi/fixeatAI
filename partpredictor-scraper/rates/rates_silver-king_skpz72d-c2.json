@@ -1,0 +1,23 @@
+{
+    "brand": "silver-king",
+    "model": "skpz72d-c2",
+    "issues": [
+        {
+            "name": "Unit Is Not Reaching Set Temperature",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/silver-king/skpz72d-c2/unit-is-not-reaching-set-temperature",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SVK/SVK38822.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Silver King 38822 Temperature Probe, 96\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n38822",
+                    "fix_rate": 31.0,
+                    "list_price": "$ 50.08"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "brand": "henny-penny",
+    "model": "hc-900",
+    "issues": [
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/hc-900/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN22198.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 22198 Toggle Switch, Power, DPST, 20A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n22198",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 17.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN14635.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 14635 Switch Assembly, Toggle, DPST",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n14635",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 36.50"
+                }
+            ]
+        },
+        {
+            "name": "Blower Motor Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/hc-900/blower-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN25753.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 25753 Blower Motor Assembly, 120V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n25753",
+                    "fix_rate": 71.0,
+                    "list_price": "$ 210.20"
+                }
+            ]
+        },
+        {
+            "name": "Fan Motor Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/hc-900/fan-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN25753.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 25753 Blower Motor Assembly, 120V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n25753",
+                    "fix_rate": 65.0,
+                    "list_price": "$ 210.20"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN14250.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 14250 Thermometer Kit, HHC90X/HCX/CW",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n14250",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 94.20"
+                }
+            ]
+        },
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/hc-900/thermostat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN14209.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 14209 Thermostat Kit with Clips, 90X/93X",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n14209",
+                    "fix_rate": 88.0,
+                    "list_price": "$ 133.90"
+                }
+            ]
+        },
+        {
+            "name": "Motor Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/hc-900/motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN182498-001.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 182498-001 Blower Motor Kit,120V, 60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n182498-001",
+                    "fix_rate": 56.0,
+                    "list_price": "$ 117.80"
+                }
+            ]
+        },
+        {
+            "name": "Hinge Is Defective Or Damaged",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/hc-900/hinge-is-defective-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN14271.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 14271 Door Hinge Kit, HC-900",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n14271",
+                    "fix_rate": 88.0,
+                    "list_price": "$ 103.10"
+                }
+            ]
+        }
+    ]
+}

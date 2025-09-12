@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Pilot Is Malfunctioning",
+        "parsed_name": "pilot-is-malfunctioning"
+    },
+    {
+        "name": "Thermopile Is Malfunctioning",
+        "parsed_name": "thermopile-is-malfunctioning"
+    },
+    {
+        "name": "Gas Valve Is Malfunctioning",
+        "parsed_name": "gas-valve-is-malfunctioning"
+    }
+]

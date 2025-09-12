@@ -1,0 +1,67 @@
+{
+    "brand": "beverage-air",
+    "model": "ucr27ahc",
+    "issues": [
+        {
+            "name": "Unit Is Not Reaching Set Temperature",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/beverage-air/ucr27ahc/unit-is-not-reaching-set-temperature",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BEV/BEV00C30-123D-03.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Beverage Air 00C30-123D-03 Temperature Control Kit with Probes, ERC1120",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00C30-123D-03",
+                    "fix_rate": 38.0,
+                    "list_price": "$ 500.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BEV/BEV515-296D-01.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Beverage Air 515-296D-01 Air Sensor, New 974, 118.11\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n515-296D-01",
+                    "fix_rate": 24.0,
+                    "list_price": "$ 26.00"
+                }
+            ]
+        },
+        {
+            "name": "Controller Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/beverage-air/ucr27ahc/controller-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BEV/BEV00C30-123D-03.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Beverage Air 00C30-123D-03 Temperature Control Kit with Probes, ERC1120",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00C30-123D-03",
+                    "fix_rate": 79.0,
+                    "list_price": "$ 500.00"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/beverage-air/ucr27ahc/unit-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BEV/BEV00C30-123D-03.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Beverage Air 00C30-123D-03 Temperature Control Kit with Probes, ERC1120",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00C30-123D-03",
+                    "fix_rate": 45.0,
+                    "list_price": "$ 500.00"
+                }
+            ]
+        }
+    ]
+}

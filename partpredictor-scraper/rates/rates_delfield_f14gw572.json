@@ -1,0 +1,138 @@
+{
+    "brand": "delfield",
+    "model": "f14gw572",
+    "issues": [
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/delfield/f14gw572/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2194110KT-S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2194110KT-S Infinite Control Switch, 240V, 15A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2194110KT-S",
+                    "fix_rate": 31.0,
+                    "list_price": "$ 62.86"
+                }
+            ]
+        },
+        {
+            "name": "Infinite Switch Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/delfield/f14gw572/infinite-switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2194110KT-S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2194110KT-S Infinite Control Switch, 240V, 15A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2194110KT-S",
+                    "fix_rate": 35.0,
+                    "list_price": "$ 62.86"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2194335.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2194335 Thermostat, Non Adjustable",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2194335",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 141.58"
+                }
+            ]
+        },
+        {
+            "name": "Hi-limit Is Tripping Or Wont Reset",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/delfield/f14gw572/hi-limit-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2194335.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2194335 Thermostat, Non Adjustable",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2194335",
+                    "fix_rate": 60.0,
+                    "list_price": "$ 141.58"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2194007.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2194007 Element, 208/230V, Hot Well",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2194007",
+                    "fix_rate": 40.0,
+                    "list_price": "$ 163.74"
+                }
+            ]
+        },
+        {
+            "name": "Heating Element Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/delfield/f14gw572/heating-element-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2194007.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2194007 Element, 208/230V, Hot Well",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2194007",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 163.74"
+                }
+            ]
+        },
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/delfield/f14gw572/thermostat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2194110KT-S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2194110KT-S Infinite Control Switch, 240V, 15A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2194110KT-S",
+                    "fix_rate": 70.0,
+                    "list_price": "$ 62.86"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2194335.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2194335 Thermostat, Non Adjustable",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2194335",
+                    "fix_rate": 60.0,
+                    "list_price": "$ 141.58"
+                }
+            ]
+        },
+        {
+            "name": "Controller Is Malfunctioning",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/delfield/f14gw572/controller-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2195319.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2195319 Digital Control, 500W Food Well",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2195319",
+                    "fix_rate": 75.0,
+                    "list_price": "$ 759.34"
+                }
+            ]
+        }
+    ]
+}

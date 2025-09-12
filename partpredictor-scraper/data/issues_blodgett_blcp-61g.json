@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Display Is Malfunctioning",
+        "parsed_name": "display-is-malfunctioning"
+    },
+    {
+        "name": "Controller Is Malfunctioning",
+        "parsed_name": "controller-is-malfunctioning"
+    },
+    {
+        "name": "Keypad Is Not Responding Or Damaged",
+        "parsed_name": "keypad-is-not-responding-or-damaged"
+    },
+    {
+        "name": "Door Gasket Is Defective",
+        "parsed_name": "door-gasket-is-defective"
+    }
+]

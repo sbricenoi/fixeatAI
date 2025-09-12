@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Unit Is Leaking",
+        "parsed_name": "unit-is-leaking"
+    },
+    {
+        "name": "Probe Is Malfunctioning",
+        "parsed_name": "probe-is-malfunctioning"
+    },
+    {
+        "name": "Gasket Is Defective Or Leaking",
+        "parsed_name": "gasket-is-defective-or-leaking"
+    },
+    {
+        "name": "Pump Seal Is Leaking",
+        "parsed_name": "pump-seal-is-leaking"
+    },
+    {
+        "name": "Door Switch Is Malfunctioning",
+        "parsed_name": "door-switch-is-malfunctioning"
+    }
+]

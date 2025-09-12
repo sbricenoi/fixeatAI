@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Blower Motor Is Malfunctioning",
+        "parsed_name": "blower-motor-is-malfunctioning"
+    },
+    {
+        "name": "Fan Motor Is Malfunctioning",
+        "parsed_name": "fan-motor-is-malfunctioning"
+    },
+    {
+        "name": "Heating Element Is Malfunctioning",
+        "parsed_name": "heating-element-is-malfunctioning"
+    },
+    {
+        "name": "Relay Is Malfunctioning",
+        "parsed_name": "relay-is-malfunctioning"
+    },
+    {
+        "name": "Motor Is Malfunctioning",
+        "parsed_name": "motor-is-malfunctioning"
+    },
+    {
+        "name": "Display Is Malfunctioning",
+        "parsed_name": "display-is-malfunctioning"
+    },
+    {
+        "name": "Contactor Is Malfunctioning",
+        "parsed_name": "contactor-is-malfunctioning"
+    },
+    {
+        "name": "Belt Is Defective",
+        "parsed_name": "belt-is-defective"
+    },
+    {
+        "name": "Cooling Fan Is Malfunctioning",
+        "parsed_name": "cooling-fan-is-malfunctioning"
+    },
+    {
+        "name": "Controller Is Malfunctioning",
+        "parsed_name": "controller-is-malfunctioning"
+    },
+    {
+        "name": "Conveyor Belt Is Malfunctioning",
+        "parsed_name": "conveyor-belt-is-malfunctioning"
+    },
+    {
+        "name": "Transformer Is Malfunctioning",
+        "parsed_name": "transformer-is-malfunctioning"
+    }
+]

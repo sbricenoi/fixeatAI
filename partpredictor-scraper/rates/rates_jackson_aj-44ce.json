@@ -1,0 +1,40 @@
+{
+    "brand": "jackson",
+    "model": "aj-44ce",
+    "issues": [
+        {
+            "name": "Motor Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/jackson/aj-44ce/motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/JAC/JAC6401-003-06-73.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jackson 6401-003-06-73 Pump Seal Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n6401-003-06-73",
+                    "fix_rate": 67.0,
+                    "list_price": "$ 91.85"
+                }
+            ]
+        },
+        {
+            "name": "Door Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/jackson/aj-44ce/door-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/JAC/JAC5700-111-70-92.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jackson 5700-111-70-92 Door Glide",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n5700-111-70-92",
+                    "fix_rate": 83.0,
+                    "list_price": "$ 24.01"
+                }
+            ]
+        }
+    ]
+}

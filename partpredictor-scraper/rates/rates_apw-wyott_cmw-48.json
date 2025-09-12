@@ -1,0 +1,118 @@
+{
+    "brand": "apw-wyott",
+    "model": "cmw-48",
+    "issues": [
+        {
+            "name": "Socket Is Defective Or Damaged",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/apw-wyott/cmw-48/socket-is-defective-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/APW/APWAS-82530000.view?thumb&image.rules=G0&w=200",
+                    "product_name": "APW Wyott AS-82530000 Heater Tube, Quartz, 208V, 1050W",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nAS-82530000",
+                    "fix_rate": 62.0,
+                    "list_price": "$ 150.95"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/APW/APWAS-3100801.view?thumb&image.rules=G0&w=200",
+                    "product_name": "APW Wyott AS-3100801 Socket, Heater, BS-1",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nAS-3100801",
+                    "fix_rate": 38.0,
+                    "list_price": "$ 79.26"
+                }
+            ]
+        },
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/apw-wyott/cmw-48/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/APW/APWAS-1301613.view?thumb&image.rules=G0&w=200",
+                    "product_name": "APW Wyott AS-1301613 Microswitch, Rack, 48\" Models",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nAS-1301613",
+                    "fix_rate": 67.0,
+                    "list_price": "$ 136.67"
+                }
+            ]
+        },
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/apw-wyott/cmw-48/thermostat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/APW/APWAS-82530000.view?thumb&image.rules=G0&w=200",
+                    "product_name": "APW Wyott AS-82530000 Heater Tube, Quartz, 208V, 1050W",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nAS-82530000",
+                    "fix_rate": 92.0,
+                    "list_price": "$ 150.95"
+                }
+            ]
+        },
+        {
+            "name": "Wiring Issue",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/apw-wyott/cmw-48/wiring-issue",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/APW/APWAS-82530000.view?thumb&image.rules=G0&w=200",
+                    "product_name": "APW Wyott AS-82530000 Heater Tube, Quartz, 208V, 1050W",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nAS-82530000",
+                    "fix_rate": 58.0,
+                    "list_price": "$ 150.95"
+                }
+            ]
+        },
+        {
+            "name": "Heating Element Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/apw-wyott/cmw-48/heating-element-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/APW/APWAS-82530000.view?thumb&image.rules=G0&w=200",
+                    "product_name": "APW Wyott AS-82530000 Heater Tube, Quartz, 208V, 1050W",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nAS-82530000",
+                    "fix_rate": 80.0,
+                    "list_price": "$ 150.95"
+                }
+            ]
+        },
+        {
+            "name": "Heating Element Is Not Heating Properly",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/apw-wyott/cmw-48/heating-element-is-not-heating-properly",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/APW/APWAS-82530000.view?thumb&image.rules=G0&w=200",
+                    "product_name": "APW Wyott AS-82530000 Heater Tube, Quartz, 208V, 1050W",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nAS-82530000",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 150.95"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "brand": "hoshizaki",
+    "model": "km-320mah-e",
+    "issues": [
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/hoshizaki/km-320mah-e/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HOS/HOS2A8598G01.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hoshizaki 2A8598G01 Switch Mount, Bin Control",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2A8598G01",
+                    "fix_rate": 56.0,
+                    "list_price": "$ 82.50"
+                }
+            ]
+        }
+    ]
+}

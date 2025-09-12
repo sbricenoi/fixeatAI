@@ -1,0 +1,101 @@
+{
+    "brand": "groen",
+    "model": "hy-6g",
+    "issues": [
+        {
+            "name": "Controller Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/groen/hy-6g/controller-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GR141082.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen 141082 Steamer Control Board Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n141082",
+                    "fix_rate": 43.0,
+                    "list_price": "$ 1,103.35"
+                }
+            ]
+        },
+        {
+            "name": "Door Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/groen/hy-6g/door-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GRZ078911.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen Z078911 Door Spring",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nZ078911",
+                    "fix_rate": 35.0,
+                    "list_price": "$ 16.37"
+                }
+            ]
+        },
+        {
+            "name": "Probe Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/groen/hy-6g/probe-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GR141424.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen 141424 Water Level Probe, Left",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n141424",
+                    "fix_rate": 77.0,
+                    "list_price": "$ 77.84"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GR141285.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen 141285 Water Level Probe, Right, 2-1/16\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n141285",
+                    "fix_rate": 54.0,
+                    "list_price": "$ 63.27"
+                }
+            ]
+        },
+        {
+            "name": "Pilot Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/groen/hy-6g/pilot-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GRZ096705.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen Z096705 Pilot Burner Assembly, Natural Gas",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nZ096705",
+                    "fix_rate": 56.0,
+                    "list_price": "$ 127.43"
+                }
+            ]
+        },
+        {
+            "name": "Latch Is Damaged Or Not Latching",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/groen/hy-6g/latch-is-damaged-or-not-latching",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GRZ078911.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen Z078911 Door Spring",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nZ078911",
+                    "fix_rate": 75.0,
+                    "list_price": "$ 16.37"
+                }
+            ]
+        }
+    ]
+}

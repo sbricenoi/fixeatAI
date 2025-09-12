@@ -1,0 +1,23 @@
+{
+    "brand": "hobart",
+    "model": "cg58",
+    "issues": [
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/hobart/cg58/thermostat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-944298.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-944298 Thermostat, 450F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-944298",
+                    "fix_rate": 44.0,
+                    "list_price": "$ 142.78"
+                }
+            ]
+        }
+    ]
+}

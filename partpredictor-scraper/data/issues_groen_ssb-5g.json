@@ -1,0 +1,130 @@
+[
+    {
+        "name": "Fuse Is Blown",
+        "parsed_name": "fuse-is-blown"
+    },
+    {
+        "name": "Unit Is Leaking",
+        "parsed_name": "unit-is-leaking"
+    },
+    {
+        "name": "Fan Motor Is Malfunctioning",
+        "parsed_name": "fan-motor-is-malfunctioning"
+    },
+    {
+        "name": "Door Is Malfunctioning",
+        "parsed_name": "door-is-malfunctioning"
+    },
+    {
+        "name": "Hose Is Broken Or Leaking",
+        "parsed_name": "hose-is-broken-or-leaking"
+    },
+    {
+        "name": "Cooling Fan Is Malfunctioning",
+        "parsed_name": "cooling-fan-is-malfunctioning"
+    },
+    {
+        "name": "Flame Sensor Is Malfunctioning",
+        "parsed_name": "flame-sensor-is-malfunctioning"
+    },
+    {
+        "name": "Ignitor Is Malfunctioning Or Damaged",
+        "parsed_name": "ignitor-is-malfunctioning-or-damaged"
+    },
+    {
+        "name": "Handle Is Defective",
+        "parsed_name": "handle-is-defective"
+    },
+    {
+        "name": "Probe Is Malfunctioning",
+        "parsed_name": "probe-is-malfunctioning"
+    },
+    {
+        "name": "Valve Is Malfunctioning",
+        "parsed_name": "valve-is-malfunctioning"
+    },
+    {
+        "name": "Ignition Module Is Malfunctioning",
+        "parsed_name": "ignition-module-is-malfunctioning"
+    },
+    {
+        "name": "Gasket Is Defective Or Leaking",
+        "parsed_name": "gasket-is-defective-or-leaking"
+    },
+    {
+        "name": "Relay Board Is Malfunctioning",
+        "parsed_name": "relay-board-is-malfunctioning"
+    },
+    {
+        "name": "Switch Is Malfunctioning",
+        "parsed_name": "switch-is-malfunctioning"
+    },
+    {
+        "name": "Unit Won't Turn On",
+        "parsed_name": "unit-won't-turn-on"
+    },
+    {
+        "name": "Breaker Is Tripping Or Wont Reset",
+        "parsed_name": "breaker-is-tripping-or-wont-reset"
+    },
+    {
+        "name": "Unit Is Overheating",
+        "parsed_name": "unit-is-overheating"
+    },
+    {
+        "name": "Drain Valve Is Malfunctioning",
+        "parsed_name": "drain-valve-is-malfunctioning"
+    },
+    {
+        "name": "Float Is Malfunctioning",
+        "parsed_name": "float-is-malfunctioning"
+    },
+    {
+        "name": "Burner Is Malfunctioning Or Damaged",
+        "parsed_name": "burner-is-malfunctioning-or-damaged"
+    },
+    {
+        "name": "Thermostat Is Malfunctioning",
+        "parsed_name": "thermostat-is-malfunctioning"
+    },
+    {
+        "name": "Wiring Issue",
+        "parsed_name": "wiring-issue"
+    },
+    {
+        "name": "Controller Is Malfunctioning",
+        "parsed_name": "controller-is-malfunctioning"
+    },
+    {
+        "name": "Unit Is Malfunctioning",
+        "parsed_name": "unit-is-malfunctioning"
+    },
+    {
+        "name": "Door Gasket Is Defective",
+        "parsed_name": "door-gasket-is-defective"
+    },
+    {
+        "name": "Insulation Is Damaged",
+        "parsed_name": "insulation-is-damaged"
+    },
+    {
+        "name": "Door Is Leaking",
+        "parsed_name": "door-is-leaking"
+    },
+    {
+        "name": "Sensor Is Malfunctioning",
+        "parsed_name": "sensor-is-malfunctioning"
+    },
+    {
+        "name": "Blower Wheel Is Malfunctioning",
+        "parsed_name": "blower-wheel-is-malfunctioning"
+    },
+    {
+        "name": "Door Switch Is Malfunctioning",
+        "parsed_name": "door-switch-is-malfunctioning"
+    },
+    {
+        "name": "Fire Coming Out Of Unit",
+        "parsed_name": "fire-coming-out-of-unit"
+    }
+]

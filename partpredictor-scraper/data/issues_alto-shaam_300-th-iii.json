@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Manifold Is Damaged Or Clogged",
+        "parsed_name": "manifold-is-damaged-or-clogged"
+    },
+    {
+        "name": "Probe Is Malfunctioning",
+        "parsed_name": "probe-is-malfunctioning"
+    },
+    {
+        "name": "Heating Element Is Malfunctioning",
+        "parsed_name": "heating-element-is-malfunctioning"
+    }
+]

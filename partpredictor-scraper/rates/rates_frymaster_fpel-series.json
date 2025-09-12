@@ -1,0 +1,50 @@
+{
+    "brand": "frymaster",
+    "model": "fpel-series",
+    "issues": [
+        {
+            "name": "Burner Is Malfunctioning Or Damaged",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/frymaster/fpel-series/burner-is-malfunctioning-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8104688.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8104688 Universal Burner, Infrared, GL30",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8104688",
+                    "fix_rate": 75.0,
+                    "list_price": "$ 730.61"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8262592.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8262592 Burner Insulation Kit, Full Vat, GL30",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8262592",
+                    "fix_rate": 62.0,
+                    "list_price": "$ 165.87"
+                }
+            ]
+        },
+        {
+            "name": "Contactor Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/frymaster/fpel-series/contactor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8263417.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8263417 Contactor Kit, 3 Pole, 50A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8263417",
+                    "fix_rate": 88.0,
+                    "list_price": "$ 154.67"
+                }
+            ]
+        }
+    ]
+}

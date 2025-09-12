@@ -1,0 +1,340 @@
+{
+    "brand": "antunes",
+    "model": "hct-5h",
+    "issues": [
+        {
+            "name": "Motor Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/antunes/hct-5h/motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001040.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001040 Motor Board Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001040",
+                    "fix_rate": 48.0,
+                    "list_price": "$ 258.02"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001146.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001146 Fan, Blower, 230V, 50/60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001146",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 79.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001041.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001041 Drive Motor Kit, 230V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001041",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 648.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7000777.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7000777 Bearing, Pack of 2",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7000777",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 45.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001172.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001172 Drive Roller Kit, Top",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001172",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 546.00"
+                }
+            ]
+        },
+        {
+            "name": "Fan Motor Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/antunes/hct-5h/fan-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001146.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001146 Fan, Blower, 230V, 50/60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001146",
+                    "fix_rate": 65.0,
+                    "list_price": "$ 79.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001040.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001040 Motor Board Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001040",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 258.02"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/APW/APW2U-85284.view?thumb&image.rules=G0&w=200",
+                    "product_name": "APW Wyott 2U-85284 Fan, Cooling, 4.5 Diameters",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2U-85284",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 203.84"
+                }
+            ]
+        },
+        {
+            "name": "Roller Is Damaged Or Missing",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/antunes/hct-5h/roller-is-damaged-or-missing",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001172.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001172 Drive Roller Kit, Top",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001172",
+                    "fix_rate": 64.0,
+                    "list_price": "$ 546.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001548.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001548 Chain, Drive",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001548",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 83.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7000777.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7000777 Bearing, Pack of 2",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7000777",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 45.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001160.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001160 Idler Sprocket Assembly Kit, HCT-5H",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001160",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 65.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001040.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001040 Motor Board Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001040",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 258.02"
+                }
+            ]
+        },
+        {
+            "name": "Cooling Fan Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/antunes/hct-5h/cooling-fan-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001146.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001146 Fan, Blower, 230V, 50/60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001146",
+                    "fix_rate": 70.0,
+                    "list_price": "$ 79.00"
+                }
+            ]
+        },
+        {
+            "name": "Wiring Issue",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/antunes/hct-5h/wiring-issue",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001142.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001142 Relay Replacement Kit, Solid State",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001142",
+                    "fix_rate": 23.0,
+                    "list_price": "$ 184.00"
+                }
+            ]
+        },
+        {
+            "name": "Sprocket Is Damaged",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/antunes/hct-5h/sprocket-is-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001331.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001331 Sprocket, 25B24",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001331",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 32.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001978.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001978 Drive Sprocket, Black",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001978",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 27.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001160.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001160 Idler Sprocket Assembly Kit, HCT-5H",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001160",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 65.00"
+                }
+            ]
+        },
+        {
+            "name": "Hi-limit Is Tripping Or Wont Reset",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/antunes/hct-5h/hi-limit-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001144.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001144 Hi-Limit Thermostat",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001144",
+                    "fix_rate": 67.0,
+                    "list_price": "$ 184.00"
+                }
+            ]
+        },
+        {
+            "name": "Sensor Is Malfunctioning",
+            "idx": 7,
+            "url": "https://www.partstown.com/part-predictor/antunes/hct-5h/sensor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001293.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001293 Thermocouple Kit, Type K",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001293",
+                    "fix_rate": 38.0,
+                    "list_price": "$ 62.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001291.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001291 Thermocouple Kit, 52\", HCT-5H",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001291",
+                    "fix_rate": 38.0,
+                    "list_price": "$ 68.00"
+                }
+            ]
+        },
+        {
+            "name": "Controller Is Malfunctioning",
+            "idx": 8,
+            "url": "https://www.partstown.com/part-predictor/antunes/hct-5h/controller-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001040.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001040 Motor Board Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001040",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 258.02"
+                }
+            ]
+        },
+        {
+            "name": "Relay Is Malfunctioning",
+            "idx": 9,
+            "url": "https://www.partstown.com/part-predictor/antunes/hct-5h/relay-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001142.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001142 Relay Replacement Kit, Solid State",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001142",
+                    "fix_rate": 70.0,
+                    "list_price": "$ 184.00"
+                }
+            ]
+        },
+        {
+            "name": "Thermocouple Is Malfunctioning",
+            "idx": 10,
+            "url": "https://www.partstown.com/part-predictor/antunes/hct-5h/thermocouple-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001293.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001293 Thermocouple Kit, Type K",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001293",
+                    "fix_rate": 67.0,
+                    "list_price": "$ 62.00"
+                }
+            ]
+        },
+        {
+            "name": "Display Is Malfunctioning",
+            "idx": 11,
+            "url": "https://www.partstown.com/part-predictor/antunes/hct-5h/display-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001042.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001042 Main Board Kit, HCT-5H",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001042",
+                    "fix_rate": 71.0,
+                    "list_price": "$ 507.15"
+                }
+            ]
+        }
+    ]
+}

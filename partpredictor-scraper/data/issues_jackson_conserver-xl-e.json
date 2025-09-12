@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Motor Is Malfunctioning",
+        "parsed_name": "motor-is-malfunctioning"
+    },
+    {
+        "name": "Filter Pump Is Not Starting",
+        "parsed_name": "filter-pump-is-not-starting"
+    },
+    {
+        "name": "Solenoid Valve Is Malfunctioning",
+        "parsed_name": "solenoid-valve-is-malfunctioning"
+    }
+]

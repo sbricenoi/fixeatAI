@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Door Gasket Is Defective",
+        "parsed_name": "door-gasket-is-defective"
+    },
+    {
+        "name": "Door Is Leaking",
+        "parsed_name": "door-is-leaking"
+    },
+    {
+        "name": "Gasket Is Defective Or Leaking",
+        "parsed_name": "gasket-is-defective-or-leaking"
+    }
+]

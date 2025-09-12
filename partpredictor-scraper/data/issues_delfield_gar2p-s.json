@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Unit Is Not Reaching Set Temperature",
+        "parsed_name": "unit-is-not-reaching-set-temperature"
+    },
+    {
+        "name": "Door Is Malfunctioning",
+        "parsed_name": "door-is-malfunctioning"
+    },
+    {
+        "name": "Display Is Malfunctioning",
+        "parsed_name": "display-is-malfunctioning"
+    }
+]

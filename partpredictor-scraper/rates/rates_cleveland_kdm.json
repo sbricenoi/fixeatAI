@@ -1,0 +1,268 @@
+{
+    "brand": "cleveland",
+    "model": "kdm",
+    "issues": [
+        {
+            "name": "Unit Is Leaking",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/cleveland/kdm/unit-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE02055-3.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE02055-3 Steam Inlet Valve, 3/4\", Plated Body and Nut",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE02055-3",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 624.52"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLESE00112.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland SE00112 O-Ring Kit, KDT",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSE00112",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 110.81"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEFA05002-6.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland FA05002-6 O-Ring, Viton",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nFA05002-6",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 4.31"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLESE00028.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland SE00028 Knob Assembly, Red, Steam Inlet",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSE00028",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 47.55"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLESE00096.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland SE00096 Condensate Return Kit, Trunnion, KDT",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSE00096",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 593.46"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLESE00030.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland SE00030 Steam Inlet Valve Kit for Trunnion",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSE00030",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 861.65"
+                }
+            ]
+        },
+        {
+            "name": "Valve Is Leaking",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/cleveland/kdm/valve-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE02055-3.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE02055-3 Steam Inlet Valve, 3/4\", Plated Body and Nut",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE02055-3",
+                    "fix_rate": 35.0,
+                    "list_price": "$ 624.52"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLESE00028.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland SE00028 Knob Assembly, Red, Steam Inlet",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSE00028",
+                    "fix_rate": 24.0,
+                    "list_price": "$ 47.55"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLESE50441-2.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland SE50441-2 Stem Assembly, Steam Supply Valve, 3/4\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSE50441-2",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 346.72"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE02055-2.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE02055-2 Steam Valve, 3/4\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE02055-2",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 467.21"
+                }
+            ]
+        },
+        {
+            "name": "Valve Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/cleveland/kdm/valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLESE00028.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland SE00028 Knob Assembly, Red, Steam Inlet",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSE00028",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 47.55"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE02055-3.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE02055-3 Steam Inlet Valve, 3/4\", Plated Body and Nut",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE02055-3",
+                    "fix_rate": 23.0,
+                    "list_price": "$ 624.52"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLESE50441-2.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland SE50441-2 Stem Assembly, Steam Supply Valve, 3/4\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSE50441-2",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 346.72"
+                }
+            ]
+        },
+        {
+            "name": "Hinge Is Defective Or Damaged",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/cleveland/kdm/hinge-is-defective-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE50820.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE50820 Insert, Hinge, Brass Adjustment",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE50820",
+                    "fix_rate": 58.0,
+                    "list_price": "$ 156.03"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE50121-2.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE50121-2 Hinge Spring, Light, 0.162\" Diameter",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE50121-2",
+                    "fix_rate": 58.0,
+                    "list_price": "$ 23.62"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEFA11507.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland FA11507 Screw, Adjustment",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nFA11507",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 4.52"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEFA11284.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland FA11284 Socket Head Screw, Stainless Steel, 1/4-20 X 1/2",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nFA11284",
+                    "fix_rate": 42.0,
+                    "list_price": "$ 4.76"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE50823-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE50823-1 Hinge Pin",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE50823-1",
+                    "fix_rate": 42.0,
+                    "list_price": "$ 110.65"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE50824.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE50824 Hinge Bearing",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE50824",
+                    "fix_rate": 42.0,
+                    "list_price": "$ 97.75"
+                }
+            ]
+        },
+        {
+            "name": "Spring Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/cleveland/kdm/spring-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE50820.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE50820 Insert, Hinge, Brass Adjustment",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE50820",
+                    "fix_rate": 89.0,
+                    "list_price": "$ 156.03"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE50121-2.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE50121-2 Hinge Spring, Light, 0.162\" Diameter",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE50121-2",
+                    "fix_rate": 78.0,
+                    "list_price": "$ 23.62"
+                }
+            ]
+        },
+        {
+            "name": "Door Spring Is Malfunctioning",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/cleveland/kdm/door-spring-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE50121-2.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE50121-2 Hinge Spring, Light, 0.162\" Diameter",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE50121-2",
+                    "fix_rate": 83.0,
+                    "list_price": "$ 23.62"
+                }
+            ]
+        }
+    ]
+}

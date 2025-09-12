@@ -1,0 +1,40 @@
+{
+    "brand": "beverage-air",
+    "model": "er-24-1as",
+    "issues": [
+        {
+            "name": "Unit Is Not Reaching Set Temperature",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/beverage-air/er-24-1as/unit-is-not-reaching-set-temperature",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BEV/BEV502-290B.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Beverage Air 502-290B Temperature Control, E/PR/SPR/SPRF",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n502-290B",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 83.00"
+                }
+            ]
+        },
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/beverage-air/er-24-1as/thermostat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BEV/BEV502-290B.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Beverage Air 502-290B Temperature Control, E/PR/SPR/SPRF",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n502-290B",
+                    "fix_rate": 42.0,
+                    "list_price": "$ 83.00"
+                }
+            ]
+        }
+    ]
+}

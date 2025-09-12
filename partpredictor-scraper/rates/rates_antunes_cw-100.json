@@ -1,0 +1,40 @@
+{
+    "brand": "antunes",
+    "model": "cw-100",
+    "issues": [
+        {
+            "name": "Wiring Issue",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/antunes/cw-100/wiring-issue",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7000618.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7000618 Knob, Thermostat",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7000618",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 22.00"
+                }
+            ]
+        },
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/antunes/cw-100/thermostat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7000618.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7000618 Knob, Thermostat",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7000618",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 22.00"
+                }
+            ]
+        }
+    ]
+}

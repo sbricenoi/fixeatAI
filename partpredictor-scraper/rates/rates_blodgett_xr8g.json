@@ -1,0 +1,40 @@
+{
+    "brand": "blodgett",
+    "model": "xr8g",
+    "issues": [
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/blodgett/xr8g/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL52698.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 52698 Microswitch Assembly, Rack Stop, XR8E/G",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n52698",
+                    "fix_rate": 45.0,
+                    "list_price": "$ 147.68"
+                }
+            ]
+        },
+        {
+            "name": "Probe Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/blodgett/xr8g/probe-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL50786.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 50786 Temperature Probe Service Kit, 1K, XR8G/E",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n50786",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 172.64"
+                }
+            ]
+        }
+    ]
+}

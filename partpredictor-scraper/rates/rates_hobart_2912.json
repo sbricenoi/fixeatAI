@@ -1,0 +1,177 @@
+{
+    "brand": "hobart",
+    "model": "2912",
+    "issues": [
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/hobart/2912/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HOB/HOB00-875567.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hobart 00-875567 Switch, Toggle, DPST",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-875567",
+                    "fix_rate": 58.0,
+                    "list_price": "$ 53.49"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HOB/HOB00-873664.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hobart 00-873664 Arm, Switch Pivot, 2000 Series",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-873664",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 23.71"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HOB/HOB00-117542-00095.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hobart 00-117542-00095 Cord And Plug Assembly, 100/120V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-117542-00095",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 81.18"
+                }
+            ]
+        },
+        {
+            "name": "Blade Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/hobart/2912/blade-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HOB/HOB00-873830-00006.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hobart 00-873830-00006 Knife Guard/Cover Assembly with Lock Knob",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-873830-00006",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 674.99"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HOB/HOB00-437994.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hobart 00-437994 Spring, Top Cover",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-437994",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 4.47"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HOB/HOB00-873847-00001.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hobart 00-873847-00001 Knife Sharpener Assembly, Domestic Slicers",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-873847-00001",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 501.09"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HOB/HOB00-439870-00005.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hobart 00-439870-00005 Slicer Knife, 1000 2000",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-439870-00005",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 1,309.99"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HOB/HOB00-873830-00007.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hobart 00-873830-00007 Top Cover with Lock Knob Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-873830-00007",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 652.47"
+                }
+            ]
+        },
+        {
+            "name": "Handle Is Defective",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/hobart/2912/handle-is-defective",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HOB/HOB00-915596.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hobart 00-915596 Handle and Slide Rod Support Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-915596",
+                    "fix_rate": 35.0,
+                    "list_price": "$ 174.35"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HOB/HOB00-913067.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hobart 00-913067 Meat Grip Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-913067",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 281.33"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HOB/HOB00-875353.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hobart 00-875353 Knob And Lever Assembly, Microban",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-875353",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 42.05"
+                }
+            ]
+        },
+        {
+            "name": "Power Cord Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/hobart/2912/power-cord-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HOB/HOB00-117542-00095.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hobart 00-117542-00095 Cord And Plug Assembly, 100/120V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-117542-00095",
+                    "fix_rate": 88.0,
+                    "list_price": "$ 81.18"
+                }
+            ]
+        },
+        {
+            "name": "Unit Won't Turn On",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/hobart/2912/unit-wont-turn-on",
+            "results": []
+        },
+        {
+            "name": "Breaker Is Tripping Or Wont Reset",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/hobart/2912/breaker-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HOB/HOB00-875567.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hobart 00-875567 Switch, Toggle, DPST",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-875567",
+                    "fix_rate": 88.0,
+                    "list_price": "$ 53.49"
+                }
+            ]
+        }
+    ]
+}

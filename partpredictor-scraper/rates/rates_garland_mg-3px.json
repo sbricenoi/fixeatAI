@@ -1,0 +1,384 @@
+{
+    "brand": "garland",
+    "model": "mg-3px",
+    "issues": [
+        {
+            "name": "Actuator Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/garland/mg-3px/actuator-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GLCK4603129.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland CK4603129 Actuator Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nCK4603129",
+                    "fix_rate": 95.0,
+                    "list_price": "$ 1,070.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4532394.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4532394 Shaft Seal",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4532394",
+                    "fix_rate": 20.0,
+                    "list_price": "$ 34.27"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4610005.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4610005 Service Kit, High Limit Switch",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4610005",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 46.75"
+                }
+            ]
+        },
+        {
+            "name": "Motor Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/garland/mg-3px/motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GLCK4603129.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland CK4603129 Actuator Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nCK4603129",
+                    "fix_rate": 81.0,
+                    "list_price": "$ 1,070.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4603115.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4603115 REFERENCE SWITCH KIT",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4603115",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 54.30"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4532394.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4532394 Shaft Seal",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4532394",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 34.27"
+                }
+            ]
+        },
+        {
+            "name": "Hi-limit Is Tripping Or Wont Reset",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/garland/mg-3px/hi-limit-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4610005.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4610005 Service Kit, High Limit Switch",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4610005",
+                    "fix_rate": 81.0,
+                    "list_price": "$ 46.75"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4531775-E.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4531775-E Solid State Relay Board/Heat Sink Assembly, Rev. 9",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4531775-E",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 1,045.50"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GLCK4603291.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland CK4603291 Service Kit, Platen Harness",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nCK4603291",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 740.00"
+                }
+            ]
+        },
+        {
+            "name": "Breaker Is Tripping Or Wont Reset",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/garland/mg-3px/breaker-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4531775-E.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4531775-E Solid State Relay Board/Heat Sink Assembly, Rev. 9",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4531775-E",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 1,045.50"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GLCK4603291.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland CK4603291 Service Kit, Platen Harness",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nCK4603291",
+                    "fix_rate": 40.0,
+                    "list_price": "$ 740.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4610005.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4610005 Service Kit, High Limit Switch",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4610005",
+                    "fix_rate": 37.0,
+                    "list_price": "$ 46.75"
+                }
+            ]
+        },
+        {
+            "name": "Gas Valve Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/garland/mg-3px/gas-valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GLCK4600010B.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland CK4600010B Gas Valve Assembly Back Kit, 1/2 PSI, w/ Brass Fittings",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nCK4600010B",
+                    "fix_rate": 44.0,
+                    "list_price": "$ 439.70"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GLCK4600010S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland CK4600010S Kit, Gas Valve, Xpg Mod Replacement",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nCK4600010S",
+                    "fix_rate": 44.0,
+                    "list_price": "$ 512.62"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GLCK4603129.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland CK4603129 Actuator Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nCK4603129",
+                    "fix_rate": 20.0,
+                    "list_price": "$ 1,070.00"
+                }
+            ]
+        },
+        {
+            "name": "Wiring Issue",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/garland/mg-3px/wiring-issue",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GLCK4603291.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland CK4603291 Service Kit, Platen Harness",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nCK4603291",
+                    "fix_rate": 60.0,
+                    "list_price": "$ 740.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4610005.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4610005 Service Kit, High Limit Switch",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4610005",
+                    "fix_rate": 56.0,
+                    "list_price": "$ 46.75"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4531775-E.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4531775-E Solid State Relay Board/Heat Sink Assembly, Rev. 9",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4531775-E",
+                    "fix_rate": 20.0,
+                    "list_price": "$ 1,045.50"
+                }
+            ]
+        },
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/garland/mg-3px/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4603115.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4603115 REFERENCE SWITCH KIT",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4603115",
+                    "fix_rate": 48.0,
+                    "list_price": "$ 54.30"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GLCK4603129.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland CK4603129 Actuator Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nCK4603129",
+                    "fix_rate": 30.0,
+                    "list_price": "$ 1,070.00"
+                }
+            ]
+        },
+        {
+            "name": "Ignition Module Is Malfunctioning",
+            "idx": 7,
+            "url": "https://www.partstown.com/part-predictor/garland/mg-3px/ignition-module-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4601966.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4601966 Ignition Module, 24V, Fenwal, XPG36",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4601966",
+                    "fix_rate": 53.0,
+                    "list_price": "$ 257.75"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GLCK4603275.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland CK4603275 Electrode And Gasket Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nCK4603275",
+                    "fix_rate": 37.0,
+                    "list_price": "$ 379.95"
+                }
+            ]
+        },
+        {
+            "name": "Contactor Is Malfunctioning",
+            "idx": 8,
+            "url": "https://www.partstown.com/part-predictor/garland/mg-3px/contactor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4610005.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4610005 Service Kit, High Limit Switch",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4610005",
+                    "fix_rate": 65.0,
+                    "list_price": "$ 46.75"
+                }
+            ]
+        },
+        {
+            "name": "Fuse Is Blown",
+            "idx": 9,
+            "url": "https://www.partstown.com/part-predictor/garland/mg-3px/fuse-is-blown",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4600638.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4600638 Fuse, 250V, 10A, Slow Blow",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4600638",
+                    "fix_rate": 65.0,
+                    "list_price": "$ 21.92"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Overheating",
+            "idx": 10,
+            "url": "https://www.partstown.com/part-predictor/garland/mg-3px/unit-is-overheating",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4531775-E.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4531775-E Solid State Relay Board/Heat Sink Assembly, Rev. 9",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4531775-E",
+                    "fix_rate": 42.0,
+                    "list_price": "$ 1,045.50"
+                }
+            ]
+        },
+        {
+            "name": "Display Is Malfunctioning",
+            "idx": 11,
+            "url": "https://www.partstown.com/part-predictor/garland/mg-3px/display-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4610005.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4610005 Service Kit, High Limit Switch",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4610005",
+                    "fix_rate": 45.0,
+                    "list_price": "$ 46.75"
+                }
+            ]
+        },
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 12,
+            "url": "https://www.partstown.com/part-predictor/garland/mg-3px/thermostat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4610005.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4610005 Service Kit, High Limit Switch",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4610005",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 46.75"
+                }
+            ]
+        },
+        {
+            "name": "Ignitor Is Malfunctioning Or Damaged",
+            "idx": 13,
+            "url": "https://www.partstown.com/part-predictor/garland/mg-3px/ignitor-is-malfunctioning-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GLCK4603275.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland CK4603275 Electrode And Gasket Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nCK4603275",
+                    "fix_rate": 71.0,
+                    "list_price": "$ 379.95"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,2183 @@
+{
+    "brand": "turbochef",
+    "model": "i3",
+    "issues": [
+        {
+            "name": "Fuse Is Blown",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/turbochef/i3/fuse-is-blown",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100599.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100599 Fuse, 20 Amp, ATMR, Individual",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100599",
+                    "fix_rate": 61.0,
+                    "list_price": "$ 37.62"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3015.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3015 Magnetron Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3015",
+                    "fix_rate": 24.0,
+                    "list_price": "$ 155.52"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC101273.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 101273 Relay 2 Pole",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n101273",
+                    "fix_rate": 23.0,
+                    "list_price": "$ 54.61"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3062-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3062-1 Transformer, 208/240 Volt, 60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3062-1",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 405.70"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI5-3210.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I5-3210 SERVICE KIT I5/I3 WAVEGUIDE",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI5-3210",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 592.32"
+                }
+            ]
+        },
+        {
+            "name": "Magnetron Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/turbochef/i3/magnetron-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3015.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3015 Magnetron Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3015",
+                    "fix_rate": 81.0,
+                    "list_price": "$ 155.52"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI5-3210.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I5-3210 SERVICE KIT I5/I3 WAVEGUIDE",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI5-3210",
+                    "fix_rate": 38.0,
+                    "list_price": "$ 592.32"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100599.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100599 Fuse, 20 Amp, ATMR, Individual",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100599",
+                    "fix_rate": 23.0,
+                    "list_price": "$ 37.62"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI3-3227.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I3-3227 Stirrer Shaft Assembly Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI3-3227",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 476.34"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3062-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3062-1 Transformer, 208/240 Volt, 60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3062-1",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 405.70"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100481.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100481 Diode, High Voltage",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100481",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 28.02"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI3-3218.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I3-3218 SERVICE KIT I3 JETPLATE DUA",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI3-3218",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 655.90"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI3-3216.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I3-3216 SERVICE KIT TAPE GORTEX 4.75\" LONG (J",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI3-3216",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 48.35"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100232.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100232 Capacitor, High Voltage, Dual, 0.91UF0.19UF",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100232",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 74.45"
+                }
+            ]
+        },
+        {
+            "name": "Stirrer Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/turbochef/i3/stirrer-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI3-3227.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I3-3227 Stirrer Shaft Assembly Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI3-3227",
+                    "fix_rate": 77.0,
+                    "list_price": "$ 476.34"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3015.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3015 Magnetron Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3015",
+                    "fix_rate": 58.0,
+                    "list_price": "$ 155.52"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI5-3210.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I5-3210 SERVICE KIT I5/I3 WAVEGUIDE",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI5-3210",
+                    "fix_rate": 41.0,
+                    "list_price": "$ 592.32"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI3-3216.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I3-3216 SERVICE KIT TAPE GORTEX 4.75\" LONG (J",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI3-3216",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 48.35"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI3-3218.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I3-3218 SERVICE KIT I3 JETPLATE DUA",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI3-3218",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 655.90"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC105108.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 105108 Stirrer Motor, 15 RPM, 230V, 60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n105108",
+                    "fix_rate": 27.0,
+                    "list_price": "$ 379.27"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100599.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100599 Fuse, 20 Amp, ATMR, Individual",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100599",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 37.62"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3062-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3062-1 Transformer, 208/240 Volt, 60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3062-1",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 405.70"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100481.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100481 Diode, High Voltage",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100481",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 28.02"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC101273.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 101273 Relay 2 Pole",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n101273",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 54.61"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100232.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100232 Capacitor, High Voltage, Dual, 0.91UF0.19UF",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100232",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 74.45"
+                }
+            ]
+        },
+        {
+            "name": "Transformer Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/turbochef/i3/transformer-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3062-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3062-1 Transformer, 208/240 Volt, 60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3062-1",
+                    "fix_rate": 72.0,
+                    "list_price": "$ 405.70"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3015.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3015 Magnetron Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3015",
+                    "fix_rate": 52.0,
+                    "list_price": "$ 155.52"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100599.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100599 Fuse, 20 Amp, ATMR, Individual",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100599",
+                    "fix_rate": 42.0,
+                    "list_price": "$ 37.62"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100481.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100481 Diode, High Voltage",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100481",
+                    "fix_rate": 27.0,
+                    "list_price": "$ 28.02"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI5-3210.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I5-3210 SERVICE KIT I5/I3 WAVEGUIDE",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI5-3210",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 592.32"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC101273.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 101273 Relay 2 Pole",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n101273",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 54.61"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100232.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100232 Capacitor, High Voltage, Dual, 0.91UF0.19UF",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100232",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 74.45"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI3-3227.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I3-3227 Stirrer Shaft Assembly Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI3-3227",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 476.34"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3061-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3061-1 Filament Transformer Kit, 208/240V, 60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3061-1",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 200.93"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI3-3218.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I3-3218 SERVICE KIT I3 JETPLATE DUA",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI3-3218",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 655.90"
+                }
+            ]
+        },
+        {
+            "name": "Relay Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/turbochef/i3/relay-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC101273.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 101273 Relay 2 Pole",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n101273",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 54.61"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100599.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100599 Fuse, 20 Amp, ATMR, Individual",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100599",
+                    "fix_rate": 41.0,
+                    "list_price": "$ 37.62"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3015.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3015 Magnetron Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3015",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 155.52"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC105160.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 105160 Relay, Mechinal, DPDT, 2 Pole",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n105160",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 59.92"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3062-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3062-1 Transformer, 208/240 Volt, 60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3062-1",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 405.70"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3005.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3005 Solid State Relay, Dual 40A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3005",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 303.72"
+                }
+            ]
+        },
+        {
+            "name": "Wave Guide Is Malfunctioning",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/turbochef/i3/wave-guide-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3015.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3015 Magnetron Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3015",
+                    "fix_rate": 92.0,
+                    "list_price": "$ 155.52"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI5-3210.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I5-3210 SERVICE KIT I5/I3 WAVEGUIDE",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI5-3210",
+                    "fix_rate": 81.0,
+                    "list_price": "$ 592.32"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI3-3227.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I3-3227 Stirrer Shaft Assembly Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI3-3227",
+                    "fix_rate": 34.0,
+                    "list_price": "$ 476.34"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI3-3218.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I3-3218 SERVICE KIT I3 JETPLATE DUA",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI3-3218",
+                    "fix_rate": 24.0,
+                    "list_price": "$ 655.90"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3062-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3062-1 Transformer, 208/240 Volt, 60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3062-1",
+                    "fix_rate": 20.0,
+                    "list_price": "$ 405.70"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100599.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100599 Fuse, 20 Amp, ATMR, Individual",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100599",
+                    "fix_rate": 20.0,
+                    "list_price": "$ 37.62"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI3-3216.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I3-3216 SERVICE KIT TAPE GORTEX 4.75\" LONG (J",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI3-3216",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 48.35"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100481.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100481 Diode, High Voltage",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100481",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 28.02"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC105108.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 105108 Stirrer Motor, 15 RPM, 230V, 60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n105108",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 379.27"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100232.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100232 Capacitor, High Voltage, Dual, 0.91UF0.19UF",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100232",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 74.45"
+                }
+            ]
+        },
+        {
+            "name": "Door Is Malfunctioning",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/turbochef/i3/door-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC102012.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 102012 Switch, Interlock, NGO Oven Primary Switch Only",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n102012",
+                    "fix_rate": 20.0,
+                    "list_price": "$ 8.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI3-9269.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I3-9269 ASSEMBLY HINGE MODULE I3",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI3-9269",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 1,956.90"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI3-9309.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I3-9309 GASKET DOOR",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI3-9309",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 56.33"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100599.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100599 Fuse, 20 Amp, ATMR, Individual",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100599",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 37.62"
+                }
+            ]
+        },
+        {
+            "name": "Motor Is Malfunctioning",
+            "idx": 7,
+            "url": "https://www.partstown.com/part-predictor/turbochef/i3/motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3015.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3015 Magnetron Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3015",
+                    "fix_rate": 48.0,
+                    "list_price": "$ 155.52"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC105108.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 105108 Stirrer Motor, 15 RPM, 230V, 60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n105108",
+                    "fix_rate": 43.0,
+                    "list_price": "$ 379.27"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI3-3227.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I3-3227 Stirrer Shaft Assembly Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI3-3227",
+                    "fix_rate": 40.0,
+                    "list_price": "$ 476.34"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI5-3210.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I5-3210 SERVICE KIT I5/I3 WAVEGUIDE",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI5-3210",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 592.32"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI3-3216.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I3-3216 SERVICE KIT TAPE GORTEX 4.75\" LONG (J",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI3-3216",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 48.35"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI3-3218.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I3-3218 SERVICE KIT I3 JETPLATE DUA",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI3-3218",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 655.90"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI3-3209-4.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I3-3209-4 SERVICE KIT I3 AND I1 BLOWER",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI3-3209-4",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 1,197.81"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100599.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100599 Fuse, 20 Amp, ATMR, Individual",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100599",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 37.62"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3062-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3062-1 Transformer, 208/240 Volt, 60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3062-1",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 405.70"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100481.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100481 Diode, High Voltage",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100481",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 28.02"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100232.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100232 Capacitor, High Voltage, Dual, 0.91UF0.19UF",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100232",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 74.45"
+                }
+            ]
+        },
+        {
+            "name": "Display Is Blank",
+            "idx": 8,
+            "url": "https://www.partstown.com/part-predictor/turbochef/i3/display-is-blank",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100592.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100592 Fuse, 12 Amp, ATMR12",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100592",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 33.36"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3015.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3015 Magnetron Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3015",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 155.52"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI3-9247.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I3-9247 KEYPAD MEMBRANE SWITCH I3 BLACK",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI3-9247",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 190.58"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100599.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100599 Fuse, 20 Amp, ATMR, Individual",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100599",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 37.62"
+                }
+            ]
+        },
+        {
+            "name": "Blower Motor Is Malfunctioning",
+            "idx": 9,
+            "url": "https://www.partstown.com/part-predictor/turbochef/i3/blower-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI3-3209-4.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I3-3209-4 SERVICE KIT I3 AND I1 BLOWER",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI3-3209-4",
+                    "fix_rate": 43.0,
+                    "list_price": "$ 1,197.81"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI3-3209-3.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I3-3209-3 SERVICE KIT I3 AND I1 BLOWER MOTOR TO",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI3-3209-3",
+                    "fix_rate": 30.0,
+                    "list_price": "$ 1,197.81"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCCON-7039.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef CON-7039 Motor Drive Controller, 240VAC, 4A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nCON-7039",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 1,794.28"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3015.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3015 Magnetron Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3015",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 155.52"
+                }
+            ]
+        },
+        {
+            "name": "Keypad Is Not Responding Or Damaged",
+            "idx": 10,
+            "url": "https://www.partstown.com/part-predictor/turbochef/i3/keypad-is-not-responding-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI3-9247.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I3-9247 KEYPAD MEMBRANE SWITCH I3 BLACK",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI3-9247",
+                    "fix_rate": 75.0,
+                    "list_price": "$ 190.58"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3015.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3015 Magnetron Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3015",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 155.52"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI3-3227.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I3-3227 Stirrer Shaft Assembly Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI3-3227",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 476.34"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI3-9309.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I3-9309 GASKET DOOR",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI3-9309",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 56.33"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC101273.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 101273 Relay 2 Pole",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n101273",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 54.61"
+                }
+            ]
+        },
+        {
+            "name": "Gasket Is Defective Or Leaking",
+            "idx": 11,
+            "url": "https://www.partstown.com/part-predictor/turbochef/i3/gasket-is-defective-or-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI3-3216.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I3-3216 SERVICE KIT TAPE GORTEX 4.75\" LONG (J",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI3-3216",
+                    "fix_rate": 44.0,
+                    "list_price": "$ 48.35"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI3-9309.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I3-9309 GASKET DOOR",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI3-9309",
+                    "fix_rate": 39.0,
+                    "list_price": "$ 56.33"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3015.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3015 Magnetron Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3015",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 155.52"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI5-3210.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I5-3210 SERVICE KIT I5/I3 WAVEGUIDE",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI5-3210",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 592.32"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI3-3227.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I3-3227 Stirrer Shaft Assembly Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI3-3227",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 476.34"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI3-3218.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I3-3218 SERVICE KIT I3 JETPLATE DUA",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI3-3218",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 655.90"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100481.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100481 Diode, High Voltage",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100481",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 28.02"
+                }
+            ]
+        },
+        {
+            "name": "Hinge Is Defective Or Damaged",
+            "idx": 12,
+            "url": "https://www.partstown.com/part-predictor/turbochef/i3/hinge-is-defective-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI3-9269.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I3-9269 ASSEMBLY HINGE MODULE I3",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI3-9269",
+                    "fix_rate": 51.0,
+                    "list_price": "$ 1,956.90"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI5-9327.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I5-9327 WELDMENT COUNTERBALANCE BRACKET",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI5-9327",
+                    "fix_rate": 24.0,
+                    "list_price": "$ 116.38"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI5-9326.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I5-9326 WELDMENT COUNTERBALANCE BRACKET",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI5-9326",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 116.38"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI5-9314.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I5-9314 WELDMENT HINGE CAM RHS",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI5-9314",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 487.82"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3015.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3015 Magnetron Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3015",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 155.52"
+                }
+            ]
+        },
+        {
+            "name": "Display Is Malfunctioning",
+            "idx": 13,
+            "url": "https://www.partstown.com/part-predictor/turbochef/i3/display-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI5-3207.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I5-3207 SERVICE KIT I5 DISPLAY (TFT)",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI5-3207",
+                    "fix_rate": 27.0,
+                    "list_price": "$ 951.26"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI3-9247.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I3-9247 KEYPAD MEMBRANE SWITCH I3 BLACK",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI3-9247",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 190.58"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100599.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100599 Fuse, 20 Amp, ATMR, Individual",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100599",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 37.62"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3015.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3015 Magnetron Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3015",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 155.52"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI3-3227.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I3-3227 Stirrer Shaft Assembly Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI3-3227",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 476.34"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI3-3216.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I3-3216 SERVICE KIT TAPE GORTEX 4.75\" LONG (J",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI3-3216",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 48.35"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCCON-3001-1-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef CON-3001-1-1 Control Board Service Kit, General Market, I3",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nCON-3001-1-1",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 882.77"
+                }
+            ]
+        },
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 14,
+            "url": "https://www.partstown.com/part-predictor/turbochef/i3/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC102012.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 102012 Switch, Interlock, NGO Oven Primary Switch Only",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n102012",
+                    "fix_rate": 61.0,
+                    "list_price": "$ 8.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100599.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100599 Fuse, 20 Amp, ATMR, Individual",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100599",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 37.62"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC101273.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 101273 Relay 2 Pole",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n101273",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 54.61"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3015.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3015 Magnetron Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3015",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 155.52"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI3-9247.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I3-9247 KEYPAD MEMBRANE SWITCH I3 BLACK",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI3-9247",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 190.58"
+                }
+            ]
+        },
+        {
+            "name": "Wiring Issue",
+            "idx": 15,
+            "url": "https://www.partstown.com/part-predictor/turbochef/i3/wiring-issue",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3015.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3015 Magnetron Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3015",
+                    "fix_rate": 39.0,
+                    "list_price": "$ 155.52"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3062-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3062-1 Transformer, 208/240 Volt, 60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3062-1",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 405.70"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI3-3227.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I3-3227 Stirrer Shaft Assembly Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI3-3227",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 476.34"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI5-3210.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I5-3210 SERVICE KIT I5/I3 WAVEGUIDE",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI5-3210",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 592.32"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI3-3218.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I3-3218 SERVICE KIT I3 JETPLATE DUA",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI3-3218",
+                    "fix_rate": 20.0,
+                    "list_price": "$ 655.90"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100481.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100481 Diode, High Voltage",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100481",
+                    "fix_rate": 20.0,
+                    "list_price": "$ 28.02"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100599.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100599 Fuse, 20 Amp, ATMR, Individual",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100599",
+                    "fix_rate": 20.0,
+                    "list_price": "$ 37.62"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100232.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100232 Capacitor, High Voltage, Dual, 0.91UF0.19UF",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100232",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 74.45"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3061-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3061-1 Filament Transformer Kit, 208/240V, 60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3061-1",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 200.93"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC101273.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 101273 Relay 2 Pole",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n101273",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 54.61"
+                }
+            ]
+        },
+        {
+            "name": "Unit Making Noise",
+            "idx": 16,
+            "url": "https://www.partstown.com/part-predictor/turbochef/i3/unit-making-noise",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI3-3227.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I3-3227 Stirrer Shaft Assembly Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI3-3227",
+                    "fix_rate": 40.0,
+                    "list_price": "$ 476.34"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3015.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3015 Magnetron Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3015",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 155.52"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI3-3216.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I3-3216 SERVICE KIT TAPE GORTEX 4.75\" LONG (J",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI3-3216",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 48.35"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI5-3210.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I5-3210 SERVICE KIT I5/I3 WAVEGUIDE",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI5-3210",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 592.32"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC101273.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 101273 Relay 2 Pole",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n101273",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 54.61"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI3-9247.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I3-9247 KEYPAD MEMBRANE SWITCH I3 BLACK",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI3-9247",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 190.58"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Making Noise",
+            "idx": 17,
+            "url": "https://www.partstown.com/part-predictor/turbochef/i3/unit-is-making-noise",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3015.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3015 Magnetron Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3015",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 155.52"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI3-3227.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I3-3227 Stirrer Shaft Assembly Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI3-3227",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 476.34"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI5-3210.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I5-3210 SERVICE KIT I5/I3 WAVEGUIDE",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI5-3210",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 592.32"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI3-9247.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I3-9247 KEYPAD MEMBRANE SWITCH I3 BLACK",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI3-9247",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 190.58"
+                }
+            ]
+        },
+        {
+            "name": "Controller Is Malfunctioning",
+            "idx": 18,
+            "url": "https://www.partstown.com/part-predictor/turbochef/i3/controller-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCCON-3001-1-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef CON-3001-1-1 Control Board Service Kit, General Market, I3",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nCON-3001-1-1",
+                    "fix_rate": 36.0,
+                    "list_price": "$ 882.77"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3015.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3015 Magnetron Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3015",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 155.52"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCCON-3019.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef CON-3019 Control Board Service Kit, Encore",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nCON-3019",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 882.77"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI3-9247.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I3-9247 KEYPAD MEMBRANE SWITCH I3 BLACK",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI3-9247",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 190.58"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC101273.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 101273 Relay 2 Pole",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n101273",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 54.61"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI5-3210.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I5-3210 SERVICE KIT I5/I3 WAVEGUIDE",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI5-3210",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 592.32"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Overheating",
+            "idx": 19,
+            "url": "https://www.partstown.com/part-predictor/turbochef/i3/unit-is-overheating",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3015.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3015 Magnetron Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3015",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 155.52"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3062-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3062-1 Transformer, 208/240 Volt, 60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3062-1",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 405.70"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC101273.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 101273 Relay 2 Pole",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n101273",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 54.61"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100599.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100599 Fuse, 20 Amp, ATMR, Individual",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100599",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 37.62"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100481.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100481 Diode, High Voltage",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100481",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 28.02"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI5-3210.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I5-3210 SERVICE KIT I5/I3 WAVEGUIDE",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI5-3210",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 592.32"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI3-3227.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I3-3227 Stirrer Shaft Assembly Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI3-3227",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 476.34"
+                }
+            ]
+        },
+        {
+            "name": "Door Switch Is Malfunctioning",
+            "idx": 20,
+            "url": "https://www.partstown.com/part-predictor/turbochef/i3/door-switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC102012.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 102012 Switch, Interlock, NGO Oven Primary Switch Only",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n102012",
+                    "fix_rate": 62.0,
+                    "list_price": "$ 8.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100599.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100599 Fuse, 20 Amp, ATMR, Individual",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100599",
+                    "fix_rate": 32.0,
+                    "list_price": "$ 37.62"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3015.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3015 Magnetron Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3015",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 155.52"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC101273.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 101273 Relay 2 Pole",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n101273",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 54.61"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI5-3210.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I5-3210 SERVICE KIT I5/I3 WAVEGUIDE",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI5-3210",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 592.32"
+                }
+            ]
+        },
+        {
+            "name": "Door Gasket Is Defective",
+            "idx": 21,
+            "url": "https://www.partstown.com/part-predictor/turbochef/i3/door-gasket-is-defective",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI3-9309.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I3-9309 GASKET DOOR",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI3-9309",
+                    "fix_rate": 91.0,
+                    "list_price": "$ 56.33"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI3-9247.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I3-9247 KEYPAD MEMBRANE SWITCH I3 BLACK",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI3-9247",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 190.58"
+                }
+            ]
+        },
+        {
+            "name": "Hi-limit Is Tripping Or Wont Reset",
+            "idx": 22,
+            "url": "https://www.partstown.com/part-predictor/turbochef/i3/hi-limit-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC102075.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 102075 Hi Limit Thermostat EGO 3 Pole",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n102075",
+                    "fix_rate": 47.0,
+                    "list_price": "$ 170.84"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCHHC-6595.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef HHC-6595 Temperature Sensor, 3\", RTD",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nHHC-6595",
+                    "fix_rate": 25.0
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3015.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3015 Magnetron Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3015",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 155.52"
+                }
+            ]
+        },
+        {
+            "name": "Relay Board Is Malfunctioning",
+            "idx": 23,
+            "url": "https://www.partstown.com/part-predictor/turbochef/i3/relay-board-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCCON-3062-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef CON-3062-1 SERVICE KIT TRAIC BOARD I-SERIS",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nCON-3062-1",
+                    "fix_rate": 63.0,
+                    "list_price": "$ 315.89"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100599.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100599 Fuse, 20 Amp, ATMR, Individual",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100599",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 37.62"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3015.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3015 Magnetron Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3015",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 155.52"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI5-3210.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I5-3210 SERVICE KIT I5/I3 WAVEGUIDE",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI5-3210",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 592.32"
+                }
+            ]
+        },
+        {
+            "name": "Capacitor Is Malfunctioning",
+            "idx": 24,
+            "url": "https://www.partstown.com/part-predictor/turbochef/i3/capacitor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100232.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100232 Capacitor, High Voltage, Dual, 0.91UF0.19UF",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100232",
+                    "fix_rate": 73.0,
+                    "list_price": "$ 74.45"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3015.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3015 Magnetron Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3015",
+                    "fix_rate": 58.0,
+                    "list_price": "$ 155.52"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100481.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100481 Diode, High Voltage",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100481",
+                    "fix_rate": 35.0,
+                    "list_price": "$ 28.02"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3062-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3062-1 Transformer, 208/240 Volt, 60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3062-1",
+                    "fix_rate": 27.0,
+                    "list_price": "$ 405.70"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI5-3210.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I5-3210 SERVICE KIT I5/I3 WAVEGUIDE",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI5-3210",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 592.32"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100599.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100599 Fuse, 20 Amp, ATMR, Individual",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100599",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 37.62"
+                }
+            ]
+        },
+        {
+            "name": "Diode Is Malfunctioning",
+            "idx": 25,
+            "url": "https://www.partstown.com/part-predictor/turbochef/i3/diode-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100481.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100481 Diode, High Voltage",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100481",
+                    "fix_rate": 77.0,
+                    "list_price": "$ 28.02"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3015.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3015 Magnetron Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3015",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 155.52"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100599.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100599 Fuse, 20 Amp, ATMR, Individual",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100599",
+                    "fix_rate": 27.0,
+                    "list_price": "$ 37.62"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3062-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3062-1 Transformer, 208/240 Volt, 60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3062-1",
+                    "fix_rate": 23.0,
+                    "list_price": "$ 405.70"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100232.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100232 Capacitor, High Voltage, Dual, 0.91UF0.19UF",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100232",
+                    "fix_rate": 23.0,
+                    "list_price": "$ 74.45"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC101273.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 101273 Relay 2 Pole",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n101273",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 54.61"
+                }
+            ]
+        },
+        {
+            "name": "Fan Motor Is Malfunctioning",
+            "idx": 26,
+            "url": "https://www.partstown.com/part-predictor/turbochef/i3/fan-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3015.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3015 Magnetron Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3015",
+                    "fix_rate": 30.0,
+                    "list_price": "$ 155.52"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI3-3201.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I3-3201 SERVICE KIT I3 MAG FAN WITH",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI3-3201",
+                    "fix_rate": 30.0,
+                    "list_price": "$ 612.71"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI5-3210.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I5-3210 SERVICE KIT I5/I3 WAVEGUIDE",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI5-3210",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 592.32"
+                }
+            ]
+        },
+        {
+            "name": "Bracket Is Broken",
+            "idx": 27,
+            "url": "https://www.partstown.com/part-predictor/turbochef/i3/bracket-is-broken",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI3-9269.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I3-9269 ASSEMBLY HINGE MODULE I3",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI3-9269",
+                    "fix_rate": 27.0,
+                    "list_price": "$ 1,956.90"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI5-9327.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I5-9327 WELDMENT COUNTERBALANCE BRACKET",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI5-9327",
+                    "fix_rate": 23.0,
+                    "list_price": "$ 116.38"
+                }
+            ]
+        },
+        {
+            "name": "Unit Making A Grinding Noise",
+            "idx": 28,
+            "url": "https://www.partstown.com/part-predictor/turbochef/i3/unit-making-a-grinding-noise",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI3-3227.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I3-3227 Stirrer Shaft Assembly Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI3-3227",
+                    "fix_rate": 35.0,
+                    "list_price": "$ 476.34"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3015.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3015 Magnetron Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3015",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 155.52"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI3-3209-3.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I3-3209-3 SERVICE KIT I3 AND I1 BLOWER MOTOR TO",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI3-3209-3",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 1,197.81"
+                }
+            ]
+        },
+        {
+            "name": "Unit Won't Turn On",
+            "idx": 29,
+            "url": "https://www.partstown.com/part-predictor/turbochef/i3/unit-wont-turn-on",
+            "results": []
+        },
+        {
+            "name": "Filter Is Malfunctioning",
+            "idx": 30,
+            "url": "https://www.partstown.com/part-predictor/turbochef/i3/filter-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI3-9039.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I3-9039 Air Filter, I3 Oven",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI3-9039",
+                    "fix_rate": 28.0,
+                    "list_price": "$ 37.07"
+                }
+            ]
+        },
+        {
+            "name": "Smoke Coming From Unit",
+            "idx": 31,
+            "url": "https://www.partstown.com/part-predictor/turbochef/i3/smoke-coming-from-unit",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3062-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3062-1 Transformer, 208/240 Volt, 60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3062-1",
+                    "fix_rate": 53.0,
+                    "list_price": "$ 405.70"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3015.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3015 Magnetron Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3015",
+                    "fix_rate": 40.0,
+                    "list_price": "$ 155.52"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100481.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100481 Diode, High Voltage",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100481",
+                    "fix_rate": 33.0,
+                    "list_price": "$ 28.02"
+                }
+            ]
+        },
+        {
+            "name": "Blade Is Malfunctioning",
+            "idx": 32,
+            "url": "https://www.partstown.com/part-predictor/turbochef/i3/blade-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI3-3227.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I3-3227 Stirrer Shaft Assembly Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI3-3227",
+                    "fix_rate": 85.0,
+                    "list_price": "$ 476.34"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3015.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3015 Magnetron Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3015",
+                    "fix_rate": 69.0,
+                    "list_price": "$ 155.52"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC105108.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 105108 Stirrer Motor, 15 RPM, 230V, 60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n105108",
+                    "fix_rate": 62.0,
+                    "list_price": "$ 379.27"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI3-3218.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I3-3218 SERVICE KIT I3 JETPLATE DUA",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI3-3218",
+                    "fix_rate": 54.0,
+                    "list_price": "$ 655.90"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI5-3210.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I5-3210 SERVICE KIT I5/I3 WAVEGUIDE",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI5-3210",
+                    "fix_rate": 38.0,
+                    "list_price": "$ 592.32"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Malfunctioning",
+            "idx": 33,
+            "url": "https://www.partstown.com/part-predictor/turbochef/i3/unit-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100599.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100599 Fuse, 20 Amp, ATMR, Individual",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100599",
+                    "fix_rate": 46.0,
+                    "list_price": "$ 37.62"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC101273.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 101273 Relay 2 Pole",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n101273",
+                    "fix_rate": 38.0,
+                    "list_price": "$ 54.61"
+                }
+            ]
+        },
+        {
+            "name": "Unit Making A Squeaking Noise",
+            "idx": 34,
+            "url": "https://www.partstown.com/part-predictor/turbochef/i3/unit-making-a-squeaking-noise",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC105108.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 105108 Stirrer Motor, 15 RPM, 230V, 60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n105108",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 379.27"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI3-3227.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I3-3227 Stirrer Shaft Assembly Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI3-3227",
+                    "fix_rate": 42.0,
+                    "list_price": "$ 476.34"
+                }
+            ]
+        },
+        {
+            "name": "Heating Element Is Malfunctioning",
+            "idx": 35,
+            "url": "https://www.partstown.com/part-predictor/turbochef/i3/heating-element-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI3-9378.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I3-9378 HEATER ELEMENT 3000 WATT 208V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI3-9378",
+                    "fix_rate": 45.0,
+                    "list_price": "$ 159.20"
+                }
+            ]
+        },
+        {
+            "name": "Probe Is Malfunctioning",
+            "idx": 36,
+            "url": "https://www.partstown.com/part-predictor/turbochef/i3/probe-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCHHC-6595.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef HHC-6595 Temperature Sensor, 3\", RTD",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nHHC-6595",
+                    "fix_rate": 82.0
+                }
+            ]
+        },
+        {
+            "name": "Fire Coming Out Of Unit",
+            "idx": 37,
+            "url": "https://www.partstown.com/part-predictor/turbochef/i3/fire-coming-out-of-unit",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3015.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3015 Magnetron Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3015",
+                    "fix_rate": 56.0,
+                    "list_price": "$ 155.52"
+                }
+            ]
+        },
+        {
+            "name": "Wave Guide Cover Is Defective",
+            "idx": 38,
+            "url": "https://www.partstown.com/part-predictor/turbochef/i3/wave-guide-cover-is-defective",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3015.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3015 Magnetron Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3015",
+                    "fix_rate": 67.0,
+                    "list_price": "$ 155.52"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI5-3210.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I5-3210 SERVICE KIT I5/I3 WAVEGUIDE",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI5-3210",
+                    "fix_rate": 56.0,
+                    "list_price": "$ 592.32"
+                }
+            ]
+        },
+        {
+            "name": "Wave Guide Cover Is Malfunctioning",
+            "idx": 39,
+            "url": "https://www.partstown.com/part-predictor/turbochef/i3/wave-guide-cover-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3015.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3015 Magnetron Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3015",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 155.52"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI5-3210.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I5-3210 SERVICE KIT I5/I3 WAVEGUIDE",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI5-3210",
+                    "fix_rate": 86.0,
+                    "list_price": "$ 592.32"
+                }
+            ]
+        }
+    ]
+}

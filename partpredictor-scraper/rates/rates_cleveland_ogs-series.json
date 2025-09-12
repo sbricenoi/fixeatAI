@@ -1,0 +1,336 @@
+{
+    "brand": "cleveland",
+    "model": "ogs-series",
+    "issues": [
+        {
+            "name": "Fan Motor Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/cleveland/ogs-series/fan-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/COV/COV300412.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Convotherm 300412 DRIVE; A.C. MOTOR; 2.4A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n300412",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 1,270.71"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/COV/COV300462.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Convotherm 300462 Motor Drive Controller, 4A, 115/230VAC",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n300462",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 1,264.71"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/COV/COVFK300925.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Convotherm FK300925 Field Kit, A.C. Drive, OGB/OGS 6",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nFK300925",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 1,098.10"
+                }
+            ]
+        },
+        {
+            "name": "Ignition Module Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/cleveland/ogs-series/ignition-module-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/COV/COV2617320.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Convotherm 2617320 Monitoring Electrode, OGS/OGB",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2617320",
+                    "fix_rate": 46.0,
+                    "list_price": "$ 216.49"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/COV/COVC4018002.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Convotherm C4018002 Auto-Ignition Electrode/Glow Coil",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nC4018002",
+                    "fix_rate": 41.0,
+                    "list_price": "$ 121.94"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/COV/COV6016023.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Convotherm 6016023 Auto-Ignition Control, Burner, 110V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n6016023",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 472.83"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/COV/COV2617322.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Convotherm 2617322 Incandescence Ignition Electrode, Long",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2617322",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 175.00"
+                }
+            ]
+        },
+        {
+            "name": "Ignitor Is Malfunctioning Or Damaged",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/cleveland/ogs-series/ignitor-is-malfunctioning-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/COV/COVC4018002.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Convotherm C4018002 Auto-Ignition Electrode/Glow Coil",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nC4018002",
+                    "fix_rate": 42.0,
+                    "list_price": "$ 121.94"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/COV/COV2617320.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Convotherm 2617320 Monitoring Electrode, OGS/OGB",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2617320",
+                    "fix_rate": 39.0,
+                    "list_price": "$ 216.49"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/COV/COV2617322.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Convotherm 2617322 Incandescence Ignition Electrode, Long",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2617322",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 175.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/COV/COV6016023.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Convotherm 6016023 Auto-Ignition Control, Burner, 110V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n6016023",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 472.83"
+                }
+            ]
+        },
+        {
+            "name": "Motor Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/cleveland/ogs-series/motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/COV/COV300412.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Convotherm 300412 DRIVE; A.C. MOTOR; 2.4A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n300412",
+                    "fix_rate": 31.0,
+                    "list_price": "$ 1,270.71"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/COV/COV300462.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Convotherm 300462 Motor Drive Controller, 4A, 115/230VAC",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n300462",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 1,264.71"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/COV/COVFK300925.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Convotherm FK300925 Field Kit, A.C. Drive, OGB/OGS 6",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nFK300925",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 1,098.10"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/COV/COVFKC50180211.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Convotherm FKC50180211 Blower Motor Replacement Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nFKC50180211",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 1,312.45"
+                }
+            ]
+        },
+        {
+            "name": "Blower Motor Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/cleveland/ogs-series/blower-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/COV/COV300412.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Convotherm 300412 DRIVE; A.C. MOTOR; 2.4A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n300412",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 1,270.71"
+                }
+            ]
+        },
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/cleveland/ogs-series/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE19993.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 19993 Switch, DPDT, On/Off, Red Light",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n19993",
+                    "fix_rate": 24.0,
+                    "list_price": "$ 68.72"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE300278-CLE.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 300278-CLE Rocker Switch, On/Off, Red Lighted, DPDT",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n300278-CLE",
+                    "fix_rate": 24.0,
+                    "list_price": "$ 69.26"
+                }
+            ]
+        },
+        {
+            "name": "Door Gasket Is Defective",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/cleveland/ogs-series/door-gasket-is-defective",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/COV/COV7011004.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Convotherm 7011004 Door Gasket, Hygienic plug-In, 6.20",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7011004",
+                    "fix_rate": 28.0,
+                    "list_price": "$ 196.42"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/COV/COV7011007.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Convotherm 7011007 Door Gasket, Plug-In, Hygienic, 20.20",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7011007",
+                    "fix_rate": 28.0,
+                    "list_price": "$ 215.57"
+                }
+            ]
+        },
+        {
+            "name": "Burner Is Malfunctioning Or Damaged",
+            "idx": 7,
+            "url": "https://www.partstown.com/part-predictor/cleveland/ogs-series/burner-is-malfunctioning-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/COV/COV2617320.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Convotherm 2617320 Monitoring Electrode, OGS/OGB",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2617320",
+                    "fix_rate": 59.0,
+                    "list_price": "$ 216.49"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/COV/COVC4018002.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Convotherm C4018002 Auto-Ignition Electrode/Glow Coil",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nC4018002",
+                    "fix_rate": 35.0,
+                    "list_price": "$ 121.94"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/COV/COV6016023.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Convotherm 6016023 Auto-Ignition Control, Burner, 110V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n6016023",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 472.83"
+                }
+            ]
+        },
+        {
+            "name": "Door Is Malfunctioning",
+            "idx": 8,
+            "url": "https://www.partstown.com/part-predictor/cleveland/ogs-series/door-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/COV/COV2525040.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Convotherm 2525040 Door Handle, P3, Hygienic Antibacterial",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2525040",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 425.78"
+                }
+            ]
+        },
+        {
+            "name": "Flame Sensor Is Malfunctioning",
+            "idx": 9,
+            "url": "https://www.partstown.com/part-predictor/cleveland/ogs-series/flame-sensor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/COV/COVC4018002.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Convotherm C4018002 Auto-Ignition Electrode/Glow Coil",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nC4018002",
+                    "fix_rate": 91.0,
+                    "list_price": "$ 121.94"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/COV/COV2617320.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Convotherm 2617320 Monitoring Electrode, OGS/OGB",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2617320",
+                    "fix_rate": 73.0,
+                    "list_price": "$ 216.49"
+                }
+            ]
+        }
+    ]
+}

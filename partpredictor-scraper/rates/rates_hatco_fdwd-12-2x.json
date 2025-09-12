@@ -1,0 +1,91 @@
+{
+    "brand": "hatco",
+    "model": "fdwd-12-2x",
+    "issues": [
+        {
+            "name": "Blower Motor Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/hatco/fdwd-12-2x/blower-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HT/HTR02.12.001.00.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hatco R02.12.001.00 Blower Motor/Cord Kit, Axial, 120V, 60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nR02.12.001.00",
+                    "fix_rate": 80.0,
+                    "list_price": "$ 123.00"
+                }
+            ]
+        },
+        {
+            "name": "Fan Motor Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/hatco/fdwd-12-2x/fan-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HT/HTR02.12.001.00.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hatco R02.12.001.00 Blower Motor/Cord Kit, Axial, 120V, 60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nR02.12.001.00",
+                    "fix_rate": 73.0,
+                    "list_price": "$ 123.00"
+                }
+            ]
+        },
+        {
+            "name": "Controller Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/hatco/fdwd-12-2x/controller-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HT/HTR02.01.273.00.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hatco R02.01.273.00 Thermostat Control Board, 24V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nR02.01.273.00",
+                    "fix_rate": 91.0,
+                    "list_price": "$ 304.00"
+                }
+            ]
+        },
+        {
+            "name": "Probe Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/hatco/fdwd-12-2x/probe-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HT/HT02.01.203.00.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hatco 02.01.203.00 TEMPERATURE PROBE, 10K NTC THERMISTOR",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n02.01.203.00",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 68.00"
+                }
+            ]
+        },
+        {
+            "name": "Display Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/hatco/fdwd-12-2x/display-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HT/HTR02.01.273.00.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hatco R02.01.273.00 Thermostat Control Board, 24V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nR02.01.273.00",
+                    "fix_rate": 86.0,
+                    "list_price": "$ 304.00"
+                }
+            ]
+        }
+    ]
+}

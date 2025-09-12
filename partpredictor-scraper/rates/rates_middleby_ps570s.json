@@ -1,0 +1,50 @@
+{
+    "brand": "middleby",
+    "model": "ps570s",
+    "issues": [
+        {
+            "name": "Blower Motor Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/middleby/ps570s/blower-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/MD/MD70126.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Middleby 70126 Bearing Assembly, Roll Pin",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n70126",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 468.52"
+                }
+            ]
+        },
+        {
+            "name": "Bushing Is Damaged",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/middleby/ps570s/bushing-is-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/MD/MD22034-0003.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Middleby 22034-0003 Bushing, Flange, 3/4\"Od X 5/8\"Id",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n22034-0003",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 8.59"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MD/MD35000-1013.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Middleby 35000-1013 Adapter, Drive Shaft, 200/310/60",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n35000-1013",
+                    "fix_rate": 83.0,
+                    "list_price": "$ 102.97"
+                }
+            ]
+        }
+    ]
+}

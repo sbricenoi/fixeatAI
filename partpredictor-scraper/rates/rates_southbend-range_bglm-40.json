@@ -1,0 +1,40 @@
+{
+    "brand": "southbend-range",
+    "model": "bglm-40",
+    "issues": [
+        {
+            "name": "Controller Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/southbend-range/bglm-40/controller-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CRWN/CRWN5555-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Crown Steam 5555-1 Temperature Control, 120V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n5555-1",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 1,329.29"
+                }
+            ]
+        },
+        {
+            "name": "Thermocouple Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/southbend-range/bglm-40/thermocouple-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CRWN/CRWN4344-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Crown Steam 4344-1 Thermocouple, 48\", Gas Skillet",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4344-1",
+                    "fix_rate": 83.0,
+                    "list_price": "$ 240.74"
+                }
+            ]
+        }
+    ]
+}

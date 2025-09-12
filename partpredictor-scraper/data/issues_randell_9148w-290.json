@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Keypad Is Not Responding Or Damaged",
+        "parsed_name": "keypad-is-not-responding-or-damaged"
+    },
+    {
+        "name": "Probe Is Malfunctioning",
+        "parsed_name": "probe-is-malfunctioning"
+    },
+    {
+        "name": "Controller Is Malfunctioning",
+        "parsed_name": "controller-is-malfunctioning"
+    }
+]

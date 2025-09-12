@@ -1,0 +1,222 @@
+[
+    {
+        "name": "500",
+        "parsed_name": "500"
+    },
+    {
+        "name": "600",
+        "parsed_name": "600"
+    },
+    {
+        "name": "AHC-993",
+        "parsed_name": "ahc-993"
+    },
+    {
+        "name": "CFA-500",
+        "parsed_name": "cfa-500"
+    },
+    {
+        "name": "CFE-410",
+        "parsed_name": "cfe-410"
+    },
+    {
+        "name": "CFE-420",
+        "parsed_name": "cfe-420"
+    },
+    {
+        "name": "EEE-154",
+        "parsed_name": "eee-154"
+    },
+    {
+        "name": "EEG-143",
+        "parsed_name": "eeg-143"
+    },
+    {
+        "name": "EEG-154",
+        "parsed_name": "eeg-154"
+    },
+    {
+        "name": "EEG-163",
+        "parsed_name": "eeg-163"
+    },
+    {
+        "name": "EEG-164",
+        "parsed_name": "eeg-164"
+    },
+    {
+        "name": "EEG-16X-24X Series",
+        "parsed_name": "eeg-16x-24x-series"
+    },
+    {
+        "name": "EEG-241",
+        "parsed_name": "eeg-241"
+    },
+    {
+        "name": "EEG-242",
+        "parsed_name": "eeg-242"
+    },
+    {
+        "name": "EEG-243",
+        "parsed_name": "eeg-243"
+    },
+    {
+        "name": "EEG-244",
+        "parsed_name": "eeg-244"
+    },
+    {
+        "name": "EEG-253",
+        "parsed_name": "eeg-253"
+    },
+    {
+        "name": "EEG-254",
+        "parsed_name": "eeg-254"
+    },
+    {
+        "name": "EEG-25X Series",
+        "parsed_name": "eeg-25x-series"
+    },
+    {
+        "name": "FSE-610",
+        "parsed_name": "fse-610"
+    },
+    {
+        "name": "HC-900",
+        "parsed_name": "hc-900"
+    },
+    {
+        "name": "HHC-900",
+        "parsed_name": "hhc-900"
+    },
+    {
+        "name": "HHC-908",
+        "parsed_name": "hhc-908"
+    },
+    {
+        "name": "HHC-990",
+        "parsed_name": "hhc-990"
+    },
+    {
+        "name": "HHC-993",
+        "parsed_name": "hhc-993"
+    },
+    {
+        "name": "HHC-996",
+        "parsed_name": "hhc-996"
+    },
+    {
+        "name": "HHC-998",
+        "parsed_name": "hhc-998"
+    },
+    {
+        "name": "HMR-107",
+        "parsed_name": "hmr-107"
+    },
+    {
+        "name": "LVE-102",
+        "parsed_name": "lve-102"
+    },
+    {
+        "name": "LVE-103",
+        "parsed_name": "lve-103"
+    },
+    {
+        "name": "LVE-104",
+        "parsed_name": "lve-104"
+    },
+    {
+        "name": "LVE-202",
+        "parsed_name": "lve-202"
+    },
+    {
+        "name": "LVG-102",
+        "parsed_name": "lvg-102"
+    },
+    {
+        "name": "LVG-202",
+        "parsed_name": "lvg-202"
+    },
+    {
+        "name": "OFE-324",
+        "parsed_name": "ofe-324"
+    },
+    {
+        "name": "OFG-321",
+        "parsed_name": "ofg-321"
+    },
+    {
+        "name": "OFG-322",
+        "parsed_name": "ofg-322"
+    },
+    {
+        "name": "OFG-323",
+        "parsed_name": "ofg-323"
+    },
+    {
+        "name": "OFG-324",
+        "parsed_name": "ofg-324"
+    },
+    {
+        "name": "OFG-341",
+        "parsed_name": "ofg-341"
+    },
+    {
+        "name": "OFG-342",
+        "parsed_name": "ofg-342"
+    },
+    {
+        "name": "OGA-321",
+        "parsed_name": "oga-321"
+    },
+    {
+        "name": "OGA-322",
+        "parsed_name": "oga-322"
+    },
+    {
+        "name": "OGA-323",
+        "parsed_name": "oga-323"
+    },
+    {
+        "name": "OGA-341",
+        "parsed_name": "oga-341"
+    },
+    {
+        "name": "OGA-342",
+        "parsed_name": "oga-342"
+    },
+    {
+        "name": "PFE-500",
+        "parsed_name": "pfe-500"
+    },
+    {
+        "name": "PFE-500-CFA",
+        "parsed_name": "pfe-500-cfa"
+    },
+    {
+        "name": "PFE-561",
+        "parsed_name": "pfe-561"
+    },
+    {
+        "name": "PFE-590",
+        "parsed_name": "pfe-590"
+    },
+    {
+        "name": "PFE-591",
+        "parsed_name": "pfe-591"
+    },
+    {
+        "name": "PFE-592",
+        "parsed_name": "pfe-592"
+    },
+    {
+        "name": "PFE-600",
+        "parsed_name": "pfe-600"
+    },
+    {
+        "name": "PFG-690",
+        "parsed_name": "pfg-690"
+    },
+    {
+        "name": "PXE-100",
+        "parsed_name": "pxe-100"
+    }
+]

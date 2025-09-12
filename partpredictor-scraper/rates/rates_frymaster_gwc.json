@@ -1,0 +1,195 @@
+{
+    "brand": "frymaster",
+    "model": "gwc",
+    "issues": [
+        {
+            "name": "Unit Is Leaking",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/frymaster/gwc/unit-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8130453.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8130453 Nut, Stainless Steel Slip, Chrome, 1-1/4\" NPT",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8130453",
+                    "fix_rate": 27.0,
+                    "list_price": "$ 23.13"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8130451-FRY.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8130451-FRY Nipple, 1-1/4\" x 12\", Chrome",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8130451-FRY",
+                    "fix_rate": 20.0,
+                    "list_price": "$ 59.19"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8263321.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8263321 Front Panel/Valve Replacement Noodles, Gwc",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8263321",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 731.93"
+                }
+            ]
+        },
+        {
+            "name": "Hose Is Broken Or Leaking",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/frymaster/gwc/hose-is-broken-or-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8130453.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8130453 Nut, Stainless Steel Slip, Chrome, 1-1/4\" NPT",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8130453",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 23.13"
+                }
+            ]
+        },
+        {
+            "name": "Burner Is Malfunctioning Or Damaged",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/frymaster/gwc/burner-is-malfunctioning-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8160924.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8160924 Insulation, Burner, Textile,",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8160924",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 35.24"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8160923.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8160923 Insulation, Burner Textile, 18\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8160923",
+                    "fix_rate": 39.0,
+                    "list_price": "$ 36.28"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8260981.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8260981 Ignitor and Gasket Kit, Natural Gas",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8260981",
+                    "fix_rate": 33.0,
+                    "list_price": "$ 164.27"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8261072.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8261072 Universal Burner Kit, Infrared, Natural Gas and Propane",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8261072",
+                    "fix_rate": 33.0,
+                    "list_price": "$ 653.63"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM1081540.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 1081540 Blower Motor Assembly, 120V, GSMS",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1081540",
+                    "fix_rate": 28.0,
+                    "list_price": "$ 495.88"
+                }
+            ]
+        },
+        {
+            "name": "Blower Motor Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/frymaster/gwc/blower-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM1081540.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 1081540 Blower Motor Assembly, 120V, GSMS",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1081540",
+                    "fix_rate": 80.0,
+                    "list_price": "$ 495.88"
+                }
+            ]
+        },
+        {
+            "name": "Ignitor Is Malfunctioning Or Damaged",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/frymaster/gwc/ignitor-is-malfunctioning-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8260981.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8260981 Ignitor and Gasket Kit, Natural Gas",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8260981",
+                    "fix_rate": 60.0,
+                    "list_price": "$ 164.27"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM1063338SP.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 1063338SP Ignition Cable, 36\", FBR18",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1063338SP",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 144.97"
+                }
+            ]
+        },
+        {
+            "name": "Valve Is Malfunctioning",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/frymaster/gwc/valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8102684.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8102684 Water Valve, Plastic, 1/2\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8102684",
+                    "fix_rate": 60.0,
+                    "list_price": "$ 50.00"
+                }
+            ]
+        },
+        {
+            "name": "Motor Is Malfunctioning",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/frymaster/gwc/motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM1081540.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 1081540 Blower Motor Assembly, 120V, GSMS",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1081540",
+                    "fix_rate": 67.0,
+                    "list_price": "$ 495.88"
+                }
+            ]
+        }
+    ]
+}

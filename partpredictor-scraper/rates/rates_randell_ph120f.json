@@ -1,0 +1,57 @@
+{
+    "brand": "randell",
+    "model": "ph120f",
+    "issues": [
+        {
+            "name": "Unit Is Leaking",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/randell/ph120f/unit-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDELWIR274.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell EL WIR274 Element, 115V, 200W",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nEL WIR274",
+                    "fix_rate": 33.0,
+                    "list_price": "$ 160.80"
+                }
+            ]
+        },
+        {
+            "name": "Heating Element Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/randell/ph120f/heating-element-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDELWIR274.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell EL WIR274 Element, 115V, 200W",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nEL WIR274",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 160.80"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Overheating",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/randell/ph120f/unit-is-overheating",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDELWIR274.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell EL WIR274 Element, 115V, 200W",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nEL WIR274",
+                    "fix_rate": 62.0,
+                    "list_price": "$ 160.80"
+                }
+            ]
+        }
+    ]
+}

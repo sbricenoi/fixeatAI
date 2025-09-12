@@ -1,0 +1,57 @@
+{
+    "brand": "frymaster",
+    "model": "biela-series",
+    "issues": [
+        {
+            "name": "Contactor Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/frymaster/biela-series/contactor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8263417.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8263417 Contactor Kit, 3 Pole, 50A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8263417",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 154.67"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/frymaster/biela-series/unit-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8262260.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8262260 Interface Board Kit, Dual Vat, RE EL",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8262260",
+                    "fix_rate": 45.0,
+                    "list_price": "$ 349.41"
+                }
+            ]
+        },
+        {
+            "name": "Probe Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/frymaster/biela-series/probe-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8263417.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8263417 Contactor Kit, 3 Pole, 50A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8263417",
+                    "fix_rate": 86.0,
+                    "list_price": "$ 154.67"
+                }
+            ]
+        }
+    ]
+}

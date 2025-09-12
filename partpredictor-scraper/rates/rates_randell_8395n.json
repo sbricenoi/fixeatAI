@@ -1,0 +1,199 @@
+{
+    "brand": "randell",
+    "model": "8395n",
+    "issues": [
+        {
+            "name": "Unit Is Leaking",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/randell/8395n/unit-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRPDRP107.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RP DRP107 Evaporator Drain Pan, 18.25\" x 4.25\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRP DRP107",
+                    "fix_rate": 30.0,
+                    "list_price": "$ 87.73"
+                }
+            ]
+        },
+        {
+            "name": "Compressor Is Not Running",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/randell/8395n/compressor-is-not-running",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFCMP9902P.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF CMP9902P Compressor, 1/2HP, LO R404A, Copeland AFE",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF CMP9902P",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 1,855.66"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFFLT251.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF FLT251 Filter Drier, 1/4\" with 2nd 1/4\" Inlet",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF FLT251",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 30.54"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/randell/8395n/unit-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRPDRP107.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RP DRP107 Evaporator Drain Pan, 18.25\" x 4.25\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRP DRP107",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 87.73"
+                }
+            ]
+        },
+        {
+            "name": "Drain Pan Is Damaged",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/randell/8395n/drain-pan-is-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRPDRP107.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RP DRP107 Evaporator Drain Pan, 18.25\" x 4.25\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRP DRP107",
+                    "fix_rate": 79.0,
+                    "list_price": "$ 87.73"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDINGSK1030.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell IN GSK1030 Door Gasket, Push In, 24.25\" x 24.25\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nIN GSK1030",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 69.86"
+                }
+            ]
+        },
+        {
+            "name": "Gasket Is Defective Or Leaking",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/randell/8395n/gasket-is-defective-or-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDINGSK1030.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell IN GSK1030 Door Gasket, Push In, 24.25\" x 24.25\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nIN GSK1030",
+                    "fix_rate": 96.0,
+                    "list_price": "$ 69.86"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRPDRP107.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RP DRP107 Evaporator Drain Pan, 18.25\" x 4.25\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRP DRP107",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 87.73"
+                }
+            ]
+        },
+        {
+            "name": "Drain Pan Is Malfunctioning",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/randell/8395n/drain-pan-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRPDRP107.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RP DRP107 Evaporator Drain Pan, 18.25\" x 4.25\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRP DRP107",
+                    "fix_rate": 96.0,
+                    "list_price": "$ 87.73"
+                }
+            ]
+        },
+        {
+            "name": "Door Is Malfunctioning",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/randell/8395n/door-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDINGSK1030.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell IN GSK1030 Door Gasket, Push In, 24.25\" x 24.25\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nIN GSK1030",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 69.86"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRPHNG9900.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RP HNG9900 Hinge Kit, New Style, MI Units, NSC",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRP HNG9900",
+                    "fix_rate": 30.0,
+                    "list_price": "$ 186.93"
+                }
+            ]
+        },
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 7,
+            "url": "https://www.partstown.com/part-predictor/randell/8395n/thermostat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDHDCNT1401.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell HD CNT1401 Refrigeration Control Kit, WKF11A-102-122, SS",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nHD CNT1401",
+                    "fix_rate": 69.0,
+                    "list_price": "$ 91.09"
+                }
+            ]
+        },
+        {
+            "name": "Hinge Is Defective Or Damaged",
+            "idx": 8,
+            "url": "https://www.partstown.com/part-predictor/randell/8395n/hinge-is-defective-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRPHNG9900.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RP HNG9900 Hinge Kit, New Style, MI Units, NSC",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRP HNG9900",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 186.93"
+                }
+            ]
+        }
+    ]
+}

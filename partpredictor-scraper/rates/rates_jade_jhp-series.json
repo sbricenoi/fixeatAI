@@ -1,0 +1,33 @@
+{
+    "brand": "jade",
+    "model": "jhp-series",
+    "issues": [
+        {
+            "name": "Burner Is Malfunctioning Or Damaged",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/jade/jhp-series/burner-is-malfunctioning-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/JD/JD3000010835.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jade 3000010835 Burner Assembly, Rear, Open Top, JSR/JTRH/JTRH Lift",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3000010835",
+                    "fix_rate": 38.0,
+                    "list_price": "$ 215.09"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/JD/JD3000010836.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jade 3000010836 Burner Assembly, Open Top, Front, JSR/JTRH/LIF",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3000010836",
+                    "fix_rate": 38.0,
+                    "list_price": "$ 182.02"
+                }
+            ]
+        }
+    ]
+}

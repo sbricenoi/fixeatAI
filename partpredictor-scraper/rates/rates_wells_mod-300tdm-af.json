@@ -1,0 +1,33 @@
+{
+    "brand": "wells",
+    "model": "mod-300tdm-af",
+    "issues": [
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/wells/mod-300tdm-af/thermostat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/WEL/WEL2T-45917.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Wells 2T-45917 Thermostat Control with Auxilary, Warmers",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2T-45917",
+                    "fix_rate": 56.0,
+                    "list_price": "$ 232.92"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/WEL/WEL2R-40498.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Wells 2R-40498 Knob Assembly, Hi/Lo, Warmers",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2R-40498",
+                    "fix_rate": 31.0,
+                    "list_price": "$ 40.79"
+                }
+            ]
+        }
+    ]
+}

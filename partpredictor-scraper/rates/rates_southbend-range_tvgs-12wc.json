@@ -1,0 +1,188 @@
+{
+    "brand": "southbend-range",
+    "model": "tvgs-12wc",
+    "issues": [
+        {
+            "name": "Ignitor Is Malfunctioning Or Damaged",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/southbend-range/tvgs-12wc/ignitor-is-malfunctioning-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1195748.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1195748 Ignitor, Sil, Nitride, 120V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1195748",
+                    "fix_rate": 91.0,
+                    "list_price": "$ 197.41"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1190642.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1190642 Ignition Module, Broiler",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1190642",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 635.03"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1195448.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1195448 Flame Sensor, 90 Degree",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1195448",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 155.91"
+                }
+            ]
+        },
+        {
+            "name": "Flame Sensor Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/southbend-range/tvgs-12wc/flame-sensor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1195448.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1195448 Flame Sensor, 90 Degree",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1195448",
+                    "fix_rate": 57.0,
+                    "list_price": "$ 155.91"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1195748.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1195748 Ignitor, Sil, Nitride, 120V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1195748",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 197.41"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1190642.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1190642 Ignition Module, Broiler",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1190642",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 635.03"
+                }
+            ]
+        },
+        {
+            "name": "Wiring Issue",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/southbend-range/tvgs-12wc/wiring-issue",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1195748.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1195748 Ignitor, Sil, Nitride, 120V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1195748",
+                    "fix_rate": 48.0,
+                    "list_price": "$ 197.41"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1195448.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1195448 Flame Sensor, 90 Degree",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1195448",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 155.91"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1190642.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1190642 Ignition Module, Broiler",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1190642",
+                    "fix_rate": 24.0,
+                    "list_price": "$ 635.03"
+                }
+            ]
+        },
+        {
+            "name": "Door Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/southbend-range/tvgs-12wc/door-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1194532.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1194532 Door Assembly, Solid , Left, Horizonal",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1194532",
+                    "fix_rate": 37.0,
+                    "list_price": "$ 909.42"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1194553.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1194553 Door Assembly, Solid, Right",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1194553",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 966.86"
+                }
+            ]
+        },
+        {
+            "name": "Burner Is Malfunctioning Or Damaged",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/southbend-range/tvgs-12wc/burner-is-malfunctioning-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1195748.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1195748 Ignitor, Sil, Nitride, 120V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1195748",
+                    "fix_rate": 39.0,
+                    "list_price": "$ 197.41"
+                }
+            ]
+        },
+        {
+            "name": "Controller Is Malfunctioning",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/southbend-range/tvgs-12wc/controller-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1195748.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1195748 Ignitor, Sil, Nitride, 120V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1195748",
+                    "fix_rate": 35.0,
+                    "list_price": "$ 197.41"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1195448.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1195448 Flame Sensor, 90 Degree",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1195448",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 155.91"
+                }
+            ]
+        }
+    ]
+}

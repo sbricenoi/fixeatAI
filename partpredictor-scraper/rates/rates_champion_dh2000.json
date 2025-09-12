@@ -1,0 +1,283 @@
+{
+    "brand": "champion",
+    "model": "dh2000",
+    "issues": [
+        {
+            "name": "Unit Is Leaking",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/champion/dh2000/unit-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA117216.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 117216 Suction Hose, EPDM, DH6000",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n117216",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 29.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA109985.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 109985 Seal, O-Ring, Electric Heater",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n109985",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 8.43"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA100500.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 100500 Vacuum Breaker, Bronze, 1/2\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100500",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 115.24"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA110285.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 110285 Pump Gasket, 0.75HP Pump",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n110285",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 41.79"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA114745.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 114745 Discharge Hose, Reinforced, DH/MD",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n114745",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 106.87"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA107550.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 107550 Pressure Reducing Valve, 3/4\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n107550",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 368.19"
+                }
+            ]
+        },
+        {
+            "name": "Contactor Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/champion/dh2000/contactor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA116166.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 116166 Contactor, 60A, 3 Pole",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n116166",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 371.75"
+                }
+            ]
+        },
+        {
+            "name": "Fuse Is Blown",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/champion/dh2000/fuse-is-blown",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA116166.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 116166 Contactor, 60A, 3 Pole",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n116166",
+                    "fix_rate": 33.0,
+                    "list_price": "$ 371.75"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA114470.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 114470 Timer Board, Infitec DM",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n114470",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 544.39"
+                }
+            ]
+        },
+        {
+            "name": "Door Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/champion/dh2000/door-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA0310843-2.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 0310843-2 Door Guide, Wear Strip, 24\" Door",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n0310843-2",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 21.06"
+                }
+            ]
+        },
+        {
+            "name": "Hi-limit Is Tripping Or Wont Reset",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/champion/dh2000/hi-limit-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA109069.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 109069 Thermostat with Capillary, 110-195F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n109069",
+                    "fix_rate": 48.0,
+                    "list_price": "$ 342.90"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA110561.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 110561 Hi-Limit Thermostat, Fixed 240F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n110561",
+                    "fix_rate": 24.0,
+                    "list_price": "$ 344.06"
+                }
+            ]
+        },
+        {
+            "name": "Heating Element Is Malfunctioning",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/champion/dh2000/heating-element-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA109069.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 109069 Thermostat with Capillary, 110-195F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n109069",
+                    "fix_rate": 28.0,
+                    "list_price": "$ 342.90"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA116166.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 116166 Contactor, 60A, 3 Pole",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n116166",
+                    "fix_rate": 28.0,
+                    "list_price": "$ 371.75"
+                }
+            ]
+        },
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/champion/dh2000/thermostat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA109069.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 109069 Thermostat with Capillary, 110-195F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n109069",
+                    "fix_rate": 61.0,
+                    "list_price": "$ 342.90"
+                }
+            ]
+        },
+        {
+            "name": "Hose Is Broken Or Leaking",
+            "idx": 7,
+            "url": "https://www.partstown.com/part-predictor/champion/dh2000/hose-is-broken-or-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA117216.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 117216 Suction Hose, EPDM, DH6000",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n117216",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 29.00"
+                }
+            ]
+        },
+        {
+            "name": "Gasket Is Defective Or Leaking",
+            "idx": 8,
+            "url": "https://www.partstown.com/part-predictor/champion/dh2000/gasket-is-defective-or-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA109985.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 109985 Seal, O-Ring, Electric Heater",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n109985",
+                    "fix_rate": 43.0,
+                    "list_price": "$ 8.43"
+                }
+            ]
+        },
+        {
+            "name": "Drain Valve Is Malfunctioning",
+            "idx": 9,
+            "url": "https://www.partstown.com/part-predictor/champion/dh2000/drain-valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA114471.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 114471 Drain Valve, NC, 115V, 50/60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n114471",
+                    "fix_rate": 70.0,
+                    "list_price": "$ 586.57"
+                }
+            ]
+        },
+        {
+            "name": "Transformer Is Malfunctioning",
+            "idx": 10,
+            "url": "https://www.partstown.com/part-predictor/champion/dh2000/transformer-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA108397.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 108397 Transformer, 50/60HZ, .15KVA",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n108397",
+                    "fix_rate": 67.0,
+                    "list_price": "$ 259.69"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA107289.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 107289 Fuse, Time Delay, 2.5 Amp, 600 Volt",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n107289",
+                    "fix_rate": 56.0,
+                    "list_price": "$ 45.04"
+                }
+            ]
+        }
+    ]
+}

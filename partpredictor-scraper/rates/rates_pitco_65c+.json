@@ -1,0 +1,126 @@
+{
+    "brand": "pitco",
+    "model": "65c+",
+    "issues": [
+        {
+            "name": "Pilot Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/pitco/65c+/pilot-is-malfunctioning",
+            "results": []
+        },
+        {
+            "name": "Unit Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/pitco/65c+/unit-is-malfunctioning",
+            "results": []
+        },
+        {
+            "name": "Hi-limit Is Tripping Or Wont Reset",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/pitco/65c+/hi-limit-is-tripping-or-wont-reset",
+            "results": []
+        },
+        {
+            "name": "Unit Is Not Lighting",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/pitco/65c+/unit-is-not-lighting",
+            "results": []
+        },
+        {
+            "name": "Thermopile Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/pitco/65c+/thermopile-is-malfunctioning",
+            "results": []
+        },
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/pitco/65c+/thermostat-is-malfunctioning",
+            "results": []
+        },
+        {
+            "name": "Gas Valve Is Malfunctioning",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/pitco/65c+/gas-valve-is-malfunctioning",
+            "results": []
+        },
+        {
+            "name": "Unit Is Overheating",
+            "idx": 7,
+            "url": "https://www.partstown.com/part-predictor/pitco/65c+/unit-is-overheating",
+            "results": []
+        },
+        {
+            "name": "Unit Is Leaking",
+            "idx": 8,
+            "url": "https://www.partstown.com/part-predictor/pitco/65c+/unit-is-leaking",
+            "results": []
+        },
+        {
+            "name": "Unit Is Shutting Down",
+            "idx": 9,
+            "url": "https://www.partstown.com/part-predictor/pitco/65c+/unit-is-shutting-down",
+            "results": []
+        },
+        {
+            "name": "Unit Is Not Maintaining Temperature",
+            "idx": 10,
+            "url": "https://www.partstown.com/part-predictor/pitco/65c+/unit-is-not-maintaining-temperature",
+            "results": []
+        },
+        {
+            "name": "Oil Is Leaking",
+            "idx": 11,
+            "url": "https://www.partstown.com/part-predictor/pitco/65c+/oil-is-leaking",
+            "results": []
+        },
+        {
+            "name": "Unit Is Not Reaching Set Temperature",
+            "idx": 12,
+            "url": "https://www.partstown.com/part-predictor/pitco/65c+/unit-is-not-reaching-set-temperature",
+            "results": []
+        },
+        {
+            "name": "Burner Is Malfunctioning Or Damaged",
+            "idx": 13,
+            "url": "https://www.partstown.com/part-predictor/pitco/65c+/burner-is-malfunctioning-or-damaged",
+            "results": []
+        },
+        {
+            "name": "Valve Is Malfunctioning",
+            "idx": 14,
+            "url": "https://www.partstown.com/part-predictor/pitco/65c+/valve-is-malfunctioning",
+            "results": []
+        },
+        {
+            "name": "Unit Won't Turn On",
+            "idx": 15,
+            "url": "https://www.partstown.com/part-predictor/pitco/65c+/unit-wont-turn-on",
+            "results": []
+        },
+        {
+            "name": "Thermocouple Is Malfunctioning",
+            "idx": 16,
+            "url": "https://www.partstown.com/part-predictor/pitco/65c+/thermocouple-is-malfunctioning",
+            "results": []
+        },
+        {
+            "name": "Gas Valve Is Leaking",
+            "idx": 17,
+            "url": "https://www.partstown.com/part-predictor/pitco/65c+/gas-valve-is-leaking",
+            "results": []
+        },
+        {
+            "name": "Drain Valve Is Leaking",
+            "idx": 18,
+            "url": "https://www.partstown.com/part-predictor/pitco/65c+/drain-valve-is-leaking",
+            "results": []
+        },
+        {
+            "name": "Wiring Issue",
+            "idx": 19,
+            "url": "https://www.partstown.com/part-predictor/pitco/65c+/wiring-issue",
+            "results": []
+        }
+    ]
+}

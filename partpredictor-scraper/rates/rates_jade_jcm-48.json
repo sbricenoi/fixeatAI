@@ -1,0 +1,94 @@
+{
+    "brand": "jade",
+    "model": "jcm-48",
+    "issues": [
+        {
+            "name": "Burner Is Malfunctioning Or Damaged",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/jade/jcm-48/burner-is-malfunctioning-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/JD/JD1212500000.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jade 1212500000 Infrared Burner, Small, 18-3/4\" x 6\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1212500000",
+                    "fix_rate": 52.0,
+                    "list_price": "$ 1,034.81"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/JD/JD1212300000.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jade 1212300000 Infrared Burner, Large, 28-1/4\" x 6-3/4\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1212300000",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 1,452.90"
+                }
+            ]
+        },
+        {
+            "name": "Heating Element Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/jade/jcm-48/heating-element-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/JD/JD1212500000.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jade 1212500000 Infrared Burner, Small, 18-3/4\" x 6\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1212500000",
+                    "fix_rate": 60.0,
+                    "list_price": "$ 1,034.81"
+                }
+            ]
+        },
+        {
+            "name": "Pilot Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/jade/jcm-48/pilot-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/JD/JD1212500000.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jade 1212500000 Infrared Burner, Small, 18-3/4\" x 6\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1212500000",
+                    "fix_rate": 53.0,
+                    "list_price": "$ 1,034.81"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/JD/JD3000011694.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jade 3000011694 Pilot Burner, Alpha Brass B11H2",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3000011694",
+                    "fix_rate": 40.0,
+                    "list_price": "$ 50.26"
+                }
+            ]
+        },
+        {
+            "name": "Insulation Is Damaged",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/jade/jcm-48/insulation-is-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/JD/JD1212500000.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jade 1212500000 Infrared Burner, Small, 18-3/4\" x 6\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1212500000",
+                    "fix_rate": 60.0,
+                    "list_price": "$ 1,034.81"
+                }
+            ]
+        }
+    ]
+}

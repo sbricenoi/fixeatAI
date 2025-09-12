@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Light Is Not Functioning Or Damaged",
+        "parsed_name": "light-is-not-functioning-or-damaged"
+    },
+    {
+        "name": "Relay Is Malfunctioning",
+        "parsed_name": "relay-is-malfunctioning"
+    },
+    {
+        "name": "Switch Is Malfunctioning",
+        "parsed_name": "switch-is-malfunctioning"
+    },
+    {
+        "name": "Fuse Is Blown",
+        "parsed_name": "fuse-is-blown"
+    },
+    {
+        "name": "Infinite Switch Is Malfunctioning",
+        "parsed_name": "infinite-switch-is-malfunctioning"
+    }
+]

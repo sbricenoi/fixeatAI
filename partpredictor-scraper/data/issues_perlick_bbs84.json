@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Unit Is Not Reaching Set Temperature",
+        "parsed_name": "unit-is-not-reaching-set-temperature"
+    },
+    {
+        "name": "Controller Is Malfunctioning",
+        "parsed_name": "controller-is-malfunctioning"
+    },
+    {
+        "name": "Door Is Malfunctioning",
+        "parsed_name": "door-is-malfunctioning"
+    },
+    {
+        "name": "Hinge Is Defective Or Damaged",
+        "parsed_name": "hinge-is-defective-or-damaged"
+    },
+    {
+        "name": "Bushing Is Damaged",
+        "parsed_name": "bushing-is-damaged"
+    }
+]

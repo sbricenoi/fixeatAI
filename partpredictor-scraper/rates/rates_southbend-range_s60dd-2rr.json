@@ -1,0 +1,23 @@
+{
+    "brand": "southbend-range",
+    "model": "s60dd-2rr",
+    "issues": [
+        {
+            "name": "Pilot Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/southbend-range/s60dd-2rr/pilot-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1182154.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1182154 Thermopile",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1182154",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 188.77"
+                }
+            ]
+        }
+    ]
+}

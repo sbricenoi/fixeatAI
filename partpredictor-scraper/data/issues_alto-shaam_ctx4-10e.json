@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Motor Is Malfunctioning",
+        "parsed_name": "motor-is-malfunctioning"
+    },
+    {
+        "name": "Interface Board Is Malfunctioning",
+        "parsed_name": "interface-board-is-malfunctioning"
+    },
+    {
+        "name": "Valve Is Malfunctioning",
+        "parsed_name": "valve-is-malfunctioning"
+    }
+]

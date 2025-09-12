@@ -1,0 +1,150 @@
+{
+    "brand": "middleby",
+    "model": "ps770",
+    "issues": [
+        {
+            "name": "Blower Motor Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/middleby/ps770/blower-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/MD/MD74097.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Middleby 74097 Inverter Replacement Kit 2HP",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n74097",
+                    "fix_rate": 38.0,
+                    "list_price": "$ 857.32"
+                }
+            ]
+        },
+        {
+            "name": "Motor Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/middleby/ps770/motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/MD/MD57288.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Middleby 57288 Blower Motor, 2HP, 230/460V, 1725RPM",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n57288",
+                    "fix_rate": 32.0,
+                    "list_price": "$ 1,063.09"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MD/MD74097.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Middleby 74097 Inverter Replacement Kit 2HP",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n74097",
+                    "fix_rate": 23.0,
+                    "list_price": "$ 857.32"
+                }
+            ]
+        },
+        {
+            "name": "Burner Is Malfunctioning Or Damaged",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/middleby/ps770/burner-is-malfunctioning-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/MD/MD64356.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Middleby 64356 Flame Sensor Electrode, SC80",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n64356",
+                    "fix_rate": 38.0,
+                    "list_price": "$ 106.99"
+                }
+            ]
+        },
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/middleby/ps770/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/MD/MD63909.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Middleby 63909 Interlock Switch, 12A, NO2P",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n63909",
+                    "fix_rate": 67.0,
+                    "list_price": "$ 30.94"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Not Reaching Set Temperature",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/middleby/ps770/unit-is-not-reaching-set-temperature",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/MD/MD64356.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Middleby 64356 Flame Sensor Electrode, SC80",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n64356",
+                    "fix_rate": 56.0,
+                    "list_price": "$ 106.99"
+                }
+            ]
+        },
+        {
+            "name": "Cooling Fan Is Malfunctioning",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/middleby/ps770/cooling-fan-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/MD/MDM9616.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Middleby M9616 Axial Fan, 24VDC",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nM9616",
+                    "fix_rate": 88.0
+                }
+            ]
+        },
+        {
+            "name": "Fan Motor Is Malfunctioning",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/middleby/ps770/fan-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/MD/MDM9616.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Middleby M9616 Axial Fan, 24VDC",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nM9616",
+                    "fix_rate": 75.0
+                }
+            ]
+        },
+        {
+            "name": "Flame Sensor Is Malfunctioning",
+            "idx": 7,
+            "url": "https://www.partstown.com/part-predictor/middleby/ps770/flame-sensor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/MD/MD64356.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Middleby 64356 Flame Sensor Electrode, SC80",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n64356",
+                    "fix_rate": 86.0,
+                    "list_price": "$ 106.99"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,164 @@
+{
+    "brand": "star",
+    "model": "301hlf",
+    "issues": [
+        {
+            "name": "Hi-limit Is Tripping Or Wont Reset",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/star/301hlf/hi-limit-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2T-Z3209.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2T-Z3209 Safety Thermostat",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2T-Z3209",
+                    "fix_rate": 79.0,
+                    "list_price": "$ 271.92"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2T-Z7268.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2T-Z7268 Thermostat, Fryer, 200-375F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2T-Z7268",
+                    "fix_rate": 57.0,
+                    "list_price": "$ 216.69"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2N-Z2920.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2N-Z2920 Element With Leads, 208/240V, 5500W",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2N-Z2920",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 379.42"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Overheating",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/star/301hlf/unit-is-overheating",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2T-Z7268.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2T-Z7268 Thermostat, Fryer, 200-375F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2T-Z7268",
+                    "fix_rate": 79.0,
+                    "list_price": "$ 216.69"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2T-Z3209.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2T-Z3209 Safety Thermostat",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2T-Z3209",
+                    "fix_rate": 67.0,
+                    "list_price": "$ 271.92"
+                }
+            ]
+        },
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/star/301hlf/thermostat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2T-Z7268.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2T-Z7268 Thermostat, Fryer, 200-375F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2T-Z7268",
+                    "fix_rate": 75.0,
+                    "list_price": "$ 216.69"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2T-Z3209.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2T-Z3209 Safety Thermostat",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2T-Z3209",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 271.92"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/star/301hlf/unit-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2T-Z7268.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2T-Z7268 Thermostat, Fryer, 200-375F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2T-Z7268",
+                    "fix_rate": 35.0,
+                    "list_price": "$ 216.69"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2E-Y5166.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2E-Y5166 Switch/Circuit Breaker, 2 Pole, 30A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2E-Y5166",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 183.21"
+                }
+            ]
+        },
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/star/301hlf/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2E-Y5166.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2E-Y5166 Switch/Circuit Breaker, 2 Pole, 30A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2E-Y5166",
+                    "fix_rate": 80.0,
+                    "list_price": "$ 183.21"
+                }
+            ]
+        },
+        {
+            "name": "Wiring Issue",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/star/301hlf/wiring-issue",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2N-Z2920.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2N-Z2920 Element With Leads, 208/240V, 5500W",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2N-Z2920",
+                    "fix_rate": 62.0,
+                    "list_price": "$ 379.42"
+                }
+            ]
+        },
+        {
+            "name": "Unit Won't Turn On",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/star/301hlf/unit-wont-turn-on",
+            "results": []
+        }
+    ]
+}

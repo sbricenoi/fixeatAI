@@ -1,0 +1,23 @@
+{
+    "brand": "globe",
+    "model": "sg13a",
+    "issues": [
+        {
+            "name": "Blade Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/globe/sg13a/blade-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GLO/GLO450222-01.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Globe 450222-01 Removable Knif Kit, S13 Series",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n450222-01",
+                    "fix_rate": 55.0,
+                    "list_price": "$ 578.00"
+                }
+            ]
+        }
+    ]
+}

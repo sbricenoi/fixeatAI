@@ -1,0 +1,606 @@
+{
+    "brand": "blodgett",
+    "model": "ctbr-wendys",
+    "issues": [
+        {
+            "name": "Contactor Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/blodgett/ctbr-wendys/contactor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BLR11087.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett R11087 Contactor, 3P, 240V, 40A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nR11087",
+                    "fix_rate": 35.0,
+                    "list_price": "$ 347.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL90588.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 90588 Contactor, 3 Pole, CTB",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n90588",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 179.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL18578.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 18578 Temperature/Cook Controller",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n18578",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 334.88"
+                }
+            ]
+        },
+        {
+            "name": "Fan Motor Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/blodgett/ctbr-wendys/fan-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL32302.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 32302 Motor Kit, 208-240V, 2 Speed, 1/4HP",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n32302",
+                    "fix_rate": 36.0,
+                    "list_price": "$ 1,001.52"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL6138.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 6138 Blower Wheel Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n6138",
+                    "fix_rate": 30.0,
+                    "list_price": "$ 243.36"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL21068.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 21068 Switch, Rotary, 4 Position",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n21068",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 56.16"
+                }
+            ]
+        },
+        {
+            "name": "Door Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/blodgett/ctbr-wendys/door-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL17946.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 17946 Door Roller Catch Assembly and Screws, DFG50",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n17946",
+                    "fix_rate": 35.0,
+                    "list_price": "$ 213.20"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL17865.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 17865 Latch With Screws, Roller, Ctb/R/Dfg",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n17865",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 150.80"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL33946.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 33946 Door Switch And Bracket Assembly With Screws",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n33946",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 175.76"
+                }
+            ]
+        },
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/blodgett/ctbr-wendys/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL21068.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 21068 Switch, Rotary, 4 Position",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n21068",
+                    "fix_rate": 54.0,
+                    "list_price": "$ 56.16"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL18868.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 18868 Mode Selector Switch",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n18868",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 48.88"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL16686.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 16686 Control Knob",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n16686",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 31.20"
+                }
+            ]
+        },
+        {
+            "name": "Controller Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/blodgett/ctbr-wendys/controller-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL18578.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 18578 Temperature/Cook Controller",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n18578",
+                    "fix_rate": 52.0,
+                    "list_price": "$ 334.88"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL18588.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 18588 Temperature Probe, 100K",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n18588",
+                    "fix_rate": 27.0,
+                    "list_price": "$ 109.20"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL18234.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 18234 Potentiometer, Remote",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n18234",
+                    "fix_rate": 24.0,
+                    "list_price": "$ 92.56"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BLR11087.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett R11087 Contactor, 3P, 240V, 40A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nR11087",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 347.00"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Not Reaching Set Temperature",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/blodgett/ctbr-wendys/unit-is-not-reaching-set-temperature",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL18588.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 18588 Temperature Probe, 100K",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n18588",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 109.20"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL18578.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 18578 Temperature/Cook Controller",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n18578",
+                    "fix_rate": 20.0,
+                    "list_price": "$ 334.88"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL18234.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 18234 Potentiometer, Remote",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n18234",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 92.56"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL6138.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 6138 Blower Wheel Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n6138",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 243.36"
+                }
+            ]
+        },
+        {
+            "name": "Blower Motor Is Malfunctioning",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/blodgett/ctbr-wendys/blower-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL6138.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 6138 Blower Wheel Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n6138",
+                    "fix_rate": 47.0,
+                    "list_price": "$ 243.36"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL32302.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 32302 Motor Kit, 208-240V, 2 Speed, 1/4HP",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n32302",
+                    "fix_rate": 41.0,
+                    "list_price": "$ 1,001.52"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL32313.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 32313 Blower Motor Kit, 230V, 1 Speed",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n32313",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 853.84"
+                }
+            ]
+        },
+        {
+            "name": "Motor Is Malfunctioning",
+            "idx": 7,
+            "url": "https://www.partstown.com/part-predictor/blodgett/ctbr-wendys/motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL6138.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 6138 Blower Wheel Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n6138",
+                    "fix_rate": 60.0,
+                    "list_price": "$ 243.36"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL32302.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 32302 Motor Kit, 208-240V, 2 Speed, 1/4HP",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n32302",
+                    "fix_rate": 53.0,
+                    "list_price": "$ 1,001.52"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL32313.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 32313 Blower Motor Kit, 230V, 1 Speed",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n32313",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 853.84"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL21068.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 21068 Switch, Rotary, 4 Position",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n21068",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 56.16"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BLR11087.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett R11087 Contactor, 3P, 240V, 40A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nR11087",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 347.00"
+                }
+            ]
+        },
+        {
+            "name": "Probe Is Malfunctioning",
+            "idx": 8,
+            "url": "https://www.partstown.com/part-predictor/blodgett/ctbr-wendys/probe-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL18588.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 18588 Temperature Probe, 100K",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n18588",
+                    "fix_rate": 74.0,
+                    "list_price": "$ 109.20"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL18578.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 18578 Temperature/Cook Controller",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n18578",
+                    "fix_rate": 38.0,
+                    "list_price": "$ 334.88"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL18234.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 18234 Potentiometer, Remote",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n18234",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 92.56"
+                }
+            ]
+        },
+        {
+            "name": "Door Switch Is Malfunctioning",
+            "idx": 9,
+            "url": "https://www.partstown.com/part-predictor/blodgett/ctbr-wendys/door-switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL33946.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 33946 Door Switch And Bracket Assembly With Screws",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n33946",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 175.76"
+                }
+            ]
+        },
+        {
+            "name": "Latch Is Damaged Or Not Latching",
+            "idx": 10,
+            "url": "https://www.partstown.com/part-predictor/blodgett/ctbr-wendys/latch-is-damaged-or-not-latching",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL17946.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 17946 Door Roller Catch Assembly and Screws, DFG50",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n17946",
+                    "fix_rate": 47.0,
+                    "list_price": "$ 213.20"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL17865.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 17865 Latch With Screws, Roller, Ctb/R/Dfg",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n17865",
+                    "fix_rate": 31.0,
+                    "list_price": "$ 150.80"
+                }
+            ]
+        },
+        {
+            "name": "Potentiometer Is Malfunctioning",
+            "idx": 11,
+            "url": "https://www.partstown.com/part-predictor/blodgett/ctbr-wendys/potentiometer-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL18234.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 18234 Potentiometer, Remote",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n18234",
+                    "fix_rate": 79.0,
+                    "list_price": "$ 92.56"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL18578.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 18578 Temperature/Cook Controller",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n18578",
+                    "fix_rate": 45.0,
+                    "list_price": "$ 334.88"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL18588.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 18588 Temperature Probe, 100K",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n18588",
+                    "fix_rate": 34.0,
+                    "list_price": "$ 109.20"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BLR11087.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett R11087 Contactor, 3P, 240V, 40A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nR11087",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 347.00"
+                }
+            ]
+        },
+        {
+            "name": "Fuse Is Blown",
+            "idx": 12,
+            "url": "https://www.partstown.com/part-predictor/blodgett/ctbr-wendys/fuse-is-blown",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL16605.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 16605 Fuse, Lp-Cc-10, 600V, 10A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n16605",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 39.52"
+                }
+            ]
+        },
+        {
+            "name": "Breaker Is Tripping Or Wont Reset",
+            "idx": 13,
+            "url": "https://www.partstown.com/part-predictor/blodgett/ctbr-wendys/breaker-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL36429.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 36429 Circuit Breaker, 10A, 125/250V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n36429",
+                    "fix_rate": 52.0,
+                    "list_price": "$ 248.56"
+                }
+            ]
+        },
+        {
+            "name": "Roller Is Damaged Or Missing",
+            "idx": 14,
+            "url": "https://www.partstown.com/part-predictor/blodgett/ctbr-wendys/roller-is-damaged-or-missing",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL17946.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 17946 Door Roller Catch Assembly and Screws, DFG50",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n17946",
+                    "fix_rate": 88.0,
+                    "list_price": "$ 213.20"
+                }
+            ]
+        },
+        {
+            "name": "Blower Wheel Is Malfunctioning",
+            "idx": 15,
+            "url": "https://www.partstown.com/part-predictor/blodgett/ctbr-wendys/blower-wheel-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL6138.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 6138 Blower Wheel Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n6138",
+                    "fix_rate": 69.0,
+                    "list_price": "$ 243.36"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Making Noise",
+            "idx": 16,
+            "url": "https://www.partstown.com/part-predictor/blodgett/ctbr-wendys/unit-is-making-noise",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL6138.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 6138 Blower Wheel Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n6138",
+                    "fix_rate": 42.0,
+                    "list_price": "$ 243.36"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Shutting Down",
+            "idx": 17,
+            "url": "https://www.partstown.com/part-predictor/blodgett/ctbr-wendys/unit-is-shutting-down",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL18588.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 18588 Temperature Probe, 100K",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n18588",
+                    "fix_rate": 55.0,
+                    "list_price": "$ 109.20"
+                }
+            ]
+        },
+        {
+            "name": "Buzzer Is Malfunctioning",
+            "idx": 18,
+            "url": "https://www.partstown.com/part-predictor/blodgett/ctbr-wendys/buzzer-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL20350.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 20350 Buzzer, 240V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n20350",
+                    "fix_rate": 60.0,
+                    "list_price": "$ 122.72"
+                }
+            ]
+        },
+        {
+            "name": "Relay Board Is Malfunctioning",
+            "idx": 19,
+            "url": "https://www.partstown.com/part-predictor/blodgett/ctbr-wendys/relay-board-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL33073.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 33073 Relay Board, KFC",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n33073",
+                    "fix_rate": 86.0,
+                    "list_price": "$ 865.28"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "brand": "randell",
+    "model": "9412-32-7",
+    "issues": [
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/randell/9412-32-7/thermostat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDHDCNT1401.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell HD CNT1401 Refrigeration Control Kit, WKF11A-102-122, SS",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nHD CNT1401",
+                    "fix_rate": 75.0,
+                    "list_price": "$ 91.09"
+                }
+            ]
+        }
+    ]
+}

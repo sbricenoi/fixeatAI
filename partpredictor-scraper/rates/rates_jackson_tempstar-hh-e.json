@@ -1,0 +1,23 @@
+{
+    "brand": "jackson",
+    "model": "tempstar-hh-e",
+    "issues": [
+        {
+            "name": "Unit Is Leaking",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/jackson/tempstar-hh-e/unit-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/JAC/JAC04820-003-06-13.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jackson 04820-003-06-13 Vacuum Breaker Assembly, 125 PSI, 180 Degrees F, Brass, Complete, 1/2\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n04820-003-06-13",
+                    "fix_rate": 35.0,
+                    "list_price": "$ 109.44"
+                }
+            ]
+        }
+    ]
+}

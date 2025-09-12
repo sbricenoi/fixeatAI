@@ -1,0 +1,23 @@
+{
+    "brand": "lincoln",
+    "model": "1132-000-a",
+    "issues": [
+        {
+            "name": "Relay Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/lincoln/1132-000-a/relay-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LINFK90002172.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln FK90002172 Relay Replacement Kit, Solid State, 75A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nFK90002172",
+                    "fix_rate": 71.0,
+                    "list_price": "$ 1,785.14"
+                }
+            ]
+        }
+    ]
+}

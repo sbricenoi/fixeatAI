@@ -1,0 +1,80 @@
+{
+    "brand": "follett",
+    "model": "15ci100a",
+    "issues": [
+        {
+            "name": "Unit Is Leaking",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/follett/15ci100a/unit-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FOL/FOL01348093.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Follett 01348093 Seal Kit, w/ 2FT of 1/4\" Tubing",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n01348093",
+                    "fix_rate": 30.0,
+                    "list_price": "$ 436.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FOL/FOL00957860.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Follett 00957860 Front Seal and O-Ring Assembly, Auger",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00957860",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 77.27"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FOL/FOL00957886.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Follett 00957886 Bushing Housing Assembly with Insulation, 7 Series",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00957886",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 394.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FOL/FOL00957845.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Follett 00957845 Auger with Front Seal, Evaporator Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00957845",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 1,080.70"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FOL/FOL00948760.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Follett 00948760 Insulation, Kit, ESP-OCS, 5 Parts",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00948760",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 134.00"
+                }
+            ]
+        },
+        {
+            "name": "Bushing Is Damaged",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/follett/15ci100a/bushing-is-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FOL/FOL01348093.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Follett 01348093 Seal Kit, w/ 2FT of 1/4\" Tubing",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n01348093",
+                    "fix_rate": 62.0,
+                    "list_price": "$ 436.00"
+                }
+            ]
+        }
+    ]
+}

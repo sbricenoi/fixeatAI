@@ -1,0 +1,282 @@
+{
+    "brand": "champion",
+    "model": "44-pro",
+    "issues": [
+        {
+            "name": "Unit Is Leaking",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/champion/44-pro/unit-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA206303.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 206303 Gasket, Bearing Housing",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n206303",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 14.66"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA100500.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 100500 Vacuum Breaker, Bronze, 1/2\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100500",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 115.24"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA114471.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 114471 Drain Valve, NC, 115V, 50/60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n114471",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 586.57"
+                }
+            ]
+        },
+        {
+            "name": "Breaker Is Tripping Or Wont Reset",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/champion/44-pro/breaker-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA116754.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 116754 Thermistor Probe",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n116754",
+                    "fix_rate": 28.0,
+                    "list_price": "$ 67.47"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA901153.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 901153 KIT RETROFIT HEATER CONTACTOR 44\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n901153",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 1,894.60"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA109985.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 109985 Seal, O-Ring, Electric Heater",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n109985",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 8.43"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA115648.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 115648 Solid State Relay, Crydom",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n115648",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 241.46"
+                }
+            ]
+        },
+        {
+            "name": "Motor Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/champion/44-pro/motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA116521.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 116521 PUMP MOTOR ASSEMBLY 2HP MV/3 MP FW2520L",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n116521",
+                    "fix_rate": 22.0
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA116533.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 116533 Drive Motor, 1/6HP, Multi-Volt, 3PH",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n116533",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 1,655.65"
+                }
+            ]
+        },
+        {
+            "name": "Hi-limit Is Tripping Or Wont Reset",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/champion/44-pro/hi-limit-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA110561.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 110561 Hi-Limit Thermostat, Fixed 240F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n110561",
+                    "fix_rate": 40.0,
+                    "list_price": "$ 344.06"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA115648.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 115648 Solid State Relay, Crydom",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n115648",
+                    "fix_rate": 24.0,
+                    "list_price": "$ 241.46"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA116754.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 116754 Thermistor Probe",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n116754",
+                    "fix_rate": 20.0,
+                    "list_price": "$ 67.47"
+                }
+            ]
+        },
+        {
+            "name": "Gasket Is Defective Or Leaking",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/champion/44-pro/gasket-is-defective-or-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA206303.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 206303 Gasket, Bearing Housing",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n206303",
+                    "fix_rate": 57.0,
+                    "list_price": "$ 14.66"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Overheating",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/champion/44-pro/unit-is-overheating",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA115648.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 115648 Solid State Relay, Crydom",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n115648",
+                    "fix_rate": 33.0,
+                    "list_price": "$ 241.46"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA116754.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 116754 Thermistor Probe",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n116754",
+                    "fix_rate": 33.0,
+                    "list_price": "$ 67.47"
+                }
+            ]
+        },
+        {
+            "name": "Drain Valve Is Malfunctioning",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/champion/44-pro/drain-valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA114471.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 114471 Drain Valve, NC, 115V, 50/60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n114471",
+                    "fix_rate": 65.0,
+                    "list_price": "$ 586.57"
+                }
+            ]
+        },
+        {
+            "name": "Wiring Issue",
+            "idx": 7,
+            "url": "https://www.partstown.com/part-predictor/champion/44-pro/wiring-issue",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA115648.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 115648 Solid State Relay, Crydom",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n115648",
+                    "fix_rate": 31.0,
+                    "list_price": "$ 241.46"
+                }
+            ]
+        },
+        {
+            "name": "Vat Is Malfunctioning",
+            "idx": 8,
+            "url": "https://www.partstown.com/part-predictor/champion/44-pro/vat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA115648.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 115648 Solid State Relay, Crydom",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n115648",
+                    "fix_rate": 42.0,
+                    "list_price": "$ 241.46"
+                }
+            ]
+        },
+        {
+            "name": "Relay Is Malfunctioning",
+            "idx": 9,
+            "url": "https://www.partstown.com/part-predictor/champion/44-pro/relay-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA115648.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 115648 Solid State Relay, Crydom",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n115648",
+                    "fix_rate": 73.0,
+                    "list_price": "$ 241.46"
+                }
+            ]
+        },
+        {
+            "name": "Float Is Malfunctioning",
+            "idx": 10,
+            "url": "https://www.partstown.com/part-predictor/champion/44-pro/float-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA113291.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 113291 Float Switch, Dual, NUCCW",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n113291",
+                    "fix_rate": 83.0,
+                    "list_price": "$ 611.67"
+                }
+            ]
+        }
+    ]
+}

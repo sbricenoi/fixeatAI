@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Pilot Is Malfunctioning",
+        "parsed_name": "pilot-is-malfunctioning"
+    },
+    {
+        "name": "Hi-limit Is Tripping Or Wont Reset",
+        "parsed_name": "hi-limit-is-tripping-or-wont-reset"
+    },
+    {
+        "name": "Thermopile Is Malfunctioning",
+        "parsed_name": "thermopile-is-malfunctioning"
+    },
+    {
+        "name": "Unit Is Malfunctioning",
+        "parsed_name": "unit-is-malfunctioning"
+    },
+    {
+        "name": "Thermostat Is Malfunctioning",
+        "parsed_name": "thermostat-is-malfunctioning"
+    },
+    {
+        "name": "Unit Is Not Lighting",
+        "parsed_name": "unit-is-not-lighting"
+    },
+    {
+        "name": "Gas Valve Is Malfunctioning",
+        "parsed_name": "gas-valve-is-malfunctioning"
+    }
+]

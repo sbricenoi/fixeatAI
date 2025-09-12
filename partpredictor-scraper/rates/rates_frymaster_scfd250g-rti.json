@@ -1,0 +1,138 @@
+{
+    "brand": "frymaster",
+    "model": "scfd250g-rti",
+    "issues": [
+        {
+            "name": "Unit Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/frymaster/scfd250g-rti/unit-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8074978.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8074978 Transformer, V/F Dual, 100/120V, 12/24V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8074978",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 122.22"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM1065419SP.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 1065419SP Sensor Probe Assembly, 1414G",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1065419SP",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 408.75"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8073680.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8073680 Hi Limit Thermostat, 450F, Manual Reset",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8073680",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 219.53"
+                }
+            ]
+        },
+        {
+            "name": "Transformer Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/frymaster/scfd250g-rti/transformer-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8074978.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8074978 Transformer, V/F Dual, 100/120V, 12/24V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8074978",
+                    "fix_rate": 86.0,
+                    "list_price": "$ 122.22"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM1065419SP.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 1065419SP Sensor Probe Assembly, 1414G",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1065419SP",
+                    "fix_rate": 36.0,
+                    "list_price": "$ 408.75"
+                }
+            ]
+        },
+        {
+            "name": "Hi-limit Is Tripping Or Wont Reset",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/frymaster/scfd250g-rti/hi-limit-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8073680.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8073680 Hi Limit Thermostat, 450F, Manual Reset",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8073680",
+                    "fix_rate": 44.0,
+                    "list_price": "$ 219.53"
+                }
+            ]
+        },
+        {
+            "name": "Unit Will Not Pump Oil",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/frymaster/scfd250g-rti/unit-will-not-pump-oil",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8263191.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8263191 Filter Pump Kit, 4GPM CCW",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8263191",
+                    "fix_rate": 36.0,
+                    "list_price": "$ 571.12"
+                }
+            ]
+        },
+        {
+            "name": "Probe Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/frymaster/scfd250g-rti/probe-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM1065419SP.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 1065419SP Sensor Probe Assembly, 1414G",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1065419SP",
+                    "fix_rate": 91.0,
+                    "list_price": "$ 408.75"
+                }
+            ]
+        },
+        {
+            "name": "Ignition Module Is Malfunctioning",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/frymaster/scfd250g-rti/ignition-module-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8262898.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8262898 Ignition Module Retro Kit, Fenwal",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8262898",
+                    "fix_rate": 86.0,
+                    "list_price": "$ 244.46"
+                }
+            ]
+        }
+    ]
+}

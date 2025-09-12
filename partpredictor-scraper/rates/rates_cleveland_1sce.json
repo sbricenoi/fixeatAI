@@ -1,0 +1,57 @@
+{
+    "brand": "cleveland",
+    "model": "1sce",
+    "issues": [
+        {
+            "name": "Door Switch Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/cleveland/1sce/door-switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE003955.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE003955 Switch Kit, Door Steam Cutoff Switch and Magnet",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE003955",
+                    "fix_rate": 88.0,
+                    "list_price": "$ 375.16"
+                }
+            ]
+        },
+        {
+            "name": "Door Gasket Is Defective",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/cleveland/1sce/door-gasket-is-defective",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE104026.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 104026 Door Gasket, SC5.1/10",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n104026",
+                    "fix_rate": 83.0,
+                    "list_price": "$ 138.01"
+                }
+            ]
+        },
+        {
+            "name": "Probe Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/cleveland/1sce/probe-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE109157.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 109157 Probe Assembly, Water Level, SteamCub",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n109157",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 226.26"
+                }
+            ]
+        }
+    ]
+}

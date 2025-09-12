@@ -1,0 +1,43 @@
+{
+    "brand": "wells",
+    "model": "mod-500tdm-af",
+    "issues": [
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/wells/mod-500tdm-af/thermostat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/WEL/WEL2T-45917.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Wells 2T-45917 Thermostat Control with Auxilary, Warmers",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2T-45917",
+                    "fix_rate": 44.0,
+                    "list_price": "$ 232.92"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/WEL/WEL2T-38968.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Wells 2T-38968 Thermostat, Mechanical, K Type, SS206ET R",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2T-38968",
+                    "fix_rate": 38.0,
+                    "list_price": "$ 167.75"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/WEL/WEL2R-40498.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Wells 2R-40498 Knob Assembly, Hi/Lo, Warmers",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2R-40498",
+                    "fix_rate": 31.0,
+                    "list_price": "$ 40.79"
+                }
+            ]
+        }
+    ]
+}

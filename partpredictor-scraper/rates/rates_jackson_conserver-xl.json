@@ -1,0 +1,57 @@
+{
+    "brand": "jackson",
+    "model": "conserver-xl",
+    "issues": [
+        {
+            "name": "Unit Is Leaking",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/jackson/conserver-xl/unit-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/JAC/JAC4810-100-53-00.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jackson 4810-100-53-00 Solenoid Valve, 3/4\", 120V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4810-100-53-00",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 582.58"
+                }
+            ]
+        },
+        {
+            "name": "Motor Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/jackson/conserver-xl/motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/JAC/JAC6105-004-24-80.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jackson 6105-004-24-80 Motor and Pump Assembly, 1HP, 115-230V, 60HZ, 1PH",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n6105-004-24-80",
+                    "fix_rate": 36.0,
+                    "list_price": "$ 1,464.00"
+                }
+            ]
+        },
+        {
+            "name": "Door Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/jackson/conserver-xl/door-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/JAC/JAC5700-111-33-59.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jackson 5700-111-33-59 Door Guide",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n5700-111-33-59",
+                    "fix_rate": 45.0,
+                    "list_price": "$ 15.15"
+                }
+            ]
+        }
+    ]
+}

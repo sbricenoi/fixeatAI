@@ -1,0 +1,155 @@
+{
+    "brand": "frymaster",
+    "model": "gf40",
+    "issues": [
+        {
+            "name": "Pilot Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/frymaster/gf40/pilot-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8101873.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8101873 Thermocouple, ITT",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8101873",
+                    "fix_rate": 39.0,
+                    "list_price": "$ 102.82"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8262014.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8262014 Thermostat Kit, Sunne 375F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8262014",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 171.84"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8072427.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8072427 Gas Valve, Natural Gas, 1/2\" x 1/2\", Millivolt",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8072427",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 353.50"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/frymaster/gf40/unit-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8262014.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8262014 Thermostat Kit, Sunne 375F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8262014",
+                    "fix_rate": 41.0,
+                    "list_price": "$ 171.84"
+                }
+            ]
+        },
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/frymaster/gf40/thermostat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8262014.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8262014 Thermostat Kit, Sunne 375F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8262014",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 171.84"
+                }
+            ]
+        },
+        {
+            "name": "Gas Valve Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/frymaster/gf40/gas-valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8072427.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8072427 Gas Valve, Natural Gas, 1/2\" x 1/2\", Millivolt",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8072427",
+                    "fix_rate": 76.0,
+                    "list_price": "$ 353.50"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8101873.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8101873 Thermocouple, ITT",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8101873",
+                    "fix_rate": 41.0,
+                    "list_price": "$ 102.82"
+                }
+            ]
+        },
+        {
+            "name": "Hi-limit Is Tripping Or Wont Reset",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/frymaster/gf40/hi-limit-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8261177.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8261177 Hi Limit Thermostat Kit, 425F/218C",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8261177",
+                    "fix_rate": 56.0,
+                    "list_price": "$ 213.25"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Not Reaching Set Temperature",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/frymaster/gf40/unit-is-not-reaching-set-temperature",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8262014.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8262014 Thermostat Kit, Sunne 375F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8262014",
+                    "fix_rate": 75.0,
+                    "list_price": "$ 171.84"
+                }
+            ]
+        },
+        {
+            "name": "Thermopile Is Malfunctioning",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/frymaster/gf40/thermopile-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8101873.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8101873 Thermocouple, ITT",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8101873",
+                    "fix_rate": 71.0,
+                    "list_price": "$ 102.82"
+                }
+            ]
+        }
+    ]
+}

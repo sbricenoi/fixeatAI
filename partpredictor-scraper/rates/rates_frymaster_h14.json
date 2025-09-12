@@ -1,0 +1,23 @@
+{
+    "brand": "frymaster",
+    "model": "h14",
+    "issues": [
+        {
+            "name": "Unit Will Not Pump Oil",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/frymaster/h14/unit-will-not-pump-oil",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8261712.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8261712 Pump Motor Assembly, 115V, 60HZ, 1PH",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8261712",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 785.93"
+                }
+            ]
+        }
+    ]
+}

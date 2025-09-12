@@ -1,0 +1,23 @@
+{
+    "brand": "hoshizaki",
+    "model": "f-1501mrjz-c",
+    "issues": [
+        {
+            "name": "Fuse Is Blown",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/hoshizaki/f-1501mrjz-c/fuse-is-blown",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HOS/HOS4A3804-01.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hoshizaki 4A3804-01 Fuse, Gear Motor, GMD-7A, 250V, Slow Blow",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4A3804-01",
+                    "fix_rate": 78.0,
+                    "list_price": "$ 9.40"
+                }
+            ]
+        }
+    ]
+}

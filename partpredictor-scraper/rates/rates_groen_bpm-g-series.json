@@ -1,0 +1,447 @@
+{
+    "brand": "groen",
+    "model": "bpm-g-series",
+    "issues": [
+        {
+            "name": "Pilot Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/groen/bpm-g-series/pilot-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GRZ097024.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen Z097024 Pilot Burner/Ignitor Assembly, No Orifice",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nZ097024",
+                    "fix_rate": 58.0,
+                    "list_price": "$ 119.58"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GR119449.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen 119449 Orifice Spud, Natural Gas, Ag26 .026 D",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n119449",
+                    "fix_rate": 24.0,
+                    "list_price": "$ 33.40"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GRZ098443.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen Z098443 Gas Valve, Natural Gas, Basotrol",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nZ098443",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 458.82"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GRZ085153.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen Z085153 Ignition Module, Honeywell",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nZ085153",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 503.04"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GR145912.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen 145912 Ignition/Runner Tube, Bpm-40G",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n145912",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 104.30"
+                }
+            ]
+        },
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/groen/bpm-g-series/thermostat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GRZ041700.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen Z041700 Thermostat 450F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nZ041700",
+                    "fix_rate": 57.0,
+                    "list_price": "$ 186.65"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GR128525.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen 128525 Knob, Thermostat, Off-100-450",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n128525",
+                    "fix_rate": 36.0,
+                    "list_price": "$ 13.18"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GR174841.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen 174841 Control, Gas Braising Pan",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n174841",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 250.82"
+                }
+            ]
+        },
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/groen/bpm-g-series/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GR143319.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen 143319 Microswitch, SPDT",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n143319",
+                    "fix_rate": 38.0,
+                    "list_price": "$ 55.15"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GRZ097024.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen Z097024 Pilot Burner/Ignitor Assembly, No Orifice",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nZ097024",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 119.58"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GR155546.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen 155546 Switch, Power, Rocker, Red Indicator Light",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n155546",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 41.97"
+                }
+            ]
+        },
+        {
+            "name": "Controller Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/groen/bpm-g-series/controller-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GR174841.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen 174841 Control, Gas Braising Pan",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n174841",
+                    "fix_rate": 61.0,
+                    "list_price": "$ 250.82"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GR175095.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen 175095 Knob, Aluminum, 2\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n175095",
+                    "fix_rate": 27.0,
+                    "list_price": "$ 70.18"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GR174851.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen 174851 RTD Probe, Gas Braising Pan",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n174851",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 160.52"
+                }
+            ]
+        },
+        {
+            "name": "Ignitor Is Malfunctioning Or Damaged",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/groen/bpm-g-series/ignitor-is-malfunctioning-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GRZ097024.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen Z097024 Pilot Burner/Ignitor Assembly, No Orifice",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nZ097024",
+                    "fix_rate": 86.0,
+                    "list_price": "$ 119.58"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GR119449.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen 119449 Orifice Spud, Natural Gas, Ag26 .026 D",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n119449",
+                    "fix_rate": 38.0,
+                    "list_price": "$ 33.40"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GRZ085153.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen Z085153 Ignition Module, Honeywell",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nZ085153",
+                    "fix_rate": 28.0,
+                    "list_price": "$ 503.04"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GR145957.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen 145957 Ignition Runner Tube, BP-30G",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n145957",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 114.48"
+                }
+            ]
+        },
+        {
+            "name": "Wiring Issue",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/groen/bpm-g-series/wiring-issue",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GRZ097024.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen Z097024 Pilot Burner/Ignitor Assembly, No Orifice",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nZ097024",
+                    "fix_rate": 63.0,
+                    "list_price": "$ 119.58"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GR119449.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen 119449 Orifice Spud, Natural Gas, Ag26 .026 D",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n119449",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 33.40"
+                }
+            ]
+        },
+        {
+            "name": "Burner Is Malfunctioning Or Damaged",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/groen/bpm-g-series/burner-is-malfunctioning-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GRZ097024.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen Z097024 Pilot Burner/Ignitor Assembly, No Orifice",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nZ097024",
+                    "fix_rate": 38.0,
+                    "list_price": "$ 119.58"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GR144847.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen 144847 Burner, Steel Tube w/Air Shutter",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n144847",
+                    "fix_rate": 38.0,
+                    "list_price": "$ 58.69"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GR145912.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen 145912 Ignition/Runner Tube, Bpm-40G",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n145912",
+                    "fix_rate": 27.0,
+                    "list_price": "$ 104.30"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GRZ085107.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen Z085107 Clamp, Ignitor Tube",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nZ085107",
+                    "fix_rate": 23.0,
+                    "list_price": "$ 16.64"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GR128525.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen 128525 Knob, Thermostat, Off-100-450",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n128525",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 13.18"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GR119449.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen 119449 Orifice Spud, Natural Gas, Ag26 .026 D",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n119449",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 33.40"
+                }
+            ]
+        },
+        {
+            "name": "Gas Valve Is Malfunctioning",
+            "idx": 7,
+            "url": "https://www.partstown.com/part-predictor/groen/bpm-g-series/gas-valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GRZ098443.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen Z098443 Gas Valve, Natural Gas, Basotrol",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nZ098443",
+                    "fix_rate": 54.0,
+                    "list_price": "$ 458.82"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GRZ097024.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen Z097024 Pilot Burner/Ignitor Assembly, No Orifice",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nZ097024",
+                    "fix_rate": 23.0,
+                    "list_price": "$ 119.58"
+                }
+            ]
+        },
+        {
+            "name": "Ignition Module Is Malfunctioning",
+            "idx": 8,
+            "url": "https://www.partstown.com/part-predictor/groen/bpm-g-series/ignition-module-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GRZ097024.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen Z097024 Pilot Burner/Ignitor Assembly, No Orifice",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nZ097024",
+                    "fix_rate": 54.0,
+                    "list_price": "$ 119.58"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GRZ085153.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen Z085153 Ignition Module, Honeywell",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nZ085153",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 503.04"
+                }
+            ]
+        },
+        {
+            "name": "Probe Is Malfunctioning",
+            "idx": 9,
+            "url": "https://www.partstown.com/part-predictor/groen/bpm-g-series/probe-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GR174841.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen 174841 Control, Gas Braising Pan",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n174841",
+                    "fix_rate": 60.0,
+                    "list_price": "$ 250.82"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GR174851.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen 174851 RTD Probe, Gas Braising Pan",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n174851",
+                    "fix_rate": 60.0,
+                    "list_price": "$ 160.52"
+                }
+            ]
+        },
+        {
+            "name": "Handle Is Defective",
+            "idx": 10,
+            "url": "https://www.partstown.com/part-predictor/groen/bpm-g-series/handle-is-defective",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GRZ012061.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen Z012061 Handwheel Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nZ012061",
+                    "fix_rate": 62.0,
+                    "list_price": "$ 340.20"
+                }
+            ]
+        },
+        {
+            "name": "Pilot Tube Is Leaking Or Damaged",
+            "idx": 11,
+            "url": "https://www.partstown.com/part-predictor/groen/bpm-g-series/pilot-tube-is-leaking-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GR145912.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen 145912 Ignition/Runner Tube, Bpm-40G",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n145912",
+                    "fix_rate": 54.0,
+                    "list_price": "$ 104.30"
+                }
+            ]
+        },
+        {
+            "name": "Hi-limit Is Tripping Or Wont Reset",
+            "idx": 12,
+            "url": "https://www.partstown.com/part-predictor/groen/bpm-g-series/hi-limit-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GRZ013481.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen Z013481 Hi Limit Thermostat",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nZ013481",
+                    "fix_rate": 75.0,
+                    "list_price": "$ 177.97"
+                }
+            ]
+        }
+    ]
+}

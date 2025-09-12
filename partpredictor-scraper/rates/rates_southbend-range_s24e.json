@@ -1,0 +1,40 @@
+{
+    "brand": "southbend-range",
+    "model": "s24e",
+    "issues": [
+        {
+            "name": "Pilot Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/southbend-range/s24e/pilot-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1182154.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1182154 Thermopile",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1182154",
+                    "fix_rate": 40.0,
+                    "list_price": "$ 188.77"
+                }
+            ]
+        },
+        {
+            "name": "Door Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/southbend-range/s24e/door-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1179030.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1179030 Door Spring, Space Saver Oven",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1179030",
+                    "fix_rate": 83.0,
+                    "list_price": "$ 54.13"
+                }
+            ]
+        }
+    ]
+}

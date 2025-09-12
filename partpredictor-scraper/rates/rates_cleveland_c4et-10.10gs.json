@@ -1,0 +1,36 @@
+{
+    "brand": "cleveland",
+    "model": "c4et-10.10gs",
+    "issues": [
+        {
+            "name": "Door Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/cleveland/c4et-10.10gs/door-is-malfunctioning",
+            "results": []
+        },
+        {
+            "name": "Fan Motor Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/cleveland/c4et-10.10gs/fan-motor-is-malfunctioning",
+            "results": []
+        },
+        {
+            "name": "Latch Is Damaged Or Not Latching",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/cleveland/c4et-10.10gs/latch-is-damaged-or-not-latching",
+            "results": []
+        },
+        {
+            "name": "Handle Is Defective",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/cleveland/c4et-10.10gs/handle-is-defective",
+            "results": []
+        },
+        {
+            "name": "Ignitor Is Malfunctioning Or Damaged",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/cleveland/c4et-10.10gs/ignitor-is-malfunctioning-or-damaged",
+            "results": []
+        }
+    ]
+}

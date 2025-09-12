@@ -1,0 +1,118 @@
+[
+    {
+        "name": "Unit Is Leaking",
+        "parsed_name": "unit-is-leaking"
+    },
+    {
+        "name": "Valve Is Malfunctioning",
+        "parsed_name": "valve-is-malfunctioning"
+    },
+    {
+        "name": "Hose Is Broken Or Leaking",
+        "parsed_name": "hose-is-broken-or-leaking"
+    },
+    {
+        "name": "Probe Is Malfunctioning",
+        "parsed_name": "probe-is-malfunctioning"
+    },
+    {
+        "name": "Drain Valve Is Malfunctioning",
+        "parsed_name": "drain-valve-is-malfunctioning"
+    },
+    {
+        "name": "Unit Is Malfunctioning",
+        "parsed_name": "unit-is-malfunctioning"
+    },
+    {
+        "name": "Door Is Malfunctioning",
+        "parsed_name": "door-is-malfunctioning"
+    },
+    {
+        "name": "Switch Is Malfunctioning",
+        "parsed_name": "switch-is-malfunctioning"
+    },
+    {
+        "name": "Unit Is Making Noise",
+        "parsed_name": "unit-is-making-noise"
+    },
+    {
+        "name": "Hi-limit Is Tripping Or Wont Reset",
+        "parsed_name": "hi-limit-is-tripping-or-wont-reset"
+    },
+    {
+        "name": "Valve Is Leaking",
+        "parsed_name": "valve-is-leaking"
+    },
+    {
+        "name": "Blower Motor Is Malfunctioning",
+        "parsed_name": "blower-motor-is-malfunctioning"
+    },
+    {
+        "name": "Solenoid Valve Is Malfunctioning",
+        "parsed_name": "solenoid-valve-is-malfunctioning"
+    },
+    {
+        "name": "Gasket Is Defective Or Leaking",
+        "parsed_name": "gasket-is-defective-or-leaking"
+    },
+    {
+        "name": "Unit Is Overheating",
+        "parsed_name": "unit-is-overheating"
+    },
+    {
+        "name": "Pressure Relief Valve Is Malfunctioning",
+        "parsed_name": "pressure-relief-valve-is-malfunctioning"
+    },
+    {
+        "name": "Door Gasket Is Defective",
+        "parsed_name": "door-gasket-is-defective"
+    },
+    {
+        "name": "Door Is Leaking",
+        "parsed_name": "door-is-leaking"
+    },
+    {
+        "name": "Not Filling Properly",
+        "parsed_name": "not-filling-properly"
+    },
+    {
+        "name": "Pilot Is Malfunctioning",
+        "parsed_name": "pilot-is-malfunctioning"
+    },
+    {
+        "name": "Unit Won't Turn On",
+        "parsed_name": "unit-won't-turn-on"
+    },
+    {
+        "name": "Gas Valve Is Malfunctioning",
+        "parsed_name": "gas-valve-is-malfunctioning"
+    },
+    {
+        "name": "Drain Valve Is Leaking",
+        "parsed_name": "drain-valve-is-leaking"
+    },
+    {
+        "name": "Unit Making Noise",
+        "parsed_name": "unit-making-noise"
+    },
+    {
+        "name": "Ignition Module Is Malfunctioning",
+        "parsed_name": "ignition-module-is-malfunctioning"
+    },
+    {
+        "name": "Ingition Module Is Malfunctioning",
+        "parsed_name": "ingition-module-is-malfunctioning"
+    },
+    {
+        "name": "Latch Is Damaged Or Not Latching",
+        "parsed_name": "latch-is-damaged-or-not-latching"
+    },
+    {
+        "name": "Relay Is Malfunctioning",
+        "parsed_name": "relay-is-malfunctioning"
+    },
+    {
+        "name": "Water Board Is Malfunctioning",
+        "parsed_name": "water-board-is-malfunctioning"
+    }
+]

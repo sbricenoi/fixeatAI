@@ -1,0 +1,23 @@
+{
+    "brand": "alto-shaam",
+    "model": "ed2-72",
+    "issues": [
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/alto-shaam/ed2-72/thermostat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/ALT/ALTTT-3498.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Alto Shaam TT-3498 Thermostat, 450F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nTT-3498",
+                    "fix_rate": 89.0,
+                    "list_price": "$ 133.00"
+                }
+            ]
+        }
+    ]
+}

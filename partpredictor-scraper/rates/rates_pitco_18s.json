@@ -1,0 +1,40 @@
+{
+    "brand": "pitco",
+    "model": "18s",
+    "issues": [
+        {
+            "name": "Pilot Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/pitco/18s/pilot-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PTP5047541.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco P5047541 Thermopile",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nP5047541",
+                    "fix_rate": 46.0,
+                    "list_price": "$ 129.00"
+                }
+            ]
+        },
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/pitco/18s/thermostat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PTP5047588.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco P5047588 Themostat with Knob, Gas GS Type",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nP5047588",
+                    "fix_rate": 83.0,
+                    "list_price": "$ 470.00"
+                }
+            ]
+        }
+    ]
+}

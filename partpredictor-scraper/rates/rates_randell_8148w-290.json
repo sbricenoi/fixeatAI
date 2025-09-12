@@ -1,0 +1,33 @@
+{
+    "brand": "randell",
+    "model": "8148w-290",
+    "issues": [
+        {
+            "name": "Controller Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/randell/8148w-290/controller-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRPCNT1720B.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RP CNT1720B Temperature Control, Danfoss, ERC112C, 8148N/W-8268",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRP CNT1720B",
+                    "fix_rate": 44.0,
+                    "list_price": "$ 535.64"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRPCNT1720R.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RP CNT1720R Temperature Control, Danfoss, ERC112C, 8148N/W-8268",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRP CNT1720R",
+                    "fix_rate": 41.0,
+                    "list_price": "$ 563.82"
+                }
+            ]
+        }
+    ]
+}

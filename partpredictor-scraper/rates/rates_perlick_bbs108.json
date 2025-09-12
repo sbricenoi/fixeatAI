@@ -1,0 +1,23 @@
+{
+    "brand": "perlick",
+    "model": "bbs108",
+    "issues": [
+        {
+            "name": "Unit Is Not Reaching Set Temperature",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/perlick/bbs108/unit-is-not-reaching-set-temperature",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PE/PE1008544.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Perlick 1008544 Bushing Kit For 67439 Hinge",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1008544",
+                    "fix_rate": 46.0,
+                    "list_price": "$ 39.00"
+                }
+            ]
+        }
+    ]
+}

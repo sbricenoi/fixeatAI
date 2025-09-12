@@ -1,0 +1,388 @@
+{
+    "brand": "garland",
+    "model": "mcoe5ldsmd",
+    "issues": [
+        {
+            "name": "Contactor Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/garland/mcoe5ldsmd/contactor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL1637002.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 1637002 Contactor, 240V, 3 Pole",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1637002",
+                    "fix_rate": 66.0,
+                    "list_price": "$ 84.44"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4513157.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4513157 Fuse, Time Delay, 600V, 10A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4513157",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 67.82"
+                }
+            ]
+        },
+        {
+            "name": "Fuse Is Blown",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/garland/mcoe5ldsmd/fuse-is-blown",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4513157.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4513157 Fuse, Time Delay, 600V, 10A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4513157",
+                    "fix_rate": 56.0,
+                    "list_price": "$ 67.82"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL1637002.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 1637002 Contactor, 240V, 3 Pole",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1637002",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 84.44"
+                }
+            ]
+        },
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/garland/mcoe5ldsmd/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL1872404.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 1872404 Rocker Switch, Power, Red Lighted, 250V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1872404",
+                    "fix_rate": 30.0,
+                    "list_price": "$ 43.65"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL1637002.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 1637002 Contactor, 240V, 3 Pole",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1637002",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 84.44"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL301046.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 301046 Switch, Mini Snap, Hi Temp, 15A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n301046",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 41.62"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4513157.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4513157 Fuse, Time Delay, 600V, 10A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4513157",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 67.82"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL1951502.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 1951502 Motor Blower, 208/240V, 1/3HP, 2SP, 5/8 SHAFT",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1951502",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 1,190.00"
+                }
+            ]
+        },
+        {
+            "name": "Door Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/garland/mcoe5ldsmd/door-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GLCK1962196.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland CK1962196 Microswitch And Bracket Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nCK1962196",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 239.06"
+                }
+            ]
+        },
+        {
+            "name": "Controller Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/garland/mcoe5ldsmd/controller-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL1966401-2.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 1966401-2 Digital Oven Control, MCD, Pulse, USA",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1966401-2",
+                    "fix_rate": 65.0,
+                    "list_price": "$ 1,060.00"
+                }
+            ]
+        },
+        {
+            "name": "Blower Motor Is Malfunctioning",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/garland/mcoe5ldsmd/blower-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL1951502.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 1951502 Motor Blower, 208/240V, 1/3HP, 2SP, 5/8 SHAFT",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1951502",
+                    "fix_rate": 71.0,
+                    "list_price": "$ 1,190.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GLCK4519657.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland CK4519657 Blower Wheel",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nCK4519657",
+                    "fix_rate": 54.0,
+                    "list_price": "$ 197.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL1637002.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 1637002 Contactor, 240V, 3 Pole",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1637002",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 84.44"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL1966405.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 1966405 Relay Board, MCD Oven",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1966405",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 372.00"
+                }
+            ]
+        },
+        {
+            "name": "Motor Is Malfunctioning",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/garland/mcoe5ldsmd/motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL1951502.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 1951502 Motor Blower, 208/240V, 1/3HP, 2SP, 5/8 SHAFT",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1951502",
+                    "fix_rate": 74.0,
+                    "list_price": "$ 1,190.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GLCK4519657.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland CK4519657 Blower Wheel",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nCK4519657",
+                    "fix_rate": 39.0,
+                    "list_price": "$ 197.00"
+                }
+            ]
+        },
+        {
+            "name": "Door Switch Is Malfunctioning",
+            "idx": 7,
+            "url": "https://www.partstown.com/part-predictor/garland/mcoe5ldsmd/door-switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GLCK1962196.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland CK1962196 Microswitch And Bracket Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nCK1962196",
+                    "fix_rate": 28.0,
+                    "list_price": "$ 239.06"
+                }
+            ]
+        },
+        {
+            "name": "Hi-limit Is Tripping Or Wont Reset",
+            "idx": 8,
+            "url": "https://www.partstown.com/part-predictor/garland/mcoe5ldsmd/hi-limit-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL1637002.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 1637002 Contactor, 240V, 3 Pole",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1637002",
+                    "fix_rate": 67.0,
+                    "list_price": "$ 84.44"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4520416.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4520416 Hi Limit Thermostat, 135C",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4520416",
+                    "fix_rate": 33.0,
+                    "list_price": "$ 161.42"
+                }
+            ]
+        },
+        {
+            "name": "Keypad Is Not Responding Or Damaged",
+            "idx": 9,
+            "url": "https://www.partstown.com/part-predictor/garland/mcoe5ldsmd/keypad-is-not-responding-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL1966401-2.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 1966401-2 Digital Oven Control, MCD, Pulse, USA",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1966401-2",
+                    "fix_rate": 73.0,
+                    "list_price": "$ 1,060.00"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Making Noise",
+            "idx": 10,
+            "url": "https://www.partstown.com/part-predictor/garland/mcoe5ldsmd/unit-is-making-noise",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL1637002.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 1637002 Contactor, 240V, 3 Pole",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1637002",
+                    "fix_rate": 42.0,
+                    "list_price": "$ 84.44"
+                }
+            ]
+        },
+        {
+            "name": "Heating Element Is Malfunctioning",
+            "idx": 11,
+            "url": "https://www.partstown.com/part-predictor/garland/mcoe5ldsmd/heating-element-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL1637002.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 1637002 Contactor, 240V, 3 Pole",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1637002",
+                    "fix_rate": 73.0,
+                    "list_price": "$ 84.44"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Overheating",
+            "idx": 12,
+            "url": "https://www.partstown.com/part-predictor/garland/mcoe5ldsmd/unit-is-overheating",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL1637002.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 1637002 Contactor, 240V, 3 Pole",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1637002",
+                    "fix_rate": 78.0,
+                    "list_price": "$ 84.44"
+                }
+            ]
+        },
+        {
+            "name": "Probe Is Malfunctioning",
+            "idx": 13,
+            "url": "https://www.partstown.com/part-predictor/garland/mcoe5ldsmd/probe-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL9006800.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 9006800 Temperature Probe",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n9006800",
+                    "fix_rate": 88.0,
+                    "list_price": "$ 189.91"
+                }
+            ]
+        },
+        {
+            "name": "Motor Is Making Noise",
+            "idx": 14,
+            "url": "https://www.partstown.com/part-predictor/garland/mcoe5ldsmd/motor-is-making-noise",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL1951502.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 1951502 Motor Blower, 208/240V, 1/3HP, 2SP, 5/8 SHAFT",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1951502",
+                    "fix_rate": 71.0,
+                    "list_price": "$ 1,190.00"
+                }
+            ]
+        },
+        {
+            "name": "Relay Board Is Malfunctioning",
+            "idx": 15,
+            "url": "https://www.partstown.com/part-predictor/garland/mcoe5ldsmd/relay-board-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL1966405.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 1966405 Relay Board, MCD Oven",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1966405",
+                    "fix_rate": 71.0,
+                    "list_price": "$ 372.00"
+                }
+            ]
+        }
+    ]
+}

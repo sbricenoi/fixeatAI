@@ -1,0 +1,33 @@
+{
+    "brand": "southbend-range",
+    "model": "p48n-ttt",
+    "issues": [
+        {
+            "name": "Pilot Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/southbend-range/p48n-ttt/pilot-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1182580.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1182580 Thermocouple, 24\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1182580",
+                    "fix_rate": 70.0,
+                    "list_price": "$ 60.85"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1185537.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1185537 Pilot Safety Valve, Baso, Natural Gas/Propane",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1185537",
+                    "fix_rate": 60.0,
+                    "list_price": "$ 612.64"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "brand": "hobart",
+    "model": "ft900",
+    "issues": [
+        {
+            "name": "Unit Is Leaking",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/hobart/ft900/unit-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HOB/HOB00-476738-00013.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hobart 00-476738-00013 Gasket, Clean Out, FT900S",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-476738-00013",
+                    "fix_rate": 33.0,
+                    "list_price": "$ 15.42"
+                }
+            ]
+        },
+        {
+            "name": "Roller Is Damaged Or Missing",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/hobart/ft900/roller-is-damaged-or-missing",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HOB/HOB00-913102-00299.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hobart 00-913102-00299 Roller Kit, Conveyor, (25 Rollers / 25 Retaining Rings), FT900 Model",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-913102-00299",
+                    "fix_rate": 64.0,
+                    "list_price": "$ 164.21"
+                }
+            ]
+        }
+    ]
+}

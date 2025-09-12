@@ -1,0 +1,23 @@
+{
+    "brand": "hoshizaki",
+    "model": "crmr60-w",
+    "issues": [
+        {
+            "name": "Unit Is Not Reaching Set Temperature",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/hoshizaki/crmr60-w/unit-is-not-reaching-set-temperature",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HOS/HOS3A8107-01.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hoshizaki 3A8107-01 Condensing Unit, #UMI",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3A8107-01",
+                    "fix_rate": 70.0,
+                    "list_price": "$ 1,176.40"
+                }
+            ]
+        }
+    ]
+}

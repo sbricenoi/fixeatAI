@@ -1,0 +1,33 @@
+{
+    "brand": "vulcan-hart",
+    "model": "msa36",
+    "issues": [
+        {
+            "name": "Pilot Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/vulcan-hart/msa36/pilot-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-412788-00020.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-412788-00020 Thermocouple, 20\", T46",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-412788-00020",
+                    "fix_rate": 60.0,
+                    "list_price": "$ 28.56"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-498025.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-498025 Pilot Safet Valve, Baso",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-498025",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 358.10"
+                }
+            ]
+        }
+    ]
+}

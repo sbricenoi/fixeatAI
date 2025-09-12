@@ -1,0 +1,117 @@
+{
+    "brand": "randell",
+    "model": "8268mn",
+    "issues": [
+        {
+            "name": "Unit Is Not Reaching Set Temperature",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/randell/8268mn/unit-is-not-reaching-set-temperature",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFFLT251.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF FLT251 Filter Drier, 1/4\" with 2nd 1/4\" Inlet",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF FLT251",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 30.54"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFVLV414.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF VLV414 Expansion Valve, 1/4 Ton, R404, Med/Hi Temp",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF VLV414",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 153.62"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFSOL9801.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF SOL9801 Solenoid Valve, 120V, 50/60HZ, 0634",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF SOL9801",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 89.14"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFCMP1603.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF CMP1603 Compressor, 115 Volt, 60Hz, R404A, AE1164E-209-J7",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF CMP1603",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 808.08"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Leaking",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/randell/8268mn/unit-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFFLT251.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF FLT251 Filter Drier, 1/4\" with 2nd 1/4\" Inlet",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF FLT251",
+                    "fix_rate": 27.0,
+                    "list_price": "$ 30.54"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFCOI1607.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF COI1607 Coil, 4 x 3.75 x 15.37, Tin Plate Mullion",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF COI1607",
+                    "fix_rate": 23.0,
+                    "list_price": "$ 378.11"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFVLV414.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF VLV414 Expansion Valve, 1/4 Ton, R404, Med/Hi Temp",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF VLV414",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 153.62"
+                }
+            ]
+        },
+        {
+            "name": "Compressor Is Not Running",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/randell/8268mn/compressor-is-not-running",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFFLT251.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF FLT251 Filter Drier, 1/4\" with 2nd 1/4\" Inlet",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF FLT251",
+                    "fix_rate": 35.0,
+                    "list_price": "$ 30.54"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFCMP1603.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF CMP1603 Compressor, 115 Volt, 60Hz, R404A, AE1164E-209-J7",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF CMP1603",
+                    "fix_rate": 35.0,
+                    "list_price": "$ 808.08"
+                }
+            ]
+        }
+    ]
+}

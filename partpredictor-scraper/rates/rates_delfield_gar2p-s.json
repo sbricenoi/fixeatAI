@@ -1,0 +1,57 @@
+{
+    "brand": "delfield",
+    "model": "gar2p-s",
+    "issues": [
+        {
+            "name": "Unit Is Not Reaching Set Temperature",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/delfield/gar2p-s/unit-is-not-reaching-set-temperature",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2195702.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2195702 Temperature Probe",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2195702",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 50.16"
+                }
+            ]
+        },
+        {
+            "name": "Door Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/delfield/gar2p-s/door-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL3230010.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 3230010 Concealed Cartridge Hinge, 25INLBS",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3230010",
+                    "fix_rate": 56.0,
+                    "list_price": "$ 55.74"
+                }
+            ]
+        },
+        {
+            "name": "Display Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/delfield/gar2p-s/display-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL000-CQM-004G-S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 000-CQM-004G-S Touchscreen Display Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n000-CQM-004G-S",
+                    "fix_rate": 62.0,
+                    "list_price": "$ 939.89"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "brand": "apw-wyott",
+    "model": "pd-1a",
+    "issues": [
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/apw-wyott/pd-1a/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/APW/APW2E-89408.view?thumb&image.rules=G0&w=200",
+                    "product_name": "APW Wyott 2E-89408 Rocker Switch, Lighted",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2E-89408",
+                    "fix_rate": 60.0,
+                    "list_price": "$ 12.62"
+                }
+            ]
+        }
+    ]
+}

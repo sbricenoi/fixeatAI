@@ -1,0 +1,222 @@
+{
+    "brand": "blodgett",
+    "model": "1048",
+    "issues": [
+        {
+            "name": "Pilot Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/blodgett/1048/pilot-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL100653.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 100653 Thermocouple",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100653",
+                    "fix_rate": 62.0,
+                    "list_price": "$ 95.68"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL55127.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 55127 Pilot Safety Valve, TS11, 1/4\" Tube Fitting",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n55127",
+                    "fix_rate": 23.0,
+                    "list_price": "$ 561.60"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL11529.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 11529 Thermostat, FDH, with Knob and Nipple",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n11529",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 811.20"
+                }
+            ]
+        },
+        {
+            "name": "Thermocouple Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/blodgett/1048/thermocouple-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL100653.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 100653 Thermocouple",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100653",
+                    "fix_rate": 69.0,
+                    "list_price": "$ 95.68"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL55127.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 55127 Pilot Safety Valve, TS11, 1/4\" Tube Fitting",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n55127",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 561.60"
+                }
+            ]
+        },
+        {
+            "name": "Door Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/blodgett/1048/door-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL17712.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 17712 Door Spring, 8\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n17712",
+                    "fix_rate": 56.0,
+                    "list_price": "$ 73.84"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL19780.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 19780 Spring, Helper, 6 1/2\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n19780",
+                    "fix_rate": 44.0,
+                    "list_price": "$ 73.84"
+                }
+            ]
+        },
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/blodgett/1048/thermostat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL11529.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 11529 Thermostat, FDH, with Knob and Nipple",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n11529",
+                    "fix_rate": 79.0,
+                    "list_price": "$ 811.20"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL100653.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 100653 Thermocouple",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100653",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 95.68"
+                }
+            ]
+        },
+        {
+            "name": "Spring Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/blodgett/1048/spring-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL17712.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 17712 Door Spring, 8\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n17712",
+                    "fix_rate": 72.0,
+                    "list_price": "$ 73.84"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL19780.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 19780 Spring, Helper, 6 1/2\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n19780",
+                    "fix_rate": 53.0,
+                    "list_price": "$ 73.84"
+                }
+            ]
+        },
+        {
+            "name": "Pilot Safety Valve Is Malfunctioning",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/blodgett/1048/pilot-safety-valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL55127.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 55127 Pilot Safety Valve, TS11, 1/4\" Tube Fitting",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n55127",
+                    "fix_rate": 54.0,
+                    "list_price": "$ 561.60"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL100653.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 100653 Thermocouple",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100653",
+                    "fix_rate": 46.0,
+                    "list_price": "$ 95.68"
+                }
+            ]
+        },
+        {
+            "name": "Door Spring Is Malfunctioning",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/blodgett/1048/door-spring-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL17712.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 17712 Door Spring, 8\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n17712",
+                    "fix_rate": 76.0,
+                    "list_price": "$ 73.84"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL19780.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 19780 Spring, Helper, 6 1/2\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n19780",
+                    "fix_rate": 60.0,
+                    "list_price": "$ 73.84"
+                }
+            ]
+        },
+        {
+            "name": "Burner Is Malfunctioning Or Damaged",
+            "idx": 7,
+            "url": "https://www.partstown.com/part-predictor/blodgett/1048/burner-is-malfunctioning-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL100653.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 100653 Thermocouple",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100653",
+                    "fix_rate": 75.0,
+                    "list_price": "$ 95.68"
+                }
+            ]
+        }
+    ]
+}

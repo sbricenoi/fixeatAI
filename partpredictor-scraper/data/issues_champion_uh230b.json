@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Unit Is Leaking",
+        "parsed_name": "unit-is-leaking"
+    },
+    {
+        "name": "Door Is Malfunctioning",
+        "parsed_name": "door-is-malfunctioning"
+    },
+    {
+        "name": "Door Is Leaking",
+        "parsed_name": "door-is-leaking"
+    },
+    {
+        "name": "Valve Is Malfunctioning",
+        "parsed_name": "valve-is-malfunctioning"
+    },
+    {
+        "name": "Vat Is Malfunctioning",
+        "parsed_name": "vat-is-malfunctioning"
+    },
+    {
+        "name": "Controller Is Malfunctioning",
+        "parsed_name": "controller-is-malfunctioning"
+    },
+    {
+        "name": "Not Filling Properly",
+        "parsed_name": "not-filling-properly"
+    },
+    {
+        "name": "Valve Is Leaking",
+        "parsed_name": "valve-is-leaking"
+    },
+    {
+        "name": "Hinge Is Defective Or Damaged",
+        "parsed_name": "hinge-is-defective-or-damaged"
+    }
+]

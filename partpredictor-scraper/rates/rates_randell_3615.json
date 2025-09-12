@@ -1,0 +1,50 @@
+{
+    "brand": "randell",
+    "model": "3615",
+    "issues": [
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/randell/3615/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDELSWT610BE.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell EL SWT610BE Rocker Switch, Red Lighted",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nEL SWT610BE",
+                    "fix_rate": 76.0,
+                    "list_price": "$ 25.42"
+                }
+            ]
+        },
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/randell/3615/thermostat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRPKIT0201.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RP KIT0201 Thermostat Replacement Kit, EL HFT",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRP KIT0201",
+                    "fix_rate": 62.0,
+                    "list_price": "$ 262.17"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDELSWT610BE.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell EL SWT610BE Rocker Switch, Red Lighted",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nEL SWT610BE",
+                    "fix_rate": 38.0,
+                    "list_price": "$ 25.42"
+                }
+            ]
+        }
+    ]
+}

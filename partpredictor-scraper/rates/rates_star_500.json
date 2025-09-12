@@ -1,0 +1,135 @@
+{
+    "brand": "star",
+    "model": "500",
+    "issues": [
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/star/500/thermostat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2T-Z5958.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2T-Z5958 Thermostat, Star Max Griddles",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2T-Z5958",
+                    "fix_rate": 78.0,
+                    "list_price": "$ 264.74"
+                }
+            ]
+        },
+        {
+            "name": "Breaker Is Tripping Or Wont Reset",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/star/500/breaker-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2T-Z5958.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2T-Z5958 Thermostat, Star Max Griddles",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2T-Z5958",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 264.74"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2J-Y6690.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2J-Y6690 Indicator Light, Red, 240V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2J-Y6690",
+                    "fix_rate": 23.0,
+                    "list_price": "$ 8.69"
+                }
+            ]
+        },
+        {
+            "name": "Wiring Issue",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/star/500/wiring-issue",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2T-Z5958.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2T-Z5958 Thermostat, Star Max Griddles",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2T-Z5958",
+                    "fix_rate": 42.0,
+                    "list_price": "$ 264.74"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Overheating",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/star/500/unit-is-overheating",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2T-Z5958.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2T-Z5958 Thermostat, Star Max Griddles",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2T-Z5958",
+                    "fix_rate": 54.0,
+                    "list_price": "$ 264.74"
+                }
+            ]
+        },
+        {
+            "name": "Hi-limit Is Tripping Or Wont Reset",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/star/500/hi-limit-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2T-Y1668.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2T-Y1668 Hi Limit Safety Thermostat 450F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2T-Y1668",
+                    "fix_rate": 67.0,
+                    "list_price": "$ 291.36"
+                }
+            ]
+        },
+        {
+            "name": "Pilot Is Malfunctioning",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/star/500/pilot-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2T-Z5958.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2T-Z5958 Thermostat, Star Max Griddles",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2T-Z5958",
+                    "fix_rate": 56.0,
+                    "list_price": "$ 264.74"
+                }
+            ]
+        },
+        {
+            "name": "Indicator Light Is Malfunctioning",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/star/500/indicator-light-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2J-Y6690.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2J-Y6690 Indicator Light, Red, 240V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2J-Y6690",
+                    "fix_rate": 62.0,
+                    "list_price": "$ 8.69"
+                }
+            ]
+        }
+    ]
+}

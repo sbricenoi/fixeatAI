@@ -1,0 +1,188 @@
+{
+    "brand": "silver-king",
+    "model": "skpz72d-c3",
+    "issues": [
+        {
+            "name": "Unit Is Not Reaching Set Temperature",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/silver-king/skpz72d-c3/unit-is-not-reaching-set-temperature",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SVK/SVK22677-SK.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Silver King 22677-SK DRIER",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n22677-SK",
+                    "fix_rate": 38.0,
+                    "list_price": "$ 25.98"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/SVK/SVK38142.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Silver King 38142 Condensate Pan Assembly, SKPZ72D",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n38142",
+                    "fix_rate": 34.0,
+                    "list_price": "$ 260.71"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/SVK/SVK38822.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Silver King 38822 Temperature Probe, 96\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n38822",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 50.08"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/SVK/SVK31236.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Silver King 31236 Capillary Tube, .049\" ID x .099\" OD x 78\" Long",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n31236",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 199.27"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Leaking",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/silver-king/skpz72d-c3/unit-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SVK/SVK22677-SK.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Silver King 22677-SK DRIER",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n22677-SK",
+                    "fix_rate": 36.0,
+                    "list_price": "$ 25.98"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/SVK/SVK31236.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Silver King 31236 Capillary Tube, .049\" ID x .099\" OD x 78\" Long",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n31236",
+                    "fix_rate": 28.0,
+                    "list_price": "$ 199.27"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/SVK/SVK37941.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Silver King 37941 Evaporator Coil, 60/72",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n37941",
+                    "fix_rate": 24.0,
+                    "list_price": "$ 1,504.08"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/SVK/SVK38142.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Silver King 38142 Condensate Pan Assembly, SKPZ72D",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n38142",
+                    "fix_rate": 20.0,
+                    "list_price": "$ 260.71"
+                }
+            ]
+        },
+        {
+            "name": "Controller Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/silver-king/skpz72d-c3/controller-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SVK/SVK38822.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Silver King 38822 Temperature Probe, 96\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n38822",
+                    "fix_rate": 45.0,
+                    "list_price": "$ 50.08"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/SVK/SVK39565.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Silver King 39565 Controller, Programmed, 115V, Carel",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n39565",
+                    "fix_rate": 45.0,
+                    "list_price": "$ 373.07"
+                }
+            ]
+        },
+        {
+            "name": "Probe Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/silver-king/skpz72d-c3/probe-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SVK/SVK38822.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Silver King 38822 Temperature Probe, 96\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n38822",
+                    "fix_rate": 78.0,
+                    "list_price": "$ 50.08"
+                }
+            ]
+        },
+        {
+            "name": "Refrigerant Is Leaking",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/silver-king/skpz72d-c3/refrigerant-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SVK/SVK22677-SK.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Silver King 22677-SK DRIER",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n22677-SK",
+                    "fix_rate": 62.0,
+                    "list_price": "$ 25.98"
+                }
+            ]
+        },
+        {
+            "name": "Drain Pan Is Damaged",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/silver-king/skpz72d-c3/drain-pan-is-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SVK/SVK38142.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Silver King 38142 Condensate Pan Assembly, SKPZ72D",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n38142",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 260.71"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/SVK/SVK22677-SK.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Silver King 22677-SK DRIER",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n22677-SK",
+                    "fix_rate": 71.0,
+                    "list_price": "$ 25.98"
+                }
+            ]
+        }
+    ]
+}

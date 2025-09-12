@@ -1,0 +1,101 @@
+{
+    "brand": "silver-king",
+    "model": "skrcb97h",
+    "issues": [
+        {
+            "name": "Unit Is Not Reaching Set Temperature",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/silver-king/skrcb97h/unit-is-not-reaching-set-temperature",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SVK/SVK38822.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Silver King 38822 Temperature Probe, 96\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n38822",
+                    "fix_rate": 32.0,
+                    "list_price": "$ 50.08"
+                }
+            ]
+        },
+        {
+            "name": "Compressor Is Not Running",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/silver-king/skrcb97h/compressor-is-not-running",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SVK/SVK10343-88.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Silver King 10343-88 Compressor Kit, 115V, 60HZ, R134A, EGUS90HLP",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n10343-88",
+                    "fix_rate": 56.0,
+                    "list_price": "$ 687.48"
+                }
+            ]
+        },
+        {
+            "name": "Controller Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/silver-king/skrcb97h/controller-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SVK/SVK38822.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Silver King 38822 Temperature Probe, 96\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n38822",
+                    "fix_rate": 56.0,
+                    "list_price": "$ 50.08"
+                }
+            ]
+        },
+        {
+            "name": "Fan Motor Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/silver-king/skrcb97h/fan-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SVK/SVK21251-2.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Silver King 21251-2 Fan Motor, Clockwise, 115V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n21251-2",
+                    "fix_rate": 67.0,
+                    "list_price": "$ 187.20"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/SVK/SVK99196.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Silver King 99196 Fan Blade, Clockwise, 5\", .218 Bore",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n99196",
+                    "fix_rate": 56.0,
+                    "list_price": "$ 25.32"
+                }
+            ]
+        },
+        {
+            "name": "Probe Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/silver-king/skrcb97h/probe-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SVK/SVK38822.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Silver King 38822 Temperature Probe, 96\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n38822",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 50.08"
+                }
+            ]
+        }
+    ]
+}

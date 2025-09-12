@@ -1,0 +1,40 @@
+{
+    "brand": "vulcan-hart",
+    "model": "60l",
+    "issues": [
+        {
+            "name": "Pilot Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/vulcan-hart/60l/pilot-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-412788-00020.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-412788-00020 Thermocouple, 20\", T46",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-412788-00020",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 28.56"
+                }
+            ]
+        },
+        {
+            "name": "Pilot Safety Valve Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/vulcan-hart/60l/pilot-safety-valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-922159-0000A.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-922159-0000A Safety Valve Kit, TS11J, Robertahaw 24\" Ovens",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-922159-0000A",
+                    "fix_rate": 83.0,
+                    "list_price": "$ 211.69"
+                }
+            ]
+        }
+    ]
+}

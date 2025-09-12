@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Unit Is Leaking",
+        "parsed_name": "unit-is-leaking"
+    },
+    {
+        "name": "Heating Element Is Malfunctioning",
+        "parsed_name": "heating-element-is-malfunctioning"
+    },
+    {
+        "name": "Unit Is Overheating",
+        "parsed_name": "unit-is-overheating"
+    }
+]

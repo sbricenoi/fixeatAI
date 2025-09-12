@@ -1,0 +1,40 @@
+{
+    "brand": "beverage-air",
+    "model": "sm58",
+    "issues": [
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/beverage-air/sm58/thermostat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BEV/BEV502-323B.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Beverage Air 502-323B Temperature Control Thermostat, Sm",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n502-323B",
+                    "fix_rate": 58.0,
+                    "list_price": "$ 80.00"
+                }
+            ]
+        },
+        {
+            "name": "Hinge Is Defective Or Damaged",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/beverage-air/sm58/hinge-is-defective-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BEV/BEV13B01-012B.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Beverage Air 13B01-012B Hinge Pin Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n13B01-012B",
+                    "fix_rate": 71.0,
+                    "list_price": "$ 55.00"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "brand": "antunes",
+    "model": "hdc-50a",
+    "issues": [
+        {
+            "name": "Roller Is Damaged Or Missing",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/antunes/hdc-50a/roller-is-damaged-or-missing",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001953.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001953 Drive Motor, 115V, 3Rpm",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001953",
+                    "fix_rate": 37.0,
+                    "list_price": "$ 220.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001580.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001580 Power Switch Replacement Kit, Rocker",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001580",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 20.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA080K217.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 080K217 Driver Arm Kit, includes Nylon Bushings and Retaining Rings",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n080K217",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 30.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7000215.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7000215 Thermostat Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7000215",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 110.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA040K108.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 040K108 Nylon Bushing and Retainer Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n040K108",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 23.00"
+                }
+            ]
+        },
+        {
+            "name": "Motor Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/antunes/hdc-50a/motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001953.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001953 Drive Motor, 115V, 3Rpm",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001953",
+                    "fix_rate": 79.0,
+                    "list_price": "$ 220.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA080K217.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 080K217 Driver Arm Kit, includes Nylon Bushings and Retaining Rings",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n080K217",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 30.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA040K108.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 040K108 Nylon Bushing and Retainer Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n040K108",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 23.00"
+                }
+            ]
+        },
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/antunes/hdc-50a/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001580.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001580 Power Switch Replacement Kit, Rocker",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001580",
+                    "fix_rate": 70.0,
+                    "list_price": "$ 20.00"
+                }
+            ]
+        }
+    ]
+}

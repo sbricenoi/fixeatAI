@@ -1,0 +1,40 @@
+{
+    "brand": "bakers-pride",
+    "model": "gdco-e1",
+    "issues": [
+        {
+            "name": "Door Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/bakers-pride/gdco-e1/door-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BKP/BKPAS-21818768.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Bakers Pride AS-21818768 Catch with Adjustable Roller, Convection Oven",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nAS-21818768",
+                    "fix_rate": 24.0,
+                    "list_price": "$ 345.36"
+                }
+            ]
+        },
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/bakers-pride/gdco-e1/thermostat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BKP/BKPAS-1400110.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Bakers Pride AS-1400110 Control Board, Convection Oven",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nAS-1400110",
+                    "fix_rate": 75.0,
+                    "list_price": "$ 346.23"
+                }
+            ]
+        }
+    ]
+}

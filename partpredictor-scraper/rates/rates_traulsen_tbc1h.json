@@ -1,0 +1,23 @@
+{
+    "brand": "traulsen",
+    "model": "tbc1h",
+    "issues": [
+        {
+            "name": "Probe Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/traulsen/tbc1h/probe-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TR/TR333-60435-00.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Traulsen 333-60435-00 Food Probe, RBC Blast Chiller",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n333-60435-00",
+                    "fix_rate": 83.0,
+                    "list_price": "$ 699.00"
+                }
+            ]
+        }
+    ]
+}

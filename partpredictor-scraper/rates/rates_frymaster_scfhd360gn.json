@@ -1,0 +1,270 @@
+{
+    "brand": "frymaster",
+    "model": "scfhd360gn",
+    "issues": [
+        {
+            "name": "Unit Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/frymaster/scfhd360gn/unit-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8262898.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8262898 Ignition Module Retro Kit, Fenwal",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8262898",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 244.46"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8074978.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8074978 Transformer, V/F Dual, 100/120V, 12/24V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8074978",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 122.22"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8262269.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8262269 Potentiometer Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8262269",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 182.78"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8262423.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8262423 Probe Assembly, UD60/D80G",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8262423",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 379.56"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM1065419SP.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 1065419SP Sensor Probe Assembly, 1414G",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1065419SP",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 408.75"
+                }
+            ]
+        },
+        {
+            "name": "Pilot Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/frymaster/scfhd360gn/pilot-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8262898.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8262898 Ignition Module Retro Kit, Fenwal",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8262898",
+                    "fix_rate": 42.0,
+                    "list_price": "$ 244.46"
+                }
+            ]
+        },
+        {
+            "name": "Probe Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/frymaster/scfhd360gn/probe-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8262423.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8262423 Probe Assembly, UD60/D80G",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8262423",
+                    "fix_rate": 73.0,
+                    "list_price": "$ 379.56"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Not Reaching Set Temperature",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/frymaster/scfhd360gn/unit-is-not-reaching-set-temperature",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8262423.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8262423 Probe Assembly, UD60/D80G",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8262423",
+                    "fix_rate": 38.0,
+                    "list_price": "$ 379.56"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8262898.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8262898 Ignition Module Retro Kit, Fenwal",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8262898",
+                    "fix_rate": 24.0,
+                    "list_price": "$ 244.46"
+                }
+            ]
+        },
+        {
+            "name": "Ignition Module Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/frymaster/scfhd360gn/ignition-module-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8262898.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8262898 Ignition Module Retro Kit, Fenwal",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8262898",
+                    "fix_rate": 74.0,
+                    "list_price": "$ 244.46"
+                }
+            ]
+        },
+        {
+            "name": "Unit Will Not Pump Oil",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/frymaster/scfhd360gn/unit-will-not-pump-oil",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8261712.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8261712 Pump Motor Assembly, 115V, 60HZ, 1PH",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8261712",
+                    "fix_rate": 42.0,
+                    "list_price": "$ 785.93"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8263191.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8263191 Filter Pump Kit, 4GPM CCW",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8263191",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 571.12"
+                }
+            ]
+        },
+        {
+            "name": "Transformer Is Malfunctioning",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/frymaster/scfhd360gn/transformer-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8074978.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8074978 Transformer, V/F Dual, 100/120V, 12/24V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8074978",
+                    "fix_rate": 83.0,
+                    "list_price": "$ 122.22"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Not Lighting",
+            "idx": 7,
+            "url": "https://www.partstown.com/part-predictor/frymaster/scfhd360gn/unit-is-not-lighting",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8262898.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8262898 Ignition Module Retro Kit, Fenwal",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8262898",
+                    "fix_rate": 38.0,
+                    "list_price": "$ 244.46"
+                }
+            ]
+        },
+        {
+            "name": "Hi-limit Is Tripping Or Wont Reset",
+            "idx": 8,
+            "url": "https://www.partstown.com/part-predictor/frymaster/scfhd360gn/hi-limit-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8073680.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8073680 Hi Limit Thermostat, 450F, Manual Reset",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8073680",
+                    "fix_rate": 53.0,
+                    "list_price": "$ 219.53"
+                }
+            ]
+        },
+        {
+            "name": "Filter Is Malfunctioning",
+            "idx": 9,
+            "url": "https://www.partstown.com/part-predictor/frymaster/scfhd360gn/filter-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8261392.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8261392 O-Ring, Pack of 6, 8160596",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8261392",
+                    "fix_rate": 36.0,
+                    "list_price": "$ 18.97"
+                }
+            ]
+        },
+        {
+            "name": "Gas Valve Is Malfunctioning",
+            "idx": 10,
+            "url": "https://www.partstown.com/part-predictor/frymaster/scfhd360gn/gas-valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8073552.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8073552 Gas Valve, Natural Gas, 24V, Honeywell",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8073552",
+                    "fix_rate": 55.0,
+                    "list_price": "$ 316.02"
+                }
+            ]
+        },
+        {
+            "name": "Motor Is Malfunctioning",
+            "idx": 11,
+            "url": "https://www.partstown.com/part-predictor/frymaster/scfhd360gn/motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8261712.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8261712 Pump Motor Assembly, 115V, 60HZ, 1PH",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8261712",
+                    "fix_rate": 62.0,
+                    "list_price": "$ 785.93"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,797 @@
+{
+    "brand": "cleveland",
+    "model": "24cga10",
+    "issues": [
+        {
+            "name": "Unit Is Leaking",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/cleveland/24cga10/unit-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE107239.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 107239 Water Level Probe and Housing Assemby, 3 Probe",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n107239",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 157.07"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEFK105575.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland FK105575 Relief Valve Kit, 5PSI, 2 Ends Threaded",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nFK105575",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 195.12"
+                }
+            ]
+        },
+        {
+            "name": "Valve Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/cleveland/24cga10/valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEFK22193.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland FK22193 Solenoid Valve Kit, 3/4 x 3/4, 120V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nFK22193",
+                    "fix_rate": 45.0,
+                    "list_price": "$ 311.36"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEFK105575.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland FK105575 Relief Valve Kit, 5PSI, 2 Ends Threaded",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nFK105575",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 195.12"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE107239.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 107239 Water Level Probe and Housing Assemby, 3 Probe",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n107239",
+                    "fix_rate": 20.0,
+                    "list_price": "$ 157.07"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE22218.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 22218 Solenoid Valve 1/4\" Normally Close, Mini 120V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n22218",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 139.25"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE222231.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 222231 Fill Solenoid Valve, 1/4\" NPT",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n222231",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 292.86"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE22199.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 22199 Solenoid Valve, Steam, 1/4\", 115V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n22199",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 557.49"
+                }
+            ]
+        },
+        {
+            "name": "Hose Is Broken Or Leaking",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/cleveland/24cga10/hose-is-broken-or-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEFK22193.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland FK22193 Solenoid Valve Kit, 3/4 x 3/4, 120V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nFK22193",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 311.36"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE107239.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 107239 Water Level Probe and Housing Assemby, 3 Probe",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n107239",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 157.07"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE22218.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 22218 Solenoid Valve 1/4\" Normally Close, Mini 120V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n22218",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 139.25"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEFK22221.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland FK22221 Solenoid Valve, Drain, 1/2\", 110/120V. 50/60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nFK22221",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 625.13"
+                }
+            ]
+        },
+        {
+            "name": "Probe Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/cleveland/24cga10/probe-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE107239.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 107239 Water Level Probe and Housing Assemby, 3 Probe",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n107239",
+                    "fix_rate": 80.0,
+                    "list_price": "$ 157.07"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEFK22193.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland FK22193 Solenoid Valve Kit, 3/4 x 3/4, 120V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nFK22193",
+                    "fix_rate": 20.0,
+                    "list_price": "$ 311.36"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE22218.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 22218 Solenoid Valve 1/4\" Normally Close, Mini 120V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n22218",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 139.25"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEFK105575.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland FK105575 Relief Valve Kit, 5PSI, 2 Ends Threaded",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nFK105575",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 195.12"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE107241.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 107241 Water Level Control Board, Atmospheric Steamers",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n107241",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 280.85"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEFK22221.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland FK22221 Solenoid Valve, Drain, 1/2\", 110/120V. 50/60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nFK22221",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 625.13"
+                }
+            ]
+        },
+        {
+            "name": "Drain Valve Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/cleveland/24cga10/drain-valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEFK22221.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland FK22221 Solenoid Valve, Drain, 1/2\", 110/120V. 50/60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nFK22221",
+                    "fix_rate": 75.0,
+                    "list_price": "$ 625.13"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEFK22193.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland FK22193 Solenoid Valve Kit, 3/4 x 3/4, 120V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nFK22193",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 311.36"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE107239.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 107239 Water Level Probe and Housing Assemby, 3 Probe",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n107239",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 157.07"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE107241.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 107241 Water Level Control Board, Atmospheric Steamers",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n107241",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 280.85"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE222213.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 222213 Solenoid Valve, Drain, 1/2\", 72\" Leads",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n222213",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 725.22"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Malfunctioning",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/cleveland/24cga10/unit-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE107239.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 107239 Water Level Probe and Housing Assemby, 3 Probe",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n107239",
+                    "fix_rate": 23.0,
+                    "list_price": "$ 157.07"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEFK22221.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland FK22221 Solenoid Valve, Drain, 1/2\", 110/120V. 50/60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nFK22221",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 625.13"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEFK22193.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland FK22193 Solenoid Valve Kit, 3/4 x 3/4, 120V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nFK22193",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 311.36"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE22218.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 22218 Solenoid Valve 1/4\" Normally Close, Mini 120V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n22218",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 139.25"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEFK105575.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland FK105575 Relief Valve Kit, 5PSI, 2 Ends Threaded",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nFK105575",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 195.12"
+                }
+            ]
+        },
+        {
+            "name": "Door Is Malfunctioning",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/cleveland/24cga10/door-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE104026.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 104026 Door Gasket, SC5.1/10",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n104026",
+                    "fix_rate": 39.0,
+                    "list_price": "$ 138.01"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLES103643.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland S103643 Latch, Door, Paddle Type",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nS103643",
+                    "fix_rate": 36.0,
+                    "list_price": "$ 273.44"
+                }
+            ]
+        },
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 7,
+            "url": "https://www.partstown.com/part-predictor/cleveland/24cga10/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE105788.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 105788 Pressure Switch, 0.50\" WC",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n105788",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 101.65"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Making Noise",
+            "idx": 8,
+            "url": "https://www.partstown.com/part-predictor/cleveland/24cga10/unit-is-making-noise",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEFK22193.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland FK22193 Solenoid Valve Kit, 3/4 x 3/4, 120V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nFK22193",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 311.36"
+                }
+            ]
+        },
+        {
+            "name": "Hi-limit Is Tripping Or Wont Reset",
+            "idx": 9,
+            "url": "https://www.partstown.com/part-predictor/cleveland/24cga10/hi-limit-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLES108995.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland S108995 Hi Limit Thermostat/Reset Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nS108995",
+                    "fix_rate": 35.0,
+                    "list_price": "$ 348.75"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE107239.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 107239 Water Level Probe and Housing Assemby, 3 Probe",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n107239",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 157.07"
+                }
+            ]
+        },
+        {
+            "name": "Valve Is Leaking",
+            "idx": 10,
+            "url": "https://www.partstown.com/part-predictor/cleveland/24cga10/valve-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE107239.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 107239 Water Level Probe and Housing Assemby, 3 Probe",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n107239",
+                    "fix_rate": 28.0,
+                    "list_price": "$ 157.07"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE22218.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 22218 Solenoid Valve 1/4\" Normally Close, Mini 120V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n22218",
+                    "fix_rate": 24.0,
+                    "list_price": "$ 139.25"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEFK105575.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland FK105575 Relief Valve Kit, 5PSI, 2 Ends Threaded",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nFK105575",
+                    "fix_rate": 24.0,
+                    "list_price": "$ 195.12"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEFK22221.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland FK22221 Solenoid Valve, Drain, 1/2\", 110/120V. 50/60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nFK22221",
+                    "fix_rate": 20.0,
+                    "list_price": "$ 625.13"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEFK22193.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland FK22193 Solenoid Valve Kit, 3/4 x 3/4, 120V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nFK22193",
+                    "fix_rate": 20.0,
+                    "list_price": "$ 311.36"
+                }
+            ]
+        },
+        {
+            "name": "Blower Motor Is Malfunctioning",
+            "idx": 11,
+            "url": "https://www.partstown.com/part-predictor/cleveland/24cga10/blower-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEFK105695.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland FK105695 Blower/Motor Replacement Kit, 24CGA/24C",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nFK105695",
+                    "fix_rate": 43.0,
+                    "list_price": "$ 1,472.70"
+                }
+            ]
+        },
+        {
+            "name": "Solenoid Valve Is Malfunctioning",
+            "idx": 12,
+            "url": "https://www.partstown.com/part-predictor/cleveland/24cga10/solenoid-valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEFK22193.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland FK22193 Solenoid Valve Kit, 3/4 x 3/4, 120V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nFK22193",
+                    "fix_rate": 52.0,
+                    "list_price": "$ 311.36"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE22218.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 22218 Solenoid Valve 1/4\" Normally Close, Mini 120V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n22218",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 139.25"
+                }
+            ]
+        },
+        {
+            "name": "Gasket Is Defective Or Leaking",
+            "idx": 13,
+            "url": "https://www.partstown.com/part-predictor/cleveland/24cga10/gasket-is-defective-or-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE104026.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 104026 Door Gasket, SC5.1/10",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n104026",
+                    "fix_rate": 60.0,
+                    "list_price": "$ 138.01"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Overheating",
+            "idx": 14,
+            "url": "https://www.partstown.com/part-predictor/cleveland/24cga10/unit-is-overheating",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE107239.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 107239 Water Level Probe and Housing Assemby, 3 Probe",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n107239",
+                    "fix_rate": 35.0,
+                    "list_price": "$ 157.07"
+                }
+            ]
+        },
+        {
+            "name": "Pressure Relief Valve Is Malfunctioning",
+            "idx": 15,
+            "url": "https://www.partstown.com/part-predictor/cleveland/24cga10/pressure-relief-valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEFK22193.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland FK22193 Solenoid Valve Kit, 3/4 x 3/4, 120V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nFK22193",
+                    "fix_rate": 67.0,
+                    "list_price": "$ 311.36"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEFK105575.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland FK105575 Relief Valve Kit, 5PSI, 2 Ends Threaded",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nFK105575",
+                    "fix_rate": 28.0,
+                    "list_price": "$ 195.12"
+                }
+            ]
+        },
+        {
+            "name": "Door Gasket Is Defective",
+            "idx": 16,
+            "url": "https://www.partstown.com/part-predictor/cleveland/24cga10/door-gasket-is-defective",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE104026.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 104026 Door Gasket, SC5.1/10",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n104026",
+                    "fix_rate": 44.0,
+                    "list_price": "$ 138.01"
+                }
+            ]
+        },
+        {
+            "name": "Door Is Leaking",
+            "idx": 17,
+            "url": "https://www.partstown.com/part-predictor/cleveland/24cga10/door-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE104026.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 104026 Door Gasket, SC5.1/10",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n104026",
+                    "fix_rate": 60.0,
+                    "list_price": "$ 138.01"
+                }
+            ]
+        },
+        {
+            "name": "Not Filling Properly",
+            "idx": 18,
+            "url": "https://www.partstown.com/part-predictor/cleveland/24cga10/not-filling-properly",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE107239.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 107239 Water Level Probe and Housing Assemby, 3 Probe",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n107239",
+                    "fix_rate": 40.0,
+                    "list_price": "$ 157.07"
+                }
+            ]
+        },
+        {
+            "name": "Pilot Is Malfunctioning",
+            "idx": 19,
+            "url": "https://www.partstown.com/part-predictor/cleveland/24cga10/pilot-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEFK105693.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland FK105693 Ignition Module Field Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nFK105693",
+                    "fix_rate": 40.0,
+                    "list_price": "$ 389.03"
+                }
+            ]
+        },
+        {
+            "name": "Unit Won't Turn On",
+            "idx": 20,
+            "url": "https://www.partstown.com/part-predictor/cleveland/24cga10/unit-wont-turn-on",
+            "results": []
+        },
+        {
+            "name": "Gas Valve Is Malfunctioning",
+            "idx": 21,
+            "url": "https://www.partstown.com/part-predictor/cleveland/24cga10/gas-valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEFK113048.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland FK113048 Gas Valve Replacement Kit, 2-Stage, Natural Gas",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nFK113048",
+                    "fix_rate": 54.0
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEFK105693.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland FK105693 Ignition Module Field Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nFK105693",
+                    "fix_rate": 46.0,
+                    "list_price": "$ 389.03"
+                }
+            ]
+        },
+        {
+            "name": "Drain Valve Is Leaking",
+            "idx": 22,
+            "url": "https://www.partstown.com/part-predictor/cleveland/24cga10/drain-valve-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEFK22221.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland FK22221 Solenoid Valve, Drain, 1/2\", 110/120V. 50/60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nFK22221",
+                    "fix_rate": 67.0,
+                    "list_price": "$ 625.13"
+                }
+            ]
+        },
+        {
+            "name": "Unit Making Noise",
+            "idx": 23,
+            "url": "https://www.partstown.com/part-predictor/cleveland/24cga10/unit-making-noise",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEFK22193.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland FK22193 Solenoid Valve Kit, 3/4 x 3/4, 120V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nFK22193",
+                    "fix_rate": 67.0,
+                    "list_price": "$ 311.36"
+                }
+            ]
+        },
+        {
+            "name": "Ignition Module Is Malfunctioning",
+            "idx": 24,
+            "url": "https://www.partstown.com/part-predictor/cleveland/24cga10/ignition-module-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEFK105693.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland FK105693 Ignition Module Field Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nFK105693",
+                    "fix_rate": 70.0,
+                    "list_price": "$ 389.03"
+                }
+            ]
+        },
+        {
+            "name": "Ingition Module Is Malfunctioning",
+            "idx": 25,
+            "url": "https://www.partstown.com/part-predictor/cleveland/24cga10/ingition-module-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEFK105693.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland FK105693 Ignition Module Field Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nFK105693",
+                    "fix_rate": 56.0,
+                    "list_price": "$ 389.03"
+                }
+            ]
+        },
+        {
+            "name": "Latch Is Damaged Or Not Latching",
+            "idx": 26,
+            "url": "https://www.partstown.com/part-predictor/cleveland/24cga10/latch-is-damaged-or-not-latching",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLES103643.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland S103643 Latch, Door, Paddle Type",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nS103643",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 273.44"
+                }
+            ]
+        },
+        {
+            "name": "Relay Is Malfunctioning",
+            "idx": 27,
+            "url": "https://www.partstown.com/part-predictor/cleveland/24cga10/relay-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLESK2475500.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland SK2475500 Relay, DPDT, 24V, IDEC#RH2B-U-AC24V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSK2475500",
+                    "fix_rate": 71.0,
+                    "list_price": "$ 123.19"
+                }
+            ]
+        },
+        {
+            "name": "Water Board Is Malfunctioning",
+            "idx": 28,
+            "url": "https://www.partstown.com/part-predictor/cleveland/24cga10/water-board-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE107241.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 107241 Water Level Control Board, Atmospheric Steamers",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n107241",
+                    "fix_rate": 86.0,
+                    "list_price": "$ 280.85"
+                }
+            ]
+        }
+    ]
+}

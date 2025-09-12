@@ -1,0 +1,104 @@
+{
+    "brand": "cleveland",
+    "model": "36cgm16300",
+    "issues": [
+        {
+            "name": "Gasket Is Defective Or Leaking",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/cleveland/36cgm16300/gasket-is-defective-or-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE104292.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 104292 Door Gasket, PCL Cut 84 IN, Ends Glued",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n104292",
+                    "fix_rate": 44.0,
+                    "list_price": "$ 567.43"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE100330.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 100330 Gasket, Handhole, Generator",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100330",
+                    "fix_rate": 31.0,
+                    "list_price": "$ 44.87"
+                }
+            ]
+        },
+        {
+            "name": "Probe Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/cleveland/36cgm16300/probe-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLES40462.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland S40462 Water Level Probe with Lockwasher",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nS40462",
+                    "fix_rate": 57.0,
+                    "list_price": "$ 135.23"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE100330.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 100330 Gasket, Handhole, Generator",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100330",
+                    "fix_rate": 36.0,
+                    "list_price": "$ 44.87"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE101466.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 101466 Extension Set, Probe, Set of 2",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n101466",
+                    "fix_rate": 36.0,
+                    "list_price": "$ 23.80"
+                }
+            ]
+        },
+        {
+            "name": "Ignition Module Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/cleveland/36cgm16300/ignition-module-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE03546.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 03546 Ignition Module, Direct Spark, Honeywell",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n03546",
+                    "fix_rate": 56.0,
+                    "list_price": "$ 481.10"
+                }
+            ]
+        },
+        {
+            "name": "Door Gasket Is Defective",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/cleveland/36cgm16300/door-gasket-is-defective",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE104292.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 104292 Door Gasket, PCL Cut 84 IN, Ends Glued",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n104292",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 567.43"
+                }
+            ]
+        }
+    ]
+}

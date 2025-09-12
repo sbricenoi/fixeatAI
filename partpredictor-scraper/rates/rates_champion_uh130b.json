@@ -1,0 +1,345 @@
+{
+    "brand": "champion",
+    "model": "uh130b",
+    "issues": [
+        {
+            "name": "Unit Is Leaking",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/champion/uh130b/unit-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA109985.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 109985 Seal, O-Ring, Electric Heater",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n109985",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 8.43"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA0504952.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 0504952 Solenoid Valve, Fill, 120V, 5.0GPM, 501/501HT",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n0504952",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 305.25"
+                }
+            ]
+        },
+        {
+            "name": "Gasket Is Defective Or Leaking",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/champion/uh130b/gasket-is-defective-or-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA109985.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 109985 Seal, O-Ring, Electric Heater",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n109985",
+                    "fix_rate": 52.0,
+                    "list_price": "$ 8.43"
+                }
+            ]
+        },
+        {
+            "name": "Valve Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/champion/uh130b/valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA0504952.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 0504952 Solenoid Valve, Fill, 120V, 5.0GPM, 501/501HT",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n0504952",
+                    "fix_rate": 64.0,
+                    "list_price": "$ 305.25"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA0713667.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 0713667 Complete Drain Cartridge Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n0713667",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 569.77"
+                }
+            ]
+        },
+        {
+            "name": "Controller Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/champion/uh130b/controller-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA0712105.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 0712105 Solid State Timer Board Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n0712105",
+                    "fix_rate": 37.0,
+                    "list_price": "$ 672.35"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA0712106.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 0712106 Digital Temperature Control Board, M3/M4",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n0712106",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 536.56"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Overheating",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/champion/uh130b/unit-is-overheating",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA0504952.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 0504952 Solenoid Valve, Fill, 120V, 5.0GPM, 501/501HT",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n0504952",
+                    "fix_rate": 31.0,
+                    "list_price": "$ 305.25"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA113604.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 113604 Thermostat, Fixed, Snap Disc, 212F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n113604",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 33.77"
+                }
+            ]
+        },
+        {
+            "name": "Door Is Malfunctioning",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/champion/uh130b/door-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA0513332.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 0513332 Spring, Door",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n0513332",
+                    "fix_rate": 52.0,
+                    "list_price": "$ 24.12"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Not Draining",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/champion/uh130b/unit-is-not-draining",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA0712105.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 0712105 Solid State Timer Board Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n0712105",
+                    "fix_rate": 42.0,
+                    "list_price": "$ 672.35"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA0713667.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 0713667 Complete Drain Cartridge Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n0713667",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 569.77"
+                }
+            ]
+        },
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 7,
+            "url": "https://www.partstown.com/part-predictor/champion/uh130b/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA0512221.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 0512221 Switch, Rocker, DPST, Red Neon",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n0512221",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 39.10"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Malfunctioning",
+            "idx": 8,
+            "url": "https://www.partstown.com/part-predictor/champion/uh130b/unit-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA0504952.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 0504952 Solenoid Valve, Fill, 120V, 5.0GPM, 501/501HT",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n0504952",
+                    "fix_rate": 38.0,
+                    "list_price": "$ 305.25"
+                }
+            ]
+        },
+        {
+            "name": "Vat Is Malfunctioning",
+            "idx": 9,
+            "url": "https://www.partstown.com/part-predictor/champion/uh130b/vat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA0513310.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 0513310 Thermister, Probe Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n0513310",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 52.46"
+                }
+            ]
+        },
+        {
+            "name": "Leaking At Heating Element",
+            "idx": 10,
+            "url": "https://www.partstown.com/part-predictor/champion/uh130b/leaking-at-heating-element",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA109985.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 109985 Seal, O-Ring, Electric Heater",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n109985",
+                    "fix_rate": 89.0,
+                    "list_price": "$ 8.43"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Shutting Down",
+            "idx": 11,
+            "url": "https://www.partstown.com/part-predictor/champion/uh130b/unit-is-shutting-down",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA0712105.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 0712105 Solid State Timer Board Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n0712105",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 672.35"
+                }
+            ]
+        },
+        {
+            "name": "Vat Is Leaking",
+            "idx": 12,
+            "url": "https://www.partstown.com/part-predictor/champion/uh130b/vat-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA109985.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 109985 Seal, O-Ring, Electric Heater",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n109985",
+                    "fix_rate": 60.0,
+                    "list_price": "$ 8.43"
+                }
+            ]
+        },
+        {
+            "name": "Door Spring Is Malfunctioning",
+            "idx": 13,
+            "url": "https://www.partstown.com/part-predictor/champion/uh130b/door-spring-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA0513332.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 0513332 Spring, Door",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n0513332",
+                    "fix_rate": 92.0,
+                    "list_price": "$ 24.12"
+                }
+            ]
+        },
+        {
+            "name": "Valve Is Leaking",
+            "idx": 14,
+            "url": "https://www.partstown.com/part-predictor/champion/uh130b/valve-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA0504952.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 0504952 Solenoid Valve, Fill, 120V, 5.0GPM, 501/501HT",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n0504952",
+                    "fix_rate": 80.0,
+                    "list_price": "$ 305.25"
+                }
+            ]
+        },
+        {
+            "name": "Contactor Is Malfunctioning",
+            "idx": 15,
+            "url": "https://www.partstown.com/part-predictor/champion/uh130b/contactor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA0512432.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 0512432 Contactor, 120V, 50/60Hz, 25/40A, 3 Pole with Auxiliary Contact",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n0512432",
+                    "fix_rate": 71.0,
+                    "list_price": "$ 218.37"
+                }
+            ]
+        },
+        {
+            "name": "Spring Is Malfunctioning",
+            "idx": 16,
+            "url": "https://www.partstown.com/part-predictor/champion/uh130b/spring-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA0513332.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 0513332 Spring, Door",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n0513332",
+                    "fix_rate": 71.0,
+                    "list_price": "$ 24.12"
+                }
+            ]
+        }
+    ]
+}

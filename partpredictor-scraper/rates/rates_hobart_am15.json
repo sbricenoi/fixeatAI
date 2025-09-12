@@ -1,0 +1,373 @@
+{
+    "brand": "hobart",
+    "model": "am15",
+    "issues": [
+        {
+            "name": "Unit Is Leaking",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/hobart/am15/unit-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HOB/HOB00-893039-00004.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hobart 00-893039-00004 Gasket, Pump to Tank",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-893039-00004",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 10.96"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HOB/HOB00-893024.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hobart 00-893024 Discharge Hose",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-893024",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 91.46"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HOB/HOB00-941233-00005.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hobart 00-941233-00005 Shaft Seal, Pump, AM15VLF",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-941233-00005",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 68.55"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HOB/HOB00-941233-00010.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hobart 00-941233-00010 O-Ring, Rubber, Pump Motor, AM15",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-941233-00010",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 11.12"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HOB/HOB00-292909.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hobart 00-292909 Vacuum Breaker, 1/2\", Chrome",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-292909",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 202.70"
+                }
+            ]
+        },
+        {
+            "name": "Motor Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/hobart/am15/motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HOB/HOB00-893039-00004.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hobart 00-893039-00004 Gasket, Pump to Tank",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-893039-00004",
+                    "fix_rate": 46.0,
+                    "list_price": "$ 10.96"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HOB/HOB00-274227-00006.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hobart 00-274227-00006 Shaft Seal",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-274227-00006",
+                    "fix_rate": 33.0,
+                    "list_price": "$ 85.37"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HOB/HOB00-893024.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hobart 00-893024 Discharge Hose",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-893024",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 91.46"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HOB/HOB00-941233-00005.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hobart 00-941233-00005 Shaft Seal, Pump, AM15VLF",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-941233-00005",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 68.55"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HOB/HOB00-941233-00010.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hobart 00-941233-00010 O-Ring, Rubber, Pump Motor, AM15",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-941233-00010",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 11.12"
+                }
+            ]
+        },
+        {
+            "name": "Gasket Is Defective Or Leaking",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/hobart/am15/gasket-is-defective-or-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HOB/HOB00-893039-00004.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hobart 00-893039-00004 Gasket, Pump to Tank",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-893039-00004",
+                    "fix_rate": 55.0,
+                    "list_price": "$ 10.96"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HOB/HOB00-893024.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hobart 00-893024 Discharge Hose",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-893024",
+                    "fix_rate": 36.0,
+                    "list_price": "$ 91.46"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HOB/HOB00-893103.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hobart 00-893103 Gasket, Adapter, AM15",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-893103",
+                    "fix_rate": 32.0,
+                    "list_price": "$ 3.63"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HOB/HOB00-274227-00006.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hobart 00-274227-00006 Shaft Seal",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-274227-00006",
+                    "fix_rate": 23.0,
+                    "list_price": "$ 85.37"
+                }
+            ]
+        },
+        {
+            "name": "Probe Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/hobart/am15/probe-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HOB/HOB00-328994.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hobart 00-328994 Probe Assembly, Rinse",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-328994",
+                    "fix_rate": 68.0,
+                    "list_price": "$ 130.33"
+                }
+            ]
+        },
+        {
+            "name": "Door Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/hobart/am15/door-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HOB/HOB00-918458-00001.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hobart 00-918458-00001 Door Guide, Standard Height",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-918458-00001",
+                    "fix_rate": 24.0,
+                    "list_price": "$ 72.97"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HOB/HOB00-893051.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hobart 00-893051 HANDLEWELDMENT",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-893051",
+                    "fix_rate": 24.0,
+                    "list_price": "$ 1,791.40"
+                }
+            ]
+        },
+        {
+            "name": "Hose Is Broken Or Leaking",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/hobart/am15/hose-is-broken-or-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HOB/HOB00-893444-00002.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hobart 00-893444-00002 Water Hose, Stainless Steel Braided, 1/2\" X 81\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-893444-00002",
+                    "fix_rate": 33.0,
+                    "list_price": "$ 191.85"
+                }
+            ]
+        },
+        {
+            "name": "Shaft Seal Is Damaged Or Leaking",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/hobart/am15/shaft-seal-is-damaged-or-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HOB/HOB00-941233-00005.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hobart 00-941233-00005 Shaft Seal, Pump, AM15VLF",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-941233-00005",
+                    "fix_rate": 57.0,
+                    "list_price": "$ 68.55"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HOB/HOB00-941233-00010.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hobart 00-941233-00010 O-Ring, Rubber, Pump Motor, AM15",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-941233-00010",
+                    "fix_rate": 57.0,
+                    "list_price": "$ 11.12"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HOB/HOB00-274227-00006.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hobart 00-274227-00006 Shaft Seal",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-274227-00006",
+                    "fix_rate": 36.0,
+                    "list_price": "$ 85.37"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HOB/HOB00-893039-00004.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hobart 00-893039-00004 Gasket, Pump to Tank",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-893039-00004",
+                    "fix_rate": 36.0,
+                    "list_price": "$ 10.96"
+                }
+            ]
+        },
+        {
+            "name": "O Ring Is Damaged Or Leaking",
+            "idx": 7,
+            "url": "https://www.partstown.com/part-predictor/hobart/am15/o-ring-is-damaged-or-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HOB/HOB00-067500-00120.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hobart 00-067500-00120 O-Ring, Overflow Tube",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-067500-00120",
+                    "fix_rate": 58.0,
+                    "list_price": "$ 5.75"
+                }
+            ]
+        },
+        {
+            "name": "Pump Seal Is Leaking",
+            "idx": 8,
+            "url": "https://www.partstown.com/part-predictor/hobart/am15/pump-seal-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HOB/HOB00-941233-00005.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hobart 00-941233-00005 Shaft Seal, Pump, AM15VLF",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-941233-00005",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 68.55"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HOB/HOB00-941233-00010.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hobart 00-941233-00010 O-Ring, Rubber, Pump Motor, AM15",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-941233-00010",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 11.12"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HOB/HOB00-893039-00004.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hobart 00-893039-00004 Gasket, Pump to Tank",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-893039-00004",
+                    "fix_rate": 42.0,
+                    "list_price": "$ 10.96"
+                }
+            ]
+        },
+        {
+            "name": "Handle Is Defective",
+            "idx": 9,
+            "url": "https://www.partstown.com/part-predictor/hobart/am15/handle-is-defective",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HOB/HOB00-893051.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hobart 00-893051 HANDLEWELDMENT",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-893051",
+                    "fix_rate": 70.0,
+                    "list_price": "$ 1,791.40"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HOB/HOB00-119055.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hobart 00-119055 Button, Bearing, AM15/LT1",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-119055",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 4.95"
+                }
+            ]
+        },
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 10,
+            "url": "https://www.partstown.com/part-predictor/hobart/am15/thermostat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HOB/HOB00-328994.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hobart 00-328994 Probe Assembly, Rinse",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-328994",
+                    "fix_rate": 71.0,
+                    "list_price": "$ 130.33"
+                }
+            ]
+        }
+    ]
+}

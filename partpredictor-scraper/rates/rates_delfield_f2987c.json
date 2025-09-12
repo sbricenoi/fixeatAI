@@ -1,0 +1,793 @@
+{
+    "brand": "delfield",
+    "model": "f2987c",
+    "issues": [
+        {
+            "name": "Unit Is Not Reaching Set Temperature",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/delfield/f2987c/unit-is-not-reaching-set-temperature",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DELRF000084-S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield RF000084-S Thermostat Assembly, Danfoss, with Probes",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF000084-S",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 487.58"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2194809.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2194809 Probe Temperature Sensor, 118\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2194809",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 58.94"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2194808.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2194808 Probe, Thermostat, Defrost",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2194808",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 58.94"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL000-CZ0-0253-S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 000-CZ0-0253-S Temperature Control, Digital, Rfg, Double Hookup",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n000-CZ0-0253-S",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 315.81"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2194792.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2194792 Digital Display, Blue, Danfoss",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2194792",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 198.99"
+                }
+            ]
+        },
+        {
+            "name": "Controller Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/delfield/f2987c/controller-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL000-CZ0-0253-S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 000-CZ0-0253-S Temperature Control, Digital, Rfg, Double Hookup",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n000-CZ0-0253-S",
+                    "fix_rate": 45.0,
+                    "list_price": "$ 315.81"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DELRF000084-S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield RF000084-S Thermostat Assembly, Danfoss, with Probes",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF000084-S",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 487.58"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2194808.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2194808 Probe, Thermostat, Defrost",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2194808",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 58.94"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2194809.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2194809 Probe Temperature Sensor, 118\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2194809",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 58.94"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2194792.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2194792 Digital Display, Blue, Danfoss",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2194792",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 198.99"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL000-CZ0-0265-S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 000-CZ0-0265-S Digital Controller, Refrigerator, Lock Out, MK7",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n000-CZ0-0265-S",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 315.81"
+                }
+            ]
+        },
+        {
+            "name": "Probe Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/delfield/f2987c/probe-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2194808.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2194808 Probe, Thermostat, Defrost",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2194808",
+                    "fix_rate": 56.0,
+                    "list_price": "$ 58.94"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2194809.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2194809 Probe Temperature Sensor, 118\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2194809",
+                    "fix_rate": 45.0,
+                    "list_price": "$ 58.94"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DELRF000084-S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield RF000084-S Thermostat Assembly, Danfoss, with Probes",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF000084-S",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 487.58"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL000-CZ0-0253-S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 000-CZ0-0253-S Temperature Control, Digital, Rfg, Double Hookup",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n000-CZ0-0253-S",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 315.81"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/delfield/f2987c/unit-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL000-CZ0-0253-S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 000-CZ0-0253-S Temperature Control, Digital, Rfg, Double Hookup",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n000-CZ0-0253-S",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 315.81"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2194808.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2194808 Probe, Thermostat, Defrost",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2194808",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 58.94"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2194792.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2194792 Digital Display, Blue, Danfoss",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2194792",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 198.99"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DELRF000084-S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield RF000084-S Thermostat Assembly, Danfoss, with Probes",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF000084-S",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 487.58"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2194809.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2194809 Probe Temperature Sensor, 118\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2194809",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 58.94"
+                }
+            ]
+        },
+        {
+            "name": "Display Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/delfield/f2987c/display-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2194792.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2194792 Digital Display, Blue, Danfoss",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2194792",
+                    "fix_rate": 67.0,
+                    "list_price": "$ 198.99"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DELRF000084-S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield RF000084-S Thermostat Assembly, Danfoss, with Probes",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF000084-S",
+                    "fix_rate": 39.0,
+                    "list_price": "$ 487.58"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2194791.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2194791 Cable, Display, 60, Danfoss",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2194791",
+                    "fix_rate": 37.0,
+                    "list_price": "$ 37.15"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2194808.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2194808 Probe, Thermostat, Defrost",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2194808",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 58.94"
+                }
+            ]
+        },
+        {
+            "name": "Compressor Is Not Running",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/delfield/f2987c/compressor-is-not-running",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL3516322.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 3516322 Drier Filter, 2 Inlet",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3516322",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 25.28"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL000-CZ0-0253-S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 000-CZ0-0253-S Temperature Control, Digital, Rfg, Double Hookup",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n000-CZ0-0253-S",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 315.81"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2194787.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2194787 Start Capacitor, 280 MFD",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2194787",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 33.72"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DELRF000084-S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield RF000084-S Thermostat Assembly, Danfoss, with Probes",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF000084-S",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 487.58"
+                }
+            ]
+        },
+        {
+            "name": "Breaker Is Tripping Or Wont Reset",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/delfield/f2987c/breaker-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2194792.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2194792 Digital Display, Blue, Danfoss",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2194792",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 198.99"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL000-CZ0-0253-S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 000-CZ0-0253-S Temperature Control, Digital, Rfg, Double Hookup",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n000-CZ0-0253-S",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 315.81"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2194808.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2194808 Probe, Thermostat, Defrost",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2194808",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 58.94"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Leaking",
+            "idx": 7,
+            "url": "https://www.partstown.com/part-predictor/delfield/f2987c/unit-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL3516478.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 3516478 FILTER DRIER, 2 X .25 INLET",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3516478",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 49.07"
+                }
+            ]
+        },
+        {
+            "name": "Fan Motor Is Malfunctioning",
+            "idx": 8,
+            "url": "https://www.partstown.com/part-predictor/delfield/f2987c/fan-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2160045.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2160045 Axial Fan 115V, EMB",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2160045",
+                    "fix_rate": 28.0,
+                    "list_price": "$ 384.50"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2194808.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2194808 Probe, Thermostat, Defrost",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2194808",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 58.94"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2194809.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2194809 Probe Temperature Sensor, 118\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2194809",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 58.94"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2160023.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2160023 Axial Fan, 120V, Mechatronics",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2160023",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 126.43"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL000-CZ0-0253-S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 000-CZ0-0253-S Temperature Control, Digital, Rfg, Double Hookup",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n000-CZ0-0253-S",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 315.81"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Not Maintaining Set Temperature",
+            "idx": 9,
+            "url": "https://www.partstown.com/part-predictor/delfield/f2987c/unit-is-not-maintaining-set-temperature",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DELRF000084-S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield RF000084-S Thermostat Assembly, Danfoss, with Probes",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF000084-S",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 487.58"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2194808.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2194808 Probe, Thermostat, Defrost",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2194808",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 58.94"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL000-CZ0-0253-S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 000-CZ0-0253-S Temperature Control, Digital, Rfg, Double Hookup",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n000-CZ0-0253-S",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 315.81"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2194809.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2194809 Probe Temperature Sensor, 118\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2194809",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 58.94"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2194792.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2194792 Digital Display, Blue, Danfoss",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2194792",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 198.99"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Shutting Down",
+            "idx": 10,
+            "url": "https://www.partstown.com/part-predictor/delfield/f2987c/unit-is-shutting-down",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2194808.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2194808 Probe, Thermostat, Defrost",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2194808",
+                    "fix_rate": 27.0,
+                    "list_price": "$ 58.94"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2194809.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2194809 Probe Temperature Sensor, 118\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2194809",
+                    "fix_rate": 24.0,
+                    "list_price": "$ 58.94"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL000-CZ0-0253-S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 000-CZ0-0253-S Temperature Control, Digital, Rfg, Double Hookup",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n000-CZ0-0253-S",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 315.81"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2194792.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2194792 Digital Display, Blue, Danfoss",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2194792",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 198.99"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DELRF000084-S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield RF000084-S Thermostat Assembly, Danfoss, with Probes",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF000084-S",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 487.58"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Overheating",
+            "idx": 11,
+            "url": "https://www.partstown.com/part-predictor/delfield/f2987c/unit-is-overheating",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2194792.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2194792 Digital Display, Blue, Danfoss",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2194792",
+                    "fix_rate": 23.0,
+                    "list_price": "$ 198.99"
+                }
+            ]
+        },
+        {
+            "name": "Keypad Is Not Responding Or Damaged",
+            "idx": 12,
+            "url": "https://www.partstown.com/part-predictor/delfield/f2987c/keypad-is-not-responding-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL000-CZ0-0253-S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 000-CZ0-0253-S Temperature Control, Digital, Rfg, Double Hookup",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n000-CZ0-0253-S",
+                    "fix_rate": 52.0,
+                    "list_price": "$ 315.81"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2194808.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2194808 Probe, Thermostat, Defrost",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2194808",
+                    "fix_rate": 34.0,
+                    "list_price": "$ 58.94"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2194809.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2194809 Probe Temperature Sensor, 118\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2194809",
+                    "fix_rate": 31.0,
+                    "list_price": "$ 58.94"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL000-CZ0-0265-S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 000-CZ0-0265-S Digital Controller, Refrigerator, Lock Out, MK7",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n000-CZ0-0265-S",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 315.81"
+                }
+            ]
+        },
+        {
+            "name": "Unit Won't Turn On",
+            "idx": 13,
+            "url": "https://www.partstown.com/part-predictor/delfield/f2987c/unit-wont-turn-on",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL000-CZ0-0253-S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 000-CZ0-0253-S Temperature Control, Digital, Rfg, Double Hookup",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n000-CZ0-0253-S",
+                    "fix_rate": 37.0,
+                    "list_price": "$ 315.81"
+                }
+            ]
+        },
+        {
+            "name": "Sensor Is Malfunctioning",
+            "idx": 14,
+            "url": "https://www.partstown.com/part-predictor/delfield/f2987c/sensor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2194808.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2194808 Probe, Thermostat, Defrost",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2194808",
+                    "fix_rate": 45.0,
+                    "list_price": "$ 58.94"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2194809.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2194809 Probe Temperature Sensor, 118\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2194809",
+                    "fix_rate": 36.0,
+                    "list_price": "$ 58.94"
+                }
+            ]
+        },
+        {
+            "name": "Relay Is Malfunctioning",
+            "idx": 15,
+            "url": "https://www.partstown.com/part-predictor/delfield/f2987c/relay-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL3516322.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 3516322 Drier Filter, 2 Inlet",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3516322",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 25.28"
+                }
+            ]
+        },
+        {
+            "name": "Unit Wont Turn On",
+            "idx": 16,
+            "url": "https://www.partstown.com/part-predictor/delfield/f2987c/unit-wont-turn-on",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL000-CZ0-0253-S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 000-CZ0-0253-S Temperature Control, Digital, Rfg, Double Hookup",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n000-CZ0-0253-S",
+                    "fix_rate": 37.0,
+                    "list_price": "$ 315.81"
+                }
+            ]
+        },
+        {
+            "name": "Display Is Blank",
+            "idx": 17,
+            "url": "https://www.partstown.com/part-predictor/delfield/f2987c/display-is-blank",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2194792.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2194792 Digital Display, Blue, Danfoss",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2194792",
+                    "fix_rate": 47.0,
+                    "list_price": "$ 198.99"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2194791.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2194791 Cable, Display, 60, Danfoss",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2194791",
+                    "fix_rate": 35.0,
+                    "list_price": "$ 37.15"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL000-CZ0-0253-S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 000-CZ0-0253-S Temperature Control, Digital, Rfg, Double Hookup",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n000-CZ0-0253-S",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 315.81"
+                }
+            ]
+        },
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 18,
+            "url": "https://www.partstown.com/part-predictor/delfield/f2987c/thermostat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DELRF000084-S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield RF000084-S Thermostat Assembly, Danfoss, with Probes",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF000084-S",
+                    "fix_rate": 59.0,
+                    "list_price": "$ 487.58"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2194792.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2194792 Digital Display, Blue, Danfoss",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2194792",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 198.99"
+                }
+            ]
+        },
+        {
+            "name": "Coil Sensor Is Malfunctioning",
+            "idx": 19,
+            "url": "https://www.partstown.com/part-predictor/delfield/f2987c/coil-sensor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2194808.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2194808 Probe, Thermostat, Defrost",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2194808",
+                    "fix_rate": 82.0,
+                    "list_price": "$ 58.94"
+                }
+            ]
+        },
+        {
+            "name": "Valve Is Malfunctioning",
+            "idx": 20,
+            "url": "https://www.partstown.com/part-predictor/delfield/f2987c/valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL3516273.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 3516273 Expansion Valve, TXV, R404A, REF, 1/4\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3516273",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 282.11"
+                }
+            ]
+        }
+    ]
+}

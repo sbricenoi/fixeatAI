@@ -1,0 +1,475 @@
+{
+    "brand": "imperial",
+    "model": "ire-series",
+    "issues": [
+        {
+            "name": "Pilot Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/imperial/ire-series/pilot-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP36017.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 36017 Thermocouple with M10 Nut, 18\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n36017",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 34.83"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP36014.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 36014 Oven Safety Thermostat, ITG-CE",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n36014",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 343.35"
+                }
+            ]
+        },
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/imperial/ire-series/thermostat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP37088.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 37088 Control Thermostat, 500F, Itge",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n37088",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 152.16"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP36014.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 36014 Oven Safety Thermostat, ITG-CE",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n36014",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 343.35"
+                }
+            ]
+        },
+        {
+            "name": "Burner Is Malfunctioning Or Damaged",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/imperial/ire-series/burner-is-malfunctioning-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP37491.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 37491 Top Element/French Plate, Round 208V, IR-E",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n37491",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 482.55"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP38246.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 38246 Infinite Control Switch, 208/240V Units",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n38246",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 118.47"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP36014.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 36014 Oven Safety Thermostat, ITG-CE",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n36014",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 343.35"
+                }
+            ]
+        },
+        {
+            "name": "Wiring Issue",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/imperial/ire-series/wiring-issue",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP39835-90.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 39835-90 Pilot Burner Assembly with Ignitor & Wire, 0.0018\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n39835-90",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 81.38"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP37491.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 37491 Top Element/French Plate, Round 208V, IR-E",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n37491",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 482.55"
+                }
+            ]
+        },
+        {
+            "name": "Thermocouple Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/imperial/ire-series/thermocouple-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP36017.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 36017 Thermocouple with M10 Nut, 18\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n36017",
+                    "fix_rate": 44.0,
+                    "list_price": "$ 34.83"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP36014.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 36014 Oven Safety Thermostat, ITG-CE",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n36014",
+                    "fix_rate": 28.0,
+                    "list_price": "$ 343.35"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP36016.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 36016 Thermocouple Extension End, 48\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n36016",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 69.35"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP1121.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 1121 Thermocouple, Oven, 12\", Old 2140, Ir/Ce",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1121",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 28.26"
+                }
+            ]
+        },
+        {
+            "name": "Motor Is Malfunctioning",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/imperial/ire-series/motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP40498-120.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 40498-120 IRC Motor Assembly, 120V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n40498-120",
+                    "fix_rate": 44.0,
+                    "list_price": "$ 1,198.16"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP1166.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 1166 Blower Wheel, Oven, Ir-C/Icv",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1166",
+                    "fix_rate": 24.0,
+                    "list_price": "$ 105.66"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP39356.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 39356 Capacitor, 30.0 Uf, For Ir Motors",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n39356",
+                    "fix_rate": 24.0,
+                    "list_price": "$ 142.57"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Leaking",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/imperial/ire-series/unit-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP36014.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 36014 Oven Safety Thermostat, ITG-CE",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n36014",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 343.35"
+                }
+            ]
+        },
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 7,
+            "url": "https://www.partstown.com/part-predictor/imperial/ire-series/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP1126.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 1126 Switch, Power, Rocker, Dpdt",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1126",
+                    "fix_rate": 31.0,
+                    "list_price": "$ 78.24"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP1160.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 1160 Thermostat, IR-C/IDR/ICV",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1160",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 133.69"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP38246.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 38246 Infinite Control Switch, 208/240V Units",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n38246",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 118.47"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP40498-120.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 40498-120 IRC Motor Assembly, 120V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n40498-120",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 1,198.16"
+                }
+            ]
+        },
+        {
+            "name": "Fan Motor Is Malfunctioning",
+            "idx": 8,
+            "url": "https://www.partstown.com/part-predictor/imperial/ire-series/fan-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP40498-120.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 40498-120 IRC Motor Assembly, 120V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n40498-120",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 1,198.16"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP39356.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 39356 Capacitor, 30.0 Uf, For Ir Motors",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n39356",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 142.57"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP1166.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 1166 Blower Wheel, Oven, Ir-C/Icv",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1166",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 105.66"
+                }
+            ]
+        },
+        {
+            "name": "Door Is Malfunctioning",
+            "idx": 9,
+            "url": "https://www.partstown.com/part-predictor/imperial/ire-series/door-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP20161.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 20161 Door Closing Mechanism, 36\" IR Series Range with 26 1/2\" Oven",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n20161",
+                    "fix_rate": 23.0,
+                    "list_price": "$ 631.83"
+                }
+            ]
+        },
+        {
+            "name": "Valve Is Malfunctioning",
+            "idx": 10,
+            "url": "https://www.partstown.com/part-predictor/imperial/ire-series/valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP36014.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 36014 Oven Safety Thermostat, ITG-CE",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n36014",
+                    "fix_rate": 41.0,
+                    "list_price": "$ 343.35"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP1610.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 1610 Burner Valve without Orifice",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1610",
+                    "fix_rate": 27.0,
+                    "list_price": "$ 68.76"
+                }
+            ]
+        },
+        {
+            "name": "Blower Motor Is Malfunctioning",
+            "idx": 11,
+            "url": "https://www.partstown.com/part-predictor/imperial/ire-series/blower-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP40498-120.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 40498-120 IRC Motor Assembly, 120V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n40498-120",
+                    "fix_rate": 53.0,
+                    "list_price": "$ 1,198.16"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP1166.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 1166 Blower Wheel, Oven, Ir-C/Icv",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1166",
+                    "fix_rate": 32.0,
+                    "list_price": "$ 105.66"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP39356.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 39356 Capacitor, 30.0 Uf, For Ir Motors",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n39356",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 142.57"
+                }
+            ]
+        },
+        {
+            "name": "Capacitor Is Malfunctioning",
+            "idx": 12,
+            "url": "https://www.partstown.com/part-predictor/imperial/ire-series/capacitor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP39356.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 39356 Capacitor, 30.0 Uf, For Ir Motors",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n39356",
+                    "fix_rate": 42.0,
+                    "list_price": "$ 142.57"
+                }
+            ]
+        },
+        {
+            "name": "Pilot Safety Valve Is Malfunctioning",
+            "idx": 13,
+            "url": "https://www.partstown.com/part-predictor/imperial/ire-series/pilot-safety-valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP1110-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 1110-1 Safety Valve, Baso, Oven, IR",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1110-1",
+                    "fix_rate": 53.0,
+                    "list_price": "$ 213.41"
+                }
+            ]
+        },
+        {
+            "name": "Ignitor Is Malfunctioning Or Damaged",
+            "idx": 14,
+            "url": "https://www.partstown.com/part-predictor/imperial/ire-series/ignitor-is-malfunctioning-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP37061.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 37061 Spark Module, Intermittent Pilot Ignition Control, 120V, 50/60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n37061",
+                    "fix_rate": 44.0,
+                    "list_price": "$ 486.84"
+                }
+            ]
+        },
+        {
+            "name": "Infinite Switch Is Malfunctioning",
+            "idx": 15,
+            "url": "https://www.partstown.com/part-predictor/imperial/ire-series/infinite-switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP38246.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 38246 Infinite Control Switch, 208/240V Units",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n38246",
+                    "fix_rate": 91.0,
+                    "list_price": "$ 118.47"
+                }
+            ]
+        },
+        {
+            "name": "Heating Element Is Malfunctioning",
+            "idx": 16,
+            "url": "https://www.partstown.com/part-predictor/imperial/ire-series/heating-element-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP37493.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 37493 Oven Element, 208V, IR-E Series",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n37493",
+                    "fix_rate": 67.0,
+                    "list_price": "$ 845.36"
+                }
+            ]
+        }
+    ]
+}

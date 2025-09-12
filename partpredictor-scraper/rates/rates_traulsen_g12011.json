@@ -1,0 +1,50 @@
+{
+    "brand": "traulsen",
+    "model": "g12011",
+    "issues": [
+        {
+            "name": "Unit Is Not Reaching Set Temperature",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/traulsen/g12011/unit-is-not-reaching-set-temperature",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TR/TR334-60406-02.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Traulsen 334-60406-02 Coil Temperature Sensor, Blue 74\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n334-60406-02",
+                    "fix_rate": 40.0,
+                    "list_price": "$ 101.11"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TR/TR334-60405-02.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Traulsen 334-60405-02 Sensor, Cabinet Air Temp, 74\" Green",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n334-60405-02",
+                    "fix_rate": 23.0,
+                    "list_price": "$ 101.11"
+                }
+            ]
+        },
+        {
+            "name": "Probe Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/traulsen/g12011/probe-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TR/TR334-60405-02.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Traulsen 334-60405-02 Sensor, Cabinet Air Temp, 74\" Green",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n334-60405-02",
+                    "fix_rate": 56.0,
+                    "list_price": "$ 101.11"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "brand": "alto-shaam",
+    "model": "7-14esg",
+    "issues": [
+        {
+            "name": "Motor Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/alto-shaam/7-14esg/motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/ALT/ALT5008295.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Alto Shaam 5008295 Blower Motor Service Kit, 120V, ESG",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n5008295",
+                    "fix_rate": 40.0,
+                    "list_price": "$ 1,616.00"
+                }
+            ]
+        },
+        {
+            "name": "Fuse Is Blown",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/alto-shaam/7-14esg/fuse-is-blown",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/ALT/ALTFU-34772.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Alto Shaam FU-34772 Fuse, Ccmr 15A, 600Vac",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nFU-34772",
+                    "fix_rate": 42.0,
+                    "list_price": "$ 32.00"
+                }
+            ]
+        },
+        {
+            "name": "Gasket Is Defective Or Leaking",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/alto-shaam/7-14esg/gasket-is-defective-or-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/ALT/ALTGS-27130.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Alto Shaam GS-27130 Door Gasket, 7.14ESG Combi",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nGS-27130",
+                    "fix_rate": 42.0,
+                    "list_price": "$ 699.00"
+                }
+            ]
+        },
+        {
+            "name": "Door Gasket Is Defective",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/alto-shaam/7-14esg/door-gasket-is-defective",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/ALT/ALTGS-27130.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Alto Shaam GS-27130 Door Gasket, 7.14ESG Combi",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nGS-27130",
+                    "fix_rate": 88.0,
+                    "list_price": "$ 699.00"
+                }
+            ]
+        }
+    ]
+}

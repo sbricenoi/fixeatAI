@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Switch Is Malfunctioning",
+        "parsed_name": "switch-is-malfunctioning"
+    },
+    {
+        "name": "Actuator Is Malfunctioning",
+        "parsed_name": "actuator-is-malfunctioning"
+    },
+    {
+        "name": "Motor Is Malfunctioning",
+        "parsed_name": "motor-is-malfunctioning"
+    },
+    {
+        "name": "Wiring Issue",
+        "parsed_name": "wiring-issue"
+    },
+    {
+        "name": "Caster Is Damaged",
+        "parsed_name": "caster-is-damaged"
+    },
+    {
+        "name": "Ignition Module Is Malfunctioning",
+        "parsed_name": "ignition-module-is-malfunctioning"
+    },
+    {
+        "name": "Power Cord Is Malfunctioning",
+        "parsed_name": "power-cord-is-malfunctioning"
+    }
+]

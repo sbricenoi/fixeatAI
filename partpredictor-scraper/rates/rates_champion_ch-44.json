@@ -1,0 +1,60 @@
+{
+    "brand": "champion",
+    "model": "ch-44",
+    "issues": [
+        {
+            "name": "Unit Is Leaking",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/champion/ch-44/unit-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA108345.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 108345 Gasket, Element, 3\" x3\" x 1/8\", 2\" Hole",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n108345",
+                    "fix_rate": 23.0,
+                    "list_price": "$ 7.18"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA104429.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 104429 Vacuum Breaker, Brass, 3/4\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n104429",
+                    "fix_rate": 20.0,
+                    "list_price": "$ 141.54"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA109985.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 109985 Seal, O-Ring, Electric Heater",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n109985",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 8.43"
+                }
+            ]
+        },
+        {
+            "name": "Gasket Is Defective Or Leaking",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/champion/ch-44/gasket-is-defective-or-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA108345.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 108345 Gasket, Element, 3\" x3\" x 1/8\", 2\" Hole",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n108345",
+                    "fix_rate": 42.0,
+                    "list_price": "$ 7.18"
+                }
+            ]
+        }
+    ]
+}

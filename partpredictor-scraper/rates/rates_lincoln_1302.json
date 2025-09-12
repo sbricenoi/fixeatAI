@@ -1,0 +1,94 @@
+{
+    "brand": "lincoln",
+    "model": "1302",
+    "issues": [
+        {
+            "name": "Hi-limit Is Tripping Or Wont Reset",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/lincoln/1302/hi-limit-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369131.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369131 Thermocouple Probe with 1 Red/1 White Lead",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369131",
+                    "fix_rate": 24.0,
+                    "list_price": "$ 94.55"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN357067.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 357067 High Limit Thermostat, Oven Cavity",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n357067",
+                    "fix_rate": 24.0,
+                    "list_price": "$ 135.92"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369465.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369465 Electronic Temperature Control/Process Thermostat",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369465",
+                    "fix_rate": 20.0,
+                    "list_price": "$ 403.84"
+                }
+            ]
+        },
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/lincoln/1302/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369432.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369432 Rocker Switch, On/Off, Green Lighted",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369432",
+                    "fix_rate": 67.0,
+                    "list_price": "$ 52.81"
+                }
+            ]
+        },
+        {
+            "name": "Blower Motor Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/lincoln/1302/blower-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369192.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369192 Capacitor, 7.5 MFD 370VAC",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369192",
+                    "fix_rate": 47.0,
+                    "list_price": "$ 40.73"
+                }
+            ]
+        },
+        {
+            "name": "Motor Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/lincoln/1302/motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369466.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369466 Conveyor Motor Assembly, S/N 3000481 and Above",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369466",
+                    "fix_rate": 67.0,
+                    "list_price": "$ 662.81"
+                }
+            ]
+        }
+    ]
+}

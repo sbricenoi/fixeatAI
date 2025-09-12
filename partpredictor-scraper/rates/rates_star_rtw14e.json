@@ -1,0 +1,33 @@
+{
+    "brand": "star",
+    "model": "rtw14e",
+    "issues": [
+        {
+            "name": "Probe Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/star/rtw14e/probe-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2E-Z20415.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2E-Z20415 IR Temperature Sensor, RTW14EA/19EA",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2E-Z20415",
+                    "fix_rate": 73.0,
+                    "list_price": "$ 358.88"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2N-Z20831.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2N-Z20831 Element, Drum, 120 Volt, 1040 Watt, RTW-14E",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2N-Z20831",
+                    "fix_rate": 64.0,
+                    "list_price": "$ 263.89"
+                }
+            ]
+        }
+    ]
+}

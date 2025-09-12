@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Fan Motor Is Malfunctioning",
+        "parsed_name": "fan-motor-is-malfunctioning"
+    },
+    {
+        "name": "Pressure Switch Is Defective Or Leaking",
+        "parsed_name": "pressure-switch-is-defective-or-leaking"
+    },
+    {
+        "name": "Unit Is Making Noise",
+        "parsed_name": "unit-is-making-noise"
+    },
+    {
+        "name": "Unit Is Overheating",
+        "parsed_name": "unit-is-overheating"
+    }
+]

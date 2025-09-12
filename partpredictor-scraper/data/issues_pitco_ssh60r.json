@@ -1,0 +1,258 @@
+[
+    {
+        "name": "Unit Is Malfunctioning",
+        "parsed_name": "unit-is-malfunctioning"
+    },
+    {
+        "name": "Hi-limit Is Tripping Or Wont Reset",
+        "parsed_name": "hi-limit-is-tripping-or-wont-reset"
+    },
+    {
+        "name": "Unit Is Leaking",
+        "parsed_name": "unit-is-leaking"
+    },
+    {
+        "name": "Oil Is Leaking",
+        "parsed_name": "oil-is-leaking"
+    },
+    {
+        "name": "Unit Is Overheating",
+        "parsed_name": "unit-is-overheating"
+    },
+    {
+        "name": "Controller Is Malfunctioning",
+        "parsed_name": "controller-is-malfunctioning"
+    },
+    {
+        "name": "Probe Is Malfunctioning",
+        "parsed_name": "probe-is-malfunctioning"
+    },
+    {
+        "name": "Pilot Is Malfunctioning",
+        "parsed_name": "pilot-is-malfunctioning"
+    },
+    {
+        "name": "Vat Is Malfunctioning",
+        "parsed_name": "vat-is-malfunctioning"
+    },
+    {
+        "name": "Unit Will Not Pump Oil",
+        "parsed_name": "unit-will-not-pump-oil"
+    },
+    {
+        "name": "Filter Is Malfunctioning",
+        "parsed_name": "filter-is-malfunctioning"
+    },
+    {
+        "name": "Burner Is Malfunctioning Or Damaged",
+        "parsed_name": "burner-is-malfunctioning-or-damaged"
+    },
+    {
+        "name": "Unit Won't Turn On",
+        "parsed_name": "unit-won't-turn-on"
+    },
+    {
+        "name": "Flame Rollout Switch Is Malfunctioning",
+        "parsed_name": "flame-rollout-switch-is-malfunctioning"
+    },
+    {
+        "name": "Switch Is Malfunctioning",
+        "parsed_name": "switch-is-malfunctioning"
+    },
+    {
+        "name": "Keypad Is Not Responding Or Damaged",
+        "parsed_name": "keypad-is-not-responding-or-damaged"
+    },
+    {
+        "name": "Vat Is Leaking",
+        "parsed_name": "vat-is-leaking"
+    },
+    {
+        "name": "Unit Is Not Lighting",
+        "parsed_name": "unit-is-not-lighting"
+    },
+    {
+        "name": "Ignition Module Is Malfunctioning",
+        "parsed_name": "ignition-module-is-malfunctioning"
+    },
+    {
+        "name": "Relay Board Is Malfunctioning",
+        "parsed_name": "relay-board-is-malfunctioning"
+    },
+    {
+        "name": "Hose Is Broken Or Leaking",
+        "parsed_name": "hose-is-broken-or-leaking"
+    },
+    {
+        "name": "Breaker Is Tripping Or Wont Reset",
+        "parsed_name": "breaker-is-tripping-or-wont-reset"
+    },
+    {
+        "name": "Drain Valve Is Leaking",
+        "parsed_name": "drain-valve-is-leaking"
+    },
+    {
+        "name": "Valve Is Malfunctioning",
+        "parsed_name": "valve-is-malfunctioning"
+    },
+    {
+        "name": "Valve Is Leaking",
+        "parsed_name": "valve-is-leaking"
+    },
+    {
+        "name": "Drain Valve Is Malfunctioning",
+        "parsed_name": "drain-valve-is-malfunctioning"
+    },
+    {
+        "name": "Motor Is Malfunctioning",
+        "parsed_name": "motor-is-malfunctioning"
+    },
+    {
+        "name": "Filter Pump Is Malfunctioning",
+        "parsed_name": "filter-pump-is-malfunctioning"
+    },
+    {
+        "name": "Unit Is Not Reaching Set Temperature",
+        "parsed_name": "unit-is-not-reaching-set-temperature"
+    },
+    {
+        "name": "Fuse Is Blown",
+        "parsed_name": "fuse-is-blown"
+    },
+    {
+        "name": "Filter Pump Is Tripping",
+        "parsed_name": "filter-pump-is-tripping"
+    },
+    {
+        "name": "Gas Valve Is Malfunctioning",
+        "parsed_name": "gas-valve-is-malfunctioning"
+    },
+    {
+        "name": "Unit Is Not Draining",
+        "parsed_name": "unit-is-not-draining"
+    },
+    {
+        "name": "Fire Coming Out Of Unit",
+        "parsed_name": "fire-coming-out-of-unit"
+    },
+    {
+        "name": "Handle Is Defective",
+        "parsed_name": "handle-is-defective"
+    },
+    {
+        "name": "Unit Will Not Filter Properly",
+        "parsed_name": "unit-will-not-filter-properly"
+    },
+    {
+        "name": "Unit Is Shutting Down",
+        "parsed_name": "unit-is-shutting-down"
+    },
+    {
+        "name": "Burner Is Leaking",
+        "parsed_name": "burner-is-leaking"
+    },
+    {
+        "name": "Power Cord Is Malfunctioning",
+        "parsed_name": "power-cord-is-malfunctioning"
+    },
+    {
+        "name": "Vat Is Damaged",
+        "parsed_name": "vat-is-damaged"
+    },
+    {
+        "name": "Ball Valve Is Malfunctioning",
+        "parsed_name": "ball-valve-is-malfunctioning"
+    },
+    {
+        "name": "Gas Hose Is Leaking Or Damaged",
+        "parsed_name": "gas-hose-is-leaking-or-damaged"
+    },
+    {
+        "name": "Gasket Is Defective Or Leaking",
+        "parsed_name": "gasket-is-defective-or-leaking"
+    },
+    {
+        "name": "Thermostat Is Malfunctioning",
+        "parsed_name": "thermostat-is-malfunctioning"
+    },
+    {
+        "name": "Unit Making Noise",
+        "parsed_name": "unit-making-noise"
+    },
+    {
+        "name": "Display Is Malfunctioning",
+        "parsed_name": "display-is-malfunctioning"
+    },
+    {
+        "name": "Unit Is Damaged",
+        "parsed_name": "unit-is-damaged"
+    },
+    {
+        "name": "Relay Is Malfunctioning",
+        "parsed_name": "relay-is-malfunctioning"
+    },
+    {
+        "name": "Unit Is Making Noise",
+        "parsed_name": "unit-is-making-noise"
+    },
+    {
+        "name": "Filter Pan Is Leaking",
+        "parsed_name": "filter-pan-is-leaking"
+    },
+    {
+        "name": "Ignitor Is Malfunctioning Or Damaged",
+        "parsed_name": "ignitor-is-malfunctioning-or-damaged"
+    },
+    {
+        "name": "Filter Pump Is Not Starting",
+        "parsed_name": "filter-pump-is-not-starting"
+    },
+    {
+        "name": "Transformer Is Malfunctioning",
+        "parsed_name": "transformer-is-malfunctioning"
+    },
+    {
+        "name": "Ingition Module Is Malfunctioning",
+        "parsed_name": "ingition-module-is-malfunctioning"
+    },
+    {
+        "name": "Pump Motor Is Malfunctioning",
+        "parsed_name": "pump-motor-is-malfunctioning"
+    },
+    {
+        "name": "Unit Is Not Maintaining Temperature",
+        "parsed_name": "unit-is-not-maintaining-temperature"
+    },
+    {
+        "name": "Burner Tube Is Malfunctioning",
+        "parsed_name": "burner-tube-is-malfunctioning"
+    },
+    {
+        "name": "Drain Line Is Leaking",
+        "parsed_name": "drain-line-is-leaking"
+    },
+    {
+        "name": "Manifold Is Leaking",
+        "parsed_name": "manifold-is-leaking"
+    },
+    {
+        "name": "O Ring Is Damaged Or Leaking",
+        "parsed_name": "o-ring-is-damaged-or-leaking"
+    },
+    {
+        "name": "Solenoid Valve Is Malfunctioning",
+        "parsed_name": "solenoid-valve-is-malfunctioning"
+    },
+    {
+        "name": "Unit Making A Grinding Noise",
+        "parsed_name": "unit-making-a-grinding-noise"
+    },
+    {
+        "name": "Not Sensing Pilot",
+        "parsed_name": "not-sensing-pilot"
+    },
+    {
+        "name": "Actuator Is Malfunctioning",
+        "parsed_name": "actuator-is-malfunctioning"
+    }
+]

@@ -1,0 +1,118 @@
+{
+    "brand": "champion",
+    "model": "uh330b",
+    "issues": [
+        {
+            "name": "Unit Is Leaking",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/champion/uh330b/unit-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA100500A.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 100500A Vacuum Breaker, 1/2\", Bronze",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100500A",
+                    "fix_rate": 27.0,
+                    "list_price": "$ 76.79"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA0513557.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 0513557 Solenoid Valve, Inlet, 1 GPM, 115V, 50/60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n0513557",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 307.01"
+                }
+            ]
+        },
+        {
+            "name": "Hi-limit Is Tripping Or Wont Reset",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/champion/uh330b/hi-limit-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA113604.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 113604 Thermostat, Fixed, Snap Disc, 212F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n113604",
+                    "fix_rate": 35.0,
+                    "list_price": "$ 33.77"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Overheating",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/champion/uh330b/unit-is-overheating",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA113604.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 113604 Thermostat, Fixed, Snap Disc, 212F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n113604",
+                    "fix_rate": 31.0,
+                    "list_price": "$ 33.77"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/champion/uh330b/unit-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA0513557.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 0513557 Solenoid Valve, Inlet, 1 GPM, 115V, 50/60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n0513557",
+                    "fix_rate": 47.0,
+                    "list_price": "$ 307.01"
+                }
+            ]
+        },
+        {
+            "name": "Controller Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/champion/uh330b/controller-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA0513575.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 0513575 Timer, Control Board, Uh330",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n0513575",
+                    "fix_rate": 45.0,
+                    "list_price": "$ 967.70"
+                }
+            ]
+        },
+        {
+            "name": "Manifold Is Leaking",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/champion/uh330b/manifold-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA0513110.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 0513110 Manifold, Rinse, Undercounter Machines",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n0513110",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 26.86"
+                }
+            ]
+        }
+    ]
+}

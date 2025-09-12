@@ -1,0 +1,225 @@
+{
+    "brand": "garland",
+    "model": "mwg3w",
+    "issues": [
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/garland/mwg3w/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4603115.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4603115 REFERENCE SWITCH KIT",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4603115",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 54.30"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL080000037.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 080000037 Shaft Seal Kit, All 3W Models",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n080000037",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 129.45"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL1855604.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 1855604 Limit Switch",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1855604",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 43.90"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4530001-GAR.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4530001-GAR Reed Switch Kit, 3 Platen",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4530001-GAR",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 109.96"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GLCK4530036.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland CK4530036 Linear Actuator with Dual Sensors, Micronas",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nCK4530036",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 665.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL1872404.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 1872404 Rocker Switch, Power, Red Lighted, 250V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1872404",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 43.65"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4518261.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4518261 Label Cert. Row",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4518261",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 3.07"
+                }
+            ]
+        },
+        {
+            "name": "Ignition Module Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/garland/mwg3w/ignition-module-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4524066.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4524066 Ignition Electrode",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4524066",
+                    "fix_rate": 39.0,
+                    "list_price": "$ 63.90"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL1864803.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 1864803 Ignition Cable, High Voltage, 24\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1864803",
+                    "fix_rate": 35.0,
+                    "list_price": "$ 22.75"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GLCK4601965.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland CK4601965 Ignition Module MWG/XG/9501",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nCK4601965",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 317.96"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4525537.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4525537 Electrode, Ignitor",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4525537",
+                    "fix_rate": 23.0,
+                    "list_price": "$ 127.65"
+                }
+            ]
+        },
+        {
+            "name": "Actuator Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/garland/mwg3w/actuator-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GLCK4530036.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland CK4530036 Linear Actuator with Dual Sensors, Micronas",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nCK4530036",
+                    "fix_rate": 82.0,
+                    "list_price": "$ 665.00"
+                }
+            ]
+        },
+        {
+            "name": "Motor Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/garland/mwg3w/motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GLCK4530036.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland CK4530036 Linear Actuator with Dual Sensors, Micronas",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nCK4530036",
+                    "fix_rate": 70.0,
+                    "list_price": "$ 665.00"
+                }
+            ]
+        },
+        {
+            "name": "Wiring Issue",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/garland/mwg3w/wiring-issue",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL1859807.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 1859807 Wire Harness, Platen, Standard",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1859807",
+                    "fix_rate": 32.0,
+                    "list_price": "$ 64.50"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL080000037.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 080000037 Shaft Seal Kit, All 3W Models",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n080000037",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 129.45"
+                }
+            ]
+        },
+        {
+            "name": "Ignitor Is Malfunctioning Or Damaged",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/garland/mwg3w/ignitor-is-malfunctioning-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL1864803.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 1864803 Ignition Cable, High Voltage, 24\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1864803",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 22.75"
+                }
+            ]
+        },
+        {
+            "name": "Ingition Module Is Malfunctioning",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/garland/mwg3w/ingition-module-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL1864803.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 1864803 Ignition Cable, High Voltage, 24\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1864803",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 22.75"
+                }
+            ]
+        }
+    ]
+}

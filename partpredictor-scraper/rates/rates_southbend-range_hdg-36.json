@@ -1,0 +1,232 @@
+{
+    "brand": "southbend-range",
+    "model": "hdg-36",
+    "issues": [
+        {
+            "name": "Pilot Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/southbend-range/hdg-36/pilot-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1182567.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1182567 Safety Valve, Baso, Dual Coil",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1182567",
+                    "fix_rate": 33.0,
+                    "list_price": "$ 1,048.17"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1182565.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1182565 Thermocouple, 48\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1182565",
+                    "fix_rate": 27.0,
+                    "list_price": "$ 78.14"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1182580.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1182580 Thermocouple, 24\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1182580",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 60.85"
+                }
+            ]
+        },
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/southbend-range/hdg-36/thermostat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1182553.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1182553 Thermostat, Snap Action GS, Griddle",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1182553",
+                    "fix_rate": 68.0,
+                    "list_price": "$ 682.62"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1192521.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1192521 Knob And Bezel, 200-400F, HDG",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1192521",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 50.86"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1182586.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1182586 Knob, Snap Action Thermostat",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1182586",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 27.56"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1195304.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1195304 Thermostat, Gas GS 600F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1195304",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 802.44"
+                }
+            ]
+        },
+        {
+            "name": "Thermocouple Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/southbend-range/hdg-36/thermocouple-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1182565.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1182565 Thermocouple, 48\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1182565",
+                    "fix_rate": 38.0,
+                    "list_price": "$ 78.14"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1182567.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1182567 Safety Valve, Baso, Dual Coil",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1182567",
+                    "fix_rate": 28.0,
+                    "list_price": "$ 1,048.17"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1182580.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1182580 Thermocouple, 24\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1182580",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 60.85"
+                }
+            ]
+        },
+        {
+            "name": "Pilot Safety Valve Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/southbend-range/hdg-36/pilot-safety-valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1182567.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1182567 Safety Valve, Baso, Dual Coil",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1182567",
+                    "fix_rate": 85.0,
+                    "list_price": "$ 1,048.17"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1182565.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1182565 Thermocouple, 48\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1182565",
+                    "fix_rate": 45.0,
+                    "list_price": "$ 78.14"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1182580.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1182580 Thermocouple, 24\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1182580",
+                    "fix_rate": 35.0,
+                    "list_price": "$ 60.85"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Leaking",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/southbend-range/hdg-36/unit-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1182553.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1182553 Thermostat, Snap Action GS, Griddle",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1182553",
+                    "fix_rate": 36.0,
+                    "list_price": "$ 682.62"
+                }
+            ]
+        },
+        {
+            "name": "Burner Is Malfunctioning Or Damaged",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/southbend-range/hdg-36/burner-is-malfunctioning-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1182553.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1182553 Thermostat, Snap Action GS, Griddle",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1182553",
+                    "fix_rate": 38.0,
+                    "list_price": "$ 682.62"
+                }
+            ]
+        },
+        {
+            "name": "Valve Is Malfunctioning",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/southbend-range/hdg-36/valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1182567.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1182567 Safety Valve, Baso, Dual Coil",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1182567",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 1,048.17"
+                }
+            ]
+        },
+        {
+            "name": "Ignitor Is Malfunctioning Or Damaged",
+            "idx": 7,
+            "url": "https://www.partstown.com/part-predictor/southbend-range/hdg-36/ignitor-is-malfunctioning-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1189809.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1189809 Quickliter/Push Button Ignitor, 1.5V, 1P",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1189809",
+                    "fix_rate": 67.0,
+                    "list_price": "$ 69.69"
+                }
+            ]
+        }
+    ]
+}

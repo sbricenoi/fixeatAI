@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Socket Is Defective Or Damaged",
+        "parsed_name": "socket-is-defective-or-damaged"
+    },
+    {
+        "name": "Switch Is Malfunctioning",
+        "parsed_name": "switch-is-malfunctioning"
+    },
+    {
+        "name": "Thermostat Is Malfunctioning",
+        "parsed_name": "thermostat-is-malfunctioning"
+    },
+    {
+        "name": "Wiring Issue",
+        "parsed_name": "wiring-issue"
+    },
+    {
+        "name": "Heating Element Is Malfunctioning",
+        "parsed_name": "heating-element-is-malfunctioning"
+    },
+    {
+        "name": "Heating Element Is Not Heating Properly",
+        "parsed_name": "heating-element-is-not-heating-properly"
+    }
+]

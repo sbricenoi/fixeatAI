@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Relay Is Malfunctioning",
+        "parsed_name": "relay-is-malfunctioning"
+    },
+    {
+        "name": "Heating Element Is Malfunctioning",
+        "parsed_name": "heating-element-is-malfunctioning"
+    },
+    {
+        "name": "Thermocouple Is Malfunctioning",
+        "parsed_name": "thermocouple-is-malfunctioning"
+    }
+]

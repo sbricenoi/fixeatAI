@@ -1,0 +1,23 @@
+{
+    "brand": "rational",
+    "model": "cpc-series",
+    "issues": [
+        {
+            "name": "Hi-limit Is Tripping Or Wont Reset",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/rational/cpc-series/hi-limit-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RATL/RATL40.00.453P.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Rational 40.00.453P Solid State Relay",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n40.00.453P",
+                    "fix_rate": 71.0,
+                    "list_price": "$ 115.03"
+                }
+            ]
+        }
+    ]
+}

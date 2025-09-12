@@ -1,0 +1,40 @@
+{
+    "brand": "apw-wyott",
+    "model": "hrsdi-50",
+    "issues": [
+        {
+            "name": "Roller Is Damaged Or Missing",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/apw-wyott/hrsdi-50/roller-is-damaged-or-missing",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/APW/APWAS-21752601.view?thumb&image.rules=G0&w=200",
+                    "product_name": "APW Wyott AS-21752601 RETRO FIT KIT;HRS-50/",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nAS-21752601",
+                    "fix_rate": 60.0,
+                    "list_price": "$ 335.87"
+                }
+            ]
+        },
+        {
+            "name": "Motor Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/apw-wyott/hrsdi-50/motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/APW/APW2U-1212000.view?thumb&image.rules=G0&w=200",
+                    "product_name": "APW Wyott 2U-1212000 Motor, Gear, 115VAC, 60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2U-1212000",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 294.91"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "brand": "vulcan-hart",
+    "model": "vhfa18",
+    "issues": [
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/vulcan-hart/vhfa18/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-960937.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-960937 Switch, Rocker, SPST, Lighted Red, 120V, 20A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-960937",
+                    "fix_rate": 38.0,
+                    "list_price": "$ 45.29"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-960727.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-960727 Switch, Rocker, SPST, On/Off",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-960727",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 16.49"
+                }
+            ]
+        },
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/vulcan-hart/vhfa18/thermostat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-960741.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-960741 Thermostat, Warmer",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-960741",
+                    "fix_rate": 63.0,
+                    "list_price": "$ 193.66"
+                }
+            ]
+        },
+        {
+            "name": "Fan Motor Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/vulcan-hart/vhfa18/fan-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-961086.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-961086 Fan, Cooling, 120V, 4.75\" x 4.75\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-961086",
+                    "fix_rate": 82.0,
+                    "list_price": "$ 161.99"
+                }
+            ]
+        },
+        {
+            "name": "Power Cord Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/vulcan-hart/vhfa18/power-cord-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-960533.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-960533 Power Cord, 12/3, 120V, 20A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-960533",
+                    "fix_rate": 83.0,
+                    "list_price": "$ 134.41"
+                }
+            ]
+        }
+    ]
+}

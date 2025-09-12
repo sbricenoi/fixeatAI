@@ -1,0 +1,54 @@
+[
+    {
+        "name": "Door Gasket Is Defective",
+        "parsed_name": "door-gasket-is-defective"
+    },
+    {
+        "name": "Door Is Malfunctioning",
+        "parsed_name": "door-is-malfunctioning"
+    },
+    {
+        "name": "Capacitor Is Malfunctioning",
+        "parsed_name": "capacitor-is-malfunctioning"
+    },
+    {
+        "name": "Door Is Leaking",
+        "parsed_name": "door-is-leaking"
+    },
+    {
+        "name": "Motor Is Malfunctioning",
+        "parsed_name": "motor-is-malfunctioning"
+    },
+    {
+        "name": "Handle Is Defective",
+        "parsed_name": "handle-is-defective"
+    },
+    {
+        "name": "Unit Is Leaking",
+        "parsed_name": "unit-is-leaking"
+    },
+    {
+        "name": "Gasket Is Defective Or Leaking",
+        "parsed_name": "gasket-is-defective-or-leaking"
+    },
+    {
+        "name": "Pressure Switch Is Malfunctioning",
+        "parsed_name": "pressure-switch-is-malfunctioning"
+    },
+    {
+        "name": "Relay Is Malfunctioning",
+        "parsed_name": "relay-is-malfunctioning"
+    },
+    {
+        "name": "Unit Making Noise",
+        "parsed_name": "unit-making-noise"
+    },
+    {
+        "name": "Hinge Is Defective Or Damaged",
+        "parsed_name": "hinge-is-defective-or-damaged"
+    },
+    {
+        "name": "Spring Is Malfunctioning",
+        "parsed_name": "spring-is-malfunctioning"
+    }
+]

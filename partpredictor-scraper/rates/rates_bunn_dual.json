@@ -1,0 +1,67 @@
+{
+    "brand": "bunn",
+    "model": "dual",
+    "issues": [
+        {
+            "name": "Unit Is Leaking",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/bunn/dual/unit-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BU/BU20936.1000.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Bunn 20936.1000 Probe Replacement Kit, DUAL/SGL/H10X",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n20936.1000",
+                    "fix_rate": 32.0,
+                    "list_price": "$ 8.30"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BU/BU02536.0000.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Bunn 02536.0000 Grommet, Silicone, .375\" ID",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n02536.0000",
+                    "fix_rate": 20.0,
+                    "list_price": "$ 1.90"
+                }
+            ]
+        },
+        {
+            "name": "Probe Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/bunn/dual/probe-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BU/BU20936.1000.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Bunn 20936.1000 Probe Replacement Kit, DUAL/SGL/H10X",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n20936.1000",
+                    "fix_rate": 70.0,
+                    "list_price": "$ 8.30"
+                }
+            ]
+        },
+        {
+            "name": "Valve Is Leaking",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/bunn/dual/valve-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BU/BU36233.0000.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Bunn 36233.0000 Solenoid Valve, Inlet, 110/120V, 50/60Hz",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n36233.0000",
+                    "fix_rate": 56.0,
+                    "list_price": "$ 33.40"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,350 @@
+{
+    "brand": "star",
+    "model": "530tf",
+    "issues": [
+        {
+            "name": "Hi-limit Is Tripping Or Wont Reset",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/star/530tf/hi-limit-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2T-Y1668.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2T-Y1668 Hi Limit Safety Thermostat 450F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2T-Y1668",
+                    "fix_rate": 73.0,
+                    "list_price": "$ 291.36"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2T-Z7208.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2T-Z7208 Thermostat, Mechanical, 375F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2T-Z7208",
+                    "fix_rate": 60.0,
+                    "list_price": "$ 180.64"
+                }
+            ]
+        },
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/star/530tf/thermostat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2T-Z7208.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2T-Z7208 Thermostat, Mechanical, 375F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2T-Z7208",
+                    "fix_rate": 81.0,
+                    "list_price": "$ 180.64"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2T-Y1668.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2T-Y1668 Hi Limit Safety Thermostat 450F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2T-Y1668",
+                    "fix_rate": 35.0,
+                    "list_price": "$ 291.36"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2E-Z21346.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2E-Z21346 Wire Kit, 530 Fryer",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2E-Z21346",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 176.26"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2E-Y5166.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2E-Y5166 Switch/Circuit Breaker, 2 Pole, 30A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2E-Y5166",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 183.21"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/star/530tf/unit-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2T-Z7208.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2T-Z7208 Thermostat, Mechanical, 375F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2T-Z7208",
+                    "fix_rate": 39.0,
+                    "list_price": "$ 180.64"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2E-Y5166.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2E-Y5166 Switch/Circuit Breaker, 2 Pole, 30A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2E-Y5166",
+                    "fix_rate": 35.0,
+                    "list_price": "$ 183.21"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2T-Y1668.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2T-Y1668 Hi Limit Safety Thermostat 450F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2T-Y1668",
+                    "fix_rate": 32.0,
+                    "list_price": "$ 291.36"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2E-Z21346.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2E-Z21346 Wire Kit, 530 Fryer",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2E-Z21346",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 176.26"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Overheating",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/star/530tf/unit-is-overheating",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2T-Z7208.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2T-Z7208 Thermostat, Mechanical, 375F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2T-Z7208",
+                    "fix_rate": 65.0,
+                    "list_price": "$ 180.64"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2T-Y1668.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2T-Y1668 Hi Limit Safety Thermostat 450F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2T-Y1668",
+                    "fix_rate": 60.0,
+                    "list_price": "$ 291.36"
+                }
+            ]
+        },
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/star/530tf/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2E-Y5166.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2E-Y5166 Switch/Circuit Breaker, 2 Pole, 30A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2E-Y5166",
+                    "fix_rate": 80.0,
+                    "list_price": "$ 183.21"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2T-Z7208.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2T-Z7208 Thermostat, Mechanical, 375F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2T-Z7208",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 180.64"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2E-Z21346.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2E-Z21346 Wire Kit, 530 Fryer",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2E-Z21346",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 176.26"
+                }
+            ]
+        },
+        {
+            "name": "Wiring Issue",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/star/530tf/wiring-issue",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2T-Z7208.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2T-Z7208 Thermostat, Mechanical, 375F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2T-Z7208",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 180.64"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2E-Y5166.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2E-Y5166 Switch/Circuit Breaker, 2 Pole, 30A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2E-Y5166",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 183.21"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2T-Y1668.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2T-Y1668 Hi Limit Safety Thermostat 450F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2T-Y1668",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 291.36"
+                }
+            ]
+        },
+        {
+            "name": "Breaker Is Tripping Or Wont Reset",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/star/530tf/breaker-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2T-Y1668.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2T-Y1668 Hi Limit Safety Thermostat 450F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2T-Y1668",
+                    "fix_rate": 30.0,
+                    "list_price": "$ 291.36"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2T-Z7208.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2T-Z7208 Thermostat, Mechanical, 375F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2T-Z7208",
+                    "fix_rate": 30.0,
+                    "list_price": "$ 180.64"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2E-Y5166.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2E-Y5166 Switch/Circuit Breaker, 2 Pole, 30A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2E-Y5166",
+                    "fix_rate": 27.0,
+                    "list_price": "$ 183.21"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Not Reaching Set Temperature",
+            "idx": 7,
+            "url": "https://www.partstown.com/part-predictor/star/530tf/unit-is-not-reaching-set-temperature",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2T-Z7208.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2T-Z7208 Thermostat, Mechanical, 375F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2T-Z7208",
+                    "fix_rate": 67.0,
+                    "list_price": "$ 180.64"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Damaged",
+            "idx": 8,
+            "url": "https://www.partstown.com/part-predictor/star/530tf/unit-is-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2T-Z7208.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2T-Z7208 Thermostat, Mechanical, 375F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2T-Z7208",
+                    "fix_rate": 45.0,
+                    "list_price": "$ 180.64"
+                }
+            ]
+        },
+        {
+            "name": "Controller Is Malfunctioning",
+            "idx": 9,
+            "url": "https://www.partstown.com/part-predictor/star/530tf/controller-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2T-Z7208.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2T-Z7208 Thermostat, Mechanical, 375F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2T-Z7208",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 180.64"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Shutting Down",
+            "idx": 10,
+            "url": "https://www.partstown.com/part-predictor/star/530tf/unit-is-shutting-down",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2T-Z7208.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2T-Z7208 Thermostat, Mechanical, 375F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2T-Z7208",
+                    "fix_rate": 83.0,
+                    "list_price": "$ 180.64"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Not Cycling Properly",
+            "idx": 11,
+            "url": "https://www.partstown.com/part-predictor/star/530tf/unit-is-not-cycling-properly",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2T-Z7208.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2T-Z7208 Thermostat, Mechanical, 375F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2T-Z7208",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 180.64"
+                }
+            ]
+        }
+    ]
+}

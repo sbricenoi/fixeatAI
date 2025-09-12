@@ -1,0 +1,40 @@
+{
+    "brand": "groen",
+    "model": "xs-208-12-3",
+    "issues": [
+        {
+            "name": "Contactor Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/groen/xs-208-12-3/contactor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GRNT1067.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen NT1067 Contactor, 208/240V, 50/60Hz, 30A, 3 Pole",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNT1067",
+                    "fix_rate": 56.0,
+                    "list_price": "$ 193.85"
+                }
+            ]
+        },
+        {
+            "name": "Door Gasket Is Defective",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/groen/xs-208-12-3/door-gasket-is-defective",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GR125907.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen 125907 Door Gasket, Silicone, 5-Pan 18\" x 14-5/8\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n125907",
+                    "fix_rate": 86.0,
+                    "list_price": "$ 175.57"
+                }
+            ]
+        }
+    ]
+}

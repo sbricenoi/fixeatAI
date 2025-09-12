@@ -1,0 +1,121 @@
+{
+    "brand": "AccuTemp",
+    "model": "EGF SERIES",
+    "issues": [
+        {
+            "name": "Fuse Is Blown",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/accutemp/egf-series/fuse-is-blown",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/ACC/ACCAT0E-2731-2.view?thumb&image.rules=G0&w=200",
+                    "product_name": "AccuTemp AT0E-2731-2 Fuse, Slo-Blo, 1.25 Amp, 250 Volt",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nAT0E-2731-2",
+                    "fix_rate": 48.0,
+                    "list_price": "$ 8.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/ACC/ACCAT0E-1587-4.view?thumb&image.rules=G0&w=200",
+                    "product_name": "AccuTemp AT0E-1587-4 Contactor, 24V, 30A, 3 Pole",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nAT0E-1587-4",
+                    "fix_rate": 43.0,
+                    "list_price": "$ 110.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/ACC/ACCAT0E-2662-7.view?thumb&image.rules=G0&w=200",
+                    "product_name": "AccuTemp AT0E-2662-7 Transformer, Evolution, S/N: 52866 & Higher, G2 E",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nAT0E-2662-7",
+                    "fix_rate": 35.0,
+                    "list_price": "$ 69.00"
+                }
+            ]
+        },
+        {
+            "name": "Controller Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/accutemp/egf-series/controller-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/ACC/ACCAT0E-6695-5-R03.view?thumb&image.rules=G0&w=200",
+                    "product_name": "AccuTemp AT0E-6695-5-R03 CONTROLLER-QUANTUM SERIES",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nAT0E-6695-5-R03",
+                    "fix_rate": 59.0,
+                    "list_price": "$ 432.00"
+                }
+            ]
+        },
+        {
+            "name": "Contactor Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/accutemp/egf-series/contactor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/ACC/ACCAT0E-1587-4.view?thumb&image.rules=G0&w=200",
+                    "product_name": "AccuTemp AT0E-1587-4 Contactor, 24V, 30A, 3 Pole",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nAT0E-1587-4",
+                    "fix_rate": 73.0,
+                    "list_price": "$ 110.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/ACC/ACCAT0E-2731-2.view?thumb&image.rules=G0&w=200",
+                    "product_name": "AccuTemp AT0E-2731-2 Fuse, Slo-Blo, 1.25 Amp, 250 Volt",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nAT0E-2731-2",
+                    "fix_rate": 47.0,
+                    "list_price": "$ 8.00"
+                }
+            ]
+        },
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/accutemp/egf-series/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/ACC/ACCAT0E-3336-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "AccuTemp AT0E-3336-1 Switch, Rotary, On/Off",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nAT0E-3336-1",
+                    "fix_rate": 55.0,
+                    "list_price": "$ 64.00"
+                }
+            ]
+        },
+        {
+            "name": "Relay Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/accutemp/egf-series/relay-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/ACC/ACCAT0E-2059-3.view?thumb&image.rules=G0&w=200",
+                    "product_name": "AccuTemp AT0E-2059-3 Relay, Solid State",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nAT0E-2059-3",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 185.00"
+                }
+            ]
+        }
+    ]
+}

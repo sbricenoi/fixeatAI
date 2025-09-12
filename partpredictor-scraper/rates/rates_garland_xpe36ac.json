@@ -1,0 +1,349 @@
+{
+    "brand": "garland",
+    "model": "xpe36ac",
+    "issues": [
+        {
+            "name": "Fuse Is Blown",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/garland/xpe36ac/fuse-is-blown",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4600638.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4600638 Fuse, 250V, 10A, Slow Blow",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4600638",
+                    "fix_rate": 45.0,
+                    "list_price": "$ 21.92"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4600129.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4600129 Fuse, Slo-Blow, 250V, 5mm x 20mm",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4600129",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 19.73"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4606120.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4606120 Control Board",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4606120",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 161.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GLCK4603129.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland CK4603129 Actuator Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nCK4603129",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 1,070.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4610005.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4610005 Service Kit, High Limit Switch",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4610005",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 46.75"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4607408.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4607408 Microswitch/Wire Harness Assembly, Arm Position",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4607408",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 76.06"
+                }
+            ]
+        },
+        {
+            "name": "Motor Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/garland/xpe36ac/motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4605633.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4605633 Motor Assembly, XPE24AC, XPE36AC",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4605633",
+                    "fix_rate": 37.0,
+                    "list_price": "$ 298.67"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4606120.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4606120 Control Board",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4606120",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 161.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4607408.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4607408 Microswitch/Wire Harness Assembly, Arm Position",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4607408",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 76.06"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GLCK4603129.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland CK4603129 Actuator Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nCK4603129",
+                    "fix_rate": 20.0,
+                    "list_price": "$ 1,070.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4608162.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4608162 Microswitch/Wire Harness Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4608162",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 128.06"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4604330.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4604330 AC Lock Screw, 0.6' x 3' x 5.55', XPE24AC, XPE36AC",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4604330",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 78.28"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4608161.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4608161 Alternating Current Motor Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4608161",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 366.94"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4600129.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4600129 Fuse, Slo-Blow, 250V, 5mm x 20mm",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4600129",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 19.73"
+                }
+            ]
+        },
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/garland/xpe36ac/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4607408.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4607408 Microswitch/Wire Harness Assembly, Arm Position",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4607408",
+                    "fix_rate": 37.0,
+                    "list_price": "$ 76.06"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4606120.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4606120 Control Board",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4606120",
+                    "fix_rate": 33.0,
+                    "list_price": "$ 161.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4608162.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4608162 Microswitch/Wire Harness Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4608162",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 128.06"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4605633.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4605633 Motor Assembly, XPE24AC, XPE36AC",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4605633",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 298.67"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4610005.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4610005 Service Kit, High Limit Switch",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4610005",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 46.75"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4604330.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4604330 AC Lock Screw, 0.6' x 3' x 5.55', XPE24AC, XPE36AC",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4604330",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 78.28"
+                }
+            ]
+        },
+        {
+            "name": "Breaker Is Tripping Or Wont Reset",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/garland/xpe36ac/breaker-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4610005.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4610005 Service Kit, High Limit Switch",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4610005",
+                    "fix_rate": 35.0,
+                    "list_price": "$ 46.75"
+                }
+            ]
+        },
+        {
+            "name": "Actuator Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/garland/xpe36ac/actuator-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GLCK4603129.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland CK4603129 Actuator Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nCK4603129",
+                    "fix_rate": 56.0,
+                    "list_price": "$ 1,070.00"
+                }
+            ]
+        },
+        {
+            "name": "Hi-limit Is Tripping Or Wont Reset",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/garland/xpe36ac/hi-limit-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4610005.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4610005 Service Kit, High Limit Switch",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4610005",
+                    "fix_rate": 71.0,
+                    "list_price": "$ 46.75"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4600638.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4600638 Fuse, 250V, 10A, Slow Blow",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4600638",
+                    "fix_rate": 35.0,
+                    "list_price": "$ 21.92"
+                }
+            ]
+        },
+        {
+            "name": "Wiring Issue",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/garland/xpe36ac/wiring-issue",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4600638.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4600638 Fuse, 250V, 10A, Slow Blow",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4600638",
+                    "fix_rate": 56.0,
+                    "list_price": "$ 21.92"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4610005.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4610005 Service Kit, High Limit Switch",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4610005",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 46.75"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Overheating",
+            "idx": 7,
+            "url": "https://www.partstown.com/part-predictor/garland/xpe36ac/unit-is-overheating",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4610005.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4610005 Service Kit, High Limit Switch",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4610005",
+                    "fix_rate": 67.0,
+                    "list_price": "$ 46.75"
+                }
+            ]
+        },
+        {
+            "name": "Contactor Is Malfunctioning",
+            "idx": 8,
+            "url": "https://www.partstown.com/part-predictor/garland/xpe36ac/contactor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4610005.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4610005 Service Kit, High Limit Switch",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4610005",
+                    "fix_rate": 71.0,
+                    "list_price": "$ 46.75"
+                }
+            ]
+        }
+    ]
+}

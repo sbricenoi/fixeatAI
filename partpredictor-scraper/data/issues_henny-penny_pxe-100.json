@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Unit Is Malfunctioning",
+        "parsed_name": "unit-is-malfunctioning"
+    },
+    {
+        "name": "Unit Will Not Pump Oil",
+        "parsed_name": "unit-will-not-pump-oil"
+    },
+    {
+        "name": "Motor Is Malfunctioning",
+        "parsed_name": "motor-is-malfunctioning"
+    },
+    {
+        "name": "Unit Is Leaking",
+        "parsed_name": "unit-is-leaking"
+    },
+    {
+        "name": "Switch Is Malfunctioning",
+        "parsed_name": "switch-is-malfunctioning"
+    },
+    {
+        "name": "Oil Is Leaking",
+        "parsed_name": "oil-is-leaking"
+    },
+    {
+        "name": "Unit Is Overheating",
+        "parsed_name": "unit-is-overheating"
+    },
+    {
+        "name": "Valve Is Malfunctioning",
+        "parsed_name": "valve-is-malfunctioning"
+    },
+    {
+        "name": "Filter Pump Is Tripping",
+        "parsed_name": "filter-pump-is-tripping"
+    },
+    {
+        "name": "Drain Valve Is Malfunctioning",
+        "parsed_name": "drain-valve-is-malfunctioning"
+    },
+    {
+        "name": "Filter Pump Is Malfunctioning",
+        "parsed_name": "filter-pump-is-malfunctioning"
+    },
+    {
+        "name": "Gasket Is Defective Or Leaking",
+        "parsed_name": "gasket-is-defective-or-leaking"
+    },
+    {
+        "name": "Unit Is Not Draining",
+        "parsed_name": "unit-is-not-draining"
+    },
+    {
+        "name": "Hi-limit Is Tripping Or Wont Reset",
+        "parsed_name": "hi-limit-is-tripping-or-wont-reset"
+    },
+    {
+        "name": "Probe Is Malfunctioning",
+        "parsed_name": "probe-is-malfunctioning"
+    },
+    {
+        "name": "Pump Motor Is Malfunctioning",
+        "parsed_name": "pump-motor-is-malfunctioning"
+    },
+    {
+        "name": "Drain Pan Is Malfunctioning",
+        "parsed_name": "drain-pan-is-malfunctioning"
+    },
+    {
+        "name": "Solenoid Valve Is Malfunctioning",
+        "parsed_name": "solenoid-valve-is-malfunctioning"
+    },
+    {
+        "name": "Actuator Is Malfunctioning",
+        "parsed_name": "actuator-is-malfunctioning"
+    },
+    {
+        "name": "Ball Valve Is Malfunctioning",
+        "parsed_name": "ball-valve-is-malfunctioning"
+    }
+]

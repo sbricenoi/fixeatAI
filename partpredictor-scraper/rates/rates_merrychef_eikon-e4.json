@@ -1,0 +1,1441 @@
+{
+    "brand": "merrychef",
+    "model": "eikon-e4",
+    "issues": [
+        {
+            "name": "Magnetron Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/merrychef/eikon-e4/magnetron-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHFP30Z1415.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef P30Z1415 Magnetron,Toshiba 2M303H Based",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nP30Z1415",
+                    "fix_rate": 61.0,
+                    "list_price": "$ 152.06"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHFPSR109.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef PSR109 Diode Replacement Kit, Eikon",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nPSR109",
+                    "fix_rate": 28.0,
+                    "list_price": "$ 29.16"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHFP30Z1230.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef P30Z1230 Transformer, Multi Tap, 208/220/240V, Tabuchi CE",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nP30Z1230",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 615.53"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHF30Z1330.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef 30Z1330 Capacitor, 0.88uF, 2500V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n30Z1330",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 104.19"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHF30Z1427.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef 30Z1427 Magnetron Overheat Thermostat/Hi Limit, Eikon",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n30Z1427",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 91.81"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHFPSA3113.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef PSA3113 Door Seal, 402S, E4, E4S",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nPSA3113",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 164.25"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHF30Z1331.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef 30Z1331 Capacitor, 1.00uF, 2500V, 50/60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n30Z1331",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 90.02"
+                }
+            ]
+        },
+        {
+            "name": "Fuse Is Blown",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/merrychef/eikon-e4/fuse-is-blown",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHF30Z1177.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef 30Z1177 Fuse, 20A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n30Z1177",
+                    "fix_rate": 24.0,
+                    "list_price": "$ 37.01"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHF30Z1459.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef 30Z1459 Microswitch, Door",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n30Z1459",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 58.71"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHFP30Z1415.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef P30Z1415 Magnetron,Toshiba 2M303H Based",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nP30Z1415",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 152.06"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHF30Z1535.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef 30Z1535 Fuse, Flm 25A, 250V, Time-Delay",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n30Z1535",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 30.89"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHF30Z1445.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef 30Z1445 Fuse, Ceramic, 10A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n30Z1445",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 15.34"
+                }
+            ]
+        },
+        {
+            "name": "Door Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/merrychef/eikon-e4/door-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHF30Z1177.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef 30Z1177 Fuse, 20A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n30Z1177",
+                    "fix_rate": 20.0,
+                    "list_price": "$ 37.01"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHFPSR101.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef PSR101 Door Hinge Service Kit, EIKON",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nPSR101",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 620.17"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHFPSA3113.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef PSA3113 Door Seal, 402S, E4, E4S",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nPSA3113",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 164.25"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHFPSR102.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef PSR102 Microswitch Kit with Brackets, Eikon",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nPSR102",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 250.31"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHF30Z1459.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef 30Z1459 Microswitch, Door",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n30Z1459",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 58.71"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHFPSR113.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef PSR113 Spring Service Kit, Set of 2, EIKON/402S",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nPSR113",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 86.31"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHF31Z0186.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef 31Z0186 Silicone Door Sealer, Silastic, Black, CAF30",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n31Z0186",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 126.20"
+                }
+            ]
+        },
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/merrychef/eikon-e4/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHF30Z0503.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef 30Z0503 Rocker Switch, On/Off, 250V, 16A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n30Z0503",
+                    "fix_rate": 55.0,
+                    "list_price": "$ 75.60"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHF30Z1177.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef 30Z1177 Fuse, 20A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n30Z1177",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 37.01"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHFPSA3113.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef PSA3113 Door Seal, 402S, E4, E4S",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nPSA3113",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 164.25"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHF30Z1459.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef 30Z1459 Microswitch, Door",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n30Z1459",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 58.71"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Overheating",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/merrychef/eikon-e4/unit-is-overheating",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHFDR0241.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef DR0241 Thermocouple, Oven, Eikon E4",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nDR0241",
+                    "fix_rate": 22.0
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHFDR0042.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef DR0042 Overheat Safety Thermostat",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nDR0042",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 209.88"
+                }
+            ]
+        },
+        {
+            "name": "Door Gasket Is Defective",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/merrychef/eikon-e4/door-gasket-is-defective",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHFPSA3113.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef PSA3113 Door Seal, 402S, E4, E4S",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nPSA3113",
+                    "fix_rate": 91.0,
+                    "list_price": "$ 164.25"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHF31Z0186.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef 31Z0186 Silicone Door Sealer, Silastic, Black, CAF30",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n31Z0186",
+                    "fix_rate": 34.0,
+                    "list_price": "$ 126.20"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHFP30Z1415.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef P30Z1415 Magnetron,Toshiba 2M303H Based",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nP30Z1415",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 152.06"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHFPSR122.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef PSR122 Stirrer Cover Plate and Seal, E3/E4S",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nPSR122",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 240.09"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHF30Z1427.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef 30Z1427 Magnetron Overheat Thermostat/Hi Limit, Eikon",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n30Z1427",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 91.81"
+                }
+            ]
+        },
+        {
+            "name": "Probe Is Malfunctioning",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/merrychef/eikon-e4/probe-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHFDR0241.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef DR0241 Thermocouple, Oven, Eikon E4",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nDR0241",
+                    "fix_rate": 41.0
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHFDR0240.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef DR0240 Thermocouple, K-101.5",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nDR0240",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 53.52"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHFPSA1273.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef PSA1273 Thermocouple and Bracket Kit PTFE, E4S",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nPSA1273",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 78.66"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHFPSA3113.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef PSA3113 Door Seal, 402S, E4, E4S",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nPSA3113",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 164.25"
+                }
+            ]
+        },
+        {
+            "name": "Hi-limit Is Tripping Or Wont Reset",
+            "idx": 7,
+            "url": "https://www.partstown.com/part-predictor/merrychef/eikon-e4/hi-limit-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHFDR0042.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef DR0042 Overheat Safety Thermostat",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nDR0042",
+                    "fix_rate": 31.0,
+                    "list_price": "$ 209.88"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHFDR0241.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef DR0241 Thermocouple, Oven, Eikon E4",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nDR0241",
+                    "fix_rate": 18.0
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHFDR0079.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef DR0079 Oven Temp Thermostat, Zero Compensation",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nDR0079",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 133.13"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHFPSA1273.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef PSA1273 Thermocouple and Bracket Kit PTFE, E4S",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nPSA1273",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 78.66"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHFPSA3113.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef PSA3113 Door Seal, 402S, E4, E4S",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nPSA3113",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 164.25"
+                }
+            ]
+        },
+        {
+            "name": "Filter Is Malfunctioning",
+            "idx": 8,
+            "url": "https://www.partstown.com/part-predictor/merrychef/eikon-e4/filter-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHF30Z1340.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef 30Z1340 Filter, 275Vac, 50/60Hz, 16A, Screw Mount",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n30Z1340",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 71.75"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHFP30Z1415.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef P30Z1415 Magnetron,Toshiba 2M303H Based",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nP30Z1415",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 152.06"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHFPSA3113.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef PSA3113 Door Seal, 402S, E4, E4S",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nPSA3113",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 164.25"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHFDV0752.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef DV0752 Grease Filter Housing, E4",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nDV0752",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 183.72"
+                }
+            ]
+        },
+        {
+            "name": "Hinge Is Defective Or Damaged",
+            "idx": 9,
+            "url": "https://www.partstown.com/part-predictor/merrychef/eikon-e4/hinge-is-defective-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHFPSR101.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef PSR101 Door Hinge Service Kit, EIKON",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nPSR101",
+                    "fix_rate": 61.0,
+                    "list_price": "$ 620.17"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHFPSA3113.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef PSA3113 Door Seal, 402S, E4, E4S",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nPSA3113",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 164.25"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHFPSR113.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef PSR113 Spring Service Kit, Set of 2, EIKON/402S",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nPSR113",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 86.31"
+                }
+            ]
+        },
+        {
+            "name": "Transformer Is Malfunctioning",
+            "idx": 10,
+            "url": "https://www.partstown.com/part-predictor/merrychef/eikon-e4/transformer-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHFP30Z1230.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef P30Z1230 Transformer, Multi Tap, 208/220/240V, Tabuchi CE",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nP30Z1230",
+                    "fix_rate": 75.0,
+                    "list_price": "$ 615.53"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHFP30Z1415.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef P30Z1415 Magnetron,Toshiba 2M303H Based",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nP30Z1415",
+                    "fix_rate": 52.0,
+                    "list_price": "$ 152.06"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHFPSR109.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef PSR109 Diode Replacement Kit, Eikon",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nPSR109",
+                    "fix_rate": 35.0,
+                    "list_price": "$ 29.16"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHF30Z1330.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef 30Z1330 Capacitor, 0.88uF, 2500V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n30Z1330",
+                    "fix_rate": 23.0,
+                    "list_price": "$ 104.19"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHF30Z1507.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef 30Z1507 Fuse, Slow Blow, 12A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n30Z1507",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 19.81"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHF30Z1445.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef 30Z1445 Fuse, Ceramic, 10A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n30Z1445",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 15.34"
+                }
+            ]
+        },
+        {
+            "name": "Wiring Issue",
+            "idx": 11,
+            "url": "https://www.partstown.com/part-predictor/merrychef/eikon-e4/wiring-issue",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHF30Z1340.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef 30Z1340 Filter, 275Vac, 50/60Hz, 16A, Screw Mount",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n30Z1340",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 71.75"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHFPSA3113.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef PSA3113 Door Seal, 402S, E4, E4S",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nPSA3113",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 164.25"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHFP30Z5021.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef P30Z5021 Control PC Board Assembly, UNI SRB",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nP30Z5021",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 690.93"
+                }
+            ]
+        },
+        {
+            "name": "Gasket Is Defective Or Leaking",
+            "idx": 12,
+            "url": "https://www.partstown.com/part-predictor/merrychef/eikon-e4/gasket-is-defective-or-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHFPSA3113.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef PSA3113 Door Seal, 402S, E4, E4S",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nPSA3113",
+                    "fix_rate": 67.0,
+                    "list_price": "$ 164.25"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHF31Z0186.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef 31Z0186 Silicone Door Sealer, Silastic, Black, CAF30",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n31Z0186",
+                    "fix_rate": 41.0,
+                    "list_price": "$ 126.20"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHFPSR122.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef PSR122 Stirrer Cover Plate and Seal, E3/E4S",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nPSR122",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 240.09"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHFP30Z1415.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef P30Z1415 Magnetron,Toshiba 2M303H Based",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nP30Z1415",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 152.06"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHFDR0011.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef DR0011 Touchscreen Overlay, Eikon",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nDR0011",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 46.06"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHFDV0692.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef DV0692 Seal, Partition Plate",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nDV0692",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 43.43"
+                }
+            ]
+        },
+        {
+            "name": "Stirrer Is Malfunctioning",
+            "idx": 13,
+            "url": "https://www.partstown.com/part-predictor/merrychef/eikon-e4/stirrer-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHFPSR122.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef PSR122 Stirrer Cover Plate and Seal, E3/E4S",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nPSR122",
+                    "fix_rate": 93.0,
+                    "list_price": "$ 240.09"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHFPSA3113.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef PSA3113 Door Seal, 402S, E4, E4S",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nPSA3113",
+                    "fix_rate": 24.0,
+                    "list_price": "$ 164.25"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHFP30Z1415.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef P30Z1415 Magnetron,Toshiba 2M303H Based",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nP30Z1415",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 152.06"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHFDR0241.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef DR0241 Thermocouple, Oven, Eikon E4",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nDR0241",
+                    "fix_rate": 14.0
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHFDV0692.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef DV0692 Seal, Partition Plate",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nDV0692",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 43.43"
+                }
+            ]
+        },
+        {
+            "name": "Thermocouple Is Malfunctioning",
+            "idx": 14,
+            "url": "https://www.partstown.com/part-predictor/merrychef/eikon-e4/thermocouple-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHFDR0241.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef DR0241 Thermocouple, Oven, Eikon E4",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nDR0241",
+                    "fix_rate": 38.0
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHFDR0240.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef DR0240 Thermocouple, K-101.5",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nDR0240",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 53.52"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHFPSA1273.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef PSA1273 Thermocouple and Bracket Kit PTFE, E4S",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nPSA1273",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 78.66"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHFPSA3113.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef PSA3113 Door Seal, 402S, E4, E4S",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nPSA3113",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 164.25"
+                }
+            ]
+        },
+        {
+            "name": "Display Is Malfunctioning",
+            "idx": 15,
+            "url": "https://www.partstown.com/part-predictor/merrychef/eikon-e4/display-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHFP30Z5009.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef P30Z5009 Touch Screen PC Board, QTS UI",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nP30Z5009",
+                    "fix_rate": 62.0,
+                    "list_price": "$ 1,152.96"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHFDR0011.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef DR0011 Touchscreen Overlay, Eikon",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nDR0011",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 46.06"
+                }
+            ]
+        },
+        {
+            "name": "Door Switch Is Malfunctioning",
+            "idx": 16,
+            "url": "https://www.partstown.com/part-predictor/merrychef/eikon-e4/door-switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHF30Z1459.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef 30Z1459 Microswitch, Door",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n30Z1459",
+                    "fix_rate": 24.0,
+                    "list_price": "$ 58.71"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHF30Z1177.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef 30Z1177 Fuse, 20A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n30Z1177",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 37.01"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHFPSR102.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef PSR102 Microswitch Kit with Brackets, Eikon",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nPSR102",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 250.31"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHFPSR101.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef PSR101 Door Hinge Service Kit, EIKON",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nPSR101",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 620.17"
+                }
+            ]
+        },
+        {
+            "name": "Diode Is Malfunctioning",
+            "idx": 17,
+            "url": "https://www.partstown.com/part-predictor/merrychef/eikon-e4/diode-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHFPSR109.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef PSR109 Diode Replacement Kit, Eikon",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nPSR109",
+                    "fix_rate": 81.0,
+                    "list_price": "$ 29.16"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHFP30Z1415.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef P30Z1415 Magnetron,Toshiba 2M303H Based",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nP30Z1415",
+                    "fix_rate": 47.0,
+                    "list_price": "$ 152.06"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHF30Z1330.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef 30Z1330 Capacitor, 0.88uF, 2500V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n30Z1330",
+                    "fix_rate": 31.0,
+                    "list_price": "$ 104.19"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHFP30Z1230.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef P30Z1230 Transformer, Multi Tap, 208/220/240V, Tabuchi CE",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nP30Z1230",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 615.53"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHF30Z1427.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef 30Z1427 Magnetron Overheat Thermostat/Hi Limit, Eikon",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n30Z1427",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 91.81"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHF30Z1439.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef 30Z1439 Relay, 12V, Omron",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n30Z1439",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 53.65"
+                }
+            ]
+        },
+        {
+            "name": "Relay Board Is Malfunctioning",
+            "idx": 18,
+            "url": "https://www.partstown.com/part-predictor/merrychef/eikon-e4/relay-board-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHFP30Z5021.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef P30Z5021 Control PC Board Assembly, UNI SRB",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nP30Z5021",
+                    "fix_rate": 63.0,
+                    "list_price": "$ 690.93"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHFDR0241.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef DR0241 Thermocouple, Oven, Eikon E4",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nDR0241",
+                    "fix_rate": 19.0
+                }
+            ]
+        },
+        {
+            "name": "Sensor Is Malfunctioning",
+            "idx": 19,
+            "url": "https://www.partstown.com/part-predictor/merrychef/eikon-e4/sensor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHFDR0241.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef DR0241 Thermocouple, Oven, Eikon E4",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nDR0241",
+                    "fix_rate": 52.0
+                }
+            ]
+        },
+        {
+            "name": "Breaker Is Tripping Or Wont Reset",
+            "idx": 20,
+            "url": "https://www.partstown.com/part-predictor/merrychef/eikon-e4/breaker-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHF30Z1459.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef 30Z1459 Microswitch, Door",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n30Z1459",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 58.71"
+                }
+            ]
+        },
+        {
+            "name": "Fan Motor Is Malfunctioning",
+            "idx": 21,
+            "url": "https://www.partstown.com/part-predictor/merrychef/eikon-e4/fan-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHFPSA2195.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef PSA2195 Cooling Fan Assembly, E4S",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nPSA2195",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 578.04"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHFP30Z1415.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef P30Z1415 Magnetron,Toshiba 2M303H Based",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nP30Z1415",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 152.06"
+                }
+            ]
+        },
+        {
+            "name": "Capacitor Is Malfunctioning",
+            "idx": 22,
+            "url": "https://www.partstown.com/part-predictor/merrychef/eikon-e4/capacitor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHFP30Z1415.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef P30Z1415 Magnetron,Toshiba 2M303H Based",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nP30Z1415",
+                    "fix_rate": 70.0,
+                    "list_price": "$ 152.06"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHF30Z1330.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef 30Z1330 Capacitor, 0.88uF, 2500V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n30Z1330",
+                    "fix_rate": 43.0,
+                    "list_price": "$ 104.19"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHFPSR109.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef PSR109 Diode Replacement Kit, Eikon",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nPSR109",
+                    "fix_rate": 39.0,
+                    "list_price": "$ 29.16"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHF30Z1427.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef 30Z1427 Magnetron Overheat Thermostat/Hi Limit, Eikon",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n30Z1427",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 91.81"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHF30Z1331.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef 30Z1331 Capacitor, 1.00uF, 2500V, 50/60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n30Z1331",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 90.02"
+                }
+            ]
+        },
+        {
+            "name": "Filter Is Damaged",
+            "idx": 23,
+            "url": "https://www.partstown.com/part-predictor/merrychef/eikon-e4/filter-is-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHF30Z1340.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef 30Z1340 Filter, 275Vac, 50/60Hz, 16A, Screw Mount",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n30Z1340",
+                    "fix_rate": 39.0,
+                    "list_price": "$ 71.75"
+                }
+            ]
+        },
+        {
+            "name": "Wave Guide Is Malfunctioning",
+            "idx": 24,
+            "url": "https://www.partstown.com/part-predictor/merrychef/eikon-e4/wave-guide-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHFPSR122.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef PSR122 Stirrer Cover Plate and Seal, E3/E4S",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nPSR122",
+                    "fix_rate": 57.0,
+                    "list_price": "$ 240.09"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHFP30Z1415.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef P30Z1415 Magnetron,Toshiba 2M303H Based",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nP30Z1415",
+                    "fix_rate": 43.0,
+                    "list_price": "$ 152.06"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHFSA374.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef SA374 Waveguide Casting Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSA374",
+                    "fix_rate": 39.0,
+                    "list_price": "$ 314.71"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHFDV0692.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef DV0692 Seal, Partition Plate",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nDV0692",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 43.43"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHFP30Z1230.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef P30Z1230 Transformer, Multi Tap, 208/220/240V, Tabuchi CE",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nP30Z1230",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 615.53"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHFPSA291.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef PSA291 Stirrer Assembly With Gear, Pinned",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nPSA291",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 216.33"
+                }
+            ]
+        },
+        {
+            "name": "Motor Is Malfunctioning",
+            "idx": 25,
+            "url": "https://www.partstown.com/part-predictor/merrychef/eikon-e4/motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHFPSR122.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef PSR122 Stirrer Cover Plate and Seal, E3/E4S",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nPSR122",
+                    "fix_rate": 23.0,
+                    "list_price": "$ 240.09"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHFPSA288.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef PSA288 Stirrer Motor Assembly, Pinned",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nPSA288",
+                    "fix_rate": 23.0,
+                    "list_price": "$ 338.74"
+                }
+            ]
+        },
+        {
+            "name": "Heating Element Is Malfunctioning",
+            "idx": 26,
+            "url": "https://www.partstown.com/part-predictor/merrychef/eikon-e4/heating-element-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHFP30Z5021.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef P30Z5021 Control PC Board Assembly, UNI SRB",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nP30Z5021",
+                    "fix_rate": 38.0,
+                    "list_price": "$ 690.93"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHF30Z1340.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef 30Z1340 Filter, 275Vac, 50/60Hz, 16A, Screw Mount",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n30Z1340",
+                    "fix_rate": 24.0,
+                    "list_price": "$ 71.75"
+                }
+            ]
+        },
+        {
+            "name": "Door Spring Is Malfunctioning",
+            "idx": 27,
+            "url": "https://www.partstown.com/part-predictor/merrychef/eikon-e4/door-spring-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHFPSR113.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef PSR113 Spring Service Kit, Set of 2, EIKON/402S",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nPSR113",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 86.31"
+                }
+            ]
+        },
+        {
+            "name": "Display Is Blank",
+            "idx": 28,
+            "url": "https://www.partstown.com/part-predictor/merrychef/eikon-e4/display-is-blank",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHFP30Z5009.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef P30Z5009 Touch Screen PC Board, QTS UI",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nP30Z5009",
+                    "fix_rate": 38.0,
+                    "list_price": "$ 1,152.96"
+                }
+            ]
+        },
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 29,
+            "url": "https://www.partstown.com/part-predictor/merrychef/eikon-e4/thermostat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHFDR0042.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef DR0042 Overheat Safety Thermostat",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nDR0042",
+                    "fix_rate": 31.0,
+                    "list_price": "$ 209.88"
+                }
+            ]
+        },
+        {
+            "name": "Unit Won't Turn On",
+            "idx": 30,
+            "url": "https://www.partstown.com/part-predictor/merrychef/eikon-e4/unit-wont-turn-on",
+            "results": []
+        },
+        {
+            "name": "Controller Is Malfunctioning",
+            "idx": 31,
+            "url": "https://www.partstown.com/part-predictor/merrychef/eikon-e4/controller-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHFP30Z5009.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef P30Z5009 Touch Screen PC Board, QTS UI",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nP30Z5009",
+                    "fix_rate": 40.0,
+                    "list_price": "$ 1,152.96"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Working Intermittently",
+            "idx": 32,
+            "url": "https://www.partstown.com/part-predictor/merrychef/eikon-e4/unit-is-working-intermittently",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHF30Z0503.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef 30Z0503 Rocker Switch, On/Off, 250V, 16A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n30Z0503",
+                    "fix_rate": 53.0,
+                    "list_price": "$ 75.60"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHFPSA3113.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef PSA3113 Door Seal, 402S, E4, E4S",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nPSA3113",
+                    "fix_rate": 33.0,
+                    "list_price": "$ 164.25"
+                }
+            ]
+        },
+        {
+            "name": "Spring Is Malfunctioning",
+            "idx": 33,
+            "url": "https://www.partstown.com/part-predictor/merrychef/eikon-e4/spring-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHFPSR113.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef PSR113 Spring Service Kit, Set of 2, EIKON/402S",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nPSR113",
+                    "fix_rate": 71.0,
+                    "list_price": "$ 86.31"
+                }
+            ]
+        },
+        {
+            "name": "Filter System Making Noise",
+            "idx": 34,
+            "url": "https://www.partstown.com/part-predictor/merrychef/eikon-e4/filter-system-making-noise",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHF30Z1340.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef 30Z1340 Filter, 275Vac, 50/60Hz, 16A, Screw Mount",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n30Z1340",
+                    "fix_rate": 54.0,
+                    "list_price": "$ 71.75"
+                }
+            ]
+        },
+        {
+            "name": "Keypad Is Not Responding Or Damaged",
+            "idx": 35,
+            "url": "https://www.partstown.com/part-predictor/merrychef/eikon-e4/keypad-is-not-responding-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHFP30Z5009.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef P30Z5009 Touch Screen PC Board, QTS UI",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nP30Z5009",
+                    "fix_rate": 54.0,
+                    "list_price": "$ 1,152.96"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHFDR0011.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef DR0011 Touchscreen Overlay, Eikon",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nDR0011",
+                    "fix_rate": 38.0,
+                    "list_price": "$ 46.06"
+                }
+            ]
+        },
+        {
+            "name": "Cooling Fan Is Malfunctioning",
+            "idx": 36,
+            "url": "https://www.partstown.com/part-predictor/merrychef/eikon-e4/cooling-fan-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHFPSA2195.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef PSA2195 Cooling Fan Assembly, E4S",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nPSA2195",
+                    "fix_rate": 67.0,
+                    "list_price": "$ 578.04"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Leaking",
+            "idx": 37,
+            "url": "https://www.partstown.com/part-predictor/merrychef/eikon-e4/unit-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHFPSA3113.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef PSA3113 Door Seal, 402S, E4, E4S",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nPSA3113",
+                    "fix_rate": 42.0,
+                    "list_price": "$ 164.25"
+                }
+            ]
+        },
+        {
+            "name": "Wave Guide Cover Is Malfunctioning",
+            "idx": 38,
+            "url": "https://www.partstown.com/part-predictor/merrychef/eikon-e4/wave-guide-cover-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/MCHF/MCHFPSR122.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Merrychef PSR122 Stirrer Cover Plate and Seal, E3/E4S",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nPSR122",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 240.09"
+                }
+            ]
+        }
+    ]
+}

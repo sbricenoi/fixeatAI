@@ -1,0 +1,84 @@
+{
+    "brand": "beverage-air",
+    "model": "ucr-27a-23",
+    "issues": [
+        {
+            "name": "Door Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/beverage-air/ucr-27a-23/door-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BEV/BEV00C34-030D-01.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Beverage Air 00C34-030D-01 Cartridge Hinge Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00C34-030D-01",
+                    "fix_rate": 79.0,
+                    "list_price": "$ 64.00"
+                }
+            ]
+        },
+        {
+            "name": "Hinge Is Defective Or Damaged",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/beverage-air/ucr-27a-23/hinge-is-defective-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BEV/BEV00C34-030D-01.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Beverage Air 00C34-030D-01 Cartridge Hinge Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00C34-030D-01",
+                    "fix_rate": 85.0,
+                    "list_price": "$ 64.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BEV/BEV401-832A.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Beverage Air 401-832A Hinge Bracket, Bottom Right, CFG/CRG",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n401-832A",
+                    "fix_rate": 38.0,
+                    "list_price": "$ 26.00"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/beverage-air/ucr-27a-23/unit-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BEV/BEV00C34-030D-01.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Beverage Air 00C34-030D-01 Cartridge Hinge Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00C34-030D-01",
+                    "fix_rate": 56.0,
+                    "list_price": "$ 64.00"
+                }
+            ]
+        },
+        {
+            "name": "Gasket Is Defective Or Leaking",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/beverage-air/ucr-27a-23/gasket-is-defective-or-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BEV/BEV703-963D-02.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Beverage Air 703-963D-02 Door Gasket, 23 1/8 x 24 1/2, SP/SUR27-60",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n703-963D-02",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 101.00"
+                }
+            ]
+        }
+    ]
+}

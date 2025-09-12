@@ -1,0 +1,33 @@
+{
+    "brand": "vulcan-hart",
+    "model": "vccb-series",
+    "issues": [
+        {
+            "name": "Burner Is Malfunctioning Or Damaged",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/vulcan-hart/vccb-series/burner-is-malfunctioning-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-710407.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-710407 Radiant, SCB",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-710407",
+                    "fix_rate": 44.0,
+                    "list_price": "$ 228.36"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-710453.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-710453 Burner Tube, Stainless, SCB",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-710453",
+                    "fix_rate": 33.0,
+                    "list_price": "$ 76.04"
+                }
+            ]
+        }
+    ]
+}

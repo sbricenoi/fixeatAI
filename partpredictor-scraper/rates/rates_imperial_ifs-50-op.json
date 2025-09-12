@@ -1,0 +1,74 @@
+{
+    "brand": "imperial",
+    "model": "ifs-50-op",
+    "issues": [
+        {
+            "name": "Gas Valve Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/imperial/ifs-50-op/gas-valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP1173.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 1173 Gas Valve, Natural Gas, Millivolt",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1173",
+                    "fix_rate": 58.0,
+                    "list_price": "$ 437.89"
+                }
+            ]
+        },
+        {
+            "name": "Pilot Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/imperial/ifs-50-op/pilot-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP1096.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 1096 Thermopile, Fryer, TP-75",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1096",
+                    "fix_rate": 42.0,
+                    "list_price": "$ 100.09"
+                }
+            ]
+        },
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/imperial/ifs-50-op/thermostat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP36211.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 36211 Thermostat, Fryer, IFSOP-25/40/75",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n36211",
+                    "fix_rate": 71.0,
+                    "list_price": "$ 777.25"
+                }
+            ]
+        },
+        {
+            "name": "Hi-limit Is Tripping Or Wont Reset",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/imperial/ifs-50-op/hi-limit-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP36211.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 36211 Thermostat, Fryer, IFSOP-25/40/75",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n36211",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 777.25"
+                }
+            ]
+        }
+    ]
+}

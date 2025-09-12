@@ -1,0 +1,1078 @@
+{
+    "brand": "pitco",
+    "model": "sspg",
+    "issues": [
+        {
+            "name": "Unit Is Leaking",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/pitco/sspg/unit-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60163401.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60163401 Water Regulator",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60163401",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 860.00"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/pitco/sspg/unit-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60113501-CL.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60113501-CL Gas Valve Kit , Honeywell, Natural Gas, 24V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60113501-CL",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 346.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60152001-CL.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60152001-CL Ignition Module, 24VAC",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60152001-CL",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 188.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TS/TS006020-40NS.view?thumb&image.rules=G0&w=200",
+                    "product_name": "T&S Brass 006020-40NS Spindle Assembly, RTC",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n006020-40NS",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 80.90"
+                }
+            ]
+        },
+        {
+            "name": "Gas Valve Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/pitco/sspg/gas-valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60113501-CL.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60113501-CL Gas Valve Kit , Honeywell, Natural Gas, 24V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60113501-CL",
+                    "fix_rate": 78.0,
+                    "list_price": "$ 346.00"
+                }
+            ]
+        },
+        {
+            "name": "Valve Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/pitco/sspg/valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60113501-CL.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60113501-CL Gas Valve Kit , Honeywell, Natural Gas, 24V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60113501-CL",
+                    "fix_rate": 23.0,
+                    "list_price": "$ 346.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60115501.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60115501 Stem and Cartridge Assembly, Eterna, Hot",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60115501",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 363.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PTPP10945.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco PP10945 Water Valve With Handle, 3/8\", Brass",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nPP10945",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 204.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TS/TS006020-40NS.view?thumb&image.rules=G0&w=200",
+                    "product_name": "T&S Brass 006020-40NS Spindle Assembly, RTC",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n006020-40NS",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 80.90"
+                }
+            ]
+        },
+        {
+            "name": "Pilot Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/pitco/sspg/pilot-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60113501-CL.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60113501-CL Gas Valve Kit , Honeywell, Natural Gas, 24V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60113501-CL",
+                    "fix_rate": 41.0,
+                    "list_price": "$ 346.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PTB8039517-C.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco B8039517-C Pilot Burner Assembly, Natural Gas, SSH55/75",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nB8039517-C",
+                    "fix_rate": 27.0,
+                    "list_price": "$ 271.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60152001-CL.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60152001-CL Ignition Module, 24VAC",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60152001-CL",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 188.00"
+                }
+            ]
+        },
+        {
+            "name": "Controller Is Malfunctioning",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/pitco/sspg/controller-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60143704.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60143704 Digital Controller, 4 Button, Solstice, Past Perfect",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60143704",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 1,565.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60158301.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60158301 Control, Digital Timer OGARD",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60158301",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 1,311.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PTPP10429.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco PP10429 Transformer, 120/208/240V to 24V, 80VA",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nPP10429",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 211.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PTB3636501-C.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco B3636501-C Top Panel Weldment, Front, Sspg14",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nB3636501-C",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 298.00"
+                }
+            ]
+        },
+        {
+            "name": "Hose Is Broken Or Leaking",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/pitco/sspg/hose-is-broken-or-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PTA3318607-C.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco A3318607-C Overflow Hose, Tank, 36\", Cpe14/Dpe10",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nA3318607-C",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 309.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60145401.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60145401 Hose, Water, 1\"ID x 1-3/8\" OD, Braided PVC, Sold per Foot",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60145401",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 29.00"
+                }
+            ]
+        },
+        {
+            "name": "Unit Won't Turn On",
+            "idx": 7,
+            "url": "https://www.partstown.com/part-predictor/pitco/sspg/unit-wont-turn-on",
+            "results": []
+        },
+        {
+            "name": "Regulator Is Malfunctioning",
+            "idx": 8,
+            "url": "https://www.partstown.com/part-predictor/pitco/sspg/regulator-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60163401.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60163401 Water Regulator",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60163401",
+                    "fix_rate": 63.0,
+                    "list_price": "$ 860.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60163501.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60163501 Pressure Gauge, 0-15 Psi",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60163501",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 534.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT112-000002-001.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 112-000002-001 Pressure Regulator with Gauge, Water, 0-60 PSI",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n112-000002-001",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 395.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60113501-CL.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60113501-CL Gas Valve Kit , Honeywell, Natural Gas, 24V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60113501-CL",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 346.00"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Shutting Down",
+            "idx": 9,
+            "url": "https://www.partstown.com/part-predictor/pitco/sspg/unit-is-shutting-down",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TS/TS006020-40NS.view?thumb&image.rules=G0&w=200",
+                    "product_name": "T&S Brass 006020-40NS Spindle Assembly, RTC",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n006020-40NS",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 80.90"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60115501.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60115501 Stem and Cartridge Assembly, Eterna, Hot",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60115501",
+                    "fix_rate": 20.0,
+                    "list_price": "$ 363.00"
+                }
+            ]
+        },
+        {
+            "name": "Hi-limit Is Tripping Or Wont Reset",
+            "idx": 10,
+            "url": "https://www.partstown.com/part-predictor/pitco/sspg/hi-limit-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60070701.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60070701 HI Limit Thermostat, Manual Reset",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60070701",
+                    "fix_rate": 45.0,
+                    "list_price": "$ 342.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60148101.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60148101 Solenoid Valve , 24VAC",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60148101",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 255.00"
+                }
+            ]
+        },
+        {
+            "name": "Valve Is Leaking",
+            "idx": 11,
+            "url": "https://www.partstown.com/part-predictor/pitco/sspg/valve-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PTPP10945.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco PP10945 Water Valve With Handle, 3/8\", Brass",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nPP10945",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 204.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60115501.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60115501 Stem and Cartridge Assembly, Eterna, Hot",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60115501",
+                    "fix_rate": 20.0,
+                    "list_price": "$ 363.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60113501-CL.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60113501-CL Gas Valve Kit , Honeywell, Natural Gas, 24V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60113501-CL",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 346.00"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Not Lighting",
+            "idx": 12,
+            "url": "https://www.partstown.com/part-predictor/pitco/sspg/unit-is-not-lighting",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60113501-CL.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60113501-CL Gas Valve Kit , Honeywell, Natural Gas, 24V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60113501-CL",
+                    "fix_rate": 33.0,
+                    "list_price": "$ 346.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60152001-CL.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60152001-CL Ignition Module, 24VAC",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60152001-CL",
+                    "fix_rate": 20.0,
+                    "list_price": "$ 188.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60144002-C.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60144002-C Relay Board Kit, 24V, KFC",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60144002-C",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 194.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PTB8039517-C.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco B8039517-C Pilot Burner Assembly, Natural Gas, SSH55/75",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nB8039517-C",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 271.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60148101.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60148101 Solenoid Valve , 24VAC",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60148101",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 255.00"
+                }
+            ]
+        },
+        {
+            "name": "Ignition Module Is Malfunctioning",
+            "idx": 13,
+            "url": "https://www.partstown.com/part-predictor/pitco/sspg/ignition-module-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60152001-CL.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60152001-CL Ignition Module, 24VAC",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60152001-CL",
+                    "fix_rate": 62.0,
+                    "list_price": "$ 188.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60113501-CL.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60113501-CL Gas Valve Kit , Honeywell, Natural Gas, 24V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60113501-CL",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 346.00"
+                }
+            ]
+        },
+        {
+            "name": "Transformer Is Malfunctioning",
+            "idx": 14,
+            "url": "https://www.partstown.com/part-predictor/pitco/sspg/transformer-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PTPP10429.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco PP10429 Transformer, 120/208/240V to 24V, 80VA",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nPP10429",
+                    "fix_rate": 72.0,
+                    "list_price": "$ 211.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60128501-C.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60128501-C POWER CORD, NEMA 5-15P/IEC 320, 16-3AWG",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60128501-C",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 80.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60152001-CL.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60152001-CL Ignition Module, 24VAC",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60152001-CL",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 188.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60144002-C.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60144002-C Relay Board Kit, 24V, KFC",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60144002-C",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 194.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60132703.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60132703 Fuse, Ceramic, 250V, 2.5A, Fast Acting",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60132703",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 25.00"
+                }
+            ]
+        },
+        {
+            "name": "Burner Is Malfunctioning Or Damaged",
+            "idx": 15,
+            "url": "https://www.partstown.com/part-predictor/pitco/sspg/burner-is-malfunctioning-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60113501-CL.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60113501-CL Gas Valve Kit , Honeywell, Natural Gas, 24V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60113501-CL",
+                    "fix_rate": 46.0,
+                    "list_price": "$ 346.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60148101.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60148101 Solenoid Valve , 24VAC",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60148101",
+                    "fix_rate": 20.0,
+                    "list_price": "$ 255.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60147801.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60147801 Hi Limit Thermodisc, Manual Reset",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60147801",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 246.00"
+                }
+            ]
+        },
+        {
+            "name": "Breaker Is Tripping Or Wont Reset",
+            "idx": 16,
+            "url": "https://www.partstown.com/part-predictor/pitco/sspg/breaker-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PTPP10429.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco PP10429 Transformer, 120/208/240V to 24V, 80VA",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nPP10429",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 211.00"
+                }
+            ]
+        },
+        {
+            "name": "Fuse Is Blown",
+            "idx": 17,
+            "url": "https://www.partstown.com/part-predictor/pitco/sspg/fuse-is-blown",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60132703.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60132703 Fuse, Ceramic, 250V, 2.5A, Fast Acting",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60132703",
+                    "fix_rate": 61.0,
+                    "list_price": "$ 25.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PTPP10429.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco PP10429 Transformer, 120/208/240V to 24V, 80VA",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nPP10429",
+                    "fix_rate": 27.0,
+                    "list_price": "$ 211.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60144002-C.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60144002-C Relay Board Kit, 24V, KFC",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60144002-C",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 194.00"
+                }
+            ]
+        },
+        {
+            "name": "Faucet Is Malfunctioning",
+            "idx": 18,
+            "url": "https://www.partstown.com/part-predictor/pitco/sspg/faucet-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60115501.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60115501 Stem and Cartridge Assembly, Eterna, Hot",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60115501",
+                    "fix_rate": 38.0,
+                    "list_price": "$ 363.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TS/TS006020-40NS.view?thumb&image.rules=G0&w=200",
+                    "product_name": "T&S Brass 006020-40NS Spindle Assembly, RTC",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n006020-40NS",
+                    "fix_rate": 23.0,
+                    "list_price": "$ 80.90"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TS/TS000788-20.view?thumb&image.rules=G0&w=200",
+                    "product_name": "T&S Brass 000788-20 Removeable Insert, Hot, Right Hand",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n000788-20",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 14.40"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TS/TS001092-45.view?thumb&image.rules=G0&w=200",
+                    "product_name": "T&S Brass 001092-45 Seat Washer",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n001092-45",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 6.10"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Overheating",
+            "idx": 19,
+            "url": "https://www.partstown.com/part-predictor/pitco/sspg/unit-is-overheating",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60147801.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60147801 Hi Limit Thermodisc, Manual Reset",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60147801",
+                    "fix_rate": 20.0,
+                    "list_price": "$ 246.00"
+                }
+            ]
+        },
+        {
+            "name": "Ingition Module Is Malfunctioning",
+            "idx": 20,
+            "url": "https://www.partstown.com/part-predictor/pitco/sspg/ingition-module-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60152001-CL.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60152001-CL Ignition Module, 24VAC",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60152001-CL",
+                    "fix_rate": 38.0,
+                    "list_price": "$ 188.00"
+                }
+            ]
+        },
+        {
+            "name": "Relay Board Is Malfunctioning",
+            "idx": 21,
+            "url": "https://www.partstown.com/part-predictor/pitco/sspg/relay-board-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60144002-C.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60144002-C Relay Board Kit, 24V, KFC",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60144002-C",
+                    "fix_rate": 52.0,
+                    "list_price": "$ 194.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60132703.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60132703 Fuse, Ceramic, 250V, 2.5A, Fast Acting",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60132703",
+                    "fix_rate": 30.0,
+                    "list_price": "$ 25.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60198601.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60198601 Computer, I12 Solstice Pasta",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60198601",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 1,885.00"
+                }
+            ]
+        },
+        {
+            "name": "Flame Rollout Switch Is Malfunctioning",
+            "idx": 22,
+            "url": "https://www.partstown.com/part-predictor/pitco/sspg/flame-rollout-switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60147801.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60147801 Hi Limit Thermodisc, Manual Reset",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60147801",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 246.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60148101.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60148101 Solenoid Valve , 24VAC",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60148101",
+                    "fix_rate": 27.0,
+                    "list_price": "$ 255.00"
+                }
+            ]
+        },
+        {
+            "name": "Ignitor Is Malfunctioning Or Damaged",
+            "idx": 23,
+            "url": "https://www.partstown.com/part-predictor/pitco/sspg/ignitor-is-malfunctioning-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PTB8039517-C.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco B8039517-C Pilot Burner Assembly, Natural Gas, SSH55/75",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nB8039517-C",
+                    "fix_rate": 52.0,
+                    "list_price": "$ 271.00"
+                }
+            ]
+        },
+        {
+            "name": "Not Filling Properly",
+            "idx": 24,
+            "url": "https://www.partstown.com/part-predictor/pitco/sspg/not-filling-properly",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PTA3318607-C.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco A3318607-C Overflow Hose, Tank, 36\", Cpe14/Dpe10",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nA3318607-C",
+                    "fix_rate": 38.0,
+                    "list_price": "$ 309.00"
+                }
+            ]
+        },
+        {
+            "name": "Hinge Is Defective Or Damaged",
+            "idx": 25,
+            "url": "https://www.partstown.com/part-predictor/pitco/sspg/hinge-is-defective-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PTB3801801.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco B3801801 Hinge Bracket, Lower Rh",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nB3801801",
+                    "fix_rate": 80.0,
+                    "list_price": "$ 81.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PTP6071300.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco P6071300 Door Catch/Magnet, Standard",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nP6071300",
+                    "fix_rate": 30.0,
+                    "list_price": "$ 129.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PTB2304616-C.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco B2304616-C Door Assembly, Sspg14/Sspe14",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nB2304616-C",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 628.00"
+                }
+            ]
+        },
+        {
+            "name": "Display Is Malfunctioning",
+            "idx": 26,
+            "url": "https://www.partstown.com/part-predictor/pitco/sspg/display-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60143704.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60143704 Digital Controller, 4 Button, Solstice, Past Perfect",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60143704",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 1,565.00"
+                }
+            ]
+        },
+        {
+            "name": "Power Cord Is Malfunctioning",
+            "idx": 27,
+            "url": "https://www.partstown.com/part-predictor/pitco/sspg/power-cord-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60128501-C.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60128501-C POWER CORD, NEMA 5-15P/IEC 320, 16-3AWG",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60128501-C",
+                    "fix_rate": 53.0,
+                    "list_price": "$ 80.00"
+                }
+            ]
+        },
+        {
+            "name": "Probe Is Malfunctioning",
+            "idx": 28,
+            "url": "https://www.partstown.com/part-predictor/pitco/sspg/probe-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PTB6718702-C.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco B6718702-C Temperature Probe Retro Kit, PG14D",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nB6718702-C",
+                    "fix_rate": 68.0,
+                    "list_price": "$ 401.00"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Not Reaching Set Temperature",
+            "idx": 29,
+            "url": "https://www.partstown.com/part-predictor/pitco/sspg/unit-is-not-reaching-set-temperature",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60152001-CL.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60152001-CL Ignition Module, 24VAC",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60152001-CL",
+                    "fix_rate": 28.0,
+                    "list_price": "$ 188.00"
+                }
+            ]
+        },
+        {
+            "name": "Wiring Issue",
+            "idx": 30,
+            "url": "https://www.partstown.com/part-predictor/pitco/sspg/wiring-issue",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60152001-CL.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60152001-CL Ignition Module, 24VAC",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60152001-CL",
+                    "fix_rate": 28.0,
+                    "list_price": "$ 188.00"
+                }
+            ]
+        },
+        {
+            "name": "Door Is Malfunctioning",
+            "idx": 31,
+            "url": "https://www.partstown.com/part-predictor/pitco/sspg/door-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PTB3801801.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco B3801801 Hinge Bracket, Lower Rh",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nB3801801",
+                    "fix_rate": 65.0,
+                    "list_price": "$ 81.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PTP6071300.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco P6071300 Door Catch/Magnet, Standard",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nP6071300",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 129.00"
+                }
+            ]
+        },
+        {
+            "name": "Handle Is Defective",
+            "idx": 32,
+            "url": "https://www.partstown.com/part-predictor/pitco/sspg/handle-is-defective",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PTPP10945.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco PP10945 Water Valve With Handle, 3/8\", Brass",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nPP10945",
+                    "fix_rate": 35.0,
+                    "list_price": "$ 204.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PTB8047801-C.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco B8047801-C Handle, Valve Weldment, SSPG",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nB8047801-C",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 246.00"
+                }
+            ]
+        },
+        {
+            "name": "Water Pressure Issue",
+            "idx": 33,
+            "url": "https://www.partstown.com/part-predictor/pitco/sspg/water-pressure-issue",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60163401.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60163401 Water Regulator",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60163401",
+                    "fix_rate": 47.0,
+                    "list_price": "$ 860.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT112-000002-001.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 112-000002-001 Pressure Regulator with Gauge, Water, 0-60 PSI",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n112-000002-001",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 395.00"
+                }
+            ]
+        },
+        {
+            "name": "Vat Is Leaking",
+            "idx": 34,
+            "url": "https://www.partstown.com/part-predictor/pitco/sspg/vat-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PTB3330702-C.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco B3330702-C Frytank Weldment",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nB3330702-C",
+                    "fix_rate": 46.0,
+                    "list_price": "$ 8,474.00"
+                }
+            ]
+        },
+        {
+            "name": "Vat Is Malfunctioning",
+            "idx": 35,
+            "url": "https://www.partstown.com/part-predictor/pitco/sspg/vat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PTB3330702-C.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco B3330702-C Frytank Weldment",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nB3330702-C",
+                    "fix_rate": 42.0,
+                    "list_price": "$ 8,474.00"
+                }
+            ]
+        },
+        {
+            "name": "Burner Wont Light",
+            "idx": 36,
+            "url": "https://www.partstown.com/part-predictor/pitco/sspg/burner-wont-light",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60113501-CL.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60113501-CL Gas Valve Kit , Honeywell, Natural Gas, 24V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60113501-CL",
+                    "fix_rate": 78.0,
+                    "list_price": "$ 346.00"
+                }
+            ]
+        },
+        {
+            "name": "Fire Coming Out Of Burner Area",
+            "idx": 37,
+            "url": "https://www.partstown.com/part-predictor/pitco/sspg/fire-coming-out-of-burner-area",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60113501-CL.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60113501-CL Gas Valve Kit , Honeywell, Natural Gas, 24V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60113501-CL",
+                    "fix_rate": 75.0,
+                    "list_price": "$ 346.00"
+                }
+            ]
+        },
+        {
+            "name": "Gasket Is Defective Or Leaking",
+            "idx": 38,
+            "url": "https://www.partstown.com/part-predictor/pitco/sspg/gasket-is-defective-or-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TS/TS000788-20.view?thumb&image.rules=G0&w=200",
+                    "product_name": "T&S Brass 000788-20 Removeable Insert, Hot, Right Hand",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n000788-20",
+                    "fix_rate": 62.0,
+                    "list_price": "$ 14.40"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,320 @@
+{
+    "brand": "antunes",
+    "model": "rt-2",
+    "issues": [
+        {
+            "name": "Fan Motor Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/antunes/rt-2/fan-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001440.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001440 Fan Replacement Kit, 230V, 50/60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001440",
+                    "fix_rate": 77.0,
+                    "list_price": "$ 221.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001146.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001146 Fan, Blower, 230V, 50/60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001146",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 79.00"
+                }
+            ]
+        },
+        {
+            "name": "Cooling Fan Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/antunes/rt-2/cooling-fan-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001440.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001440 Fan Replacement Kit, 230V, 50/60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001440",
+                    "fix_rate": 74.0,
+                    "list_price": "$ 221.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001146.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001146 Fan, Blower, 230V, 50/60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001146",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 79.00"
+                }
+            ]
+        },
+        {
+            "name": "Heating Element Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/antunes/rt-2/heating-element-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001143.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001143 Relay, Solid State, Random Phase, 50A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001143",
+                    "fix_rate": 41.0,
+                    "list_price": "$ 117.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001090.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001090 Thermocouple Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001090",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 109.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001012.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001012 Heater Kit, Upper, 208V, RT-2",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001012",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 516.00"
+                }
+            ]
+        },
+        {
+            "name": "Motor Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/antunes/rt-2/motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001040.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001040 Motor Board Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001040",
+                    "fix_rate": 30.0,
+                    "list_price": "$ 258.02"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001440.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001440 Fan Replacement Kit, 230V, 50/60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001440",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 221.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001041.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001041 Drive Motor Kit, 230V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001041",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 648.00"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Overheating",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/antunes/rt-2/unit-is-overheating",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001440.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001440 Fan Replacement Kit, 230V, 50/60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001440",
+                    "fix_rate": 41.0,
+                    "list_price": "$ 221.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001090.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001090 Thermocouple Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001090",
+                    "fix_rate": 33.0,
+                    "list_price": "$ 109.00"
+                }
+            ]
+        },
+        {
+            "name": "Wiring Issue",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/antunes/rt-2/wiring-issue",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001143.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001143 Relay, Solid State, Random Phase, 50A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001143",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 117.00"
+                }
+            ]
+        },
+        {
+            "name": "Thermocouple Is Malfunctioning",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/antunes/rt-2/thermocouple-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001090.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001090 Thermocouple Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001090",
+                    "fix_rate": 78.0,
+                    "list_price": "$ 109.00"
+                }
+            ]
+        },
+        {
+            "name": "Display Is Malfunctioning",
+            "idx": 7,
+            "url": "https://www.partstown.com/part-predictor/antunes/rt-2/display-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001007.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001007 Display Board Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001007",
+                    "fix_rate": 55.0,
+                    "list_price": "$ 401.00"
+                }
+            ]
+        },
+        {
+            "name": "Hi-limit Is Tripping Or Wont Reset",
+            "idx": 8,
+            "url": "https://www.partstown.com/part-predictor/antunes/rt-2/hi-limit-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001440.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001440 Fan Replacement Kit, 230V, 50/60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001440",
+                    "fix_rate": 32.0,
+                    "list_price": "$ 221.00"
+                }
+            ]
+        },
+        {
+            "name": "Belt Is Defective",
+            "idx": 9,
+            "url": "https://www.partstown.com/part-predictor/antunes/rt-2/belt-is-defective",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001010.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001010 Conveyor Chain, RT2",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001010",
+                    "fix_rate": 63.0,
+                    "list_price": "$ 245.00"
+                }
+            ]
+        },
+        {
+            "name": "Relay Is Malfunctioning",
+            "idx": 10,
+            "url": "https://www.partstown.com/part-predictor/antunes/rt-2/relay-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001143.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001143 Relay, Solid State, Random Phase, 50A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001143",
+                    "fix_rate": 64.0,
+                    "list_price": "$ 117.00"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Shutting Down",
+            "idx": 11,
+            "url": "https://www.partstown.com/part-predictor/antunes/rt-2/unit-is-shutting-down",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001440.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001440 Fan Replacement Kit, 230V, 50/60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001440",
+                    "fix_rate": 38.0,
+                    "list_price": "$ 221.00"
+                }
+            ]
+        },
+        {
+            "name": "Probe Is Malfunctioning",
+            "idx": 12,
+            "url": "https://www.partstown.com/part-predictor/antunes/rt-2/probe-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001090.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001090 Thermocouple Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001090",
+                    "fix_rate": 67.0,
+                    "list_price": "$ 109.00"
+                }
+            ]
+        },
+        {
+            "name": "Conveyor Belt Is Malfunctioning",
+            "idx": 13,
+            "url": "https://www.partstown.com/part-predictor/antunes/rt-2/conveyor-belt-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001010.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001010 Conveyor Chain, RT2",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001010",
+                    "fix_rate": 73.0,
+                    "list_price": "$ 245.00"
+                }
+            ]
+        },
+        {
+            "name": "Unit Won't Turn On",
+            "idx": 14,
+            "url": "https://www.partstown.com/part-predictor/antunes/rt-2/unit-wont-turn-on",
+            "results": []
+        }
+    ]
+}

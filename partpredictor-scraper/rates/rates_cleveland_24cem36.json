@@ -1,0 +1,23 @@
+{
+    "brand": "cleveland",
+    "model": "24cem36",
+    "issues": [
+        {
+            "name": "Transformer Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/cleveland/24cem36/transformer-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE20535.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 20535 Transformer, Primary 140/480, Secondary 120V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n20535",
+                    "fix_rate": 83.0,
+                    "list_price": "$ 304.60"
+                }
+            ]
+        }
+    ]
+}

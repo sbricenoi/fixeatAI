@@ -1,0 +1,495 @@
+{
+    "brand": "southbend-range",
+    "model": "4361a",
+    "issues": [
+        {
+            "name": "Pilot Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/southbend-range/4361a/pilot-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1182154.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1182154 Thermopile",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1182154",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 188.77"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1401334.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1401334 Oven Safety Valve, CAF\u00c9",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1401334",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 750.17"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1191727.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1191727 Thermostat, RX-Millivolt, 550F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1191727",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 370.38"
+                }
+            ]
+        },
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/southbend-range/4361a/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1179949.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1179949 Rocker Switch, Amber Lighted, 115V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1179949",
+                    "fix_rate": 55.0,
+                    "list_price": "$ 67.95"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1191727.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1191727 Thermostat, RX-Millivolt, 550F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1191727",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 370.38"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1177567.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1177567 Door Switch, SPDT, 15A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1177567",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 27.56"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1186547.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1186547 Door Spring, Music Wire, Coil",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1186547",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 56.97"
+                }
+            ]
+        },
+        {
+            "name": "Door Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/southbend-range/4361a/door-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1186547.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1186547 Door Spring, Music Wire, Coil",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1186547",
+                    "fix_rate": 67.0,
+                    "list_price": "$ 56.97"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1177567.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1177567 Door Switch, SPDT, 15A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1177567",
+                    "fix_rate": 33.0,
+                    "list_price": "$ 27.56"
+                }
+            ]
+        },
+        {
+            "name": "Door Switch Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/southbend-range/4361a/door-switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1177567.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1177567 Door Switch, SPDT, 15A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1177567",
+                    "fix_rate": 71.0,
+                    "list_price": "$ 27.56"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1186547.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1186547 Door Spring, Music Wire, Coil",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1186547",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 56.97"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1191727.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1191727 Thermostat, RX-Millivolt, 550F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1191727",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 370.38"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1179949.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1179949 Rocker Switch, Amber Lighted, 115V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1179949",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 67.95"
+                }
+            ]
+        },
+        {
+            "name": "Fan Motor Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/southbend-range/4361a/fan-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1177567.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1177567 Door Switch, SPDT, 15A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1177567",
+                    "fix_rate": 30.0,
+                    "list_price": "$ 27.56"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1179949.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1179949 Rocker Switch, Amber Lighted, 115V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1179949",
+                    "fix_rate": 24.0,
+                    "list_price": "$ 67.95"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1186547.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1186547 Door Spring, Music Wire, Coil",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1186547",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 56.97"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1191727.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1191727 Thermostat, RX-Millivolt, 550F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1191727",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 370.38"
+                }
+            ]
+        },
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/southbend-range/4361a/thermostat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1191727.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1191727 Thermostat, RX-Millivolt, 550F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1191727",
+                    "fix_rate": 83.0,
+                    "list_price": "$ 370.38"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1179949.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1179949 Rocker Switch, Amber Lighted, 115V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1179949",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 67.95"
+                }
+            ]
+        },
+        {
+            "name": "Door Spring Is Malfunctioning",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/southbend-range/4361a/door-spring-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1186547.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1186547 Door Spring, Music Wire, Coil",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1186547",
+                    "fix_rate": 88.0,
+                    "list_price": "$ 56.97"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1177567.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1177567 Door Switch, SPDT, 15A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1177567",
+                    "fix_rate": 28.0,
+                    "list_price": "$ 27.56"
+                }
+            ]
+        },
+        {
+            "name": "Burner Is Malfunctioning Or Damaged",
+            "idx": 7,
+            "url": "https://www.partstown.com/part-predictor/southbend-range/4361a/burner-is-malfunctioning-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1178202.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1178202 Valve, Hi-Off, Top Burner, Natural Gas or Propane",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1178202",
+                    "fix_rate": 33.0,
+                    "list_price": "$ 88.51"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1191727.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1191727 Thermostat, RX-Millivolt, 550F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1191727",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 370.38"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1189600.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1189600 Knob, Sectional, Metal with Insert",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1189600",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 27.56"
+                }
+            ]
+        },
+        {
+            "name": "Burner Valve Is Malfunctioning",
+            "idx": 8,
+            "url": "https://www.partstown.com/part-predictor/southbend-range/4361a/burner-valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1178202.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1178202 Valve, Hi-Off, Top Burner, Natural Gas or Propane",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1178202",
+                    "fix_rate": 67.0,
+                    "list_price": "$ 88.51"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1189600.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1189600 Knob, Sectional, Metal with Insert",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1189600",
+                    "fix_rate": 28.0,
+                    "list_price": "$ 27.56"
+                }
+            ]
+        },
+        {
+            "name": "Spring Is Malfunctioning",
+            "idx": 9,
+            "url": "https://www.partstown.com/part-predictor/southbend-range/4361a/spring-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1186547.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1186547 Door Spring, Music Wire, Coil",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1186547",
+                    "fix_rate": 88.0,
+                    "list_price": "$ 56.97"
+                }
+            ]
+        },
+        {
+            "name": "Gas Valve Is Malfunctioning",
+            "idx": 10,
+            "url": "https://www.partstown.com/part-predictor/southbend-range/4361a/gas-valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1401334.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1401334 Oven Safety Valve, CAF\u00c9",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1401334",
+                    "fix_rate": 53.0,
+                    "list_price": "$ 750.17"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1182154.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1182154 Thermopile",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1182154",
+                    "fix_rate": 40.0,
+                    "list_price": "$ 188.77"
+                }
+            ]
+        },
+        {
+            "name": "Valve Is Malfunctioning",
+            "idx": 11,
+            "url": "https://www.partstown.com/part-predictor/southbend-range/4361a/valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1178202.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1178202 Valve, Hi-Off, Top Burner, Natural Gas or Propane",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1178202",
+                    "fix_rate": 60.0,
+                    "list_price": "$ 88.51"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1189600.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1189600 Knob, Sectional, Metal with Insert",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1189600",
+                    "fix_rate": 33.0,
+                    "list_price": "$ 27.56"
+                }
+            ]
+        },
+        {
+            "name": "Blower Motor Is Malfunctioning",
+            "idx": 12,
+            "url": "https://www.partstown.com/part-predictor/southbend-range/4361a/blower-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1177567.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1177567 Door Switch, SPDT, 15A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1177567",
+                    "fix_rate": 36.0,
+                    "list_price": "$ 27.56"
+                }
+            ]
+        },
+        {
+            "name": "Thermopile Is Malfunctioning",
+            "idx": 13,
+            "url": "https://www.partstown.com/part-predictor/southbend-range/4361a/thermopile-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1182154.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1182154 Thermopile",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1182154",
+                    "fix_rate": 75.0,
+                    "list_price": "$ 188.77"
+                }
+            ]
+        },
+        {
+            "name": "Breaker Is Tripping Or Wont Reset",
+            "idx": 14,
+            "url": "https://www.partstown.com/part-predictor/southbend-range/4361a/breaker-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1177567.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1177567 Door Switch, SPDT, 15A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1177567",
+                    "fix_rate": 67.0,
+                    "list_price": "$ 27.56"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1179949.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1179949 Rocker Switch, Amber Lighted, 115V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1179949",
+                    "fix_rate": 56.0,
+                    "list_price": "$ 67.95"
+                }
+            ]
+        },
+        {
+            "name": "Fan Switch Is Malfunctioning",
+            "idx": 15,
+            "url": "https://www.partstown.com/part-predictor/southbend-range/4361a/fan-switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1179949.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1179949 Rocker Switch, Amber Lighted, 115V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1179949",
+                    "fix_rate": 86.0,
+                    "list_price": "$ 67.95"
+                }
+            ]
+        },
+        {
+            "name": "Wiring Issue",
+            "idx": 16,
+            "url": "https://www.partstown.com/part-predictor/southbend-range/4361a/wiring-issue",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1179949.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1179949 Rocker Switch, Amber Lighted, 115V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1179949",
+                    "fix_rate": 71.0,
+                    "list_price": "$ 67.95"
+                }
+            ]
+        }
+    ]
+}

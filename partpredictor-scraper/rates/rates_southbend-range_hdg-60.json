@@ -1,0 +1,87 @@
+{
+    "brand": "southbend-range",
+    "model": "hdg-60",
+    "issues": [
+        {
+            "name": "Pilot Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/southbend-range/hdg-60/pilot-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1182580.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1182580 Thermocouple, 24\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1182580",
+                    "fix_rate": 23.0,
+                    "list_price": "$ 60.85"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1182565.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1182565 Thermocouple, 48\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1182565",
+                    "fix_rate": 20.0,
+                    "list_price": "$ 78.14"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1182567.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1182567 Safety Valve, Baso, Dual Coil",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1182567",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 1,048.17"
+                }
+            ]
+        },
+        {
+            "name": "Thermocouple Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/southbend-range/hdg-60/thermocouple-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1182565.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1182565 Thermocouple, 48\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1182565",
+                    "fix_rate": 45.0,
+                    "list_price": "$ 78.14"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1182580.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1182580 Thermocouple, 24\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1182580",
+                    "fix_rate": 35.0,
+                    "list_price": "$ 60.85"
+                }
+            ]
+        },
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/southbend-range/hdg-60/thermostat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1182553.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1182553 Thermostat, Snap Action GS, Griddle",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1182553",
+                    "fix_rate": 72.0,
+                    "list_price": "$ 682.62"
+                }
+            ]
+        }
+    ]
+}

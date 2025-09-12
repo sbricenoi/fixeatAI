@@ -1,0 +1,23 @@
+{
+    "brand": "traulsen",
+    "model": "uht27",
+    "issues": [
+        {
+            "name": "Controller Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/traulsen/uht27/controller-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TR/TRSK-950-60552-00.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Traulsen SK-950-60552-00 Danfoss To Trl Retrofit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSK-950-60552-00",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 530.57"
+                }
+            ]
+        }
+    ]
+}

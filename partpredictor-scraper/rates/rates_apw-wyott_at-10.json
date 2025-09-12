@@ -1,0 +1,23 @@
+{
+    "brand": "apw-wyott",
+    "model": "at-10",
+    "issues": [
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/apw-wyott/at-10/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/APW/APW2E-89501.view?thumb&image.rules=G0&w=200",
+                    "product_name": "APW Wyott 2E-89501 Switch, Rocker, DPST, 20AMP, 125V/250V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2E-89501",
+                    "fix_rate": 75.0,
+                    "list_price": "$ 46.83"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "brand": "alto-shaam",
+    "model": "ctc20-20g",
+    "issues": [
+        {
+            "name": "Door Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/alto-shaam/ctc20-20g/door-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/ALT/ALTHD-35325R.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Alto Shaam HD-35325R Handle Service Kit, Roll In",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nHD-35325R",
+                    "fix_rate": 44.0,
+                    "list_price": "$ 667.00"
+                }
+            ]
+        },
+        {
+            "name": "Handle Is Defective",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/alto-shaam/ctc20-20g/handle-is-defective",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/ALT/ALTHD-35325R.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Alto Shaam HD-35325R Handle Service Kit, Roll In",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nHD-35325R",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 667.00"
+                }
+            ]
+        },
+        {
+            "name": "Burner Is Malfunctioning Or Damaged",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/alto-shaam/ctc20-20g/burner-is-malfunctioning-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/ALT/ALTSN-48141R.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Alto Shaam SN-48141R Flame Sensor Kit with Wire",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSN-48141R",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 26.00"
+                }
+            ]
+        }
+    ]
+}

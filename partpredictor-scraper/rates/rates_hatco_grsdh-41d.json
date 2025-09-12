@@ -1,0 +1,57 @@
+{
+    "brand": "hatco",
+    "model": "grsdh-41d",
+    "issues": [
+        {
+            "name": "Relay Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/hatco/grsdh-41d/relay-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HT/HTR02.01.050.00.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hatco R02.01.050.00 Relay Kit, Mini, 30A, SPST, 24VDC",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nR02.01.050.00",
+                    "fix_rate": 88.0,
+                    "list_price": "$ 31.00"
+                }
+            ]
+        },
+        {
+            "name": "Display Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/hatco/grsdh-41d/display-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HT/HTR02.16.057.00.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hatco R02.16.057.00 Digital Thermometer/Sensor Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nR02.16.057.00",
+                    "fix_rate": 56.0,
+                    "list_price": "$ 158.00"
+                }
+            ]
+        },
+        {
+            "name": "Controller Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/hatco/grsdh-41d/controller-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HT/HTR02.01.259.00.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hatco R02.01.259.00 Digital Temperature Control with Bezel, 24V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nR02.01.259.00",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 211.00"
+                }
+            ]
+        }
+    ]
+}

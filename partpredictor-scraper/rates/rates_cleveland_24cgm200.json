@@ -1,0 +1,232 @@
+{
+    "brand": "cleveland",
+    "model": "24cgm200",
+    "issues": [
+        {
+            "name": "Hose Is Broken Or Leaking",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/cleveland/24cgm200/hose-is-broken-or-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE110198.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 110198 Timer, Mechanical, Motor Driven, 120V, 60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n110198",
+                    "fix_rate": 24.0,
+                    "list_price": "$ 212.20"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE08511.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 08511 Hose, White EPDM, 3/4\" ID, FDA, Per Foot",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n08511",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 45.55"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Leaking",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/cleveland/24cgm200/unit-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEFK07302.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland FK07302 Gauge Glass/Washer Set, Water, 5/8 X 6\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nFK07302",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 40.57"
+                }
+            ]
+        },
+        {
+            "name": "Probe Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/cleveland/24cgm200/probe-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLES40462.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland S40462 Water Level Probe with Lockwasher",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nS40462",
+                    "fix_rate": 65.0,
+                    "list_price": "$ 135.23"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE100330.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 100330 Gasket, Handhole, Generator",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100330",
+                    "fix_rate": 45.0,
+                    "list_price": "$ 44.87"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE62452.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 62452 Extension, Water Probe, 0.5 x 3.125",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n62452",
+                    "fix_rate": 40.0,
+                    "list_price": "$ 18.51"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE101466.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 101466 Extension Set, Probe, Set of 2",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n101466",
+                    "fix_rate": 35.0,
+                    "list_price": "$ 23.80"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE62453.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 62453 Probe Extension, .5 x 4.625",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n62453",
+                    "fix_rate": 35.0,
+                    "list_price": "$ 11.87"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE43895.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 43895 Anode, Corrosion Resistor",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n43895",
+                    "fix_rate": 30.0,
+                    "list_price": "$ 50.66"
+                }
+            ]
+        },
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/cleveland/24cgm200/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE19993.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 19993 Switch, DPDT, On/Off, Red Light",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n19993",
+                    "fix_rate": 42.0,
+                    "list_price": "$ 68.72"
+                }
+            ]
+        },
+        {
+            "name": "Ignition Module Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/cleveland/24cgm200/ignition-module-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE05101.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 05101 Ignitor Electrode",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n05101",
+                    "fix_rate": 55.0,
+                    "list_price": "$ 68.13"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE03546.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 03546 Ignition Module, Direct Spark, Honeywell",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n03546",
+                    "fix_rate": 55.0,
+                    "list_price": "$ 481.10"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE44169.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 44169 Ignition Cable Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n44169",
+                    "fix_rate": 45.0,
+                    "list_price": "$ 75.05"
+                }
+            ]
+        },
+        {
+            "name": "Wiring Issue",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/cleveland/24cgm200/wiring-issue",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE44169.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 44169 Ignition Cable Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n44169",
+                    "fix_rate": 60.0,
+                    "list_price": "$ 75.05"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE05101.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 05101 Ignitor Electrode",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n05101",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 68.13"
+                }
+            ]
+        },
+        {
+            "name": "Ignitor Is Malfunctioning Or Damaged",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/cleveland/24cgm200/ignitor-is-malfunctioning-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE05101.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 05101 Ignitor Electrode",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n05101",
+                    "fix_rate": 62.0,
+                    "list_price": "$ 68.13"
+                }
+            ]
+        },
+        {
+            "name": "Ingition Module Is Malfunctioning",
+            "idx": 7,
+            "url": "https://www.partstown.com/part-predictor/cleveland/24cgm200/ingition-module-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE44169.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 44169 Ignition Cable Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n44169",
+                    "fix_rate": 83.0,
+                    "list_price": "$ 75.05"
+                }
+            ]
+        }
+    ]
+}

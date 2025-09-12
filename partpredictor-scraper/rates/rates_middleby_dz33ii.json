@@ -1,0 +1,91 @@
+{
+    "brand": "middleby",
+    "model": "dz33ii",
+    "issues": [
+        {
+            "name": "Motor Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/middleby/dz33ii/motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/MD/MD61803.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Middleby 61803 Motor Assembly, Conveyor, DZ33/DZ55",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n61803",
+                    "fix_rate": 84.0,
+                    "list_price": "$ 1,641.16"
+                }
+            ]
+        },
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/middleby/dz33ii/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/MD/MD70984.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Middleby 70984 Switch Replacement Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n70984",
+                    "fix_rate": 81.0,
+                    "list_price": "$ 34.88"
+                }
+            ]
+        },
+        {
+            "name": "Belt Is Not Moving",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/middleby/dz33ii/belt-is-not-moving",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/MD/MD61803.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Middleby 61803 Motor Assembly, Conveyor, DZ33/DZ55",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n61803",
+                    "fix_rate": 77.0,
+                    "list_price": "$ 1,641.16"
+                }
+            ]
+        },
+        {
+            "name": "Belt Is Defective",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/middleby/dz33ii/belt-is-defective",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/MD/MD61803.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Middleby 61803 Motor Assembly, Conveyor, DZ33/DZ55",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n61803",
+                    "fix_rate": 42.0,
+                    "list_price": "$ 1,641.16"
+                }
+            ]
+        },
+        {
+            "name": "Thermocouple Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/middleby/dz33ii/thermocouple-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/MD/MD70473.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Middleby 70473 Thermocouple Kit, DZ33II",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n70473",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 182.20"
+                }
+            ]
+        }
+    ]
+}

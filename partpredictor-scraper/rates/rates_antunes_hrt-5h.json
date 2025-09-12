@@ -1,0 +1,484 @@
+{
+    "brand": "antunes",
+    "model": "hrt-5h",
+    "issues": [
+        {
+            "name": "Fan Motor Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/antunes/hrt-5h/fan-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001146.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001146 Fan, Blower, 230V, 50/60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001146",
+                    "fix_rate": 45.0,
+                    "list_price": "$ 79.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001440.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001440 Fan Replacement Kit, 230V, 50/60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001440",
+                    "fix_rate": 38.0,
+                    "list_price": "$ 221.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001040.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001040 Motor Board Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001040",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 258.02"
+                }
+            ]
+        },
+        {
+            "name": "Relay Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/antunes/hrt-5h/relay-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001142.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001142 Relay Replacement Kit, Solid State",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001142",
+                    "fix_rate": 77.0,
+                    "list_price": "$ 184.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001143.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001143 Relay, Solid State, Random Phase, 50A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001143",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 117.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001042.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001042 Main Board Kit, HCT-5H",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001042",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 507.15"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001138.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001138 Sensing Board",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001138",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 124.00"
+                }
+            ]
+        },
+        {
+            "name": "Wiring Issue",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/antunes/hrt-5h/wiring-issue",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001142.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001142 Relay Replacement Kit, Solid State",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001142",
+                    "fix_rate": 44.0,
+                    "list_price": "$ 184.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001035.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001035 Element Kit, Top, 208V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001035",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 442.26"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001040.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001040 Motor Board Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001040",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 258.02"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001031.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001031 Control Housing Probe Kit, HRT-5H",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001031",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 190.79"
+                }
+            ]
+        },
+        {
+            "name": "Motor Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/antunes/hrt-5h/motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001040.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001040 Motor Board Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001040",
+                    "fix_rate": 52.0,
+                    "list_price": "$ 258.02"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001440.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001440 Fan Replacement Kit, 230V, 50/60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001440",
+                    "fix_rate": 35.0,
+                    "list_price": "$ 221.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001146.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001146 Fan, Blower, 230V, 50/60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001146",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 79.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001542.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001542 Wire Harness Kit, Undercarriage, Hrt-5H",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001542",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 168.00"
+                }
+            ]
+        },
+        {
+            "name": "Heating Element Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/antunes/hrt-5h/heating-element-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001142.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001142 Relay Replacement Kit, Solid State",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001142",
+                    "fix_rate": 53.0,
+                    "list_price": "$ 184.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001035.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001035 Element Kit, Top, 208V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001035",
+                    "fix_rate": 27.0,
+                    "list_price": "$ 442.26"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001031.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001031 Control Housing Probe Kit, HRT-5H",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001031",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 190.79"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Overheating",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/antunes/hrt-5h/unit-is-overheating",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001146.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001146 Fan, Blower, 230V, 50/60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001146",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 79.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001031.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001031 Control Housing Probe Kit, HRT-5H",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001031",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 190.79"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001040.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001040 Motor Board Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001040",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 258.02"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001042.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001042 Main Board Kit, HCT-5H",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001042",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 507.15"
+                }
+            ]
+        },
+        {
+            "name": "Cooling Fan Is Malfunctioning",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/antunes/hrt-5h/cooling-fan-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001440.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001440 Fan Replacement Kit, 230V, 50/60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001440",
+                    "fix_rate": 58.0,
+                    "list_price": "$ 221.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001146.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001146 Fan, Blower, 230V, 50/60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001146",
+                    "fix_rate": 33.0,
+                    "list_price": "$ 79.00"
+                }
+            ]
+        },
+        {
+            "name": "Contactor Is Malfunctioning",
+            "idx": 7,
+            "url": "https://www.partstown.com/part-predictor/antunes/hrt-5h/contactor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001017.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001017 Contactor Kit, 208/240V, 50/60HZ, 2 Pole",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001017",
+                    "fix_rate": 73.0,
+                    "list_price": "$ 106.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001142.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001142 Relay Replacement Kit, Solid State",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001142",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 184.00"
+                }
+            ]
+        },
+        {
+            "name": "Controller Is Malfunctioning",
+            "idx": 8,
+            "url": "https://www.partstown.com/part-predictor/antunes/hrt-5h/controller-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001040.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001040 Motor Board Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001040",
+                    "fix_rate": 65.0,
+                    "list_price": "$ 258.02"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001146.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001146 Fan, Blower, 230V, 50/60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001146",
+                    "fix_rate": 30.0,
+                    "list_price": "$ 79.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001440.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001440 Fan Replacement Kit, 230V, 50/60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001440",
+                    "fix_rate": 30.0,
+                    "list_price": "$ 221.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001042.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001042 Main Board Kit, HCT-5H",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001042",
+                    "fix_rate": 30.0,
+                    "list_price": "$ 507.15"
+                }
+            ]
+        },
+        {
+            "name": "Probe Is Malfunctioning",
+            "idx": 9,
+            "url": "https://www.partstown.com/part-predictor/antunes/hrt-5h/probe-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001031.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001031 Control Housing Probe Kit, HRT-5H",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001031",
+                    "fix_rate": 67.0,
+                    "list_price": "$ 190.79"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001142.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001142 Relay Replacement Kit, Solid State",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001142",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 184.00"
+                }
+            ]
+        },
+        {
+            "name": "Display Is Malfunctioning",
+            "idx": 10,
+            "url": "https://www.partstown.com/part-predictor/antunes/hrt-5h/display-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001043.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001043 Display Board Kit, HCT-5H",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001043",
+                    "fix_rate": 37.0,
+                    "list_price": "$ 389.76"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001146.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001146 Fan, Blower, 230V, 50/60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001146",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 79.00"
+                }
+            ]
+        },
+        {
+            "name": "Hi-limit Is Tripping Or Wont Reset",
+            "idx": 11,
+            "url": "https://www.partstown.com/part-predictor/antunes/hrt-5h/hi-limit-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001042.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001042 Main Board Kit, HCT-5H",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001042",
+                    "fix_rate": 33.0,
+                    "list_price": "$ 507.15"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001144.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001144 Hi-Limit Thermostat",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001144",
+                    "fix_rate": 28.0,
+                    "list_price": "$ 184.00"
+                }
+            ]
+        },
+        {
+            "name": "Sensor Is Malfunctioning",
+            "idx": 12,
+            "url": "https://www.partstown.com/part-predictor/antunes/hrt-5h/sensor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001031.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001031 Control Housing Probe Kit, HRT-5H",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001031",
+                    "fix_rate": 42.0,
+                    "list_price": "$ 190.79"
+                }
+            ]
+        },
+        {
+            "name": "Blower Motor Is Malfunctioning",
+            "idx": 13,
+            "url": "https://www.partstown.com/part-predictor/antunes/hrt-5h/blower-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001146.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001146 Fan, Blower, 230V, 50/60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001146",
+                    "fix_rate": 75.0,
+                    "list_price": "$ 79.00"
+                }
+            ]
+        }
+    ]
+}

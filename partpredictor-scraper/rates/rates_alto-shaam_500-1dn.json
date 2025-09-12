@@ -1,0 +1,137 @@
+{
+    "brand": "alto-shaam",
+    "model": "500-1dn",
+    "issues": [
+        {
+            "name": "Breaker Is Tripping Or Wont Reset",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/alto-shaam/500-1dn/breaker-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/ALT/ALTEL-29738.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Alto Shaam EL-29738 Element, Foil Pad, 640W",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nEL-29738",
+                    "fix_rate": 69.0,
+                    "list_price": "$ 128.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/ALT/ALTRI-38125.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Alto Shaam RI-38125 Rivet, Sealed, .125\", Dome",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRI-38125",
+                    "fix_rate": 36.0,
+                    "list_price": "$ 6.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/ALT/ALTAD-2140.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Alto Shaam AD-2140 Silicone Sealant, Aluminum",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nAD-2140",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 37.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/ALT/ALTIN-2003.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Alto Shaam IN-2003 Insulation, Fiberglass, Front Trim",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nIN-2003",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 28.00"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Overheating",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/alto-shaam/500-1dn/unit-is-overheating",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/ALT/ALTEL-29738.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Alto Shaam EL-29738 Element, Foil Pad, 640W",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nEL-29738",
+                    "fix_rate": 64.0,
+                    "list_price": "$ 128.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/ALT/ALTRI-38125.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Alto Shaam RI-38125 Rivet, Sealed, .125\", Dome",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRI-38125",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 6.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/ALT/ALTIN-2003.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Alto Shaam IN-2003 Insulation, Fiberglass, Front Trim",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nIN-2003",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 28.00"
+                }
+            ]
+        },
+        {
+            "name": "Insulation Is Damaged",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/alto-shaam/500-1dn/insulation-is-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/ALT/ALTEL-29738.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Alto Shaam EL-29738 Element, Foil Pad, 640W",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nEL-29738",
+                    "fix_rate": 70.0,
+                    "list_price": "$ 128.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/ALT/ALTIN-2003.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Alto Shaam IN-2003 Insulation, Fiberglass, Front Trim",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nIN-2003",
+                    "fix_rate": 60.0,
+                    "list_price": "$ 28.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/ALT/ALTAD-2140.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Alto Shaam AD-2140 Silicone Sealant, Aluminum",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nAD-2140",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 37.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/ALT/ALTRI-38125.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Alto Shaam RI-38125 Rivet, Sealed, .125\", Dome",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRI-38125",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 6.00"
+                }
+            ]
+        }
+    ]
+}

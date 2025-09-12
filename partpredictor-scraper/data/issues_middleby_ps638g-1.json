@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Belt Is Defective",
+        "parsed_name": "belt-is-defective"
+    },
+    {
+        "name": "Blower Motor Is Malfunctioning",
+        "parsed_name": "blower-motor-is-malfunctioning"
+    },
+    {
+        "name": "Display Is Malfunctioning",
+        "parsed_name": "display-is-malfunctioning"
+    }
+]

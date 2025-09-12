@@ -1,0 +1,23 @@
+{
+    "brand": "wells",
+    "model": "wg3048g",
+    "issues": [
+        {
+            "name": "Gas Valve Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/wells/wg3048g/gas-valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/WEL/WELWS-65307.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Wells WS-65307 Gas Valve, WG Series Griddle",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nWS-65307",
+                    "fix_rate": 88.0,
+                    "list_price": "$ 713.18"
+                }
+            ]
+        }
+    ]
+}

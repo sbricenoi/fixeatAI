@@ -1,0 +1,23 @@
+{
+    "brand": "vulcan-hart",
+    "model": "vicm48",
+    "issues": [
+        {
+            "name": "Burner Is Malfunctioning Or Damaged",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/vulcan-hart/vicm48/burner-is-malfunctioning-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-944489-00020.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-944489-00020 Infrared Burner, 20,000 BTU",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-944489-00020",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 378.90"
+                }
+            ]
+        }
+    ]
+}

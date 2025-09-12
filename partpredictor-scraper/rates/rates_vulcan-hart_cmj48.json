@@ -1,0 +1,23 @@
+{
+    "brand": "vulcan-hart",
+    "model": "cmj48",
+    "issues": [
+        {
+            "name": "Burner Is Malfunctioning Or Damaged",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/vulcan-hart/cmj48/burner-is-malfunctioning-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-712398.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-712398 Infrared Burner",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-712398",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 341.76"
+                }
+            ]
+        }
+    ]
+}

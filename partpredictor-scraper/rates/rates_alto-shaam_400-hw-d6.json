@@ -1,0 +1,23 @@
+{
+    "brand": "alto-shaam",
+    "model": "400-hw-d6",
+    "issues": [
+        {
+            "name": "Controller Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/alto-shaam/400-hw-d6/controller-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/ALT/ALTCC-36859.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Alto Shaam CC-36859 Control Board, 650F Max/200F Min",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nCC-36859",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 148.00"
+                }
+            ]
+        }
+    ]
+}

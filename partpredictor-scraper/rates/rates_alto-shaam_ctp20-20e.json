@@ -1,0 +1,77 @@
+{
+    "brand": "alto-shaam",
+    "model": "ctp20-20e",
+    "issues": [
+        {
+            "name": "Door Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/alto-shaam/ctp20-20e/door-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/ALT/ALTHD-35325R.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Alto Shaam HD-35325R Handle Service Kit, Roll In",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nHD-35325R",
+                    "fix_rate": 44.0,
+                    "list_price": "$ 667.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/ALT/ALTBP-38451.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Alto Shaam BP-38451 Latch, Adjustable, Roll-In",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nBP-38451",
+                    "fix_rate": 28.0,
+                    "list_price": "$ 35.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/ALT/ALTGS-38508.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Alto Shaam GS-38508 Door Gasket, 20.20 CTC/CTP",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nGS-38508",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 550.00"
+                }
+            ]
+        },
+        {
+            "name": "Handle Is Defective",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/alto-shaam/ctp20-20e/handle-is-defective",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/ALT/ALTHD-35325R.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Alto Shaam HD-35325R Handle Service Kit, Roll In",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nHD-35325R",
+                    "fix_rate": 82.0,
+                    "list_price": "$ 667.00"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Leaking",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/alto-shaam/ctp20-20e/unit-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/ALT/ALTGS-38510.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Alto Shaam GS-38510 Sweep Gasket, 20.20",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nGS-38510",
+                    "fix_rate": 36.0,
+                    "list_price": "$ 344.00"
+                }
+            ]
+        }
+    ]
+}

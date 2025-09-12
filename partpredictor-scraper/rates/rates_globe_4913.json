@@ -1,0 +1,33 @@
+{
+    "brand": "globe",
+    "model": "4913",
+    "issues": [
+        {
+            "name": "Blade Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/globe/4913/blade-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GLO/GLO330205-01.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Globe 330205-01 13\" Knife Cover Assembly, Standard",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n330205-01",
+                    "fix_rate": 35.0,
+                    "list_price": "$ 463.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GLO/GLO450171.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Globe 450171 Knife, Slicer, 13\" Stainless Steel",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n450171",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 530.00"
+                }
+            ]
+        }
+    ]
+}

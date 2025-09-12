@@ -1,0 +1,46 @@
+[
+    {
+        "name": "Pilot Is Malfunctioning",
+        "parsed_name": "pilot-is-malfunctioning"
+    },
+    {
+        "name": "Thermostat Is Malfunctioning",
+        "parsed_name": "thermostat-is-malfunctioning"
+    },
+    {
+        "name": "Burner Is Malfunctioning Or Damaged",
+        "parsed_name": "burner-is-malfunctioning-or-damaged"
+    },
+    {
+        "name": "Door Is Malfunctioning",
+        "parsed_name": "door-is-malfunctioning"
+    },
+    {
+        "name": "Thermopile Is Malfunctioning",
+        "parsed_name": "thermopile-is-malfunctioning"
+    },
+    {
+        "name": "Gas Valve Is Malfunctioning",
+        "parsed_name": "gas-valve-is-malfunctioning"
+    },
+    {
+        "name": "Burner Valve Is Malfunctioning",
+        "parsed_name": "burner-valve-is-malfunctioning"
+    },
+    {
+        "name": "Valve Is Malfunctioning",
+        "parsed_name": "valve-is-malfunctioning"
+    },
+    {
+        "name": "Door Spring Is Malfunctioning",
+        "parsed_name": "door-spring-is-malfunctioning"
+    },
+    {
+        "name": "Burner Wont Light",
+        "parsed_name": "burner-wont-light"
+    },
+    {
+        "name": "Valve Stem Is Malfunctioning",
+        "parsed_name": "valve-stem-is-malfunctioning"
+    }
+]

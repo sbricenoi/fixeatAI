@@ -1,0 +1,23 @@
+{
+    "brand": "alto-shaam",
+    "model": "ctp10-10g",
+    "issues": [
+        {
+            "name": "Ignition Module Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/alto-shaam/ctp10-10g/ignition-module-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/ALT/ALTSN-48141R.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Alto Shaam SN-48141R Flame Sensor Kit with Wire",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSN-48141R",
+                    "fix_rate": 82.0,
+                    "list_price": "$ 26.00"
+                }
+            ]
+        }
+    ]
+}

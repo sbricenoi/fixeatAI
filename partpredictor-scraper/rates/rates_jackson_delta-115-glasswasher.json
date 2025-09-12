@@ -1,0 +1,23 @@
+{
+    "brand": "jackson",
+    "model": "delta-115-glasswasher",
+    "issues": [
+        {
+            "name": "Unit Is Leaking",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/jackson/delta-115-glasswasher/unit-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/JAC/JAC6685-111-88-34.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jackson 6685-111-88-34 Pressure Gauge, 0-100 PSI, 1/4\", Bottom Mount",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n6685-111-88-34",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 42.56"
+                }
+            ]
+        }
+    ]
+}

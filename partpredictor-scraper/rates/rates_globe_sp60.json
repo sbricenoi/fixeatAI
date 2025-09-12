@@ -1,0 +1,57 @@
+{
+    "brand": "globe",
+    "model": "sp60",
+    "issues": [
+        {
+            "name": "Contactor Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/globe/sp60/contactor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GLO/GLOX60154-2.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Globe X60154-2 Overload Relay Kit, Sp60-1",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nX60154-2",
+                    "fix_rate": 62.0,
+                    "list_price": "$ 474.00"
+                }
+            ]
+        },
+        {
+            "name": "Relay Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/globe/sp60/relay-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GLO/GLOX60154-2.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Globe X60154-2 Overload Relay Kit, Sp60-1",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nX60154-2",
+                    "fix_rate": 55.0,
+                    "list_price": "$ 474.00"
+                }
+            ]
+        },
+        {
+            "name": "Controller Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/globe/sp60/controller-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GLO/GLOX00568.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Globe X00568 Control Board",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nX00568",
+                    "fix_rate": 71.0,
+                    "list_price": "$ 247.00"
+                }
+            ]
+        }
+    ]
+}

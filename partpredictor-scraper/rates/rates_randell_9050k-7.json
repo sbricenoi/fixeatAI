@@ -1,0 +1,23 @@
+{
+    "brand": "randell",
+    "model": "9050k-7",
+    "issues": [
+        {
+            "name": "Compressor Is Not Running",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/randell/9050k-7/compressor-is-not-running",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFFLT251.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF FLT251 Filter Drier, 1/4\" with 2nd 1/4\" Inlet",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF FLT251",
+                    "fix_rate": 56.0,
+                    "list_price": "$ 30.54"
+                }
+            ]
+        }
+    ]
+}

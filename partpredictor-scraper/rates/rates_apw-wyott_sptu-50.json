@@ -1,0 +1,111 @@
+{
+    "brand": "apw-wyott",
+    "model": "sptu-50",
+    "issues": [
+        {
+            "name": "Roller Is Damaged Or Missing",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/apw-wyott/sptu-50/roller-is-damaged-or-missing",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/APW/APW2N-25000015.view?thumb&image.rules=G0&w=200",
+                    "product_name": "APW Wyott 2N-25000015 Heater/Element, Foil Blanket, 120V, 700W",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2N-25000015",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 559.49"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Not Reaching Set Temperature",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/apw-wyott/sptu-50/unit-is-not-reaching-set-temperature",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/APW/APW2T-1486410.view?thumb&image.rules=G0&w=200",
+                    "product_name": "APW Wyott 2T-1486410 Bi-Metal Disc Thermostat, 125/2",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2T-1486410",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 48.28"
+                }
+            ]
+        },
+        {
+            "name": "Heating Element Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/apw-wyott/sptu-50/heating-element-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/APW/APW2N-25000015.view?thumb&image.rules=G0&w=200",
+                    "product_name": "APW Wyott 2N-25000015 Heater/Element, Foil Blanket, 120V, 700W",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2N-25000015",
+                    "fix_rate": 53.0,
+                    "list_price": "$ 559.49"
+                }
+            ]
+        },
+        {
+            "name": "Hi-limit Is Tripping Or Wont Reset",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/apw-wyott/sptu-50/hi-limit-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/APW/APW2T-1486410.view?thumb&image.rules=G0&w=200",
+                    "product_name": "APW Wyott 2T-1486410 Bi-Metal Disc Thermostat, 125/2",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2T-1486410",
+                    "fix_rate": 60.0,
+                    "list_price": "$ 48.28"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/APW/APW2T-1481510.view?thumb&image.rules=G0&w=200",
+                    "product_name": "APW Wyott 2T-1481510 Thermostat, 200F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2T-1481510",
+                    "fix_rate": 33.0,
+                    "list_price": "$ 86.18"
+                }
+            ]
+        },
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/apw-wyott/sptu-50/thermostat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/APW/APW2T-1486410.view?thumb&image.rules=G0&w=200",
+                    "product_name": "APW Wyott 2T-1486410 Bi-Metal Disc Thermostat, 125/2",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2T-1486410",
+                    "fix_rate": 88.0,
+                    "list_price": "$ 48.28"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/APW/APW2T-1481510.view?thumb&image.rules=G0&w=200",
+                    "product_name": "APW Wyott 2T-1481510 Thermostat, 200F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2T-1481510",
+                    "fix_rate": 62.0,
+                    "list_price": "$ 86.18"
+                }
+            ]
+        }
+    ]
+}

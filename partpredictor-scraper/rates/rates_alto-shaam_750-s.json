@@ -1,0 +1,60 @@
+{
+    "brand": "alto-shaam",
+    "model": "750-s",
+    "issues": [
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/alto-shaam/750-s/thermostat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/ALT/ALTKN-3469.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Alto Shaam KN-3469 Knob, Thermostat, 60-200F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKN-3469",
+                    "fix_rate": 39.0,
+                    "list_price": "$ 20.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/ALT/ALTTT-3057.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Alto Shaam TT-3057 Thermostat, Slow, 200F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nTT-3057",
+                    "fix_rate": 39.0,
+                    "list_price": "$ 174.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/ALT/ALTTT-33626.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Alto Shaam TT-33626 Thermostat, Snap Action, 200F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nTT-33626",
+                    "fix_rate": 28.0,
+                    "list_price": "$ 204.00"
+                }
+            ]
+        },
+        {
+            "name": "Controller Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/alto-shaam/750-s/controller-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/ALT/ALTCC-34970.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Alto Shaam CC-34970 Control Board, Warmer, Low Cost",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nCC-34970",
+                    "fix_rate": 54.0,
+                    "list_price": "$ 313.00"
+                }
+            ]
+        }
+    ]
+}

@@ -18,7 +18,9 @@ import base64
 import io
 import mimetypes
 
-from services.kb.demo_kb import kb_search, ingest_docs
+from services.kb.demo_kb import kb_search, ingest_docs, get_all_documents
+from services.taxonomy.auto_learner import TaxonomyAutoLearner
+from services.llm.client import LLMClient
 
 
 app = FastAPI(title="MCP Demo Server")
@@ -49,13 +51,13 @@ class KBSearchRequest(BaseModel):
 
 @app.on_event("startup")
 def _seed_data() -> None:
-    # Datos mínimos para pruebas
-    ingest_docs(
-        [
-            {"id": "m1", "text": "Manual modelo X: revisar filtro y bomba", "metadata": {"source": "seed"}},
-            {"id": "t1", "text": "Tip técnico: sensor T900 falla con humedad", "metadata": {"source": "seed"}},
-        ]
-    )
+    # Solo para desarrollo - deshabilitar en producción
+    if os.getenv("ENVIRONMENT") == "development":
+        ingest_docs(
+            [
+                {"id": "dev_seed", "text": "Documento de desarrollo - NO usar en producción", "metadata": {"source": "dev_seed", "environment": "development"}},
+            ]
+        )
 
 
 @app.post("/tools/kb_search")
@@ -111,6 +113,7 @@ class KBIngestRequest(BaseModel):
     urls: Optional[List[str]] = None
     url_headers: Optional[dict[str, str]] = None  # cabeceras opcionales para descargas
     auto_curate: Optional[bool] = False
+    auto_learn_taxonomy: Optional[bool] = False  # NUEVO: auto-aprendizaje de taxonomía
 
 
 class CanonicalDoc(BaseModel):
@@ -123,6 +126,7 @@ class KBCurateRequest(BaseModel):
     docs: Optional[List[IngestDoc]] = None
     urls: Optional[List[str]] = None
     url_headers: Optional[dict[str, str]] = None
+    auto_learn_taxonomy: Optional[bool] = False  # NUEVO: auto-aprendizaje de taxonomía
 
 
 def _extract_text_from_html(html: str) -> str:
@@ -136,17 +140,24 @@ def _extract_text_from_html(html: str) -> str:
 def _extract_text_from_pdf(data: bytes) -> str:
     try:
         from pypdf import PdfReader
+        buff = io.BytesIO(data)
+        reader = PdfReader(buff)
+        texts: list[str] = []
+        for page in reader.pages:
+            try:
+                texts.append(page.extract_text() or "")
+            except Exception:
+                continue
+        if any(texts): # Si pypdf extrajo algo, usarlo
+            return "\n".join(t.strip() for t in texts if t)
+    except Exception:
+        pass # Fallback a pdfminer.six si pypdf falla o no está instalado
+
+    try:
+        from pdfminer.high_level import extract_text as pdfminer_extract_text
+        return pdfminer_extract_text(io.BytesIO(data))
     except Exception:
         return ""
-    buff = io.BytesIO(data)
-    reader = PdfReader(buff)
-    texts: list[str] = []
-    for page in reader.pages:
-        try:
-            texts.append(page.extract_text() or "")
-        except Exception:
-            continue
-    return "\n".join(t.strip() for t in texts if t)
 
 
 def _extract_text_from_docx(data: bytes) -> str:
@@ -312,58 +323,124 @@ def _build_alias_map(mapping: dict[str, list[str]]) -> dict[str, str]:
 
 
 def _extract_entities_from_text(text: str) -> dict[str, str]:
-    """Heurística simple: busca ocurrencias de marcas/modelos/categorías usando taxonomía.
+    """Extracción inteligente de entidades usando análisis contextual mejorado.
 
-    - Coincidencias por alias con límites de palabra
-    - Patrones básicos tipo "marca:" / "modelo:" / "categoría:"
+    - Busca patrones contextuales más sofisticados
+    - Considera variaciones ortográficas y abreviaciones
+    - Utiliza proximidad de palabras para mayor precisión
     """
     result: dict[str, str] = {}
     if not text:
         return result
+    
+    import re
     low = text.lower()
 
     brand_map = _build_alias_map(_TAXONOMY.get("brands", {}))
     model_map = _build_alias_map(_TAXONOMY.get("models", {}))
     cat_map = _build_alias_map(_TAXONOMY.get("categories", {}))
 
-    # Patrones explícitos
-    import re
-
-    def find_after(label: str) -> Optional[str]:
-        # e.g., "marca: acme" o "modelo t900"
-        pat = re.compile(rf"{label}\s*[:\-]?\s*([\w\-]+)")
-        m = pat.search(low)
-        if m:
-            return m.group(1)
+    # Patrones contextuales mejorados
+    def find_contextual_brand() -> Optional[str]:
+        """Busca marca en contextos típicos de documentos técnicos."""
+        patterns = [
+            r"marca[:\s]+([A-Z][A-Z0-9\-\s]*?)(?:\s|$|,|\.|;)",
+            r"brand[:\s]+([A-Z][A-Z0-9\-\s]*?)(?:\s|$|,|\.|;)",
+            r"fabricante[:\s]+([A-Z][A-Z0-9\-\s]*?)(?:\s|$|,|\.|;)",
+            r"manufacturer[:\s]+([A-Z][A-Z0-9\-\s]*?)(?:\s|$|,|\.|;)",
+            r"equipo\s+([A-Z][A-Z0-9\-\s]*?)(?:\s+mod\.|\s+modelo|\s+n°|\s+serie)",
+            r"(?:horno|laminadora|amasadora|divisora)\s+([A-Z][A-Z0-9\-\s]*?)(?:\s+mod\.|\s+modelo)"
+        ]
+        
+        for pattern in patterns:
+            match = re.search(pattern, text, re.IGNORECASE)
+            if match:
+                candidate = match.group(1).strip()
+                # Verificar contra taxonomía
+                for alias, canonical in brand_map.items():
+                    if alias.lower() in candidate.lower() or candidate.lower() in alias.lower():
+                        return canonical
+                return candidate
         return None
 
-    explicit_brand = find_after("marca|brand")
-    explicit_model = find_after("modelo|model")
-    explicit_cat = find_after("categor(ía|ia)|category")
+    def find_contextual_model() -> Optional[str]:
+        """Busca modelo en contextos típicos."""
+        patterns = [
+            r"modelo[:\s]+([A-Z0-9\-]+)",
+            r"model[:\s]+([A-Z0-9\-]+)",
+            r"mod\.?\s*[:\s]*([A-Z0-9\-]+)",
+            r"serie[:\s]+([A-Z0-9\-]+)",
+            r"n°[:\s]*([A-Z0-9\-]+)",
+            r"ref\.?\s*[:\s]*([A-Z0-9\-]+)"
+        ]
+        
+        for pattern in patterns:
+            match = re.search(pattern, text, re.IGNORECASE)
+            if match:
+                candidate = match.group(1).strip()
+                # Verificar contra taxonomía
+                for alias, canonical in model_map.items():
+                    if alias.lower() == candidate.lower():
+                        return canonical
+                return candidate
+        return None
 
-    # Resolver explícitos contra taxonomía
-    if explicit_brand:
-        result["brand"] = brand_map.get(explicit_brand, explicit_brand)
-    if explicit_model:
-        result["model"] = model_map.get(explicit_model, explicit_model)
-    if explicit_cat:
-        result["category"] = cat_map.get(explicit_cat, explicit_cat)
+    def find_contextual_category() -> Optional[str]:
+        """Busca categoría de equipo."""
+        # Buscar palabras clave de equipos
+        equipment_keywords = [
+            (r"\b(laminadora|rolling\s+machine|laminator)\b", "laminadora"),
+            (r"\b(horno|oven|forno)\b", "horno"),
+            (r"\b(amasadora|mixer|batidora\s+planetaria)\b", "amasadora"),
+            (r"\b(divisora|divider)\b", "divisora"),
+            (r"\b(ovilladora|rounder)\b", "ovilladora"),
+            (r"\b(freidora|fryer)\b", "freidora"),
+            (r"\b(refrigerador|armario\s+refrigerado|congelador|freezer)\b", "refrigerador"),
+            (r"\b(c[aá]mara|chamber|fermentadora)\b", "camara"),
+            (r"\b(vitrina|display\s+case|showcase)\b", "vitrina"),
+            (r"\b(plancha|griddle|sarten\s+basculante)\b", "plancha"),
+            (r"\b(lavavajillas|lavavajilas|dishwasher)\b", "lavavajillas"),
+            (r"\b(cocina|stove|anafe)\b", "cocina"),
+            (r"\b(bomba|pump)\b", "bomba"),
+            (r"\b(abatidor|blast\s+chiller)\b", "abatidor"),
+            (r"\b(rostizador|rotisserie|roller)\b", "rostizador"),
+            (r"\b(rebanadora|slicer)\b", "rebanadora"),
+            (r"\b(formadora|moulder)\b", "formadora"),
+            (r"\b(envasadora|vacuum\s+packer)\b", "envasadora"),
+            (r"\b(inyectadora|injector)\b", "inyectadora"),
+            (r"\b(secadora|dryer)\b", "secadora"),
+            (r"\b(balanza|scale|b[aá]scula)\b", "balanza"),
+            (r"\b([oó]smosis|sistema\s+osmosis)\b", "osmosis")
+        ]
+        
+        for pattern, category in equipment_keywords:
+            if re.search(pattern, low):
+                return category
+        return None
 
-    # Si faltan, buscar por alias directo (word boundary)
-    def scan_map(a2c: dict[str, str], key: str):
-        if key in result:
-            return
-        for alias, canonical in a2c.items():
-            # evitar alias muy cortos que generen falsos positivos
-            if len(alias) < 2:
-                continue
-            if re.search(rf"\b{re.escape(alias)}\b", low):
-                result[key] = canonical
-                break
+    # Extracción contextual
+    contextual_brand = find_contextual_brand()
+    contextual_model = find_contextual_model()
+    contextual_category = find_contextual_category()
 
-    scan_map(brand_map, "brand")
-    scan_map(model_map, "model")
-    scan_map(cat_map, "category")
+    if contextual_brand:
+        result["brand"] = contextual_brand
+    if contextual_model:
+        result["model"] = contextual_model
+    if contextual_category:
+        result["category"] = contextual_category
+
+    # Fallback: buscar por alias directo si no se encontró nada
+    if not result:
+        def scan_map_fallback(a2c: dict[str, str], key: str):
+            for alias, canonical in a2c.items():
+                if len(alias) >= 3 and re.search(rf"\b{re.escape(alias)}\b", low):
+                    result[key] = canonical
+                    break
+
+        scan_map_fallback(brand_map, "brand")
+        scan_map_fallback(model_map, "model")
+        scan_map_fallback(cat_map, "category")
 
     return result
 
@@ -423,12 +500,197 @@ def _prepare_ingest_docs_from_inputs(
     return prepared
 
 
+@app.post("/tools/taxonomy/bootstrap")
+def bootstrap_taxonomy_from_kb() -> dict:
+    """Análisis masivo inicial del KB para extraer taxonomía automáticamente."""
+    
+    global _TAXONOMY  # Declarar global al inicio
+    
+    try:
+        print("🔄 Iniciando bootstrap de taxonomía...")
+        
+        # Obtener todo el contenido del KB
+        all_docs = get_all_documents()
+        if not all_docs:
+            print("❌ No hay documentos en el KB")
+            return {
+                "bootstrap_completed": False,
+                "error": "No hay documentos en el KB para analizar",
+                "new_brands": 0,
+                "new_models": 0,
+                "new_categories": 0
+            }
+        
+        print(f"📄 Analizando {len(all_docs)} documentos...")
+        
+        # Concatenar texto de todos los documentos (limitar tamaño para evitar problemas)
+        corpus_parts = []
+        total_length = 0
+        max_corpus_length = 50000  # Limitar a 50K caracteres para evitar timeouts
+        
+        for doc in all_docs:
+            text = doc.get("text", "")
+            if total_length + len(text) > max_corpus_length:
+                break
+            corpus_parts.append(text)
+            total_length += len(text)
+        
+        corpus = "\n".join(corpus_parts)
+        print(f"📊 Corpus construido: {len(corpus)} caracteres")
+        
+        # Auto-learner sin LLM para evitar timeouts inicialmente
+        learner = TaxonomyAutoLearner(llm_client=None)
+        
+        # Solo extracción heurística por ahora (más rápida)
+        print("🔍 Extrayendo entidades heurísticamente...")
+        candidates = learner.extract_comprehensive_entities(corpus)
+        
+        # Procesar candidatos directamente
+        original_counts = {k: len(v) for k, v in _TAXONOMY.items()}
+        new_entities_count = {"brands": 0, "models": 0, "categories": 0}
+        
+        for category in ["brands", "models", "categories"]:
+            if category not in _TAXONOMY:
+                _TAXONOMY[category] = {}
+            
+            for candidate in candidates.get(category, []):
+                if (candidate.confidence >= 0.8 and 
+                    candidate.frequency >= 2 and 
+                    candidate.value not in _TAXONOMY[category]):
+                    
+                    _TAXONOMY[category][candidate.value] = []
+                    new_entities_count[category] += 1
+                    print(f"✅ Nueva {category[:-1]}: {candidate.value}")
+        
+        # Guardar taxonomía actualizada
+        _save_taxonomy()
+        print("💾 Taxonomía guardada")
+        
+        # Estadísticas simplificadas
+        stats = {
+            "bootstrap_completed": True,
+            "new_brands": new_entities_count["brands"],
+            "new_models": new_entities_count["models"],
+            "new_categories": new_entities_count["categories"],
+            "total_docs_analyzed": len(all_docs),
+            "corpus_length": len(corpus),
+            "processing_method": "heuristic_only",
+            "timestamp": datetime.utcnow().isoformat()
+        }
+        
+        print(f"🎉 Bootstrap completado: {sum(new_entities_count.values())} nuevas entidades")
+        return stats
+        
+    except Exception as e:
+        print(f"❌ Error durante bootstrap: {e}")
+        return {
+            "bootstrap_completed": False,
+            "error": f"Error durante bootstrap: {str(e)}",
+            "new_brands": 0,
+            "new_models": 0,
+            "new_categories": 0
+        }
+
+
+@app.get("/tools/taxonomy/stats")
+def get_taxonomy_stats() -> dict:
+    """Estadísticas actuales de la taxonomía."""
+    
+    try:
+        print("📊 Generando estadísticas de taxonomía...")
+        
+        brands = _TAXONOMY.get("brands", {})
+        models = _TAXONOMY.get("models", {})
+        categories = _TAXONOMY.get("categories", {})
+        synonyms = _TAXONOMY.get("synonyms", {})
+        
+        stats = {
+            "brands_count": len(brands),
+            "models_count": len(models),
+            "categories_count": len(categories),
+            "synonyms_count": len(synonyms),
+            "total_entities": len(brands) + len(models) + len(categories) + len(synonyms),
+            "timestamp": datetime.utcnow().isoformat()
+        }
+        
+        # Top entidades por categoría (máximo 5)
+        if brands:
+            stats["top_brands"] = list(brands.keys())[:5]
+        else:
+            stats["top_brands"] = []
+            
+        if models:
+            stats["top_models"] = list(models.keys())[:5]
+        else:
+            stats["top_models"] = []
+            
+        if categories:
+            stats["top_categories"] = list(categories.keys())[:5]
+        else:
+            stats["top_categories"] = []
+        
+        # Detalles adicionales
+        stats["taxonomy_file_exists"] = os.path.exists("configs/taxonomy.json")
+        
+        print(f"📋 Stats generadas: {stats['total_entities']} entidades totales")
+        return stats
+        
+    except Exception as e:
+        print(f"❌ Error generando stats: {e}")
+        return {
+            "error": f"Error generando estadísticas: {str(e)}",
+            "brands_count": 0,
+            "models_count": 0,
+            "categories_count": 0,
+            "total_entities": 0,
+            "timestamp": datetime.utcnow().isoformat()
+        }
+
+
 @app.post("/tools/kb_curate")
 def tool_kb_curate(req: KBCurateRequest) -> dict:
+    global _TAXONOMY  # Declarar global al inicio
+    
     raw = _prepare_ingest_docs_from_inputs(req.docs, req.urls, req.url_headers)
     curated: List[dict[str, Any]] = []
     quarantine: List[dict[str, Any]] = []
     taxonomy_changed = False
+    learning_stats = {}
+    
+    # NUEVO: Auto-aprendizaje de taxonomía si está habilitado
+    if req.auto_learn_taxonomy:
+        try:
+            llm_client = LLMClient(agent="taxonomy")
+        except Exception as e:
+            print(f"Warning: No se pudo inicializar LLM client: {e}")
+            llm_client = None
+        
+        learner = TaxonomyAutoLearner(llm_client)
+        
+        # Extraer texto de todos los documentos nuevos
+        new_text = "\n".join(item.get("text", "") for item in raw)
+        
+        if new_text:
+            # Aprendizaje incremental
+            learned_entities = learner.learn_incrementally(new_text, _TAXONOMY)
+            
+            if learned_entities and any(learned_entities.values()):
+                # Merge con taxonomía existente
+                for category in ["brands", "models", "categories"]:
+                    if category in learned_entities:
+                        if category not in _TAXONOMY:
+                            _TAXONOMY[category] = {}
+                        
+                        for entity, aliases in learned_entities[category].items():
+                            if entity not in _TAXONOMY[category]:
+                                _TAXONOMY[category][entity] = aliases
+                                taxonomy_changed = True
+                                print(f"🔍 Auto-aprendida {category[:-1]}: {entity}")
+                
+                # Generar estadísticas de aprendizaje
+                learning_stats = learner.get_learning_stats(learned_entities)
+    
+    # Procesamiento normal de curación
     for item in raw:
         meta = item.get("metadata") or {}
         # Extracción automática si faltan entidades
@@ -457,9 +719,16 @@ def tool_kb_curate(req: KBCurateRequest) -> dict:
                 quarantine.append({"id": cd.id, "reason": "low_quality_or_too_short"})
             else:
                 curated.append(cd.model_dump())
+    
     if taxonomy_changed:
         _save_taxonomy()
+    
     stats = {"input": len(raw), "curated": len(curated), "quarantine": len(quarantine)}
+    
+    # Agregar estadísticas de aprendizaje si aplica
+    if learning_stats:
+        stats["auto_learning"] = learning_stats
+    
     return {"docs": curated, "quarantine": quarantine, "stats": stats, "taxonomy_updated": taxonomy_changed}
 
 
@@ -470,13 +739,31 @@ def tool_kb_ingest(req: KBIngestRequest) -> dict:
     url_count = 0
 
     if req.auto_curate:
-        # Curación previa y luego ingesta del resultado
-        curate_result = tool_kb_curate(KBCurateRequest(docs=req.docs, urls=req.urls, url_headers=req.url_headers))
+        # Curación previa y luego ingesta del resultado con auto-aprendizaje opcional
+        curate_result = tool_kb_curate(KBCurateRequest(
+            docs=req.docs, 
+            urls=req.urls, 
+            url_headers=req.url_headers,
+            auto_learn_taxonomy=req.auto_learn_taxonomy  # NUEVO: pasar flag de auto-aprendizaje
+        ))
         curated_docs = curate_result.get("docs", [])
         url_count = len(req.urls or [])
         if curated_docs:
             ingest_docs(curated_docs)
-        return {"ingested": len(curated_docs), "from_urls": url_count, "errors": errors, "curated": True, "stats": curate_result.get("stats")}
+        
+        # Incluir estadísticas de aprendizaje si están disponibles
+        result = {
+            "ingested": len(curated_docs), 
+            "from_urls": url_count, 
+            "errors": errors, 
+            "curated": True, 
+            "stats": curate_result.get("stats")
+        }
+        
+        if "auto_learning" in curate_result.get("stats", {}):
+            result["auto_learning"] = curate_result["stats"]["auto_learning"]
+            
+        return result
 
     # Camino anterior: preparar e ingerir directamente
     prepared = _prepare_ingest_docs_from_inputs(req.docs, req.urls, req.url_headers)
@@ -484,6 +771,54 @@ def tool_kb_ingest(req: KBIngestRequest) -> dict:
     if prepared:
         ingest_docs(prepared)
     return {"ingested": len(prepared), "from_urls": url_count, "errors": errors, "curated": False}
+
+
+@app.get("/tools/taxonomy/test")
+def test_taxonomy_system() -> dict:
+    """Test rápido del sistema de taxonomía con datos de muestra."""
+    
+    try:
+        print("🧪 Probando sistema de taxonomía...")
+        
+        # Texto de prueba basado en tu archivo data.txt
+        test_text = """
+        LAMINADORA SOBREMESÓN SINMAG, MOD. SM-520, RODILLO 50[cm], MONOFASICA
+        HORNO ROTATORIO 1 CARR. 60X40 18 NIV. GAS-PETROLEO TRIFASICO ZUCCHELLI, MOD. MINIFANTON 60X40G
+        DIVISORA OVILLADORA 4 SALIDAS 30-150[gr] 6000 PIEZAS-HORA FUTURE TRIMA, MOD. PRIMA EVO KE 4
+        Horno de Piso U-HP3 ECO
+        """
+        
+        # Crear auto-learner sin LLM
+        learner = TaxonomyAutoLearner(llm_client=None)
+        
+        # Extraer entidades
+        candidates = learner.extract_comprehensive_entities(test_text)
+        
+        # Contar resultados
+        results = {}
+        for category in ["brands", "models", "categories"]:
+            results[category] = []
+            for candidate in candidates.get(category, []):
+                if candidate.confidence >= 0.7:
+                    results[category].append({
+                        "value": candidate.value,
+                        "confidence": candidate.confidence,
+                        "frequency": candidate.frequency
+                    })
+        
+        return {
+            "test_completed": True,
+            "results": results,
+            "total_candidates": sum(len(v) for v in results.values()),
+            "message": "Sistema funcionando correctamente"
+        }
+        
+    except Exception as e:
+        return {
+            "test_completed": False,
+            "error": str(e),
+            "message": "Error en el sistema"
+        }
 
 
 @app.get("/health")

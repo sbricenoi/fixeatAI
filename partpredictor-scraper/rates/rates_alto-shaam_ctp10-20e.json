@@ -1,0 +1,84 @@
+{
+    "brand": "alto-shaam",
+    "model": "ctp10-20e",
+    "issues": [
+        {
+            "name": "Fuse Is Blown",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/alto-shaam/ctp10-20e/fuse-is-blown",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/ALT/ALTFU-35734.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Alto Shaam FU-35734 Fuse, 60 Amp, SLC, 480 VAC",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nFU-35734",
+                    "fix_rate": 33.0,
+                    "list_price": "$ 25.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/ALT/ALTHD-35197R.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Alto Shaam HD-35197R Handle Kit, T-Shaped",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nHD-35197R",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 656.00"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Leaking",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/alto-shaam/ctp10-20e/unit-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/ALT/ALTGS-35239.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Alto Shaam GS-35239 Door Gasket, Ctc10-20",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nGS-35239",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 351.00"
+                }
+            ]
+        },
+        {
+            "name": "Door Is Leaking",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/alto-shaam/ctp10-20e/door-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/ALT/ALTGS-35239.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Alto Shaam GS-35239 Door Gasket, Ctc10-20",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nGS-35239",
+                    "fix_rate": 75.0,
+                    "list_price": "$ 351.00"
+                }
+            ]
+        },
+        {
+            "name": "Handle Is Defective",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/alto-shaam/ctp10-20e/handle-is-defective",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/ALT/ALTHD-35197R.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Alto Shaam HD-35197R Handle Kit, T-Shaped",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nHD-35197R",
+                    "fix_rate": 88.0,
+                    "list_price": "$ 656.00"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,226 @@
+{
+    "brand": "frymaster",
+    "model": "fp128",
+    "issues": [
+        {
+            "name": "Unit Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/frymaster/fp128/unit-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8262256.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8262256 Interface Board Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8262256",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 368.23"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8263191.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8263191 Filter Pump Kit, 4GPM CCW",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8263191",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 571.12"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8261712.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8261712 Pump Motor Assembly, 115V, 60HZ, 1PH",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8261712",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 785.93"
+                }
+            ]
+        },
+        {
+            "name": "Unit Will Not Pump Oil",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/frymaster/fp128/unit-will-not-pump-oil",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8263191.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8263191 Filter Pump Kit, 4GPM CCW",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8263191",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 571.12"
+                }
+            ]
+        },
+        {
+            "name": "Contactor Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/frymaster/fp128/contactor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8263417.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8263417 Contactor Kit, 3 Pole, 50A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8263417",
+                    "fix_rate": 30.0,
+                    "list_price": "$ 154.67"
+                }
+            ]
+        },
+        {
+            "name": "Probe Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/frymaster/fp128/probe-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8262106.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8262106 Temperature Probe Kit, FP28",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8262106",
+                    "fix_rate": 44.0,
+                    "list_price": "$ 421.81"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8262107.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8262107 Temperature Probe Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8262107",
+                    "fix_rate": 44.0,
+                    "list_price": "$ 415.13"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8068035SP.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8068035SP Hi Limit Thermostat Assembly, 435F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8068035SP",
+                    "fix_rate": 31.0,
+                    "list_price": "$ 243.59"
+                }
+            ]
+        },
+        {
+            "name": "Motor Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/frymaster/fp128/motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8263191.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8263191 Filter Pump Kit, 4GPM CCW",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8263191",
+                    "fix_rate": 70.0,
+                    "list_price": "$ 571.12"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8261712.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8261712 Pump Motor Assembly, 115V, 60HZ, 1PH",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8261712",
+                    "fix_rate": 60.0,
+                    "list_price": "$ 785.93"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Not Reaching Set Temperature",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/frymaster/fp128/unit-is-not-reaching-set-temperature",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8262256.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8262256 Interface Board Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8262256",
+                    "fix_rate": 60.0,
+                    "list_price": "$ 368.23"
+                }
+            ]
+        },
+        {
+            "name": "Interface Board Is Malfunctioning",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/frymaster/fp128/interface-board-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8262256.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8262256 Interface Board Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8262256",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 368.23"
+                }
+            ]
+        },
+        {
+            "name": "Relay Is Malfunctioning",
+            "idx": 7,
+            "url": "https://www.partstown.com/part-predictor/frymaster/fp128/relay-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8262256.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8262256 Interface Board Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8262256",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 368.23"
+                }
+            ]
+        },
+        {
+            "name": "Pump Motor Is Malfunctioning",
+            "idx": 8,
+            "url": "https://www.partstown.com/part-predictor/frymaster/fp128/pump-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8261712.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8261712 Pump Motor Assembly, 115V, 60HZ, 1PH",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8261712",
+                    "fix_rate": 83.0,
+                    "list_price": "$ 785.93"
+                }
+            ]
+        },
+        {
+            "name": "Relay Board Is Malfunctioning",
+            "idx": 9,
+            "url": "https://www.partstown.com/part-predictor/frymaster/fp128/relay-board-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8262256.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8262256 Interface Board Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8262256",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 368.23"
+                }
+            ]
+        }
+    ]
+}

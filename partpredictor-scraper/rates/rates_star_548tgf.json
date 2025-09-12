@@ -1,0 +1,57 @@
+{
+    "brand": "star",
+    "model": "548tgf",
+    "issues": [
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/star/548tgf/thermostat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2T-Z5958.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2T-Z5958 Thermostat, Star Max Griddles",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2T-Z5958",
+                    "fix_rate": 96.0,
+                    "list_price": "$ 264.74"
+                }
+            ]
+        },
+        {
+            "name": "Breaker Is Tripping Or Wont Reset",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/star/548tgf/breaker-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2T-Z5958.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2T-Z5958 Thermostat, Star Max Griddles",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2T-Z5958",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 264.74"
+                }
+            ]
+        },
+        {
+            "name": "Wiring Issue",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/star/548tgf/wiring-issue",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2T-Z5958.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2T-Z5958 Thermostat, Star Max Griddles",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2T-Z5958",
+                    "fix_rate": 83.0,
+                    "list_price": "$ 264.74"
+                }
+            ]
+        }
+    ]
+}

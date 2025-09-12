@@ -1,0 +1,264 @@
+{
+    "brand": "turbochef",
+    "model": "eco",
+    "issues": [
+        {
+            "name": "Magnetron Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/turbochef/eco/magnetron-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3015.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3015 Magnetron Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3015",
+                    "fix_rate": 87.0,
+                    "list_price": "$ 155.52"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCECO-3204-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef ECO-3204-1 Filament Transformer, High Voltage, With Packaging",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nECO-3204-1",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 365.33"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100481.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100481 Diode, High Voltage",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100481",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 28.02"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC105280.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 105280 Capacitor, .80uF, 2500V, 50/60HZ, 85C",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n105280",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 108.63"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC101273.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 101273 Relay 2 Pole",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n101273",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 54.61"
+                }
+            ]
+        },
+        {
+            "name": "Fuse Is Blown",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/turbochef/eco/fuse-is-blown",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3015.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3015 Magnetron Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3015",
+                    "fix_rate": 37.0,
+                    "list_price": "$ 155.52"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100592.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100592 Fuse, 12 Amp, ATMR12",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100592",
+                    "fix_rate": 27.0,
+                    "list_price": "$ 33.36"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100599.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100599 Fuse, 20 Amp, ATMR, Individual",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100599",
+                    "fix_rate": 27.0,
+                    "list_price": "$ 37.62"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCECO-3204-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef ECO-3204-1 Filament Transformer, High Voltage, With Packaging",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nECO-3204-1",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 365.33"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC101273.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 101273 Relay 2 Pole",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n101273",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 54.61"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100481.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100481 Diode, High Voltage",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100481",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 28.02"
+                }
+            ]
+        },
+        {
+            "name": "Transformer Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/turbochef/eco/transformer-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCECO-3204-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef ECO-3204-1 Filament Transformer, High Voltage, With Packaging",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nECO-3204-1",
+                    "fix_rate": 76.0,
+                    "list_price": "$ 365.33"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3015.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3015 Magnetron Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3015",
+                    "fix_rate": 62.0,
+                    "list_price": "$ 155.52"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100481.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100481 Diode, High Voltage",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100481",
+                    "fix_rate": 33.0,
+                    "list_price": "$ 28.02"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC105280.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 105280 Capacitor, .80uF, 2500V, 50/60HZ, 85C",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n105280",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 108.63"
+                }
+            ]
+        },
+        {
+            "name": "Wave Guide Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/turbochef/eco/wave-guide-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3015.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3015 Magnetron Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3015",
+                    "fix_rate": 90.0,
+                    "list_price": "$ 155.52"
+                }
+            ]
+        },
+        {
+            "name": "Relay Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/turbochef/eco/relay-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3015.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3015 Magnetron Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3015",
+                    "fix_rate": 67.0,
+                    "list_price": "$ 155.52"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC101273.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 101273 Relay 2 Pole",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n101273",
+                    "fix_rate": 67.0,
+                    "list_price": "$ 54.61"
+                }
+            ]
+        },
+        {
+            "name": "Diode Is Malfunctioning",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/turbochef/eco/diode-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3015.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3015 Magnetron Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3015",
+                    "fix_rate": 71.0,
+                    "list_price": "$ 155.52"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100481.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100481 Diode, High Voltage",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100481",
+                    "fix_rate": 71.0,
+                    "list_price": "$ 28.02"
+                }
+            ]
+        },
+        {
+            "name": "Probe Is Malfunctioning",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/turbochef/eco/probe-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCHHC-6595.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef HHC-6595 Temperature Sensor, 3\", RTD",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nHHC-6595",
+                    "fix_rate": 98.0
+                }
+            ]
+        }
+    ]
+}

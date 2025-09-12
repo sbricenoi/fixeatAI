@@ -1,0 +1,886 @@
+{
+    "brand": "pitco",
+    "model": "sg18sd",
+    "issues": [
+        {
+            "name": "Unit Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/pitco/sg18sd/unit-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PTPP10084.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco PP10084 Hi Limit Thermostat, 450F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nPP10084",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 182.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60125501.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60125501 Thermopile, Millivolt",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60125501",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 101.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60125401.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60125401 Thermostat, RX Millivolt, 200-400F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60125401",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 165.00"
+                }
+            ]
+        },
+        {
+            "name": "Pilot Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/pitco/sg18sd/pilot-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60125501.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60125501 Thermopile, Millivolt",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60125501",
+                    "fix_rate": 41.0,
+                    "list_price": "$ 101.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PTPP10084.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco PP10084 Hi Limit Thermostat, 450F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nPP10084",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 182.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60203001-CL.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60203001-CL Gas Valve, Natural Gas, For Millivolt Only",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60203001-CL",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 355.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60125401.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60125401 Thermostat, RX Millivolt, 200-400F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60125401",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 165.00"
+                }
+            ]
+        },
+        {
+            "name": "Hi-limit Is Tripping Or Wont Reset",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/pitco/sg18sd/hi-limit-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PTPP10084.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco PP10084 Hi Limit Thermostat, 450F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nPP10084",
+                    "fix_rate": 69.0,
+                    "list_price": "$ 182.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60125401.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60125401 Thermostat, RX Millivolt, 200-400F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60125401",
+                    "fix_rate": 31.0,
+                    "list_price": "$ 165.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60125501.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60125501 Thermopile, Millivolt",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60125501",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 101.00"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Not Lighting",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/pitco/sg18sd/unit-is-not-lighting",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60125501.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60125501 Thermopile, Millivolt",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60125501",
+                    "fix_rate": 28.0,
+                    "list_price": "$ 101.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PTPP10084.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco PP10084 Hi Limit Thermostat, 450F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nPP10084",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 182.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60125401.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60125401 Thermostat, RX Millivolt, 200-400F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60125401",
+                    "fix_rate": 20.0,
+                    "list_price": "$ 165.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60203001-CL.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60203001-CL Gas Valve, Natural Gas, For Millivolt Only",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60203001-CL",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 355.00"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Leaking",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/pitco/sg18sd/unit-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60131007.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60131007 Ball Valve, 1 1/4\", FP NLKG RH SSH",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60131007",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 371.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PTPP10962.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco PP10962 Ball Valve with Handle, 1-1/4\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nPP10962",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 675.00"
+                }
+            ]
+        },
+        {
+            "name": "Thermopile Is Malfunctioning",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/pitco/sg18sd/thermopile-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60125501.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60125501 Thermopile, Millivolt",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60125501",
+                    "fix_rate": 66.0,
+                    "list_price": "$ 101.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60203001-CL.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60203001-CL Gas Valve, Natural Gas, For Millivolt Only",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60203001-CL",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 355.00"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Overheating",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/pitco/sg18sd/unit-is-overheating",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PTPP10084.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco PP10084 Hi Limit Thermostat, 450F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nPP10084",
+                    "fix_rate": 43.0,
+                    "list_price": "$ 182.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60125401.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60125401 Thermostat, RX Millivolt, 200-400F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60125401",
+                    "fix_rate": 30.0,
+                    "list_price": "$ 165.00"
+                }
+            ]
+        },
+        {
+            "name": "Gas Valve Is Malfunctioning",
+            "idx": 7,
+            "url": "https://www.partstown.com/part-predictor/pitco/sg18sd/gas-valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60203001-CL.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60203001-CL Gas Valve, Natural Gas, For Millivolt Only",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60203001-CL",
+                    "fix_rate": 51.0,
+                    "list_price": "$ 355.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60125501.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60125501 Thermopile, Millivolt",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60125501",
+                    "fix_rate": 37.0,
+                    "list_price": "$ 101.00"
+                }
+            ]
+        },
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 8,
+            "url": "https://www.partstown.com/part-predictor/pitco/sg18sd/thermostat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60125401.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60125401 Thermostat, RX Millivolt, 200-400F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60125401",
+                    "fix_rate": 76.0,
+                    "list_price": "$ 165.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PTPP10084.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco PP10084 Hi Limit Thermostat, 450F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nPP10084",
+                    "fix_rate": 36.0,
+                    "list_price": "$ 182.00"
+                }
+            ]
+        },
+        {
+            "name": "Oil Is Leaking",
+            "idx": 9,
+            "url": "https://www.partstown.com/part-predictor/pitco/sg18sd/oil-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60131007.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60131007 Ball Valve, 1 1/4\", FP NLKG RH SSH",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60131007",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 371.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60059302.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60059302 Drain Line Sleeve/Gasket, 2.875\" x 2\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60059302",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 146.00"
+                }
+            ]
+        },
+        {
+            "name": "Ignition Module Is Malfunctioning",
+            "idx": 10,
+            "url": "https://www.partstown.com/part-predictor/pitco/sg18sd/ignition-module-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60152001-CL.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60152001-CL Ignition Module, 24VAC",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60152001-CL",
+                    "fix_rate": 41.0,
+                    "list_price": "$ 188.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PTPP10084.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco PP10084 Hi Limit Thermostat, 450F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nPP10084",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 182.00"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Not Reaching Set Temperature",
+            "idx": 11,
+            "url": "https://www.partstown.com/part-predictor/pitco/sg18sd/unit-is-not-reaching-set-temperature",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60125401.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60125401 Thermostat, RX Millivolt, 200-400F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60125401",
+                    "fix_rate": 38.0,
+                    "list_price": "$ 165.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PTPP10084.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco PP10084 Hi Limit Thermostat, 450F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nPP10084",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 182.00"
+                }
+            ]
+        },
+        {
+            "name": "Burner Is Malfunctioning Or Damaged",
+            "idx": 12,
+            "url": "https://www.partstown.com/part-predictor/pitco/sg18sd/burner-is-malfunctioning-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60125501.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60125501 Thermopile, Millivolt",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60125501",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 101.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60203001-CL.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60203001-CL Gas Valve, Natural Gas, For Millivolt Only",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60203001-CL",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 355.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PTPP10084.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco PP10084 Hi Limit Thermostat, 450F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nPP10084",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 182.00"
+                }
+            ]
+        },
+        {
+            "name": "Unit Won't Turn On",
+            "idx": 13,
+            "url": "https://www.partstown.com/part-predictor/pitco/sg18sd/unit-wont-turn-on",
+            "results": []
+        },
+        {
+            "name": "Unit Is Not Maintaining Temperature",
+            "idx": 14,
+            "url": "https://www.partstown.com/part-predictor/pitco/sg18sd/unit-is-not-maintaining-temperature",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60125501.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60125501 Thermopile, Millivolt",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60125501",
+                    "fix_rate": 35.0,
+                    "list_price": "$ 101.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PTPP10084.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco PP10084 Hi Limit Thermostat, 450F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nPP10084",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 182.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60203001-CL.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60203001-CL Gas Valve, Natural Gas, For Millivolt Only",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60203001-CL",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 355.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60125401.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60125401 Thermostat, RX Millivolt, 200-400F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60125401",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 165.00"
+                }
+            ]
+        },
+        {
+            "name": "Unit Will Not Pump Oil",
+            "idx": 15,
+            "url": "https://www.partstown.com/part-predictor/pitco/sg18sd/unit-will-not-pump-oil",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60143513-CL.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60143513-CL Pump and Motor Service Kit, 1/3HP, 115/230V, 8GPM",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60143513-CL",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 1,600.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60077901.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60077901 Circuit Breaker, SPST, 250V, 10A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60077901",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 345.00"
+                }
+            ]
+        },
+        {
+            "name": "Valve Is Malfunctioning",
+            "idx": 16,
+            "url": "https://www.partstown.com/part-predictor/pitco/sg18sd/valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60203001-CL.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60203001-CL Gas Valve, Natural Gas, For Millivolt Only",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60203001-CL",
+                    "fix_rate": 31.0,
+                    "list_price": "$ 355.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60125501.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60125501 Thermopile, Millivolt",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60125501",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 101.00"
+                }
+            ]
+        },
+        {
+            "name": "Probe Is Malfunctioning",
+            "idx": 17,
+            "url": "https://www.partstown.com/part-predictor/pitco/sg18sd/probe-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PTB6700608-CL.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco B6700608-CL Probe Service Kit,",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nB6700608-CL",
+                    "fix_rate": 31.0,
+                    "list_price": "$ 168.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PTB6700609-CL.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco B6700609-CL Probe Kit, fast, SG",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nB6700609-CL",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 290.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PTPP10084.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco PP10084 Hi Limit Thermostat, 450F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nPP10084",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 182.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60144001-CL.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60144001-CL Relay Control Board, 24V, Class 2, SG",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60144001-CL",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 182.00"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Shutting Down",
+            "idx": 18,
+            "url": "https://www.partstown.com/part-predictor/pitco/sg18sd/unit-is-shutting-down",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PTPP10084.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco PP10084 Hi Limit Thermostat, 450F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nPP10084",
+                    "fix_rate": 28.0,
+                    "list_price": "$ 182.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60125401.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60125401 Thermostat, RX Millivolt, 200-400F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60125401",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 165.00"
+                }
+            ]
+        },
+        {
+            "name": "Fire Coming Out Of Unit",
+            "idx": 19,
+            "url": "https://www.partstown.com/part-predictor/pitco/sg18sd/fire-coming-out-of-unit",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PTPP10084.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco PP10084 Hi Limit Thermostat, 450F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nPP10084",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 182.00"
+                }
+            ]
+        },
+        {
+            "name": "Breaker Is Tripping Or Wont Reset",
+            "idx": 20,
+            "url": "https://www.partstown.com/part-predictor/pitco/sg18sd/breaker-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60143513-CL.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60143513-CL Pump and Motor Service Kit, 1/3HP, 115/230V, 8GPM",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60143513-CL",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 1,600.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60077901.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60077901 Circuit Breaker, SPST, 250V, 10A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60077901",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 345.00"
+                }
+            ]
+        },
+        {
+            "name": "Vat Is Leaking",
+            "idx": 21,
+            "url": "https://www.partstown.com/part-predictor/pitco/sg18sd/vat-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60131007.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60131007 Ball Valve, 1 1/4\", FP NLKG RH SSH",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60131007",
+                    "fix_rate": 31.0,
+                    "list_price": "$ 371.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PTB3322801-C.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco B3322801-C Fry Tank Weldment, 5 Tube, Stainless, SG18",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nB3322801-C",
+                    "fix_rate": 23.0,
+                    "list_price": "$ 3,849.00"
+                }
+            ]
+        },
+        {
+            "name": "Drain Valve Is Leaking",
+            "idx": 22,
+            "url": "https://www.partstown.com/part-predictor/pitco/sg18sd/drain-valve-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60131007.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60131007 Ball Valve, 1 1/4\", FP NLKG RH SSH",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60131007",
+                    "fix_rate": 46.0,
+                    "list_price": "$ 371.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PTPP10962.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco PP10962 Ball Valve with Handle, 1-1/4\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nPP10962",
+                    "fix_rate": 33.0,
+                    "list_price": "$ 675.00"
+                }
+            ]
+        },
+        {
+            "name": "Valve Is Leaking",
+            "idx": 23,
+            "url": "https://www.partstown.com/part-predictor/pitco/sg18sd/valve-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60131007.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60131007 Ball Valve, 1 1/4\", FP NLKG RH SSH",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60131007",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 371.00"
+                }
+            ]
+        },
+        {
+            "name": "Wiring Issue",
+            "idx": 24,
+            "url": "https://www.partstown.com/part-predictor/pitco/sg18sd/wiring-issue",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PTPP10084.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco PP10084 Hi Limit Thermostat, 450F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nPP10084",
+                    "fix_rate": 41.0,
+                    "list_price": "$ 182.00"
+                }
+            ]
+        },
+        {
+            "name": "Relay Board Is Malfunctioning",
+            "idx": 25,
+            "url": "https://www.partstown.com/part-predictor/pitco/sg18sd/relay-board-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60144001-CL.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60144001-CL Relay Control Board, 24V, Class 2, SG",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60144001-CL",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 182.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60152001-CL.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60152001-CL Ignition Module, 24VAC",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60152001-CL",
+                    "fix_rate": 33.0,
+                    "list_price": "$ 188.00"
+                }
+            ]
+        },
+        {
+            "name": "Motor Is Malfunctioning",
+            "idx": 26,
+            "url": "https://www.partstown.com/part-predictor/pitco/sg18sd/motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60143513-CL.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60143513-CL Pump and Motor Service Kit, 1/3HP, 115/230V, 8GPM",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60143513-CL",
+                    "fix_rate": 36.0,
+                    "list_price": "$ 1,600.00"
+                }
+            ]
+        },
+        {
+            "name": "Ingition Module Is Malfunctioning",
+            "idx": 27,
+            "url": "https://www.partstown.com/part-predictor/pitco/sg18sd/ingition-module-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60152001-CL.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60152001-CL Ignition Module, 24VAC",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60152001-CL",
+                    "fix_rate": 54.0,
+                    "list_price": "$ 188.00"
+                }
+            ]
+        },
+        {
+            "name": "Thermocouple Is Malfunctioning",
+            "idx": 28,
+            "url": "https://www.partstown.com/part-predictor/pitco/sg18sd/thermocouple-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60125501.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60125501 Thermopile, Millivolt",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60125501",
+                    "fix_rate": 54.0,
+                    "list_price": "$ 101.00"
+                }
+            ]
+        },
+        {
+            "name": "Flame Rollout Switch Is Malfunctioning",
+            "idx": 29,
+            "url": "https://www.partstown.com/part-predictor/pitco/sg18sd/flame-rollout-switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60148101.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60148101 Solenoid Valve , 24VAC",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60148101",
+                    "fix_rate": 42.0,
+                    "list_price": "$ 255.00"
+                }
+            ]
+        },
+        {
+            "name": "Transformer Is Malfunctioning",
+            "idx": 30,
+            "url": "https://www.partstown.com/part-predictor/pitco/sg18sd/transformer-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PTPP10429.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco PP10429 Transformer, 120/208/240V to 24V, 80VA",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nPP10429",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 211.00"
+                }
+            ]
+        },
+        {
+            "name": "Gasket Is Defective Or Leaking",
+            "idx": 31,
+            "url": "https://www.partstown.com/part-predictor/pitco/sg18sd/gasket-is-defective-or-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60059302.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60059302 Drain Line Sleeve/Gasket, 2.875\" x 2\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60059302",
+                    "fix_rate": 71.0,
+                    "list_price": "$ 146.00"
+                }
+            ]
+        },
+        {
+            "name": "Power Cord Is Malfunctioning",
+            "idx": 32,
+            "url": "https://www.partstown.com/part-predictor/pitco/sg18sd/power-cord-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60128501-C.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60128501-C POWER CORD, NEMA 5-15P/IEC 320, 16-3AWG",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60128501-C",
+                    "fix_rate": 71.0,
+                    "list_price": "$ 80.00"
+                }
+            ]
+        }
+    ]
+}

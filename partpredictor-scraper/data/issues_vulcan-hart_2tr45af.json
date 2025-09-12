@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Unit Is Malfunctioning",
+        "parsed_name": "unit-is-malfunctioning"
+    },
+    {
+        "name": "Filter Pump Is Tripping",
+        "parsed_name": "filter-pump-is-tripping"
+    }
+]

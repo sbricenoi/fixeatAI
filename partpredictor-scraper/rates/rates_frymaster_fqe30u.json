@@ -1,0 +1,84 @@
+{
+    "brand": "frymaster",
+    "model": "fqe30u",
+    "issues": [
+        {
+            "name": "Unit Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/frymaster/fqe30u/unit-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8261392.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8261392 O-Ring, Pack of 6, 8160596",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8261392",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 18.97"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8263417.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8263417 Contactor Kit, 3 Pole, 50A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8263417",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 154.67"
+                }
+            ]
+        },
+        {
+            "name": "Unit Will Not Pump Oil",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/frymaster/fqe30u/unit-will-not-pump-oil",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8261392.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8261392 O-Ring, Pack of 6, 8160596",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8261392",
+                    "fix_rate": 39.0,
+                    "list_price": "$ 18.97"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Overheating",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/frymaster/fqe30u/unit-is-overheating",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8263417.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8263417 Contactor Kit, 3 Pole, 50A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8263417",
+                    "fix_rate": 62.0,
+                    "list_price": "$ 154.67"
+                }
+            ]
+        },
+        {
+            "name": "Contactor Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/frymaster/fqe30u/contactor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8263417.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8263417 Contactor Kit, 3 Pole, 50A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8263417",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 154.67"
+                }
+            ]
+        }
+    ]
+}

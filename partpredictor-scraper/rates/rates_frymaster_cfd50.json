@@ -1,0 +1,40 @@
+{
+    "brand": "frymaster",
+    "model": "cfd50",
+    "issues": [
+        {
+            "name": "Unit Is Not Lighting",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/frymaster/cfd50/unit-is-not-lighting",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8262898.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8262898 Ignition Module Retro Kit, Fenwal",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8262898",
+                    "fix_rate": 56.0,
+                    "list_price": "$ 244.46"
+                }
+            ]
+        },
+        {
+            "name": "Transformer Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/frymaster/cfd50/transformer-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8074978.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8074978 Transformer, V/F Dual, 100/120V, 12/24V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8074978",
+                    "fix_rate": 71.0,
+                    "list_price": "$ 122.22"
+                }
+            ]
+        }
+    ]
+}

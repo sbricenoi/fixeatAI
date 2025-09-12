@@ -1,0 +1,1145 @@
+{
+    "brand": "delfield",
+    "model": "f18mc52d",
+    "issues": [
+        {
+            "name": "Compressor Is Not Running",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/delfield/f18mc52d/compressor-is-not-running",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL3516478.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 3516478 FILTER DRIER, 2 X .25 INLET",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3516478",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 49.07"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL3516322.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 3516322 Drier Filter, 2 Inlet",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3516322",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 25.28"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL3527163-S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 3527163-S Compressor, R290, Danfoss, Dle5.7Cn",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3527163-S",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 496.21"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL3527000-S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 3527000-S Compressor, Nf7.0, 115V, 60HZ, 1/3HP, Danfoss",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3527000-S",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 556.05"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Leaking",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/delfield/f18mc52d/unit-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL3516478.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 3516478 FILTER DRIER, 2 X .25 INLET",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3516478",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 49.07"
+                }
+            ]
+        },
+        {
+            "name": "Controller Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/delfield/f18mc52d/controller-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL000-282-00H9-S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 000-282-00H9-S ASSY2194824BOXCTLKIT",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n000-282-00H9-S",
+                    "fix_rate": 27.0,
+                    "list_price": "$ 678.83"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL000-CZ0-0253-S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 000-CZ0-0253-S Temperature Control, Digital, Rfg, Double Hookup",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n000-CZ0-0253-S",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 315.81"
+                }
+            ]
+        },
+        {
+            "name": "Probe Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/delfield/f18mc52d/probe-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2194809.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2194809 Probe Temperature Sensor, 118\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2194809",
+                    "fix_rate": 51.0,
+                    "list_price": "$ 58.94"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2194808.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2194808 Probe, Thermostat, Defrost",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2194808",
+                    "fix_rate": 47.0,
+                    "list_price": "$ 58.94"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL000-282-00H9-S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 000-282-00H9-S ASSY2194824BOXCTLKIT",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n000-282-00H9-S",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 678.83"
+                }
+            ]
+        },
+        {
+            "name": "Fan Motor Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/delfield/f18mc52d/fan-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2160023.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2160023 Axial Fan, 120V, Mechatronics",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2160023",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 126.43"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2162716-S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2162716-S Fan Motor, 115V, 16W, Clockwise",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2162716-S",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 194.79"
+                }
+            ]
+        },
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/delfield/f18mc52d/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2190154.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2190154 Switch, Rocker, SPST, 15A, 250V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2190154",
+                    "fix_rate": 23.0,
+                    "list_price": "$ 31.45"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2198717.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2198717 Switch, Rocker, Sealed, DPST",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2198717",
+                    "fix_rate": 20.0,
+                    "list_price": "$ 44.81"
+                }
+            ]
+        },
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/delfield/f18mc52d/thermostat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL000-282-00H9-S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 000-282-00H9-S ASSY2194824BOXCTLKIT",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n000-282-00H9-S",
+                    "fix_rate": 33.0,
+                    "list_price": "$ 678.83"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2194536.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2194536 TEMP CONTROL REFRIGERATOR",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2194536",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 179.71"
+                }
+            ]
+        },
+        {
+            "name": "Refrigerant Is Leaking",
+            "idx": 7,
+            "url": "https://www.partstown.com/part-predictor/delfield/f18mc52d/refrigerant-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL3516478.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 3516478 FILTER DRIER, 2 X .25 INLET",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3516478",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 49.07"
+                }
+            ]
+        },
+        {
+            "name": "Unit Won't Turn On",
+            "idx": 8,
+            "url": "https://www.partstown.com/part-predictor/delfield/f18mc52d/unit-wont-turn-on",
+            "results": []
+        },
+        {
+            "name": "Door Is Malfunctioning",
+            "idx": 9,
+            "url": "https://www.partstown.com/part-predictor/delfield/f18mc52d/door-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL0160179-S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 0160179-S Door Hinge/Mounting Kit, Upper and Lower",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n0160179-S",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 170.33"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Shutting Down",
+            "idx": 10,
+            "url": "https://www.partstown.com/part-predictor/delfield/f18mc52d/unit-is-shutting-down",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL000-282-00H9-S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 000-282-00H9-S ASSY2194824BOXCTLKIT",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n000-282-00H9-S",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 678.83"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2194809.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2194809 Probe Temperature Sensor, 118\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2194809",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 58.94"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2194808.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2194808 Probe, Thermostat, Defrost",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2194808",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 58.94"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL3516478.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 3516478 FILTER DRIER, 2 X .25 INLET",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3516478",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 49.07"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Not Maintaining Temperature",
+            "idx": 11,
+            "url": "https://www.partstown.com/part-predictor/delfield/f18mc52d/unit-is-not-maintaining-temperature",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2194808.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2194808 Probe, Thermostat, Defrost",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2194808",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 58.94"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2194809.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2194809 Probe Temperature Sensor, 118\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2194809",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 58.94"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL3516478.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 3516478 FILTER DRIER, 2 X .25 INLET",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3516478",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 49.07"
+                }
+            ]
+        },
+        {
+            "name": "Compressor Is Getting Hot",
+            "idx": 12,
+            "url": "https://www.partstown.com/part-predictor/delfield/f18mc52d/compressor-is-getting-hot",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL3516322.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 3516322 Drier Filter, 2 Inlet",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3516322",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 25.28"
+                }
+            ]
+        },
+        {
+            "name": "Valve Is Leaking",
+            "idx": 13,
+            "url": "https://www.partstown.com/part-predictor/delfield/f18mc52d/valve-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL3517414.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 3517414 Thermo Expansion Valve, R290",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3517414",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 207.89"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL3516478.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 3516478 FILTER DRIER, 2 X .25 INLET",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3516478",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 49.07"
+                }
+            ]
+        },
+        {
+            "name": "Valve Is Malfunctioning",
+            "idx": 14,
+            "url": "https://www.partstown.com/part-predictor/delfield/f18mc52d/valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL3516273.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 3516273 Expansion Valve, TXV, R404A, REF, 1/4\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3516273",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 282.11"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL3516322.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 3516322 Drier Filter, 2 Inlet",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3516322",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 25.28"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL3516102.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 3516102 Solenoid Valve, 1/4ODF",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3516102",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 162.37"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL3516225.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 3516225 Expansion Valve, Freezer, 1/4 Ton",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3516225",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 239.01"
+                }
+            ]
+        },
+        {
+            "name": "Display Is Malfunctioning",
+            "idx": 15,
+            "url": "https://www.partstown.com/part-predictor/delfield/f18mc52d/display-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2196108.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2196108 Digital Display/Temperature Control, Danfoss",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2196108",
+                    "fix_rate": 36.0,
+                    "list_price": "$ 150.10"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2194809.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2194809 Probe Temperature Sensor, 118\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2194809",
+                    "fix_rate": 23.0,
+                    "list_price": "$ 58.94"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2194808.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2194808 Probe, Thermostat, Defrost",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2194808",
+                    "fix_rate": 23.0,
+                    "list_price": "$ 58.94"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2194792.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2194792 Digital Display, Blue, Danfoss",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2194792",
+                    "fix_rate": 23.0,
+                    "list_price": "$ 198.99"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL000-282-00H9-S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 000-282-00H9-S ASSY2194824BOXCTLKIT",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n000-282-00H9-S",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 678.83"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL000-CZ0-0279-S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 000-CZ0-0279-S Temperature Controller, Digital",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n000-CZ0-0279-S",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 315.81"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2196110.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2196110 Cable, Display",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2196110",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 33.92"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2194791.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2194791 Cable, Display, 60, Danfoss",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2194791",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 37.15"
+                }
+            ]
+        },
+        {
+            "name": "Hinge Is Defective Or Damaged",
+            "idx": 16,
+            "url": "https://www.partstown.com/part-predictor/delfield/f18mc52d/hinge-is-defective-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL0160179-S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 0160179-S Door Hinge/Mounting Kit, Upper and Lower",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n0160179-S",
+                    "fix_rate": 24.0,
+                    "list_price": "$ 170.33"
+                }
+            ]
+        },
+        {
+            "name": "Pressure Switch Is Defective Or Leaking",
+            "idx": 17,
+            "url": "https://www.partstown.com/part-predictor/delfield/f18mc52d/pressure-switch-is-defective-or-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL000-282-00GL-S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 000-282-00GL-S Low Pressure Switch Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n000-282-00GL-S",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 471.21"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL3516478.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 3516478 FILTER DRIER, 2 X .25 INLET",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3516478",
+                    "fix_rate": 23.0,
+                    "list_price": "$ 49.07"
+                }
+            ]
+        },
+        {
+            "name": "Freon Charge Issue",
+            "idx": 18,
+            "url": "https://www.partstown.com/part-predictor/delfield/f18mc52d/freon-charge-issue",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL3516478.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 3516478 FILTER DRIER, 2 X .25 INLET",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3516478",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 49.07"
+                }
+            ]
+        },
+        {
+            "name": "Motor Is Malfunctioning",
+            "idx": 19,
+            "url": "https://www.partstown.com/part-predictor/delfield/f18mc52d/motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2162716-S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2162716-S Fan Motor, 115V, 16W, Clockwise",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2162716-S",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 194.79"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2162691.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2162691 Fan Motor, Condenser, 115/120V, 60Hz, 0.5A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2162691",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 78.47"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2160028.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2160028 Axial Fan, 5.5, 120V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2160028",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 178.45"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL3516172.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 3516172 Evaporator Fan Blade, Clear, 5-9/16\" CC",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3516172",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 10.73"
+                }
+            ]
+        },
+        {
+            "name": "Compressor Is Not Cycling Properly",
+            "idx": 20,
+            "url": "https://www.partstown.com/part-predictor/delfield/f18mc52d/compressor-is-not-cycling-properly",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL3516322.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 3516322 Drier Filter, 2 Inlet",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3516322",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 25.28"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL3516478.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 3516478 FILTER DRIER, 2 X .25 INLET",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3516478",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 49.07"
+                }
+            ]
+        },
+        {
+            "name": "Filter Is Leaking Oil",
+            "idx": 21,
+            "url": "https://www.partstown.com/part-predictor/delfield/f18mc52d/filter-is-leaking-oil",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL3516478.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 3516478 FILTER DRIER, 2 X .25 INLET",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3516478",
+                    "fix_rate": 37.0,
+                    "list_price": "$ 49.07"
+                }
+            ]
+        },
+        {
+            "name": "Condenser Fan Motor Is Malfunctioning",
+            "idx": 22,
+            "url": "https://www.partstown.com/part-predictor/delfield/f18mc52d/condenser-fan-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2162716-S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2162716-S Fan Motor, 115V, 16W, Clockwise",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2162716-S",
+                    "fix_rate": 36.0,
+                    "list_price": "$ 194.79"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2160028.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2160028 Axial Fan, 5.5, 120V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2160028",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 178.45"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2162717.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2162717 Motor, Fan, 115V, 9W",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2162717",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 163.15"
+                }
+            ]
+        },
+        {
+            "name": "Sensor Is Malfunctioning",
+            "idx": 23,
+            "url": "https://www.partstown.com/part-predictor/delfield/f18mc52d/sensor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2194808.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2194808 Probe, Thermostat, Defrost",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2194808",
+                    "fix_rate": 43.0,
+                    "list_price": "$ 58.94"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2194809.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2194809 Probe Temperature Sensor, 118\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2194809",
+                    "fix_rate": 40.0,
+                    "list_price": "$ 58.94"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL000-282-00H9-S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 000-282-00H9-S ASSY2194824BOXCTLKIT",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n000-282-00H9-S",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 678.83"
+                }
+            ]
+        },
+        {
+            "name": "Relay Is Malfunctioning",
+            "idx": 24,
+            "url": "https://www.partstown.com/part-predictor/delfield/f18mc52d/relay-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL3516322.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 3516322 Drier Filter, 2 Inlet",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3516322",
+                    "fix_rate": 23.0,
+                    "list_price": "$ 25.28"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL3527000-S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 3527000-S Compressor, Nf7.0, 115V, 60HZ, 1/3HP, Danfoss",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3527000-S",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 556.05"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2194788.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2194788 Start Capacitor, 320",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2194788",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 62.98"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL3516438.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 3516438 Relay, Compressor Overload, Nf7Clx",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3516438",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 71.37"
+                }
+            ]
+        },
+        {
+            "name": "Pressure Switch Is Malfunctioning",
+            "idx": 25,
+            "url": "https://www.partstown.com/part-predictor/delfield/f18mc52d/pressure-switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL3516478.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 3516478 FILTER DRIER, 2 X .25 INLET",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3516478",
+                    "fix_rate": 30.0,
+                    "list_price": "$ 49.07"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL3510001.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 3510001 Switch, Low Pressure",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3510001",
+                    "fix_rate": 24.0,
+                    "list_price": "$ 109.43"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL000-282-00GL-S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 000-282-00GL-S Low Pressure Switch Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n000-282-00GL-S",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 471.21"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2193927.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2193927 Control, Low Pressure",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2193927",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 187.69"
+                }
+            ]
+        },
+        {
+            "name": "Gasket Is Defective Or Leaking",
+            "idx": 26,
+            "url": "https://www.partstown.com/part-predictor/delfield/f18mc52d/gasket-is-defective-or-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL1701192.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 1701192 Drawer Gasket, 10-3/4\" x 24-7/8\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1701192",
+                    "fix_rate": 28.0,
+                    "list_price": "$ 114.91"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL1701183.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 1701183 Door Gasket, 16-7/8\" x 23-7/8\" 19 Mark 7",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1701183",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 114.91"
+                }
+            ]
+        },
+        {
+            "name": "Fan Blade Is Damaged Or Not Spinning",
+            "idx": 27,
+            "url": "https://www.partstown.com/part-predictor/delfield/f18mc52d/fan-blade-is-damaged-or-not-spinning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL3516172.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 3516172 Evaporator Fan Blade, Clear, 5-9/16\" CC",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3516172",
+                    "fix_rate": 60.0,
+                    "list_price": "$ 10.73"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL3516173.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 3516173 Fan Guard, Evaporator, 6-3/8\" x 0.5\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3516173",
+                    "fix_rate": 37.0,
+                    "list_price": "$ 43.83"
+                }
+            ]
+        },
+        {
+            "name": "Capacitor Is Malfunctioning",
+            "idx": 28,
+            "url": "https://www.partstown.com/part-predictor/delfield/f18mc52d/capacitor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL3516322.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 3516322 Drier Filter, 2 Inlet",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3516322",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 25.28"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2194788.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2194788 Start Capacitor, 320",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2194788",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 62.98"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL3516438.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 3516438 Relay, Compressor Overload, Nf7Clx",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3516438",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 71.37"
+                }
+            ]
+        },
+        {
+            "name": "Drain Pan Is Malfunctioning",
+            "idx": 29,
+            "url": "https://www.partstown.com/part-predictor/delfield/f18mc52d/drain-pan-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL000-BNH-0030-S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 000-BNH-0030-S Evaporator Drain Pan Assembly, 4.25\" x 19\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n000-BNH-0030-S",
+                    "fix_rate": 46.0,
+                    "list_price": "$ 201.23"
+                }
+            ]
+        },
+        {
+            "name": "Keypad Is Not Responding Or Damaged",
+            "idx": 30,
+            "url": "https://www.partstown.com/part-predictor/delfield/f18mc52d/keypad-is-not-responding-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2196108.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2196108 Digital Display/Temperature Control, Danfoss",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2196108",
+                    "fix_rate": 54.0,
+                    "list_price": "$ 150.10"
+                }
+            ]
+        },
+        {
+            "name": "Solenoid Valve Is Malfunctioning",
+            "idx": 31,
+            "url": "https://www.partstown.com/part-predictor/delfield/f18mc52d/solenoid-valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL000-282-00H9-S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 000-282-00H9-S ASSY2194824BOXCTLKIT",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n000-282-00H9-S",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 678.83"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL3516074.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 3516074 Solenoid Valve with Coil, 120V, 50/60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3516074",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 307.25"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Making Noise",
+            "idx": 32,
+            "url": "https://www.partstown.com/part-predictor/delfield/f18mc52d/unit-is-making-noise",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2160028.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2160028 Axial Fan, 5.5, 120V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2160028",
+                    "fix_rate": 24.0,
+                    "list_price": "$ 178.45"
+                }
+            ]
+        },
+        {
+            "name": "Coil Sensor Is Malfunctioning",
+            "idx": 33,
+            "url": "https://www.partstown.com/part-predictor/delfield/f18mc52d/coil-sensor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2194808.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2194808 Probe, Thermostat, Defrost",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2194808",
+                    "fix_rate": 76.0,
+                    "list_price": "$ 58.94"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2194809.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2194809 Probe Temperature Sensor, 118\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2194809",
+                    "fix_rate": 47.0,
+                    "list_price": "$ 58.94"
+                }
+            ]
+        },
+        {
+            "name": "Filter Is Malfunctioning",
+            "idx": 34,
+            "url": "https://www.partstown.com/part-predictor/delfield/f18mc52d/filter-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL3516322.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 3516322 Drier Filter, 2 Inlet",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3516322",
+                    "fix_rate": 33.0,
+                    "list_price": "$ 25.28"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Not Cycling Properly",
+            "idx": 35,
+            "url": "https://www.partstown.com/part-predictor/delfield/f18mc52d/unit-is-not-cycling-properly",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL000-282-00H9-S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 000-282-00H9-S ASSY2194824BOXCTLKIT",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n000-282-00H9-S",
+                    "fix_rate": 40.0,
+                    "list_price": "$ 678.83"
+                }
+            ]
+        },
+        {
+            "name": "Drain Pan Is Damaged",
+            "idx": 36,
+            "url": "https://www.partstown.com/part-predictor/delfield/f18mc52d/drain-pan-is-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL000-BNH-0030-S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 000-BNH-0030-S Evaporator Drain Pan Assembly, 4.25\" x 19\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n000-BNH-0030-S",
+                    "fix_rate": 86.0,
+                    "list_price": "$ 201.23"
+                }
+            ]
+        },
+        {
+            "name": "Blade Is Malfunctioning",
+            "idx": 37,
+            "url": "https://www.partstown.com/part-predictor/delfield/f18mc52d/blade-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL3516172.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 3516172 Evaporator Fan Blade, Clear, 5-9/16\" CC",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3516172",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 10.73"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL3516173.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 3516173 Fan Guard, Evaporator, 6-3/8\" x 0.5\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3516173",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 43.83"
+                }
+            ]
+        },
+        {
+            "name": "Handle Is Defective",
+            "idx": 38,
+            "url": "https://www.partstown.com/part-predictor/delfield/f18mc52d/handle-is-defective",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL3234255.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 3234255 Door Handle, Snap-In, Plastic",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3234255",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 6.64"
+                }
+            ]
+        },
+        {
+            "name": "Caster Is Damaged",
+            "idx": 39,
+            "url": "https://www.partstown.com/part-predictor/delfield/f18mc52d/caster-is-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL3235518.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 3235518 Caster, 2.5\", Swivel, with Brake, Plate",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3235518",
+                    "fix_rate": 71.0,
+                    "list_price": "$ 82.91"
+                }
+            ]
+        }
+    ]
+}

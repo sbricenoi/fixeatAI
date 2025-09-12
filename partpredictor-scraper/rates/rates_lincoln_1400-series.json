@@ -1,0 +1,33 @@
+{
+    "brand": "lincoln",
+    "model": "1400-series",
+    "issues": [
+        {
+            "name": "Blower Motor Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/lincoln/1400-series/blower-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369800.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369800 Blower Motor, 115V, 60HZ, 1PH, 1/3HP, ADV 3\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369800",
+                    "fix_rate": 30.0,
+                    "list_price": "$ 1,110.32"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369192.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369192 Capacitor, 7.5 MFD 370VAC",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369192",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 40.73"
+                }
+            ]
+        }
+    ]
+}

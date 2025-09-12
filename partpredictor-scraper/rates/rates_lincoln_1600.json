@@ -1,0 +1,40 @@
+{
+    "brand": "lincoln",
+    "model": "1600",
+    "issues": [
+        {
+            "name": "Ignitor Is Malfunctioning Or Damaged",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/lincoln/1600/ignitor-is-malfunctioning-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369552.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369552 Hot Surface Ignitor Kit, 9003267/90",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369552",
+                    "fix_rate": 82.0,
+                    "list_price": "$ 207.64"
+                }
+            ]
+        },
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/lincoln/1600/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369738.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369738 Sail Switch Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369738",
+                    "fix_rate": 67.0,
+                    "list_price": "$ 85.93"
+                }
+            ]
+        }
+    ]
+}

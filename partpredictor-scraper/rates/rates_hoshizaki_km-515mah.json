@@ -1,0 +1,145 @@
+{
+    "brand": "hoshizaki",
+    "model": "km-515mah",
+    "issues": [
+        {
+            "name": "Unit Is Leaking",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/hoshizaki/km-515mah/unit-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HOS/HOS2A8598G01.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hoshizaki 2A8598G01 Switch Mount, Bin Control",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2A8598G01",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 82.50"
+                }
+            ]
+        },
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/hoshizaki/km-515mah/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HOS/HOS2A8598G01.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hoshizaki 2A8598G01 Switch Mount, Bin Control",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2A8598G01",
+                    "fix_rate": 75.0,
+                    "list_price": "$ 82.50"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HOS/HOS4A7077G01.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hoshizaki 4A7077G01 Float Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4A7077G01",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 51.00"
+                }
+            ]
+        },
+        {
+            "name": "Valve Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/hoshizaki/km-515mah/valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HOS/HOS3U0111-04.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hoshizaki 3U0111-04 Valve, Water Inlet, J248-072",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3U0111-04",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 101.70"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HOS/HOS3U0111-03.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hoshizaki 3U0111-03 Solenoid Valve, Water, 120V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3U0111-03",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 102.50"
+                }
+            ]
+        },
+        {
+            "name": "Float Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/hoshizaki/km-515mah/float-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HOS/HOS4A7077G01.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hoshizaki 4A7077G01 Float Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4A7077G01",
+                    "fix_rate": 69.0,
+                    "list_price": "$ 51.00"
+                }
+            ]
+        },
+        {
+            "name": "Valve Is Leaking",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/hoshizaki/km-515mah/valve-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HOS/HOS3U0111-04.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hoshizaki 3U0111-04 Valve, Water Inlet, J248-072",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3U0111-04",
+                    "fix_rate": 54.0,
+                    "list_price": "$ 101.70"
+                }
+            ]
+        },
+        {
+            "name": "Motor Is Malfunctioning",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/hoshizaki/km-515mah/motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HOS/HOSPA0613.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hoshizaki PA0613 Pump Motor Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nPA0613",
+                    "fix_rate": 80.0,
+                    "list_price": "$ 846.00"
+                }
+            ]
+        },
+        {
+            "name": "Relay Is Malfunctioning",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/hoshizaki/km-515mah/relay-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HOS/HOS4A1107-11.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hoshizaki 4A1107-11 Start Relay, Starter",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4A1107-11",
+                    "fix_rate": 75.0,
+                    "list_price": "$ 91.90"
+                }
+            ]
+        }
+    ]
+}

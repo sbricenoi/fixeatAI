@@ -1,0 +1,166 @@
+[
+    {
+        "name": "BMW206RTD",
+        "parsed_name": "bmw206rtd"
+    },
+    {
+        "name": "F-30",
+        "parsed_name": "f-30"
+    },
+    {
+        "name": "F-67",
+        "parsed_name": "f-67"
+    },
+    {
+        "name": "F556",
+        "parsed_name": "f556"
+    },
+    {
+        "name": "G-13",
+        "parsed_name": "g-13"
+    },
+    {
+        "name": "G-136",
+        "parsed_name": "g-136"
+    },
+    {
+        "name": "G-19",
+        "parsed_name": "g-19"
+    },
+    {
+        "name": "G-196",
+        "parsed_name": "g-196"
+    },
+    {
+        "name": "G-23",
+        "parsed_name": "g-23"
+    },
+    {
+        "name": "G-24",
+        "parsed_name": "g-24"
+    },
+    {
+        "name": "HMP6D",
+        "parsed_name": "hmp6d"
+    },
+    {
+        "name": "HT-200AF",
+        "parsed_name": "ht-200af"
+    },
+    {
+        "name": "HT-300AF",
+        "parsed_name": "ht-300af"
+    },
+    {
+        "name": "M4200",
+        "parsed_name": "m4200"
+    },
+    {
+        "name": "M4200-3S",
+        "parsed_name": "m4200-3s"
+    },
+    {
+        "name": "MOD-100D",
+        "parsed_name": "mod-100d"
+    },
+    {
+        "name": "MOD-100HTD",
+        "parsed_name": "mod-100htd"
+    },
+    {
+        "name": "MOD-100TD",
+        "parsed_name": "mod-100td"
+    },
+    {
+        "name": "MOD-100TD/AF",
+        "parsed_name": "mod-100td-af"
+    },
+    {
+        "name": "MOD-200TDM",
+        "parsed_name": "mod-200tdm"
+    },
+    {
+        "name": "MOD-200TDM/AF",
+        "parsed_name": "mod-200tdm-af"
+    },
+    {
+        "name": "MOD-300DM",
+        "parsed_name": "mod-300dm"
+    },
+    {
+        "name": "MOD-300TDM",
+        "parsed_name": "mod-300tdm"
+    },
+    {
+        "name": "MOD-300TDM/AF",
+        "parsed_name": "mod-300tdm-af"
+    },
+    {
+        "name": "MOD-327TDM/AF",
+        "parsed_name": "mod-327tdm-af"
+    },
+    {
+        "name": "MOD-400DM",
+        "parsed_name": "mod-400dm"
+    },
+    {
+        "name": "MOD-400TD",
+        "parsed_name": "mod-400td"
+    },
+    {
+        "name": "MOD-400TDM",
+        "parsed_name": "mod-400tdm"
+    },
+    {
+        "name": "MOD-500TDM",
+        "parsed_name": "mod-500tdm"
+    },
+    {
+        "name": "MOD-500TDM/AF",
+        "parsed_name": "mod-500tdm-af"
+    },
+    {
+        "name": "MOD-527TDM/AF",
+        "parsed_name": "mod-527tdm-af"
+    },
+    {
+        "name": "SMPT",
+        "parsed_name": "smpt"
+    },
+    {
+        "name": "SS-206TDU",
+        "parsed_name": "ss-206tdu"
+    },
+    {
+        "name": "SS-206ULTD",
+        "parsed_name": "ss-206ultd"
+    },
+    {
+        "name": "SS10ULTD",
+        "parsed_name": "ss10ultd"
+    },
+    {
+        "name": "SS206",
+        "parsed_name": "ss206"
+    },
+    {
+        "name": "SS206D",
+        "parsed_name": "ss206d"
+    },
+    {
+        "name": "SS8ULTD",
+        "parsed_name": "ss8ultd"
+    },
+    {
+        "name": "WG3036G",
+        "parsed_name": "wg3036g"
+    },
+    {
+        "name": "WG3048G",
+        "parsed_name": "wg3048g"
+    },
+    {
+        "name": "WVAE55F",
+        "parsed_name": "wvae55f"
+    }
+]

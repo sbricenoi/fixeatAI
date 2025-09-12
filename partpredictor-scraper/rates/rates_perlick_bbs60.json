@@ -1,0 +1,57 @@
+{
+    "brand": "perlick",
+    "model": "bbs60",
+    "issues": [
+        {
+            "name": "Unit Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/perlick/bbs60/unit-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PE/PE67439R.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Perlick 67439R Hinge Kit, Right Hand, RES/GE",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n67439R",
+                    "fix_rate": 33.0,
+                    "list_price": "$ 190.00"
+                }
+            ]
+        },
+        {
+            "name": "Door Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/perlick/bbs60/door-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PE/PE67439R.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Perlick 67439R Hinge Kit, Right Hand, RES/GE",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n67439R",
+                    "fix_rate": 36.0,
+                    "list_price": "$ 190.00"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Not Reaching Set Temperature",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/perlick/bbs60/unit-is-not-reaching-set-temperature",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PE/PE1006750-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Perlick 1006750-1 Temperature Control Kit, Refrigerator",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1006750-1",
+                    "fix_rate": 42.0,
+                    "list_price": "$ 248.00"
+                }
+            ]
+        }
+    ]
+}

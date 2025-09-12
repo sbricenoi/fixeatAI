@@ -1,0 +1,414 @@
+{
+    "brand": "southbend-range",
+    "model": "4361d",
+    "issues": [
+        {
+            "name": "Pilot Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/southbend-range/4361d/pilot-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1182154.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1182154 Thermopile",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1182154",
+                    "fix_rate": 24.0,
+                    "list_price": "$ 188.77"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1191727.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1191727 Thermostat, RX-Millivolt, 550F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1191727",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 370.38"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1401334.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1401334 Oven Safety Valve, CAF\u00c9",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1401334",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 750.17"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1178202.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1178202 Valve, Hi-Off, Top Burner, Natural Gas or Propane",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1178202",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 88.51"
+                }
+            ]
+        },
+        {
+            "name": "Burner Is Malfunctioning Or Damaged",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/southbend-range/4361d/burner-is-malfunctioning-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1178202.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1178202 Valve, Hi-Off, Top Burner, Natural Gas or Propane",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1178202",
+                    "fix_rate": 56.0,
+                    "list_price": "$ 88.51"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1189600.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1189600 Knob, Sectional, Metal with Insert",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1189600",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 27.56"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1191727.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1191727 Thermostat, RX-Millivolt, 550F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1191727",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 370.38"
+                }
+            ]
+        },
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/southbend-range/4361d/thermostat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1191727.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1191727 Thermostat, RX-Millivolt, 550F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1191727",
+                    "fix_rate": 77.0,
+                    "list_price": "$ 370.38"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1182154.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1182154 Thermopile",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1182154",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 188.77"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1190573.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1190573 Knob, Oven Thermostat, 200-550F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1190573",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 30.19"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1401334.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1401334 Oven Safety Valve, CAF\u00c9",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1401334",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 750.17"
+                }
+            ]
+        },
+        {
+            "name": "Valve Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/southbend-range/4361d/valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1178202.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1178202 Valve, Hi-Off, Top Burner, Natural Gas or Propane",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1178202",
+                    "fix_rate": 65.0,
+                    "list_price": "$ 88.51"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1189600.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1189600 Knob, Sectional, Metal with Insert",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1189600",
+                    "fix_rate": 20.0,
+                    "list_price": "$ 27.56"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1401334.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1401334 Oven Safety Valve, CAF\u00c9",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1401334",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 750.17"
+                }
+            ]
+        },
+        {
+            "name": "Burner Valve Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/southbend-range/4361d/burner-valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1178202.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1178202 Valve, Hi-Off, Top Burner, Natural Gas or Propane",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1178202",
+                    "fix_rate": 79.0,
+                    "list_price": "$ 88.51"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1189600.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1189600 Knob, Sectional, Metal with Insert",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1189600",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 27.56"
+                }
+            ]
+        },
+        {
+            "name": "Gas Valve Is Malfunctioning",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/southbend-range/4361d/gas-valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1178202.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1178202 Valve, Hi-Off, Top Burner, Natural Gas or Propane",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1178202",
+                    "fix_rate": 40.0,
+                    "list_price": "$ 88.51"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1401334.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1401334 Oven Safety Valve, CAF\u00c9",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1401334",
+                    "fix_rate": 27.0,
+                    "list_price": "$ 750.17"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1191727.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1191727 Thermostat, RX-Millivolt, 550F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1191727",
+                    "fix_rate": 20.0,
+                    "list_price": "$ 370.38"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1182154.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1182154 Thermopile",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1182154",
+                    "fix_rate": 20.0,
+                    "list_price": "$ 188.77"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Leaking",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/southbend-range/4361d/unit-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1178202.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1178202 Valve, Hi-Off, Top Burner, Natural Gas or Propane",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1178202",
+                    "fix_rate": 41.0,
+                    "list_price": "$ 88.51"
+                }
+            ]
+        },
+        {
+            "name": "Valve Is Leaking",
+            "idx": 7,
+            "url": "https://www.partstown.com/part-predictor/southbend-range/4361d/valve-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1178202.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1178202 Valve, Hi-Off, Top Burner, Natural Gas or Propane",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1178202",
+                    "fix_rate": 70.0,
+                    "list_price": "$ 88.51"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1189600.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1189600 Knob, Sectional, Metal with Insert",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1189600",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 27.56"
+                }
+            ]
+        },
+        {
+            "name": "Door Is Malfunctioning",
+            "idx": 8,
+            "url": "https://www.partstown.com/part-predictor/southbend-range/4361d/door-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1186547.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1186547 Door Spring, Music Wire, Coil",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1186547",
+                    "fix_rate": 58.0,
+                    "list_price": "$ 56.97"
+                }
+            ]
+        },
+        {
+            "name": "Door Spring Is Malfunctioning",
+            "idx": 9,
+            "url": "https://www.partstown.com/part-predictor/southbend-range/4361d/door-spring-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1186547.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1186547 Door Spring, Music Wire, Coil",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1186547",
+                    "fix_rate": 89.0,
+                    "list_price": "$ 56.97"
+                }
+            ]
+        },
+        {
+            "name": "Thermopile Is Malfunctioning",
+            "idx": 10,
+            "url": "https://www.partstown.com/part-predictor/southbend-range/4361d/thermopile-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1182154.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1182154 Thermopile",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1182154",
+                    "fix_rate": 47.0,
+                    "list_price": "$ 188.77"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1401334.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1401334 Oven Safety Valve, CAF\u00c9",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1401334",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 750.17"
+                }
+            ]
+        },
+        {
+            "name": "Valve Stem Is Malfunctioning",
+            "idx": 11,
+            "url": "https://www.partstown.com/part-predictor/southbend-range/4361d/valve-stem-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1178202.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1178202 Valve, Hi-Off, Top Burner, Natural Gas or Propane",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1178202",
+                    "fix_rate": 79.0,
+                    "list_price": "$ 88.51"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1189600.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1189600 Knob, Sectional, Metal with Insert",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1189600",
+                    "fix_rate": 36.0,
+                    "list_price": "$ 27.56"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Not Reaching Set Temperature",
+            "idx": 12,
+            "url": "https://www.partstown.com/part-predictor/southbend-range/4361d/unit-is-not-reaching-set-temperature",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1191727.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1191727 Thermostat, RX-Millivolt, 550F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1191727",
+                    "fix_rate": 62.0,
+                    "list_price": "$ 370.38"
+                }
+            ]
+        },
+        {
+            "name": "Spring Is Malfunctioning",
+            "idx": 13,
+            "url": "https://www.partstown.com/part-predictor/southbend-range/4361d/spring-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1186547.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1186547 Door Spring, Music Wire, Coil",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1186547",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 56.97"
+                }
+            ]
+        }
+    ]
+}

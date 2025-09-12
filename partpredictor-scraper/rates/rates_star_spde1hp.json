@@ -1,0 +1,23 @@
+{
+    "brand": "star",
+    "model": "spde1hp",
+    "issues": [
+        {
+            "name": "Keypad Is Not Responding Or Damaged",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/star/spde1hp/keypad-is-not-responding-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2E-Z2680.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2E-Z2680 SWITCH, PUSH BUTTON, DISPENSING",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2E-Z2680",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 40.83"
+                }
+            ]
+        }
+    ]
+}

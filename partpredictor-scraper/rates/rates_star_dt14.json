@@ -1,0 +1,84 @@
+{
+    "brand": "star",
+    "model": "dt14",
+    "issues": [
+        {
+            "name": "Heating Element Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/star/dt14/heating-element-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STASHM-197901.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star SHM-197901 Heater Tube, Quartz, 910W, 69.33V for 208V Toaster",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSHM-197901",
+                    "fix_rate": 63.0,
+                    "list_price": "$ 108.73"
+                }
+            ]
+        },
+        {
+            "name": "Motor Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/star/dt14/motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STASHM-120287.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star SHM-120287 Motor Assembly, Left, Counter Clockwise, 208-240V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSHM-120287",
+                    "fix_rate": 56.0,
+                    "list_price": "$ 493.57"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STASHM-120288.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star SHM-120288 Motor Assembly, Right, DT14",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSHM-120288",
+                    "fix_rate": 33.0,
+                    "list_price": "$ 493.57"
+                }
+            ]
+        },
+        {
+            "name": "Hi-limit Is Tripping Or Wont Reset",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/star/dt14/hi-limit-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2E-200566.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2E-200566 Reset Switch, 190F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2E-200566",
+                    "fix_rate": 38.0,
+                    "list_price": "$ 58.79"
+                }
+            ]
+        },
+        {
+            "name": "Infinite Switch Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/star/dt14/infinite-switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2J-200538.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2J-200538 Infinite Switch, EGO, 240V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2J-200538",
+                    "fix_rate": 62.0,
+                    "list_price": "$ 81.63"
+                }
+            ]
+        }
+    ]
+}

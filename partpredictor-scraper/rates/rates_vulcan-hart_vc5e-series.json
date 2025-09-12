@@ -1,0 +1,40 @@
+{
+    "brand": "vulcan-hart",
+    "model": "vc5e-series",
+    "issues": [
+        {
+            "name": "Door Switch Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/vulcan-hart/vc5e-series/door-switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HOB/HOB00-962492-000G1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hobart 00-962492-000G1 Switch Assembly, Door Interlock, 125/250VAC, 16A, 1/2HP",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-962492-000G1",
+                    "fix_rate": 58.0,
+                    "list_price": "$ 152.33"
+                }
+            ]
+        },
+        {
+            "name": "Controller Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/vulcan-hart/vc5e-series/controller-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-960314-00001.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-960314-00001 Temperature Control Board",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-960314-00001",
+                    "fix_rate": 80.0,
+                    "list_price": "$ 271.34"
+                }
+            ]
+        }
+    ]
+}

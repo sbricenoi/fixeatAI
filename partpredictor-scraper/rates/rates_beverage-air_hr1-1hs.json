@@ -1,0 +1,40 @@
+{
+    "brand": "beverage-air",
+    "model": "hr1-1hs",
+    "issues": [
+        {
+            "name": "Unit Is Not Reaching Set Temperature",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/beverage-air/hr1-1hs/unit-is-not-reaching-set-temperature",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BEV/BEV00C30-123D-03.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Beverage Air 00C30-123D-03 Temperature Control Kit with Probes, ERC1120",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00C30-123D-03",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 500.00"
+                }
+            ]
+        },
+        {
+            "name": "Controller Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/beverage-air/hr1-1hs/controller-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BEV/BEV00C30-123D-03.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Beverage Air 00C30-123D-03 Temperature Control Kit with Probes, ERC1120",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00C30-123D-03",
+                    "fix_rate": 89.0,
+                    "list_price": "$ 500.00"
+                }
+            ]
+        }
+    ]
+}

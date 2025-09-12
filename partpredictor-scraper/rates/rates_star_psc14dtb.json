@@ -1,0 +1,328 @@
+{
+    "brand": "star",
+    "model": "psc14dtb",
+    "issues": [
+        {
+            "name": "Probe Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/star/psc14dtb/probe-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2E-Z3278.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2E-Z3278 RTD Probe with 48 Inch Wire",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2E-Z3278",
+                    "fix_rate": 60.0,
+                    "list_price": "$ 224.85"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2E-Z1470.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2E-Z1470 Rtd Sensor, 2K Ohms, 24\" Leads",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2E-Z1470",
+                    "fix_rate": 38.0,
+                    "list_price": "$ 105.45"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2E-Z3335.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2E-Z3335 Relay, Double Pole Single Throw",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2E-Z3335",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 113.76"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STASD9-GR0629.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star SD9-GR0629 Controller Programmed, Taco Bell",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSD9-GR0629",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 844.50"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STAPS-Z9325.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star PS-Z9325 Element Replacement Kit, Top, 120V, 500W",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nPS-Z9325",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 278.87"
+                }
+            ]
+        },
+        {
+            "name": "Relay Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/star/psc14dtb/relay-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2E-Z3335.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2E-Z3335 Relay, Double Pole Single Throw",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2E-Z3335",
+                    "fix_rate": 68.0,
+                    "list_price": "$ 113.76"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STASD9-GR0629.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star SD9-GR0629 Controller Programmed, Taco Bell",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSD9-GR0629",
+                    "fix_rate": 23.0,
+                    "list_price": "$ 844.50"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2E-Z3278.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2E-Z3278 RTD Probe with 48 Inch Wire",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2E-Z3278",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 224.85"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2E-Z1470.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2E-Z1470 Rtd Sensor, 2K Ohms, 24\" Leads",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2E-Z1470",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 105.45"
+                }
+            ]
+        },
+        {
+            "name": "Wiring Issue",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/star/psc14dtb/wiring-issue",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2E-Z3278.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2E-Z3278 RTD Probe with 48 Inch Wire",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2E-Z3278",
+                    "fix_rate": 28.0,
+                    "list_price": "$ 224.85"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2E-Z3335.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2E-Z3335 Relay, Double Pole Single Throw",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2E-Z3335",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 113.76"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2E-Z3808.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2E-Z3808 Toggle Switch, 120V, 30A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2E-Z3808",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 121.40"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2E-Z2894.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2E-Z2894 Terminal Block, 4 Pole",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2E-Z2894",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 45.89"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STAPS-Z9325.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star PS-Z9325 Element Replacement Kit, Top, 120V, 500W",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nPS-Z9325",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 278.87"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2E-Z1470.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2E-Z1470 Rtd Sensor, 2K Ohms, 24\" Leads",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2E-Z1470",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 105.45"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STASD9-GR0629.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star SD9-GR0629 Controller Programmed, Taco Bell",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSD9-GR0629",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 844.50"
+                }
+            ]
+        },
+        {
+            "name": "Controller Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/star/psc14dtb/controller-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STASD9-GR0629.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star SD9-GR0629 Controller Programmed, Taco Bell",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSD9-GR0629",
+                    "fix_rate": 79.0,
+                    "list_price": "$ 844.50"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2E-Z3335.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2E-Z3335 Relay, Double Pole Single Throw",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2E-Z3335",
+                    "fix_rate": 24.0,
+                    "list_price": "$ 113.76"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2E-Z3278.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2E-Z3278 RTD Probe with 48 Inch Wire",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2E-Z3278",
+                    "fix_rate": 24.0,
+                    "list_price": "$ 224.85"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2E-Z1470.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2E-Z1470 Rtd Sensor, 2K Ohms, 24\" Leads",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2E-Z1470",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 105.45"
+                }
+            ]
+        },
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/star/psc14dtb/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2E-Z3808.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2E-Z3808 Toggle Switch, 120V, 30A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2E-Z3808",
+                    "fix_rate": 64.0,
+                    "list_price": "$ 121.40"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STASD9-GR0629.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star SD9-GR0629 Controller Programmed, Taco Bell",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSD9-GR0629",
+                    "fix_rate": 20.0,
+                    "list_price": "$ 844.50"
+                }
+            ]
+        },
+        {
+            "name": "Heating Element Is Malfunctioning",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/star/psc14dtb/heating-element-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2E-Z3335.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2E-Z3335 Relay, Double Pole Single Throw",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2E-Z3335",
+                    "fix_rate": 79.0,
+                    "list_price": "$ 113.76"
+                }
+            ]
+        },
+        {
+            "name": "Transformer Is Malfunctioning",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/star/psc14dtb/transformer-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2E-05-07-0351.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2E-05-07-0351 Transformer, 115 to 10V, 6VA",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2E-05-07-0351",
+                    "fix_rate": 69.0,
+                    "list_price": "$ 89.61"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STASD9-GR0629.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star SD9-GR0629 Controller Programmed, Taco Bell",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSD9-GR0629",
+                    "fix_rate": 38.0,
+                    "list_price": "$ 844.50"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Overheating",
+            "idx": 7,
+            "url": "https://www.partstown.com/part-predictor/star/psc14dtb/unit-is-overheating",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2E-Z3335.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2E-Z3335 Relay, Double Pole Single Throw",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2E-Z3335",
+                    "fix_rate": 55.0,
+                    "list_price": "$ 113.76"
+                }
+            ]
+        },
+        {
+            "name": "Unit Won't Turn On",
+            "idx": 8,
+            "url": "https://www.partstown.com/part-predictor/star/psc14dtb/unit-wont-turn-on",
+            "results": []
+        }
+    ]
+}

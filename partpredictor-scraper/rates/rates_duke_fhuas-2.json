@@ -1,0 +1,262 @@
+{
+    "brand": "duke",
+    "model": "fhuas-2",
+    "issues": [
+        {
+            "name": "Motor Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/duke/fhuas-2/motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DUK/DUK225442D.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Duke 225442D Fan Motor, Fry Station, BK, Right, 115V RH, 36\" Revision D",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n225442D",
+                    "fix_rate": 33.0,
+                    "list_price": "$ 750.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DUK/DUK414268.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Duke 414268 Motor Assembly, Retro Rev D, Lh/Rh",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n414268",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 1,782.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DUK/DUK225443D.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Duke 225443D Fan Assembly, Fry Station BK, Left, 115V, 36\" Revision D",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n225443D",
+                    "fix_rate": 24.0,
+                    "list_price": "$ 750.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DUK/DUK155753.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Duke 155753 Hi Limit Thermostat",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n155753",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 44.70"
+                }
+            ]
+        },
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/duke/fhuas-2/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DUK/DUK222010.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Duke 222010 Switch, DPST, 120V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n222010",
+                    "fix_rate": 45.0,
+                    "list_price": "$ 86.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DUK/DUK414151.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Duke 414151 ASY RETRO SWITCHES RELAYS (",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n414151",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 782.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DUK/DUK414268.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Duke 414268 Motor Assembly, Retro Rev D, Lh/Rh",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n414268",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 1,782.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DUK/DUK155753.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Duke 155753 Hi Limit Thermostat",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n155753",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 44.70"
+                }
+            ]
+        },
+        {
+            "name": "Blower Motor Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/duke/fhuas-2/blower-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DUK/DUK414268.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Duke 414268 Motor Assembly, Retro Rev D, Lh/Rh",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n414268",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 1,782.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DUK/DUK225443D.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Duke 225443D Fan Assembly, Fry Station BK, Left, 115V, 36\" Revision D",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n225443D",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 750.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DUK/DUK155753.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Duke 155753 Hi Limit Thermostat",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n155753",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 44.70"
+                }
+            ]
+        },
+        {
+            "name": "Relay Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/duke/fhuas-2/relay-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DUK/DUK222724.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Duke 222724 Relay, 120V Coil, Dpst, Te T92",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n222724",
+                    "fix_rate": 65.0,
+                    "list_price": "$ 58.92"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DUK/DUK222010.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Duke 222010 Switch, DPST, 120V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n222010",
+                    "fix_rate": 35.0,
+                    "list_price": "$ 86.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DUK/DUK414268.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Duke 414268 Motor Assembly, Retro Rev D, Lh/Rh",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n414268",
+                    "fix_rate": 30.0,
+                    "list_price": "$ 1,782.00"
+                }
+            ]
+        },
+        {
+            "name": "Hi-limit Is Tripping Or Wont Reset",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/duke/fhuas-2/hi-limit-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DUK/DUK155753.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Duke 155753 Hi Limit Thermostat",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n155753",
+                    "fix_rate": 74.0,
+                    "list_price": "$ 44.70"
+                }
+            ]
+        },
+        {
+            "name": "Motor Is Making Noise",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/duke/fhuas-2/motor-is-making-noise",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DUK/DUK225443D.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Duke 225443D Fan Assembly, Fry Station BK, Left, 115V, 36\" Revision D",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n225443D",
+                    "fix_rate": 37.0,
+                    "list_price": "$ 750.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DUK/DUK414268.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Duke 414268 Motor Assembly, Retro Rev D, Lh/Rh",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n414268",
+                    "fix_rate": 32.0,
+                    "list_price": "$ 1,782.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DUK/DUK225442D.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Duke 225442D Fan Motor, Fry Station, BK, Right, 115V RH, 36\" Revision D",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n225442D",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 750.00"
+                }
+            ]
+        },
+        {
+            "name": "Fan Motor Is Malfunctioning",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/duke/fhuas-2/fan-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DUK/DUK225442D.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Duke 225442D Fan Motor, Fry Station, BK, Right, 115V RH, 36\" Revision D",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n225442D",
+                    "fix_rate": 28.0,
+                    "list_price": "$ 750.00"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Making Noise",
+            "idx": 7,
+            "url": "https://www.partstown.com/part-predictor/duke/fhuas-2/unit-is-making-noise",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DUK/DUK414268.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Duke 414268 Motor Assembly, Retro Rev D, Lh/Rh",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n414268",
+                    "fix_rate": 45.0,
+                    "list_price": "$ 1,782.00"
+                }
+            ]
+        }
+    ]
+}

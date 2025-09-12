@@ -1,0 +1,23 @@
+{
+    "brand": "electrolux-professional",
+    "model": "aos062ekm1",
+    "issues": [
+        {
+            "name": "Fuse Is Blown",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/electrolux-professional/aos062ekm1/fuse-is-blown",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/ELX/ELX0C2245.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Electrolux Professional 0C2245 Fuse, Omega 22*58, 80A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n0C2245",
+                    "fix_rate": 40.0,
+                    "list_price": "$ 155.49"
+                }
+            ]
+        }
+    ]
+}

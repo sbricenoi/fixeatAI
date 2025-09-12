@@ -1,0 +1,40 @@
+{
+    "brand": "southbend-range",
+    "model": "gs-15sc",
+    "issues": [
+        {
+            "name": "Flame Sensor Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/southbend-range/gs-15sc/flame-sensor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1195448.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1195448 Flame Sensor, 90 Degree",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1195448",
+                    "fix_rate": 56.0,
+                    "list_price": "$ 155.91"
+                }
+            ]
+        },
+        {
+            "name": "Ignitor Is Malfunctioning Or Damaged",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/southbend-range/gs-15sc/ignitor-is-malfunctioning-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1183200.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1183200 Hot Surface Ignitor",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1183200",
+                    "fix_rate": 67.0,
+                    "list_price": "$ 216.77"
+                }
+            ]
+        }
+    ]
+}

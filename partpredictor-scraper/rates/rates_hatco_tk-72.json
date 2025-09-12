@@ -1,0 +1,23 @@
+{
+    "brand": "hatco",
+    "model": "tk-72",
+    "issues": [
+        {
+            "name": "Motor Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/hatco/tk-72/motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HT/HTR02.12.020.00.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hatco R02.12.020.00 Gearmotor Kit, 6 RPM, 208V, 60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nR02.12.020.00",
+                    "fix_rate": 91.0,
+                    "list_price": "$ 228.00"
+                }
+            ]
+        }
+    ]
+}

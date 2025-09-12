@@ -1,0 +1,23 @@
+{
+    "brand": "garland",
+    "model": "g56-pt",
+    "issues": [
+        {
+            "name": "Motor Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/garland/g56-pt/motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL1615001.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 1615001 Motor, 115/240V, 1725 RPM, 3/4 HP",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1615001",
+                    "fix_rate": 60.0,
+                    "list_price": "$ 1,301.36"
+                }
+            ]
+        }
+    ]
+}

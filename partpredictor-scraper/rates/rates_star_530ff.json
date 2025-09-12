@@ -1,0 +1,40 @@
+{
+    "brand": "star",
+    "model": "530ff",
+    "issues": [
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/star/530ff/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2E-Y8493.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2E-Y8493 Switch/Circuit Breaker, 2 Pole, 5A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2E-Y8493",
+                    "fix_rate": 89.0,
+                    "list_price": "$ 251.96"
+                }
+            ]
+        },
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/star/530ff/thermostat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2T-Z7208.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2T-Z7208 Thermostat, Mechanical, 375F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2T-Z7208",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 180.64"
+                }
+            ]
+        }
+    ]
+}

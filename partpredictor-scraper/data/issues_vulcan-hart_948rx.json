@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Pilot Is Malfunctioning",
+        "parsed_name": "pilot-is-malfunctioning"
+    },
+    {
+        "name": "Pilot Safety Valve Is Malfunctioning",
+        "parsed_name": "pilot-safety-valve-is-malfunctioning"
+    }
+]

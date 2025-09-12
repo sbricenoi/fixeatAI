@@ -1,0 +1,23 @@
+{
+    "brand": "beverage-air",
+    "model": "wtrcs84-1",
+    "issues": [
+        {
+            "name": "Controller Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/beverage-air/wtrcs84-1/controller-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BEV/BEV00C30-123D-03.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Beverage Air 00C30-123D-03 Temperature Control Kit with Probes, ERC1120",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00C30-123D-03",
+                    "fix_rate": 86.0,
+                    "list_price": "$ 500.00"
+                }
+            ]
+        }
+    ]
+}

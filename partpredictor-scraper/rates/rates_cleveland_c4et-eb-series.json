@@ -1,0 +1,91 @@
+{
+    "brand": "cleveland",
+    "model": "c4et-eb-series",
+    "issues": [
+        {
+            "name": "Door Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/cleveland/c4et-eb-series/door-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/COV/COV6066543.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Convotherm 6066543 DOOR HANDLE CONVOTHERM 4",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n6066543",
+                    "fix_rate": 54.0,
+                    "list_price": "$ 152.29"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Leaking",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/cleveland/c4et-eb-series/unit-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/COV/COV5056946.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Convotherm 5056946 Power Supply, 12Vdc, 60W, Ul, Convotherm",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n5056946",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 322.22"
+                }
+            ]
+        },
+        {
+            "name": "Fuse Is Blown",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/cleveland/c4et-eb-series/fuse-is-blown",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/COV/COV4056354.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Convotherm 4056354 Fuse, T4A, 6.3 x 32mm, Pack of 10",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4056354",
+                    "fix_rate": 45.0,
+                    "list_price": "$ 38.91"
+                }
+            ]
+        },
+        {
+            "name": "Handle Is Defective",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/cleveland/c4et-eb-series/handle-is-defective",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/COV/COV6066543.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Convotherm 6066543 DOOR HANDLE CONVOTHERM 4",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n6066543",
+                    "fix_rate": 89.0,
+                    "list_price": "$ 152.29"
+                }
+            ]
+        },
+        {
+            "name": "Latch Is Damaged Or Not Latching",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/cleveland/c4et-eb-series/latch-is-damaged-or-not-latching",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/COV/COV6066543.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Convotherm 6066543 DOOR HANDLE CONVOTHERM 4",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n6066543",
+                    "fix_rate": 90.0,
+                    "list_price": "$ 152.29"
+                }
+            ]
+        }
+    ]
+}

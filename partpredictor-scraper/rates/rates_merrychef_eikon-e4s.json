@@ -1,0 +1,258 @@
+{
+    "brand": "merrychef",
+    "model": "eikon-e4s",
+    "issues": [
+        {
+            "name": "Magnetron Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/merrychef/eikon-e4s/magnetron-is-malfunctioning",
+            "results": []
+        },
+        {
+            "name": "Fuse Is Blown",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/merrychef/eikon-e4s/fuse-is-blown",
+            "results": []
+        },
+        {
+            "name": "Probe Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/merrychef/eikon-e4s/probe-is-malfunctioning",
+            "results": []
+        },
+        {
+            "name": "Thermocouple Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/merrychef/eikon-e4s/thermocouple-is-malfunctioning",
+            "results": []
+        },
+        {
+            "name": "Hi-limit Is Tripping Or Wont Reset",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/merrychef/eikon-e4s/hi-limit-is-tripping-or-wont-reset",
+            "results": []
+        },
+        {
+            "name": "Unit Is Overheating",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/merrychef/eikon-e4s/unit-is-overheating",
+            "results": []
+        },
+        {
+            "name": "Door Is Malfunctioning",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/merrychef/eikon-e4s/door-is-malfunctioning",
+            "results": []
+        },
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 7,
+            "url": "https://www.partstown.com/part-predictor/merrychef/eikon-e4s/switch-is-malfunctioning",
+            "results": []
+        },
+        {
+            "name": "Transformer Is Malfunctioning",
+            "idx": 8,
+            "url": "https://www.partstown.com/part-predictor/merrychef/eikon-e4s/transformer-is-malfunctioning",
+            "results": []
+        },
+        {
+            "name": "Sensor Is Malfunctioning",
+            "idx": 9,
+            "url": "https://www.partstown.com/part-predictor/merrychef/eikon-e4s/sensor-is-malfunctioning",
+            "results": []
+        },
+        {
+            "name": "Diode Is Malfunctioning",
+            "idx": 10,
+            "url": "https://www.partstown.com/part-predictor/merrychef/eikon-e4s/diode-is-malfunctioning",
+            "results": []
+        },
+        {
+            "name": "Door Gasket Is Defective",
+            "idx": 11,
+            "url": "https://www.partstown.com/part-predictor/merrychef/eikon-e4s/door-gasket-is-defective",
+            "results": []
+        },
+        {
+            "name": "Hinge Is Defective Or Damaged",
+            "idx": 12,
+            "url": "https://www.partstown.com/part-predictor/merrychef/eikon-e4s/hinge-is-defective-or-damaged",
+            "results": []
+        },
+        {
+            "name": "Display Is Malfunctioning",
+            "idx": 13,
+            "url": "https://www.partstown.com/part-predictor/merrychef/eikon-e4s/display-is-malfunctioning",
+            "results": []
+        },
+        {
+            "name": "Gasket Is Defective Or Leaking",
+            "idx": 14,
+            "url": "https://www.partstown.com/part-predictor/merrychef/eikon-e4s/gasket-is-defective-or-leaking",
+            "results": []
+        },
+        {
+            "name": "Capacitor Is Malfunctioning",
+            "idx": 15,
+            "url": "https://www.partstown.com/part-predictor/merrychef/eikon-e4s/capacitor-is-malfunctioning",
+            "results": []
+        },
+        {
+            "name": "Unit Is Not Reaching Set Temperature",
+            "idx": 16,
+            "url": "https://www.partstown.com/part-predictor/merrychef/eikon-e4s/unit-is-not-reaching-set-temperature",
+            "results": []
+        },
+        {
+            "name": "Stirrer Is Malfunctioning",
+            "idx": 17,
+            "url": "https://www.partstown.com/part-predictor/merrychef/eikon-e4s/stirrer-is-malfunctioning",
+            "results": []
+        },
+        {
+            "name": "Door Switch Is Malfunctioning",
+            "idx": 18,
+            "url": "https://www.partstown.com/part-predictor/merrychef/eikon-e4s/door-switch-is-malfunctioning",
+            "results": []
+        },
+        {
+            "name": "Spring Is Malfunctioning",
+            "idx": 19,
+            "url": "https://www.partstown.com/part-predictor/merrychef/eikon-e4s/spring-is-malfunctioning",
+            "results": []
+        },
+        {
+            "name": "Door Spring Is Malfunctioning",
+            "idx": 20,
+            "url": "https://www.partstown.com/part-predictor/merrychef/eikon-e4s/door-spring-is-malfunctioning",
+            "results": []
+        },
+        {
+            "name": "Breaker Is Tripping Or Wont Reset",
+            "idx": 21,
+            "url": "https://www.partstown.com/part-predictor/merrychef/eikon-e4s/breaker-is-tripping-or-wont-reset",
+            "results": []
+        },
+        {
+            "name": "Filter Is Malfunctioning",
+            "idx": 22,
+            "url": "https://www.partstown.com/part-predictor/merrychef/eikon-e4s/filter-is-malfunctioning",
+            "results": []
+        },
+        {
+            "name": "Wiring Issue",
+            "idx": 23,
+            "url": "https://www.partstown.com/part-predictor/merrychef/eikon-e4s/wiring-issue",
+            "results": []
+        },
+        {
+            "name": "Unit Is Shutting Down",
+            "idx": 24,
+            "url": "https://www.partstown.com/part-predictor/merrychef/eikon-e4s/unit-is-shutting-down",
+            "results": []
+        },
+        {
+            "name": "Unit Is Leaking",
+            "idx": 25,
+            "url": "https://www.partstown.com/part-predictor/merrychef/eikon-e4s/unit-is-leaking",
+            "results": []
+        },
+        {
+            "name": "Fan Motor Is Malfunctioning",
+            "idx": 26,
+            "url": "https://www.partstown.com/part-predictor/merrychef/eikon-e4s/fan-motor-is-malfunctioning",
+            "results": []
+        },
+        {
+            "name": "Relay Is Malfunctioning",
+            "idx": 27,
+            "url": "https://www.partstown.com/part-predictor/merrychef/eikon-e4s/relay-is-malfunctioning",
+            "results": []
+        },
+        {
+            "name": "Unit Won't Turn On",
+            "idx": 28,
+            "url": "https://www.partstown.com/part-predictor/merrychef/eikon-e4s/unit-wont-turn-on",
+            "results": []
+        },
+        {
+            "name": "Bracket Is Broken",
+            "idx": 29,
+            "url": "https://www.partstown.com/part-predictor/merrychef/eikon-e4s/bracket-is-broken",
+            "results": []
+        },
+        {
+            "name": "Controller Is Malfunctioning",
+            "idx": 30,
+            "url": "https://www.partstown.com/part-predictor/merrychef/eikon-e4s/controller-is-malfunctioning",
+            "results": []
+        },
+        {
+            "name": "Unit Is Working Intermittently",
+            "idx": 31,
+            "url": "https://www.partstown.com/part-predictor/merrychef/eikon-e4s/unit-is-working-intermittently",
+            "results": []
+        },
+        {
+            "name": "Wave Guide Is Malfunctioning",
+            "idx": 32,
+            "url": "https://www.partstown.com/part-predictor/merrychef/eikon-e4s/wave-guide-is-malfunctioning",
+            "results": []
+        },
+        {
+            "name": "Relay Board Is Malfunctioning",
+            "idx": 33,
+            "url": "https://www.partstown.com/part-predictor/merrychef/eikon-e4s/relay-board-is-malfunctioning",
+            "results": []
+        },
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 34,
+            "url": "https://www.partstown.com/part-predictor/merrychef/eikon-e4s/thermostat-is-malfunctioning",
+            "results": []
+        },
+        {
+            "name": "Unit Is Making Noise",
+            "idx": 35,
+            "url": "https://www.partstown.com/part-predictor/merrychef/eikon-e4s/unit-is-making-noise",
+            "results": []
+        },
+        {
+            "name": "Unit Making Noise",
+            "idx": 36,
+            "url": "https://www.partstown.com/part-predictor/merrychef/eikon-e4s/unit-making-noise",
+            "results": []
+        },
+        {
+            "name": "Blower Motor Is Malfunctioning",
+            "idx": 37,
+            "url": "https://www.partstown.com/part-predictor/merrychef/eikon-e4s/blower-motor-is-malfunctioning",
+            "results": []
+        },
+        {
+            "name": "Cooling Fan Is Malfunctioning",
+            "idx": 38,
+            "url": "https://www.partstown.com/part-predictor/merrychef/eikon-e4s/cooling-fan-is-malfunctioning",
+            "results": []
+        },
+        {
+            "name": "Fan Motor Is Making Noise",
+            "idx": 39,
+            "url": "https://www.partstown.com/part-predictor/merrychef/eikon-e4s/fan-motor-is-making-noise",
+            "results": []
+        },
+        {
+            "name": "Smoke Coming From Unit",
+            "idx": 40,
+            "url": "https://www.partstown.com/part-predictor/merrychef/eikon-e4s/smoke-coming-from-unit",
+            "results": []
+        },
+        {
+            "name": "Blower Motor Is Making Noise",
+            "idx": 41,
+            "url": "https://www.partstown.com/part-predictor/merrychef/eikon-e4s/blower-motor-is-making-noise",
+            "results": []
+        }
+    ]
+}

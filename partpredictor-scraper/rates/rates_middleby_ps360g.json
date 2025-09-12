@@ -1,0 +1,33 @@
+{
+    "brand": "middleby",
+    "model": "ps360g",
+    "issues": [
+        {
+            "name": "Motor Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/middleby/ps360g/motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/MD/MD70926.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Middleby 70926 Sensor, Blower",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n70926",
+                    "fix_rate": 31.0,
+                    "list_price": "$ 196.87"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MD/MD69149.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Middleby 69149 Blower Motor, 230V, 60Hz, 1/3Hp",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n69149",
+                    "fix_rate": 31.0,
+                    "list_price": "$ 794.41"
+                }
+            ]
+        }
+    ]
+}

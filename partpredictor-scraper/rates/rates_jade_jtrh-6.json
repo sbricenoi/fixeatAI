@@ -1,0 +1,545 @@
+{
+    "brand": "jade",
+    "model": "jtrh-6",
+    "issues": [
+        {
+            "name": "Pilot Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/jade/jtrh-6/pilot-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/JD/JD4612600100.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jade 4612600100 Thermocouple, 18\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4612600100",
+                    "fix_rate": 35.0,
+                    "list_price": "$ 81.35"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/JD/JD3000010243.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jade 3000010243 Safety Valve, Oven, 3/8\"FPT x 3/16\" Tube, BASO",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3000010243",
+                    "fix_rate": 28.0,
+                    "list_price": "$ 533.09"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/JD/JD3000013480.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jade 3000013480 Pilot/Ignitor/Thermocouple Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3000013480",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 262.46"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/JD/JD4615300100.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jade 4615300100 Thermostat, FDO, TITAN",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4615300100",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 814.39"
+                }
+            ]
+        },
+        {
+            "name": "Door Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/jade/jtrh-6/door-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/JD/JD3014400000.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jade 3014400000 Oven Door Spring",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3014400000",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 41.28"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/JD/JD3012900100.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jade 3012900100 S-Hook, Door, Titan Only",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3012900100",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 18.24"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/JD/JD3010400100.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jade 3010400100 Handle Bracket, Oven Door, Jtrh/Jsr",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3010400100",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 71.57"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/JD/JD3463400000.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jade 3463400000 Screw, 1/4-20 x 3/4\", Phillips, Zink",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3463400000",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 4.48"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/JD/JD8434900000.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jade 8434900000 Oven Handle And Bracket Kit, 36\", Jtrh/Jsr",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8434900000",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 351.92"
+                }
+            ]
+        },
+        {
+            "name": "Blower Motor Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/jade/jtrh-6/blower-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/JD/JD3000012004.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jade 3000012004 Switch, Blower, Toggle, SPDT, JBR",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3000012004",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 27.66"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/JD/JD2500132267.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jade 2500132267 Toggle Switch, On/Off",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2500132267",
+                    "fix_rate": 23.0,
+                    "list_price": "$ 90.24"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/JD/JD3000011750.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jade 3000011750 Microswitch, Lever",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3000011750",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 26.95"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/JD/JD3018800000.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jade 3018800000 Blower Wheel, 8\", JTRH/JSR",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3018800000",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 358.76"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/JD/JD3098710V.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jade 3098710V Blower Motor, 115V, 60HZ, 1PH, Conv Oven",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3098710V",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 1,864.03"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/JD/JD2035400000.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jade 2035400000 Boot, Rubber, Toggle Switch",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2035400000",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 42.49"
+                }
+            ]
+        },
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/jade/jtrh-6/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/JD/JD2500132267.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jade 2500132267 Toggle Switch, On/Off",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2500132267",
+                    "fix_rate": 32.0,
+                    "list_price": "$ 90.24"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/JD/JD3000012004.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jade 3000012004 Switch, Blower, Toggle, SPDT, JBR",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3000012004",
+                    "fix_rate": 30.0,
+                    "list_price": "$ 27.66"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/JD/JD3000011750.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jade 3000011750 Microswitch, Lever",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3000011750",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 26.95"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/JD/JD2038700000.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jade 2038700000 Indicator Lamp, Red, 125V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2038700000",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 21.92"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/JD/JD2035400000.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jade 2035400000 Boot, Rubber, Toggle Switch",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2035400000",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 42.49"
+                }
+            ]
+        },
+        {
+            "name": "Fan Motor Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/jade/jtrh-6/fan-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/JD/JD3000012004.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jade 3000012004 Switch, Blower, Toggle, SPDT, JBR",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3000012004",
+                    "fix_rate": 24.0,
+                    "list_price": "$ 27.66"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/JD/JD3000011750.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jade 3000011750 Microswitch, Lever",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3000011750",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 26.95"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/JD/JD2500132267.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jade 2500132267 Toggle Switch, On/Off",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2500132267",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 90.24"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/JD/JD3098710V.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jade 3098710V Blower Motor, 115V, 60HZ, 1PH, Conv Oven",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3098710V",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 1,864.03"
+                }
+            ]
+        },
+        {
+            "name": "Burner Is Malfunctioning Or Damaged",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/jade/jtrh-6/burner-is-malfunctioning-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/JD/JD3012600000.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jade 3012600000 Air Shutter, Burner",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3012600000",
+                    "fix_rate": 28.0,
+                    "list_price": "$ 17.39"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/JD/JD4418500200.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jade 4418500200 Burner Valve, Horizontal, Split",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4418500200",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 68.49"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/JD/JD3000012131.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jade 3000012131 Knob, Burner, Chrome 2.75\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3000012131",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 36.37"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/JD/JD3000010836.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jade 3000010836 Burner Assembly, Open Top, Front, JSR/JTRH/LIF",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3000010836",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 182.02"
+                }
+            ]
+        },
+        {
+            "name": "Handle Is Defective",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/jade/jtrh-6/handle-is-defective",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/JD/JD3010400100.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jade 3010400100 Handle Bracket, Oven Door, Jtrh/Jsr",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3010400100",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 71.57"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/JD/JD3463400000.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jade 3463400000 Screw, 1/4-20 x 3/4\", Phillips, Zink",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3463400000",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 4.48"
+                }
+            ]
+        },
+        {
+            "name": "Motor Is Malfunctioning",
+            "idx": 7,
+            "url": "https://www.partstown.com/part-predictor/jade/jtrh-6/motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/JD/JD3098701V.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jade 3098701V Blower Motor Assembly, Convection Oven",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3098701V",
+                    "fix_rate": 32.0,
+                    "list_price": "$ 3,177.90"
+                }
+            ]
+        },
+        {
+            "name": "Thermocouple Is Malfunctioning",
+            "idx": 8,
+            "url": "https://www.partstown.com/part-predictor/jade/jtrh-6/thermocouple-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/JD/JD4612600100.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jade 4612600100 Thermocouple, 18\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4612600100",
+                    "fix_rate": 40.0,
+                    "list_price": "$ 81.35"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/JD/JD3000010243.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jade 3000010243 Safety Valve, Oven, 3/8\"FPT x 3/16\" Tube, BASO",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3000010243",
+                    "fix_rate": 30.0,
+                    "list_price": "$ 533.09"
+                }
+            ]
+        },
+        {
+            "name": "Door Spring Is Malfunctioning",
+            "idx": 9,
+            "url": "https://www.partstown.com/part-predictor/jade/jtrh-6/door-spring-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/JD/JD3014400000.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jade 3014400000 Oven Door Spring",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3014400000",
+                    "fix_rate": 61.0,
+                    "list_price": "$ 41.28"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/JD/JD3012900100.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jade 3012900100 S-Hook, Door, Titan Only",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3012900100",
+                    "fix_rate": 28.0,
+                    "list_price": "$ 18.24"
+                }
+            ]
+        },
+        {
+            "name": "Spring Is Malfunctioning",
+            "idx": 10,
+            "url": "https://www.partstown.com/part-predictor/jade/jtrh-6/spring-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/JD/JD3014400000.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jade 3014400000 Oven Door Spring",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3014400000",
+                    "fix_rate": 62.0,
+                    "list_price": "$ 41.28"
+                }
+            ]
+        },
+        {
+            "name": "Breaker Is Tripping Or Wont Reset",
+            "idx": 11,
+            "url": "https://www.partstown.com/part-predictor/jade/jtrh-6/breaker-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/JD/JD2500132267.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jade 2500132267 Toggle Switch, On/Off",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2500132267",
+                    "fix_rate": 40.0,
+                    "list_price": "$ 90.24"
+                }
+            ]
+        },
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 12,
+            "url": "https://www.partstown.com/part-predictor/jade/jtrh-6/thermostat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/JD/JD4615300100.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jade 4615300100 Thermostat, FDO, TITAN",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4615300100",
+                    "fix_rate": 80.0,
+                    "list_price": "$ 814.39"
+                }
+            ]
+        },
+        {
+            "name": "Door Switch Is Malfunctioning",
+            "idx": 13,
+            "url": "https://www.partstown.com/part-predictor/jade/jtrh-6/door-switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/JD/JD3000011750.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jade 3000011750 Microswitch, Lever",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3000011750",
+                    "fix_rate": 57.0,
+                    "list_price": "$ 26.95"
+                }
+            ]
+        },
+        {
+            "name": "Pilot Safety Valve Is Malfunctioning",
+            "idx": 14,
+            "url": "https://www.partstown.com/part-predictor/jade/jtrh-6/pilot-safety-valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/JD/JD3000010243.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jade 3000010243 Safety Valve, Oven, 3/8\"FPT x 3/16\" Tube, BASO",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3000010243",
+                    "fix_rate": 45.0,
+                    "list_price": "$ 533.09"
+                }
+            ]
+        },
+        {
+            "name": "Bracket Is Broken",
+            "idx": 15,
+            "url": "https://www.partstown.com/part-predictor/jade/jtrh-6/bracket-is-broken",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/JD/JD3010400100.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jade 3010400100 Handle Bracket, Oven Door, Jtrh/Jsr",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3010400100",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 71.57"
+                }
+            ]
+        },
+        {
+            "name": "Light Is Not Functioning Or Damaged",
+            "idx": 16,
+            "url": "https://www.partstown.com/part-predictor/jade/jtrh-6/light-is-not-functioning-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/JD/JD2038700000.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jade 2038700000 Indicator Lamp, Red, 125V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2038700000",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 21.92"
+                }
+            ]
+        }
+    ]
+}

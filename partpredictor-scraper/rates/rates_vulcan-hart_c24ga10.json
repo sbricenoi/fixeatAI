@@ -1,0 +1,391 @@
+{
+    "brand": "vulcan-hart",
+    "model": "c24ga10",
+    "issues": [
+        {
+            "name": "Unit Is Leaking",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/vulcan-hart/c24ga10/unit-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-857242-00001.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-857242-00001 Box, Condensate Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-857242-00001",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 313.77"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-855607-00001.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-855607-00001 Thermostat, Condensate, 135F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-855607-00001",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 214.03"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-856720-00003.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-856720-00003 Solenoid Valve, Water, Dual Coil",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-856720-00003",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 163.88"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-857085-00002.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-857085-00002 Door Gasket Kit (5-Pan)",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-857085-00002",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 351.25"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-856720-00001.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-856720-00001 Valve, Dual, Water, 3/8 GPM",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-856720-00001",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 170.43"
+                }
+            ]
+        },
+        {
+            "name": "Gasket Is Defective Or Leaking",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/vulcan-hart/c24ga10/gasket-is-defective-or-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-857085-00002.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-857085-00002 Door Gasket Kit (5-Pan)",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-857085-00002",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 351.25"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-855627-00001.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-855627-00001 Pilot/Ignitor Assembly, VAX",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-855627-00001",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 318.07"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-855628-00001.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-855628-00001 Gasket, Pilot, C24GA6/10",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-855628-00001",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 20.63"
+                }
+            ]
+        },
+        {
+            "name": "Valve Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/vulcan-hart/c24ga10/valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-856720-00003.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-856720-00003 Solenoid Valve, Water, Dual Coil",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-856720-00003",
+                    "fix_rate": 44.0,
+                    "list_price": "$ 163.88"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-856720-00001.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-856720-00001 Valve, Dual, Water, 3/8 GPM",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-856720-00001",
+                    "fix_rate": 20.0,
+                    "list_price": "$ 170.43"
+                }
+            ]
+        },
+        {
+            "name": "Burner Is Malfunctioning Or Damaged",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/vulcan-hart/c24ga10/burner-is-malfunctioning-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-855625-00001.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-855625-00001 Gasket, Burner Plate, C24GA6/10",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-855625-00001",
+                    "fix_rate": 42.0,
+                    "list_price": "$ 46.92"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-855627-00001.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-855627-00001 Pilot/Ignitor Assembly, VAX",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-855627-00001",
+                    "fix_rate": 32.0,
+                    "list_price": "$ 318.07"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-855628-00001.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-855628-00001 Gasket, Pilot, C24GA6/10",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-855628-00001",
+                    "fix_rate": 32.0,
+                    "list_price": "$ 20.63"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-858579-00014.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-858579-00014 Ignitor/ Flame Sensor Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-858579-00014",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 162.00"
+                }
+            ]
+        },
+        {
+            "name": "Door Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/vulcan-hart/c24ga10/door-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-857085-00002.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-857085-00002 Door Gasket Kit (5-Pan)",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-857085-00002",
+                    "fix_rate": 32.0,
+                    "list_price": "$ 351.25"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-857625-00001.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-857625-00001 Check Valve, 1/4\" NPT x 1/2 Barb",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-857625-00001",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 101.05"
+                }
+            ]
+        },
+        {
+            "name": "Door Is Leaking",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/vulcan-hart/c24ga10/door-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-857085-00002.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-857085-00002 Door Gasket Kit (5-Pan)",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-857085-00002",
+                    "fix_rate": 44.0,
+                    "list_price": "$ 351.25"
+                }
+            ]
+        },
+        {
+            "name": "Ignition Module Is Malfunctioning",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/vulcan-hart/c24ga10/ignition-module-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-855627-00001.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-855627-00001 Pilot/Ignitor Assembly, VAX",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-855627-00001",
+                    "fix_rate": 33.0,
+                    "list_price": "$ 318.07"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-857207-00002.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-857207-00002 Ignition Module, S8600C3003",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-857207-00002",
+                    "fix_rate": 33.0,
+                    "list_price": "$ 438.75"
+                }
+            ]
+        },
+        {
+            "name": "Blower Motor Is Malfunctioning",
+            "idx": 7,
+            "url": "https://www.partstown.com/part-predictor/vulcan-hart/c24ga10/blower-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-913102-00314.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-913102-00314 Kit, Blower Valve Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-913102-00314",
+                    "fix_rate": 31.0,
+                    "list_price": "$ 1,563.09"
+                }
+            ]
+        },
+        {
+            "name": "Valve Is Leaking",
+            "idx": 8,
+            "url": "https://www.partstown.com/part-predictor/vulcan-hart/c24ga10/valve-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-856720-00003.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-856720-00003 Solenoid Valve, Water, Dual Coil",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-856720-00003",
+                    "fix_rate": 47.0,
+                    "list_price": "$ 163.88"
+                }
+            ]
+        },
+        {
+            "name": "Fuse Is Blown",
+            "idx": 9,
+            "url": "https://www.partstown.com/part-predictor/vulcan-hart/c24ga10/fuse-is-blown",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-855607-00001.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-855607-00001 Thermostat, Condensate, 135F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-855607-00001",
+                    "fix_rate": 36.0,
+                    "list_price": "$ 214.03"
+                }
+            ]
+        },
+        {
+            "name": "Pressure Switch Is Malfunctioning",
+            "idx": 10,
+            "url": "https://www.partstown.com/part-predictor/vulcan-hart/c24ga10/pressure-switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-857022-00001.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-857022-00001 Pressure Switch",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-857022-00001",
+                    "fix_rate": 46.0,
+                    "list_price": "$ 216.14"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-854471.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-854471 Pressure Switch, 5 Psi",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-854471",
+                    "fix_rate": 38.0,
+                    "list_price": "$ 402.14"
+                }
+            ]
+        },
+        {
+            "name": "Ignitor Is Malfunctioning Or Damaged",
+            "idx": 11,
+            "url": "https://www.partstown.com/part-predictor/vulcan-hart/c24ga10/ignitor-is-malfunctioning-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-855627-00001.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-855627-00001 Pilot/Ignitor Assembly, VAX",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-855627-00001",
+                    "fix_rate": 56.0,
+                    "list_price": "$ 318.07"
+                }
+            ]
+        },
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 12,
+            "url": "https://www.partstown.com/part-predictor/vulcan-hart/c24ga10/thermostat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-855607-00001.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-855607-00001 Thermostat, Condensate, 135F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-855607-00001",
+                    "fix_rate": 88.0,
+                    "list_price": "$ 214.03"
+                }
+            ]
+        },
+        {
+            "name": "Relay Is Malfunctioning",
+            "idx": 13,
+            "url": "https://www.partstown.com/part-predictor/vulcan-hart/c24ga10/relay-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-416535-00006.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-416535-00006 Relay, Heating, Ice Cube",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-416535-00006",
+                    "fix_rate": 86.0,
+                    "list_price": "$ 112.81"
+                }
+            ]
+        },
+        {
+            "name": "Door Gasket Is Defective",
+            "idx": 14,
+            "url": "https://www.partstown.com/part-predictor/vulcan-hart/c24ga10/door-gasket-is-defective",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-857085-00002.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-857085-00002 Door Gasket Kit (5-Pan)",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-857085-00002",
+                    "fix_rate": 83.0,
+                    "list_price": "$ 351.25"
+                }
+            ]
+        }
+    ]
+}

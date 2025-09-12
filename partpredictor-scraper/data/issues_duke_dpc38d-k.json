@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Fan Motor Is Malfunctioning",
+        "parsed_name": "fan-motor-is-malfunctioning"
+    },
+    {
+        "name": "Pressure Switch Is Defective Or Leaking",
+        "parsed_name": "pressure-switch-is-defective-or-leaking"
+    }
+]

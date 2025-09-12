@@ -1,0 +1,142 @@
+{
+    "brand": "pitco",
+    "model": "sspe14",
+    "issues": [
+        {
+            "name": "Hi-limit Is Tripping Or Wont Reset",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/pitco/sspe14/hi-limit-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60070701.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60070701 HI Limit Thermostat, Manual Reset",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60070701",
+                    "fix_rate": 86.0,
+                    "list_price": "$ 342.00"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/pitco/sspe14/unit-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60070701.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60070701 HI Limit Thermostat, Manual Reset",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60070701",
+                    "fix_rate": 27.0,
+                    "list_price": "$ 342.00"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Leaking",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/pitco/sspe14/unit-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60163401.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60163401 Water Regulator",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60163401",
+                    "fix_rate": 27.0,
+                    "list_price": "$ 860.00"
+                }
+            ]
+        },
+        {
+            "name": "Contactor Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/pitco/sspe14/contactor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60157202.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60157202 Contactor, 3 Pole, 24VAC Coil, 50A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60157202",
+                    "fix_rate": 75.0,
+                    "list_price": "$ 389.00"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Overheating",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/pitco/sspe14/unit-is-overheating",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60070701.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60070701 HI Limit Thermostat, Manual Reset",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60070701",
+                    "fix_rate": 56.0,
+                    "list_price": "$ 342.00"
+                }
+            ]
+        },
+        {
+            "name": "Controller Is Malfunctioning",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/pitco/sspe14/controller-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60158301.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60158301 Control, Digital Timer OGARD",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60158301",
+                    "fix_rate": 88.0,
+                    "list_price": "$ 1,311.00"
+                }
+            ]
+        },
+        {
+            "name": "Relay Board Is Malfunctioning",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/pitco/sspe14/relay-board-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60144002-C.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60144002-C Relay Board Kit, 24V, KFC",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60144002-C",
+                    "fix_rate": 83.0,
+                    "list_price": "$ 194.00"
+                }
+            ]
+        },
+        {
+            "name": "Transformer Is Malfunctioning",
+            "idx": 7,
+            "url": "https://www.partstown.com/part-predictor/pitco/sspe14/transformer-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PTPP10429.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco PP10429 Transformer, 120/208/240V to 24V, 80VA",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nPP10429",
+                    "fix_rate": 83.0,
+                    "list_price": "$ 211.00"
+                }
+            ]
+        }
+    ]
+}

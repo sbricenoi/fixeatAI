@@ -1,0 +1,90 @@
+{
+    "brand": "hatco",
+    "model": "grs-60",
+    "issues": [
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/hatco/grs-60/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HT/HT02.19.080.00.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hatco 02.19.080.00 Switch with Light, Rocker, DPST, 125V, 16A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n02.19.080.00",
+                    "fix_rate": 38.0,
+                    "list_price": "$ 28.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HT/HT02.19.075.00.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hatco 02.19.075.00 SWITCH, ROCKER, DPST, RED LIGHT, 120V, 22A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n02.19.075.00",
+                    "fix_rate": 30.0,
+                    "list_price": "$ 30.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HT/HT05.30.039.00.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hatco 05.30.039.00 Knob, Thermostat",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n05.30.039.00",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 6.00"
+                }
+            ]
+        },
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/hatco/grs-60/thermostat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HT/HTR02.16.039.00.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hatco R02.16.039.00 Control Thermostat Kit, Dry, 82-200F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nR02.16.039.00",
+                    "fix_rate": 41.0,
+                    "list_price": "$ 76.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HT/HT05.30.039.00.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hatco 05.30.039.00 Knob, Thermostat",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n05.30.039.00",
+                    "fix_rate": 32.0,
+                    "list_price": "$ 6.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HT/HTR02.16.066.00.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hatco R02.16.066.00 Thermostat Control Kit, 253F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nR02.16.066.00",
+                    "fix_rate": 32.0,
+                    "list_price": "$ 74.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HT/HT02.19.080.00.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hatco 02.19.080.00 Switch with Light, Rocker, DPST, 125V, 16A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n02.19.080.00",
+                    "fix_rate": 27.0,
+                    "list_price": "$ 28.00"
+                }
+            ]
+        }
+    ]
+}

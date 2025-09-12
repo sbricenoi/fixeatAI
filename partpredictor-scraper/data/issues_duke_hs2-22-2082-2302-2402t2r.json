@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Fuse Is Blown",
+        "parsed_name": "fuse-is-blown"
+    },
+    {
+        "name": "Unit Won't Turn On",
+        "parsed_name": "unit-won't-turn-on"
+    },
+    {
+        "name": "Fuse Holder Is Malfunctioning",
+        "parsed_name": "fuse-holder-is-malfunctioning"
+    }
+]

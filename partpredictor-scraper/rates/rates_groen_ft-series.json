@@ -1,0 +1,40 @@
+{
+    "brand": "groen",
+    "model": "ft-series",
+    "issues": [
+        {
+            "name": "Faucet Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/groen/ft-series/faucet-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GRZ009870.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen Z009870 Faucet Kit, Double Pantry, Fill",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nZ009870",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 801.06"
+                }
+            ]
+        },
+        {
+            "name": "Handle Is Defective",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/groen/ft-series/handle-is-defective",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GRZ009870.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen Z009870 Faucet Kit, Double Pantry, Fill",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nZ009870",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 801.06"
+                }
+            ]
+        }
+    ]
+}

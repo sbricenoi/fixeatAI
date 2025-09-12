@@ -32,8 +32,78 @@ services:
       - mcp
     restart: unless-stopped
 
+  # ============================================================
+  # ETL SERVICE - Nuevo servicio independiente
+  # ============================================================
+  etl-service:
+    build:
+      context: ./services/etl-service
+      dockerfile: Dockerfile
+    image: fixeatai-etl:latest
+    container_name: fixeatai-etl-service
+    env_file:
+      - .env
+    environment:
+      # ETL Service específico
+      - ETL_SERVICE_NAME=etl-production
+      - ETL_SERVICE_PORT=9000
+      - ETL_ENV=production
+      - ETL_LOG_LEVEL=INFO
+      
+      # Base de datos (desde .env principal)
+      - ETL_DB_HOST=${ETL_DB_HOST}
+      - ETL_DB_PORT=${ETL_DB_PORT:-3306}
+      - ETL_DB_USER=${ETL_DB_USER}
+      - ETL_DB_PASSWORD=${ETL_DB_PASSWORD}
+      - ETL_DB_DATABASE=${ETL_DB_DATABASE}
+      - ETL_DB_SSL=${ETL_DB_SSL:-true}
+      
+      # LLM (reutilizar del proyecto principal)
+      - ETL_LLM_PROVIDER=${LLM_PROVIDER:-openai}
+      - ETL_LLM_API_KEY=${OPENAI_API_KEY}
+      - ETL_LLM_MODEL=${LLM_MODEL:-gpt-4o-mini}
+      - ETL_LLM_BASE_URL=${LLM_BASE_URL}
+      
+      # KB (opcional - puede apuntar al MCP del proyecto)
+      - ETL_KB_URL=http://mcp:7000
+      
+      # ETL específico
+      - ETL_ENABLED=true
+      - ETL_BATCH_SIZE=${ETL_BATCH_SIZE:-500}
+      - ETL_QUALITY_THRESHOLD=${ETL_QUALITY_THRESHOLD:-0.7}
+      - ETL_INCREMENTAL_HOURS=${ETL_INCREMENTAL_HOURS:-6}
+      - ETL_FULL_SYNC_TIME=${ETL_FULL_SYNC_TIME:-02:00}
+      - ETL_CORS_ORIGINS=${CORS_ALLOW_ORIGINS:-*}
+      - ETL_METRICS_ENABLED=true
+    
+    ports:
+      - "9000:9000"  # Puerto único para ETL Service
+    
+    volumes:
+      # Persistir logs del ETL
+      - etl_logs:/app/logs
+      # Persistir configuraciones ETL generadas
+      - etl_configs:/app/configs
+      # Compartir datos de chroma si es necesario
+      - chroma_data:/app/data/chroma:ro
+    
+    depends_on:
+      - mcp
+    
+    restart: unless-stopped
+    
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:9000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+
 volumes:
   chroma_data:
     driver: local
-
-
+  # Nuevos volúmenes para ETL Service
+  etl_logs:
+    driver: local
+  etl_configs:
+    driver: local

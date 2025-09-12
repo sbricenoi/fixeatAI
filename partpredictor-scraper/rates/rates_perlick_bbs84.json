@@ -1,0 +1,101 @@
+{
+    "brand": "perlick",
+    "model": "bbs84",
+    "issues": [
+        {
+            "name": "Unit Is Not Reaching Set Temperature",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/perlick/bbs84/unit-is-not-reaching-set-temperature",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PE/PE1005668.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Perlick 1005668 Probe, NTC, 1.5 Meter Long",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1005668",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 28.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/PE/PE1006750-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Perlick 1006750-1 Temperature Control Kit, Refrigerator",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1006750-1",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 248.00"
+                }
+            ]
+        },
+        {
+            "name": "Controller Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/perlick/bbs84/controller-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PE/PE1006750-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Perlick 1006750-1 Temperature Control Kit, Refrigerator",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1006750-1",
+                    "fix_rate": 56.0,
+                    "list_price": "$ 248.00"
+                }
+            ]
+        },
+        {
+            "name": "Door Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/perlick/bbs84/door-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PE/PE1008544.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Perlick 1008544 Bushing Kit For 67439 Hinge",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1008544",
+                    "fix_rate": 40.0,
+                    "list_price": "$ 39.00"
+                }
+            ]
+        },
+        {
+            "name": "Hinge Is Defective Or Damaged",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/perlick/bbs84/hinge-is-defective-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PE/PE1008544.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Perlick 1008544 Bushing Kit For 67439 Hinge",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1008544",
+                    "fix_rate": 38.0,
+                    "list_price": "$ 39.00"
+                }
+            ]
+        },
+        {
+            "name": "Bushing Is Damaged",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/perlick/bbs84/bushing-is-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PE/PE1008544.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Perlick 1008544 Bushing Kit For 67439 Hinge",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1008544",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 39.00"
+                }
+            ]
+        }
+    ]
+}

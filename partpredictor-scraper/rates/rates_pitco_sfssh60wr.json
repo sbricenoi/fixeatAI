@@ -1,0 +1,40 @@
+{
+    "brand": "pitco",
+    "model": "sfssh60wr",
+    "issues": [
+        {
+            "name": "Unit Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/pitco/sfssh60wr/unit-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PTB6700608-CL.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco B6700608-CL Probe Service Kit,",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nB6700608-CL",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 168.00"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Not Lighting",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/pitco/sfssh60wr/unit-is-not-lighting",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PT/PT60144001-CL.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Pitco 60144001-CL Relay Control Board, 24V, Class 2, SG",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60144001-CL",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 182.00"
+                }
+            ]
+        }
+    ]
+}

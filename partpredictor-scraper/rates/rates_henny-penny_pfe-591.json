@@ -1,0 +1,23 @@
+{
+    "brand": "henny-penny",
+    "model": "pfe-591",
+    "issues": [
+        {
+            "name": "Hi-limit Is Tripping Or Wont Reset",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pfe-591/hi-limit-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN16738.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 16738 Hi Limit Thermostat, 450F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n16738",
+                    "fix_rate": 78.0,
+                    "list_price": "$ 175.40"
+                }
+            ]
+        }
+    ]
+}

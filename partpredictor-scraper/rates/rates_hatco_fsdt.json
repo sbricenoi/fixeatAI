@@ -1,0 +1,125 @@
+{
+    "brand": "hatco",
+    "model": "fsdt",
+    "issues": [
+        {
+            "name": "Fan Motor Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/hatco/fsdt/fan-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HT/HTR02.12.001.00.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hatco R02.12.001.00 Blower Motor/Cord Kit, Axial, 120V, 60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nR02.12.001.00",
+                    "fix_rate": 55.0,
+                    "list_price": "$ 123.00"
+                }
+            ]
+        },
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/hatco/fsdt/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HT/HT02.19.080.00.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hatco 02.19.080.00 Switch with Light, Rocker, DPST, 125V, 16A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n02.19.080.00",
+                    "fix_rate": 73.0,
+                    "list_price": "$ 28.00"
+                }
+            ]
+        },
+        {
+            "name": "Blower Motor Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/hatco/fsdt/blower-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HT/HTR02.12.001.00.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hatco R02.12.001.00 Blower Motor/Cord Kit, Axial, 120V, 60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nR02.12.001.00",
+                    "fix_rate": 71.0,
+                    "list_price": "$ 123.00"
+                }
+            ]
+        },
+        {
+            "name": "Breaker Is Tripping Or Wont Reset",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/hatco/fsdt/breaker-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HT/HTR02.05.006.00.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hatco R02.05.006.00 Element, Water, 120V, 325W",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nR02.05.006.00",
+                    "fix_rate": 36.0,
+                    "list_price": "$ 60.00"
+                }
+            ]
+        },
+        {
+            "name": "Controller Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/hatco/fsdt/controller-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HT/HTR02.01.273.00.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hatco R02.01.273.00 Thermostat Control Board, 24V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nR02.01.273.00",
+                    "fix_rate": 70.0,
+                    "list_price": "$ 304.00"
+                }
+            ]
+        },
+        {
+            "name": "Door Is Malfunctioning",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/hatco/fsdt/door-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HT/HTR05.30.076.00.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hatco R05.30.076.00 Door Magnet with Adhesive",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nR05.30.076.00",
+                    "fix_rate": 75.0,
+                    "list_price": "$ 45.00"
+                }
+            ]
+        },
+        {
+            "name": "Coupling Is Damaged",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/hatco/fsdt/coupling-is-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HT/HTR04.24.357.00.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hatco R04.24.357.00 Rack Coupling with Pin and Spring, FSD",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nR04.24.357.00",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 28.00"
+                }
+            ]
+        }
+    ]
+}

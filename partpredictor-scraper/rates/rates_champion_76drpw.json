@@ -1,0 +1,74 @@
+{
+    "brand": "champion",
+    "model": "76drpw",
+    "issues": [
+        {
+            "name": "Unit Is Leaking",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/champion/76drpw/unit-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA113538.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 113538 Gasket, Pump Suction, EPDM-02",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n113538",
+                    "fix_rate": 30.0,
+                    "list_price": "$ 11.53"
+                }
+            ]
+        },
+        {
+            "name": "Motor Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/champion/76drpw/motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA113538.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 113538 Gasket, Pump Suction, EPDM-02",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n113538",
+                    "fix_rate": 42.0,
+                    "list_price": "$ 11.53"
+                }
+            ]
+        },
+        {
+            "name": "Gasket Is Defective Or Leaking",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/champion/76drpw/gasket-is-defective-or-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA113538.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 113538 Gasket, Pump Suction, EPDM-02",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n113538",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 11.53"
+                }
+            ]
+        },
+        {
+            "name": "Contactor Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/champion/76drpw/contactor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA108122.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 108122 Contactor, 12A, 3 Pole",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n108122",
+                    "fix_rate": 67.0,
+                    "list_price": "$ 154.04"
+                }
+            ]
+        }
+    ]
+}

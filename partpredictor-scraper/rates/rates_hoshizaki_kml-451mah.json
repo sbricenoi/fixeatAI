@@ -1,0 +1,23 @@
+{
+    "brand": "hoshizaki",
+    "model": "kml-451mah",
+    "issues": [
+        {
+            "name": "Valve Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/hoshizaki/kml-451mah/valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HOS/HOS3U0150-01.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hoshizaki 3U0150-01 Solenoid Valve, Water, J248-647",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3U0150-01",
+                    "fix_rate": 56.0,
+                    "list_price": "$ 69.60"
+                }
+            ]
+        }
+    ]
+}

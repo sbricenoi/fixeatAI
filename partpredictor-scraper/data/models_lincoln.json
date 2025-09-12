@@ -1,0 +1,62 @@
+[
+    {
+        "name": "1000",
+        "parsed_name": "1000"
+    },
+    {
+        "name": "1100",
+        "parsed_name": "1100"
+    },
+    {
+        "name": "1116",
+        "parsed_name": "1116"
+    },
+    {
+        "name": "1116-000-A",
+        "parsed_name": "1116-000-a"
+    },
+    {
+        "name": "1132-000-A",
+        "parsed_name": "1132-000-a"
+    },
+    {
+        "name": "1162-080-A",
+        "parsed_name": "1162-080-a"
+    },
+    {
+        "name": "1300",
+        "parsed_name": "1300"
+    },
+    {
+        "name": "1301",
+        "parsed_name": "1301"
+    },
+    {
+        "name": "1302",
+        "parsed_name": "1302"
+    },
+    {
+        "name": "1400 Series",
+        "parsed_name": "1400-series"
+    },
+    {
+        "name": "1450",
+        "parsed_name": "1450"
+    },
+    {
+        "name": "1600",
+        "parsed_name": "1600"
+    },
+    {
+        "name": "1600-000-A",
+        "parsed_name": "1600-000-a"
+    },
+    {
+        "name": "2500 SERIES",
+        "parsed_name": "2500-series"
+    },
+    {
+        "name": "2501",
+        "parsed_name": "2501"
+    }
+]

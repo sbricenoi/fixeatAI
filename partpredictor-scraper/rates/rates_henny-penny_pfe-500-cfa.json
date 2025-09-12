@@ -1,0 +1,1719 @@
+{
+    "brand": "henny-penny",
+    "model": "pfe-500-cfa",
+    "issues": [
+        {
+            "name": "Hi-limit Is Tripping Or Wont Reset",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pfe-500-cfa/hi-limit-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN16738.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 16738 Hi Limit Thermostat, 450F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n16738",
+                    "fix_rate": 73.0,
+                    "list_price": "$ 175.40"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Leaking",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pfe-500-cfa/unit-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN16817.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 16817 Sleeve Fitting, PTFE",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n16817",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 13.20"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN16807.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 16807 Fitting Connector, Male",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n16807",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 13.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN59742.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 59742 Relief Valve, 1/2\", 15PSI",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n59742",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 266.70"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN182530-101.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 182530-101 ASSY-4HD LID W/LABELS-ENG SO",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n182530-101",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 2,535.50"
+                }
+            ]
+        },
+        {
+            "name": "Contactor Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pfe-500-cfa/contactor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN29509.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 29509 Contactor, 24V, 40A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n29509",
+                    "fix_rate": 31.0,
+                    "list_price": "$ 117.10"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN29510.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 29510 Contactor, 24VAC, 35A, Mercury",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n29510",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 258.70"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN65073.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 65073 Contactor, 3 Pole, 50A, 24V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n65073",
+                    "fix_rate": 20.0,
+                    "list_price": "$ 373.60"
+                }
+            ]
+        },
+        {
+            "name": "Unit Will Not Pump Oil",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pfe-500-cfa/unit-will-not-pump-oil",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN67583.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 67583 Filter Pump Motor, 1/2HP",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n67583",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 931.80"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN17476.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 17476 Seal Kit, Pump, Mechanical, Viton",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n17476",
+                    "fix_rate": 20.0,
+                    "list_price": "$ 71.20"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN171168.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 171168 Filter Pump Assembly, 5GPM",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n171168",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 558.50"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Overheating",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pfe-500-cfa/unit-is-overheating",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN16738.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 16738 Hi Limit Thermostat, 450F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n16738",
+                    "fix_rate": 46.0,
+                    "list_price": "$ 175.40"
+                }
+            ]
+        },
+        {
+            "name": "Spring Is Malfunctioning",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pfe-500-cfa/spring-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN186381.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 186381 Spring, Lid Hinge, Black",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n186381",
+                    "fix_rate": 72.0,
+                    "list_price": "$ 39.39"
+                }
+            ]
+        },
+        {
+            "name": "Controller Is Malfunctioning",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pfe-500-cfa/controller-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN140585.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 140585 Controller, Hybrid, CFA",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n140585",
+                    "fix_rate": 41.0,
+                    "list_price": "$ 1,160.90"
+                }
+            ]
+        },
+        {
+            "name": "Oil Is Leaking",
+            "idx": 7,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pfe-500-cfa/oil-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN16738.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 16738 Hi Limit Thermostat, 450F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n16738",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 175.40"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN55152.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 55152 Drain valve And Coupling Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n55152",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 230.90"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN17476.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 17476 Seal Kit, Pump, Mechanical, Viton",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n17476",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 71.20"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN17334.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 17334 Fitting/Rinse Hose Disconnect, Male",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n17334",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 48.20"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN17261.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 17261 Drain Valve Body, Ball, 1 1/2",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n17261",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 198.30"
+                }
+            ]
+        },
+        {
+            "name": "Wiring Issue",
+            "idx": 8,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pfe-500-cfa/wiring-issue",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN29510.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 29510 Contactor, 24VAC, 35A, Mercury",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n29510",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 258.70"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN29509.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 29509 Contactor, 24V, 40A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n29509",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 117.10"
+                }
+            ]
+        },
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 9,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pfe-500-cfa/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN29898.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 29898 Switch, Power, DPDT",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n29898",
+                    "fix_rate": 47.0,
+                    "list_price": "$ 21.60"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN140585.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 140585 Controller, Hybrid, CFA",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n140585",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 1,160.90"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN18227.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 18227 Microswitch, Drain Valve",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n18227",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 60.20"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Making Noise",
+            "idx": 10,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pfe-500-cfa/unit-is-making-noise",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN26974.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 26974 Speaker Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n26974",
+                    "fix_rate": 56.0,
+                    "list_price": "$ 36.10"
+                }
+            ]
+        },
+        {
+            "name": "Valve Is Malfunctioning",
+            "idx": 11,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pfe-500-cfa/valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN16807.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 16807 Fitting Connector, Male",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n16807",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 13.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN29515.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 29515 Solenoid Valve, 24V, 60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n29515",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 692.70"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN16817.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 16817 Sleeve Fitting, PTFE",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n16817",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 13.20"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN16910.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 16910 Pressure Gauge, 0 - 30 PSI, Fryer",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n16910",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 39.40"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN59742.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 59742 Relief Valve, 1/2\", 15PSI",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n59742",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 266.70"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN17308.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 17308 Ball Valve, Filter",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n17308",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 125.60"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN16239.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 16239 Street Elbow, 90 Degree",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n16239",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 35.50"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN16809.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 16809 Nut, Fitting",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n16809",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 7.20"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Damaged",
+            "idx": 12,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pfe-500-cfa/unit-is-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN182530-101.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 182530-101 ASSY-4HD LID W/LABELS-ENG SO",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n182530-101",
+                    "fix_rate": 45.0,
+                    "list_price": "$ 2,535.50"
+                }
+            ]
+        },
+        {
+            "name": "Breaker Is Tripping Or Wont Reset",
+            "idx": 13,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pfe-500-cfa/breaker-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN29509.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 29509 Contactor, 24V, 40A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n29509",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 117.10"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN29510.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 29510 Contactor, 24VAC, 35A, Mercury",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n29510",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 258.70"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN16738.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 16738 Hi Limit Thermostat, 450F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n16738",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 175.40"
+                }
+            ]
+        },
+        {
+            "name": "Hose Is Broken Or Leaking",
+            "idx": 14,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pfe-500-cfa/hose-is-broken-or-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN17334.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 17334 Fitting/Rinse Hose Disconnect, Male",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n17334",
+                    "fix_rate": 47.0,
+                    "list_price": "$ 48.20"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN63195.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 63195 Hose, Dead Weight to Steam Box",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n63195",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 8.10"
+                }
+            ]
+        },
+        {
+            "name": "Door Is Malfunctioning",
+            "idx": 15,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pfe-500-cfa/door-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN17618.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 17618 Door Hinge, Top",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n17618",
+                    "fix_rate": 24.0,
+                    "list_price": "$ 25.40"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN17620.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 17620 Door Hinge Assembly, Bottom",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n17620",
+                    "fix_rate": 24.0,
+                    "list_price": "$ 22.70"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN58849.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 58849 Door And Hinge Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n58849",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 192.30"
+                }
+            ]
+        },
+        {
+            "name": "Gasket Is Defective Or Leaking",
+            "idx": 16,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pfe-500-cfa/gasket-is-defective-or-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN16120.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 16120 Lid Seal",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n16120",
+                    "fix_rate": 71.0,
+                    "list_price": "$ 150.70"
+                }
+            ]
+        },
+        {
+            "name": "Probe Is Malfunctioning",
+            "idx": 17,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pfe-500-cfa/probe-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN16738.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 16738 Hi Limit Thermostat, 450F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n16738",
+                    "fix_rate": 37.0,
+                    "list_price": "$ 175.40"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN14785.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 14785 Temperature Probe Kit, 500C/OE-100",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n14785",
+                    "fix_rate": 37.0,
+                    "list_price": "$ 113.50"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN14331.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 14331 Temperature Probe Kit, 600",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n14331",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 136.30"
+                }
+            ]
+        },
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 18,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pfe-500-cfa/thermostat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN16738.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 16738 Hi Limit Thermostat, 450F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n16738",
+                    "fix_rate": 59.0,
+                    "list_price": "$ 175.40"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN14648.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 14648 Thermostat Control Kit, 500/561/OE-30X",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n14648",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 187.00"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Not Reaching Set Temperature",
+            "idx": 19,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pfe-500-cfa/unit-is-not-reaching-set-temperature",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN16738.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 16738 Hi Limit Thermostat, 450F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n16738",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 175.40"
+                }
+            ]
+        },
+        {
+            "name": "Motor Is Malfunctioning",
+            "idx": 20,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pfe-500-cfa/motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN67583.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 67583 Filter Pump Motor, 1/2HP",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n67583",
+                    "fix_rate": 74.0,
+                    "list_price": "$ 931.80"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN17476.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 17476 Seal Kit, Pump, Mechanical, Viton",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n17476",
+                    "fix_rate": 33.0,
+                    "list_price": "$ 71.20"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN171168.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 171168 Filter Pump Assembly, 5GPM",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n171168",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 558.50"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN171169.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 171169 Roller, Ptfe, Set Of 5",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n171169",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 79.90"
+                }
+            ]
+        },
+        {
+            "name": "Solenoid Valve Is Malfunctioning",
+            "idx": 21,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pfe-500-cfa/solenoid-valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN29515.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 29515 Solenoid Valve, 24V, 60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n29515",
+                    "fix_rate": 37.0,
+                    "list_price": "$ 692.70"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN18721.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 18721 Solenoid Valve, 208-240V, 60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n18721",
+                    "fix_rate": 20.0,
+                    "list_price": "$ 623.60"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN16910.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 16910 Pressure Gauge, 0 - 30 PSI, Fryer",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n16910",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 39.40"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN16807.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 16807 Fitting Connector, Male",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n16807",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 13.00"
+                }
+            ]
+        },
+        {
+            "name": "Hinge Is Defective Or Damaged",
+            "idx": 22,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pfe-500-cfa/hinge-is-defective-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN17618.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 17618 Door Hinge, Top",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n17618",
+                    "fix_rate": 37.0,
+                    "list_price": "$ 25.40"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN17620.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 17620 Door Hinge Assembly, Bottom",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n17620",
+                    "fix_rate": 35.0,
+                    "list_price": "$ 22.70"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN186381.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 186381 Spring, Lid Hinge, Black",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n186381",
+                    "fix_rate": 31.0,
+                    "list_price": "$ 39.39"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HENSC01-072.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny SC01-072 Screw, Phillips Head",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSC01-072",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 0.15"
+                }
+            ]
+        },
+        {
+            "name": "Latch Is Damaged Or Not Latching",
+            "idx": 23,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pfe-500-cfa/latch-is-damaged-or-not-latching",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN16199.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 16199 Latch Spring Kit, MOD",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n16199",
+                    "fix_rate": 31.0,
+                    "list_price": "$ 38.40"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN16116.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 16116 Latch, Lid, Center Bar",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n16116",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 214.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN16102.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 16102 Knob, Red, Spindle Or Latch",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n16102",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 7.70"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN16135.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 16135 Retaining Pin, Cover",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n16135",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 18.20"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN16136.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 16136 Return Spring",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n16136",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 2.60"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Shutting Down",
+            "idx": 24,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pfe-500-cfa/unit-is-shutting-down",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN16807.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 16807 Fitting Connector, Male",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n16807",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 13.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN182530-101.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 182530-101 ASSY-4HD LID W/LABELS-ENG SO",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n182530-101",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 2,535.50"
+                }
+            ]
+        },
+        {
+            "name": "Collar Is Damaged",
+            "idx": 25,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pfe-500-cfa/collar-is-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN182530-101.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 182530-101 ASSY-4HD LID W/LABELS-ENG SO",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n182530-101",
+                    "fix_rate": 20.0,
+                    "list_price": "$ 2,535.50"
+                }
+            ]
+        },
+        {
+            "name": "Drain Switch Is Malfunctioning",
+            "idx": 26,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pfe-500-cfa/drain-switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN18227.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 18227 Microswitch, Drain Valve",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n18227",
+                    "fix_rate": 60.0,
+                    "list_price": "$ 60.20"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN140585.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 140585 Controller, Hybrid, CFA",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n140585",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 1,160.90"
+                }
+            ]
+        },
+        {
+            "name": "Drain Valve Is Malfunctioning",
+            "idx": 27,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pfe-500-cfa/drain-valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN55152.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 55152 Drain valve And Coupling Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n55152",
+                    "fix_rate": 33.0,
+                    "list_price": "$ 230.90"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN17261.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 17261 Drain Valve Body, Ball, 1 1/2",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n17261",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 198.30"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN18227.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 18227 Microswitch, Drain Valve",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n18227",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 60.20"
+                }
+            ]
+        },
+        {
+            "name": "Handle Is Defective",
+            "idx": 28,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pfe-500-cfa/handle-is-defective",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN182530-101.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 182530-101 ASSY-4HD LID W/LABELS-ENG SO",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n182530-101",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 2,535.50"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN16102.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 16102 Knob, Red, Spindle Or Latch",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n16102",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 7.70"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN16116.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 16116 Latch, Lid, Center Bar",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n16116",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 214.00"
+                }
+            ]
+        },
+        {
+            "name": "Filter Pump Is Tripping",
+            "idx": 29,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pfe-500-cfa/filter-pump-is-tripping",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN67583.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 67583 Filter Pump Motor, 1/2HP",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n67583",
+                    "fix_rate": 32.0,
+                    "list_price": "$ 931.80"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN17476.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 17476 Seal Kit, Pump, Mechanical, Viton",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n17476",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 71.20"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN16738.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 16738 Hi Limit Thermostat, 450F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n16738",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 175.40"
+                }
+            ]
+        },
+        {
+            "name": "Filter Pump Is Malfunctioning",
+            "idx": 30,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pfe-500-cfa/filter-pump-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN67583.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 67583 Filter Pump Motor, 1/2HP",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n67583",
+                    "fix_rate": 44.0,
+                    "list_price": "$ 931.80"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN17476.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 17476 Seal Kit, Pump, Mechanical, Viton",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n17476",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 71.20"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN171168.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 171168 Filter Pump Assembly, 5GPM",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n171168",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 558.50"
+                }
+            ]
+        },
+        {
+            "name": "Valve Is Leaking",
+            "idx": 31,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pfe-500-cfa/valve-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN59742.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 59742 Relief Valve, 1/2\", 15PSI",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n59742",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 266.70"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN17308.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 17308 Ball Valve, Filter",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n17308",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 125.60"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN16807.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 16807 Fitting Connector, Male",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n16807",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 13.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN16239.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 16239 Street Elbow, 90 Degree",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n16239",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 35.50"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN17261.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 17261 Drain Valve Body, Ball, 1 1/2",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n17261",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 198.30"
+                }
+            ]
+        },
+        {
+            "name": "Transformer Is Malfunctioning",
+            "idx": 32,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pfe-500-cfa/transformer-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN72854.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 72854 Transformer, 24V, C8000",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n72854",
+                    "fix_rate": 63.0,
+                    "list_price": "$ 178.90"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN140585.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 140585 Controller, Hybrid, CFA",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n140585",
+                    "fix_rate": 23.0,
+                    "list_price": "$ 1,160.90"
+                }
+            ]
+        },
+        {
+            "name": "Door Spring Is Malfunctioning",
+            "idx": 33,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pfe-500-cfa/door-spring-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN186381.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 186381 Spring, Lid Hinge, Black",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n186381",
+                    "fix_rate": 27.0,
+                    "list_price": "$ 39.39"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN182530-101.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 182530-101 ASSY-4HD LID W/LABELS-ENG SO",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n182530-101",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 2,535.50"
+                }
+            ]
+        },
+        {
+            "name": "Filter Is Malfunctioning",
+            "idx": 34,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pfe-500-cfa/filter-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN17308.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 17308 Ball Valve, Filter",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n17308",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 125.60"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN18227.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 18227 Microswitch, Drain Valve",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n18227",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 60.20"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN17476.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 17476 Seal Kit, Pump, Mechanical, Viton",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n17476",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 71.20"
+                }
+            ]
+        },
+        {
+            "name": "Unit Will Not Filter Properly",
+            "idx": 35,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pfe-500-cfa/unit-will-not-filter-properly",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN67583.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 67583 Filter Pump Motor, 1/2HP",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n67583",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 931.80"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN17476.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 17476 Seal Kit, Pump, Mechanical, Viton",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n17476",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 71.20"
+                }
+            ]
+        },
+        {
+            "name": "Connector Is Faulty",
+            "idx": 36,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pfe-500-cfa/connector-is-faulty",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN16807.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 16807 Fitting Connector, Male",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n16807",
+                    "fix_rate": 56.0,
+                    "list_price": "$ 13.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN16817.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 16817 Sleeve Fitting, PTFE",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n16817",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 13.20"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN16809.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 16809 Nut, Fitting",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n16809",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 7.20"
+                }
+            ]
+        },
+        {
+            "name": "Smoke Coming From Unit",
+            "idx": 37,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pfe-500-cfa/smoke-coming-from-unit",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN29510.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 29510 Contactor, 24VAC, 35A, Mercury",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n29510",
+                    "fix_rate": 23.0,
+                    "list_price": "$ 258.70"
+                }
+            ]
+        },
+        {
+            "name": "Pressure Relief Valve Is Leaking",
+            "idx": 38,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pfe-500-cfa/pressure-relief-valve-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN59742.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 59742 Relief Valve, 1/2\", 15PSI",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n59742",
+                    "fix_rate": 97.0,
+                    "list_price": "$ 266.70"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN16807.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 16807 Fitting Connector, Male",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n16807",
+                    "fix_rate": 23.0,
+                    "list_price": "$ 13.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN16910.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 16910 Pressure Gauge, 0 - 30 PSI, Fryer",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n16910",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 39.40"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN16817.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 16817 Sleeve Fitting, PTFE",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n16817",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 13.20"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Not Draining",
+            "idx": 39,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pfe-500-cfa/unit-is-not-draining",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN18227.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 18227 Microswitch, Drain Valve",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n18227",
+                    "fix_rate": 27.0,
+                    "list_price": "$ 60.20"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Not Maintaining Temperature",
+            "idx": 40,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pfe-500-cfa/unit-is-not-maintaining-temperature",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN29515.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 29515 Solenoid Valve, 24V, 60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n29515",
+                    "fix_rate": 20.0,
+                    "list_price": "$ 692.70"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN16910.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 16910 Pressure Gauge, 0 - 30 PSI, Fryer",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n16910",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 39.40"
+                }
+            ]
+        },
+        {
+            "name": "Pressure Relief Valve Is Malfunctioning",
+            "idx": 41,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pfe-500-cfa/pressure-relief-valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN59742.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 59742 Relief Valve, 1/2\", 15PSI",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n59742",
+                    "fix_rate": 67.0,
+                    "list_price": "$ 266.70"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN16910.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 16910 Pressure Gauge, 0 - 30 PSI, Fryer",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n16910",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 39.40"
+                }
+            ]
+        },
+        {
+            "name": "Drain Valve Is Leaking",
+            "idx": 42,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pfe-500-cfa/drain-valve-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN55152.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 55152 Drain valve And Coupling Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n55152",
+                    "fix_rate": 58.0,
+                    "list_price": "$ 230.90"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN17261.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 17261 Drain Valve Body, Ball, 1 1/2",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n17261",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 198.30"
+                }
+            ]
+        },
+        {
+            "name": "Fuse Is Blown",
+            "idx": 43,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pfe-500-cfa/fuse-is-blown",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN140585.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 140585 Controller, Hybrid, CFA",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n140585",
+                    "fix_rate": 23.0,
+                    "list_price": "$ 1,160.90"
+                }
+            ]
+        },
+        {
+            "name": "Unit Making Noise",
+            "idx": 44,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pfe-500-cfa/unit-making-noise",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN26974.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 26974 Speaker Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n26974",
+                    "fix_rate": 55.0,
+                    "list_price": "$ 36.10"
+                }
+            ]
+        },
+        {
+            "name": "Keypad Is Not Responding Or Damaged",
+            "idx": 45,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pfe-500-cfa/keypad-is-not-responding-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN16738.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 16738 Hi Limit Thermostat, 450F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n16738",
+                    "fix_rate": 30.0,
+                    "list_price": "$ 175.40"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN29898.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 29898 Switch, Power, DPDT",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n29898",
+                    "fix_rate": 30.0,
+                    "list_price": "$ 21.60"
+                }
+            ]
+        },
+        {
+            "name": "Sensor Is Malfunctioning",
+            "idx": 46,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pfe-500-cfa/sensor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN16738.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 16738 Hi Limit Thermostat, 450F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n16738",
+                    "fix_rate": 30.0,
+                    "list_price": "$ 175.40"
+                }
+            ]
+        },
+        {
+            "name": "Display Is Malfunctioning",
+            "idx": 47,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pfe-500-cfa/display-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN140585.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 140585 Controller, Hybrid, CFA",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n140585",
+                    "fix_rate": 33.0,
+                    "list_price": "$ 1,160.90"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN72854.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 72854 Transformer, 24V, C8000",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n72854",
+                    "fix_rate": 28.0,
+                    "list_price": "$ 178.90"
+                }
+            ]
+        },
+        {
+            "name": "Bracket Is Broken",
+            "idx": 48,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pfe-500-cfa/bracket-is-broken",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN16738.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 16738 Hi Limit Thermostat, 450F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n16738",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 175.40"
+                }
+            ]
+        },
+        {
+            "name": "Caster Is Damaged",
+            "idx": 49,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pfe-500-cfa/caster-is-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN03007.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 03007 Caster 3\" , Swivel, Set of 4",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n03007",
+                    "fix_rate": 53.0,
+                    "list_price": "$ 213.30"
+                }
+            ]
+        },
+        {
+            "name": "Motor Is Making Noise",
+            "idx": 50,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pfe-500-cfa/motor-is-making-noise",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN67583.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 67583 Filter Pump Motor, 1/2HP",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n67583",
+                    "fix_rate": 43.0,
+                    "list_price": "$ 931.80"
+                }
+            ]
+        },
+        {
+            "name": "Pump Motor Is Malfunctioning",
+            "idx": 51,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pfe-500-cfa/pump-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN67583.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 67583 Filter Pump Motor, 1/2HP",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n67583",
+                    "fix_rate": 79.0,
+                    "list_price": "$ 931.80"
+                }
+            ]
+        },
+        {
+            "name": "Pump Seal Is Leaking",
+            "idx": 52,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pfe-500-cfa/pump-seal-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN17476.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 17476 Seal Kit, Pump, Mechanical, Viton",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n17476",
+                    "fix_rate": 64.0,
+                    "list_price": "$ 71.20"
+                }
+            ]
+        },
+        {
+            "name": "Filter Pump Is Not Starting",
+            "idx": 53,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pfe-500-cfa/filter-pump-is-not-starting",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN67583.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 67583 Filter Pump Motor, 1/2HP",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n67583",
+                    "fix_rate": 58.0,
+                    "list_price": "$ 931.80"
+                }
+            ]
+        },
+        {
+            "name": "Buzzer Is Malfunctioning",
+            "idx": 54,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pfe-500-cfa/buzzer-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN26974.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 26974 Speaker Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n26974",
+                    "fix_rate": 82.0,
+                    "list_price": "$ 36.10"
+                }
+            ]
+        },
+        {
+            "name": "O Ring Is Damaged Or Leaking",
+            "idx": 55,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pfe-500-cfa/o-ring-is-damaged-or-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN16902.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 16902 O-Ring, Cap Deadweight Valve",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n16902",
+                    "fix_rate": 67.0,
+                    "list_price": "$ 4.60"
+                }
+            ]
+        },
+        {
+            "name": "Pump Seal Is Damaged Or Leaking",
+            "idx": 56,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pfe-500-cfa/pump-seal-is-damaged-or-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN67583.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 67583 Filter Pump Motor, 1/2HP",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n67583",
+                    "fix_rate": 56.0,
+                    "list_price": "$ 931.80"
+                }
+            ]
+        },
+        {
+            "name": "Shaft Seal Is Damaged Or Leaking",
+            "idx": 57,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pfe-500-cfa/shaft-seal-is-damaged-or-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN17476.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 17476 Seal Kit, Pump, Mechanical, Viton",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n17476",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 71.20"
+                }
+            ]
+        },
+        {
+            "name": "Unit Making A Grinding Noise",
+            "idx": 58,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pfe-500-cfa/unit-making-a-grinding-noise",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN67583.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 67583 Filter Pump Motor, 1/2HP",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n67583",
+                    "fix_rate": 71.0,
+                    "list_price": "$ 931.80"
+                }
+            ]
+        }
+    ]
+}

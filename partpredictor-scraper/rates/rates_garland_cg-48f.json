@@ -1,0 +1,185 @@
+{
+    "brand": "garland",
+    "model": "cg-48f",
+    "issues": [
+        {
+            "name": "Ignition Module Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/garland/cg-48f/ignition-module-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4531250.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4531250 Ignition Module Service Kit, 3 Tries",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4531250",
+                    "fix_rate": 68.0,
+                    "list_price": "$ 382.15"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL2432000.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 2432000 Temperature Controller",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2432000",
+                    "fix_rate": 20.0,
+                    "list_price": "$ 761.27"
+                }
+            ]
+        },
+        {
+            "name": "Pilot Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/garland/cg-48f/pilot-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4531250.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4531250 Ignition Module Service Kit, 3 Tries",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4531250",
+                    "fix_rate": 64.0,
+                    "list_price": "$ 382.15"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL1466100.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 1466100 Flame Sensor",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1466100",
+                    "fix_rate": 36.0,
+                    "list_price": "$ 67.21"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL2432000.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 2432000 Temperature Controller",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2432000",
+                    "fix_rate": 36.0,
+                    "list_price": "$ 761.27"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL2290404.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 2290404 Pilot Burner/Ignitor Assembly, Natural Gas",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2290404",
+                    "fix_rate": 27.0,
+                    "list_price": "$ 116.30"
+                }
+            ]
+        },
+        {
+            "name": "Controller Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/garland/cg-48f/controller-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL2432000.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 2432000 Temperature Controller",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2432000",
+                    "fix_rate": 80.0,
+                    "list_price": "$ 761.27"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4531250.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4531250 Ignition Module Service Kit, 3 Tries",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4531250",
+                    "fix_rate": 53.0,
+                    "list_price": "$ 382.15"
+                }
+            ]
+        },
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/garland/cg-48f/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL2423301.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 2423301 Rocker Switch, SPST, 1801-1119 Marquard",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2423301",
+                    "fix_rate": 53.0,
+                    "list_price": "$ 35.69"
+                }
+            ]
+        },
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/garland/cg-48f/thermostat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL2432000.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 2432000 Temperature Controller",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2432000",
+                    "fix_rate": 87.0,
+                    "list_price": "$ 761.27"
+                }
+            ]
+        },
+        {
+            "name": "Burner Is Malfunctioning Or Damaged",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/garland/cg-48f/burner-is-malfunctioning-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4531250.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4531250 Ignition Module Service Kit, 3 Tries",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4531250",
+                    "fix_rate": 62.0,
+                    "list_price": "$ 382.15"
+                }
+            ]
+        },
+        {
+            "name": "Flame Sensor Is Malfunctioning",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/garland/cg-48f/flame-sensor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4531250.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4531250 Ignition Module Service Kit, 3 Tries",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4531250",
+                    "fix_rate": 62.0,
+                    "list_price": "$ 382.15"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL1466100.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 1466100 Flame Sensor",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1466100",
+                    "fix_rate": 62.0,
+                    "list_price": "$ 67.21"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+[
+    {
+        "name": "ICMA-84",
+        "parsed_name": "icma-84"
+    },
+    {
+        "name": "ICV",
+        "parsed_name": "icv"
+    },
+    {
+        "name": "ICVE",
+        "parsed_name": "icve"
+    },
+    {
+        "name": "ICVG",
+        "parsed_name": "icvg"
+    },
+    {
+        "name": "IFS-40",
+        "parsed_name": "ifs-40"
+    },
+    {
+        "name": "IFS-40-OP",
+        "parsed_name": "ifs-40-op"
+    },
+    {
+        "name": "IFS-50",
+        "parsed_name": "ifs-50"
+    },
+    {
+        "name": "IFS-50-OP",
+        "parsed_name": "ifs-50-op"
+    },
+    {
+        "name": "IFS-75",
+        "parsed_name": "ifs-75"
+    },
+    {
+        "name": "IFS-75-OP",
+        "parsed_name": "ifs-75-op"
+    },
+    {
+        "name": "IFS-75E",
+        "parsed_name": "ifs-75e"
+    },
+    {
+        "name": "IHEG-72-J-CS-NAT",
+        "parsed_name": "iheg-72-j-cs-nat"
+    },
+    {
+        "name": "IHPA-1-12",
+        "parsed_name": "ihpa-1-12"
+    },
+    {
+        "name": "IHR SERIES",
+        "parsed_name": "ihr-series"
+    },
+    {
+        "name": "IPC-14",
+        "parsed_name": "ipc-14"
+    },
+    {
+        "name": "IPC-18",
+        "parsed_name": "ipc-18"
+    },
+    {
+        "name": "IR-C/IHR-C",
+        "parsed_name": "ir-c-ihr-c"
+    },
+    {
+        "name": "IR/IHR Diamond Series",
+        "parsed_name": "ir-ihr-diamond-series"
+    },
+    {
+        "name": "IRE SERIES",
+        "parsed_name": "ire-series"
+    },
+    {
+        "name": "ISB-36",
+        "parsed_name": "isb-36"
+    },
+    {
+        "name": "ITG Series",
+        "parsed_name": "itg-series"
+    }
+]

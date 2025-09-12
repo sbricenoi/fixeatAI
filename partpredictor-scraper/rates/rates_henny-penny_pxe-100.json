@@ -1,0 +1,566 @@
+{
+    "brand": "henny-penny",
+    "model": "pxe-100",
+    "issues": [
+        {
+            "name": "Unit Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pxe-100/unit-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN17476.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 17476 Seal Kit, Pump, Mechanical, Viton",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n17476",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 71.20"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN67583.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 67583 Filter Pump Motor, 1/2HP",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n67583",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 931.80"
+                }
+            ]
+        },
+        {
+            "name": "Unit Will Not Pump Oil",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pxe-100/unit-will-not-pump-oil",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN67583.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 67583 Filter Pump Motor, 1/2HP",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n67583",
+                    "fix_rate": 45.0,
+                    "list_price": "$ 931.80"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN17476.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 17476 Seal Kit, Pump, Mechanical, Viton",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n17476",
+                    "fix_rate": 35.0,
+                    "list_price": "$ 71.20"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN162497.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 162497 Filter Pump Assembly, 8GPM",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n162497",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 674.80"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN175860.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 175860 O-Ring, Replaces # 86349, Pack of 12",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n175860",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 15.50"
+                }
+            ]
+        },
+        {
+            "name": "Motor Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pxe-100/motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN67583.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 67583 Filter Pump Motor, 1/2HP",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n67583",
+                    "fix_rate": 61.0,
+                    "list_price": "$ 931.80"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN17476.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 17476 Seal Kit, Pump, Mechanical, Viton",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n17476",
+                    "fix_rate": 47.0,
+                    "list_price": "$ 71.20"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN162497.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 162497 Filter Pump Assembly, 8GPM",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n162497",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 674.80"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Leaking",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pxe-100/unit-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN17476.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 17476 Seal Kit, Pump, Mechanical, Viton",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n17476",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 71.20"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN77523-002.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 77523-002 Tube, Suction, 18\", Dormont",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n77523-002",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 33.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN170725.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 170725 Gasket, Frypot Lid, V-Style, PXE-100",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n170725",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 222.70"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN169857.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 169857 Motor/Actuator Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n169857",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 709.20"
+                }
+            ]
+        },
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pxe-100/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN91700.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 91700 Drain Pan Switch Assembly, with Connector, Left Hand",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n91700",
+                    "fix_rate": 43.0,
+                    "list_price": "$ 144.30"
+                }
+            ]
+        },
+        {
+            "name": "Oil Is Leaking",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pxe-100/oil-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN67583.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 67583 Filter Pump Motor, 1/2HP",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n67583",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 931.80"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN17476.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 17476 Seal Kit, Pump, Mechanical, Viton",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n17476",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 71.20"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN162497.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 162497 Filter Pump Assembly, 8GPM",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n162497",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 674.80"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN77523-002.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 77523-002 Tube, Suction, 18\", Dormont",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n77523-002",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 33.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN169857.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 169857 Motor/Actuator Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n169857",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 709.20"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Overheating",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pxe-100/unit-is-overheating",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN17476.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 17476 Seal Kit, Pump, Mechanical, Viton",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n17476",
+                    "fix_rate": 27.0,
+                    "list_price": "$ 71.20"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN67583.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 67583 Filter Pump Motor, 1/2HP",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n67583",
+                    "fix_rate": 23.0,
+                    "list_price": "$ 931.80"
+                }
+            ]
+        },
+        {
+            "name": "Valve Is Malfunctioning",
+            "idx": 7,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pxe-100/valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN169857.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 169857 Motor/Actuator Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n169857",
+                    "fix_rate": 45.0,
+                    "list_price": "$ 709.20"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN90506-001.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 90506-001 Check Valve, SAE 12-3PSI",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n90506-001",
+                    "fix_rate": 23.0,
+                    "list_price": "$ 143.40"
+                }
+            ]
+        },
+        {
+            "name": "Filter Pump Is Tripping",
+            "idx": 8,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pxe-100/filter-pump-is-tripping",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN67583.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 67583 Filter Pump Motor, 1/2HP",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n67583",
+                    "fix_rate": 62.0,
+                    "list_price": "$ 931.80"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN17476.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 17476 Seal Kit, Pump, Mechanical, Viton",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n17476",
+                    "fix_rate": 48.0,
+                    "list_price": "$ 71.20"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN162497.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 162497 Filter Pump Assembly, 8GPM",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n162497",
+                    "fix_rate": 33.0,
+                    "list_price": "$ 674.80"
+                }
+            ]
+        },
+        {
+            "name": "Drain Valve Is Malfunctioning",
+            "idx": 9,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pxe-100/drain-valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN169857.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 169857 Motor/Actuator Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n169857",
+                    "fix_rate": 84.0,
+                    "list_price": "$ 709.20"
+                }
+            ]
+        },
+        {
+            "name": "Filter Pump Is Malfunctioning",
+            "idx": 10,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pxe-100/filter-pump-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN67583.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 67583 Filter Pump Motor, 1/2HP",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n67583",
+                    "fix_rate": 67.0,
+                    "list_price": "$ 931.80"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN17476.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 17476 Seal Kit, Pump, Mechanical, Viton",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n17476",
+                    "fix_rate": 56.0,
+                    "list_price": "$ 71.20"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN162497.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 162497 Filter Pump Assembly, 8GPM",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n162497",
+                    "fix_rate": 44.0,
+                    "list_price": "$ 674.80"
+                }
+            ]
+        },
+        {
+            "name": "Gasket Is Defective Or Leaking",
+            "idx": 11,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pxe-100/gasket-is-defective-or-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN170725.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 170725 Gasket, Frypot Lid, V-Style, PXE-100",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n170725",
+                    "fix_rate": 33.0,
+                    "list_price": "$ 222.70"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN94941.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 94941 Gasket, Dead Weight Holder",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n94941",
+                    "fix_rate": 33.0,
+                    "list_price": "$ 16.00"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Not Draining",
+            "idx": 12,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pxe-100/unit-is-not-draining",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN169857.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 169857 Motor/Actuator Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n169857",
+                    "fix_rate": 36.0,
+                    "list_price": "$ 709.20"
+                }
+            ]
+        },
+        {
+            "name": "Hi-limit Is Tripping Or Wont Reset",
+            "idx": 13,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pxe-100/hi-limit-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN93968.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 93968 Thermocouple, Hi Limit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n93968",
+                    "fix_rate": 64.0,
+                    "list_price": "$ 309.80"
+                }
+            ]
+        },
+        {
+            "name": "Probe Is Malfunctioning",
+            "idx": 14,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pxe-100/probe-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN154252.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 154252 RTD Probe Assembly, 2\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n154252",
+                    "fix_rate": 55.0,
+                    "list_price": "$ 302.60"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN93968.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 93968 Thermocouple, Hi Limit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n93968",
+                    "fix_rate": 45.0,
+                    "list_price": "$ 309.80"
+                }
+            ]
+        },
+        {
+            "name": "Pump Motor Is Malfunctioning",
+            "idx": 15,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pxe-100/pump-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN67583.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 67583 Filter Pump Motor, 1/2HP",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n67583",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 931.80"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN17476.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 17476 Seal Kit, Pump, Mechanical, Viton",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n17476",
+                    "fix_rate": 67.0,
+                    "list_price": "$ 71.20"
+                }
+            ]
+        },
+        {
+            "name": "Drain Pan Is Malfunctioning",
+            "idx": 16,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pxe-100/drain-pan-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN91700.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 91700 Drain Pan Switch Assembly, with Connector, Left Hand",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n91700",
+                    "fix_rate": 75.0,
+                    "list_price": "$ 144.30"
+                }
+            ]
+        },
+        {
+            "name": "Solenoid Valve Is Malfunctioning",
+            "idx": 17,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pxe-100/solenoid-valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN85145.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 85145 Solenoid Valve, 3/4\", 208/240V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n85145",
+                    "fix_rate": 75.0,
+                    "list_price": "$ 749.00"
+                }
+            ]
+        },
+        {
+            "name": "Actuator Is Malfunctioning",
+            "idx": 18,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pxe-100/actuator-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN169857.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 169857 Motor/Actuator Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n169857",
+                    "fix_rate": 86.0,
+                    "list_price": "$ 709.20"
+                }
+            ]
+        },
+        {
+            "name": "Ball Valve Is Malfunctioning",
+            "idx": 19,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pxe-100/ball-valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN169857.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 169857 Motor/Actuator Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n169857",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 709.20"
+                }
+            ]
+        }
+    ]
+}

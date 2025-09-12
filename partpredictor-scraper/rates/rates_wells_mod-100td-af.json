@@ -1,0 +1,60 @@
+{
+    "brand": "wells",
+    "model": "mod-100td-af",
+    "issues": [
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/wells/mod-100td-af/thermostat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/WEL/WEL2T-45917.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Wells 2T-45917 Thermostat Control with Auxilary, Warmers",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2T-45917",
+                    "fix_rate": 79.0,
+                    "list_price": "$ 232.92"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/WEL/WEL2R-40498.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Wells 2R-40498 Knob Assembly, Hi/Lo, Warmers",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2R-40498",
+                    "fix_rate": 32.0,
+                    "list_price": "$ 40.79"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/WEL/WEL2J-35687.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Wells 2J-35687 Indicator Light, Glo Dot, Red",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2J-35687",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 8.13"
+                }
+            ]
+        },
+        {
+            "name": "Indicator Light Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/wells/mod-100td-af/indicator-light-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/WEL/WEL2J-35687.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Wells 2J-35687 Indicator Light, Glo Dot, Red",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2J-35687",
+                    "fix_rate": 71.0,
+                    "list_price": "$ 8.13"
+                }
+            ]
+        }
+    ]
+}

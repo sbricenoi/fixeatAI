@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Unit Is Not Dispensing",
+        "parsed_name": "unit-is-not-dispensing"
+    },
+    {
+        "name": "Display Is Malfunctioning",
+        "parsed_name": "display-is-malfunctioning"
+    }
+]

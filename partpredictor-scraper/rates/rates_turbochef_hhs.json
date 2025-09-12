@@ -1,0 +1,49 @@
+{
+    "brand": "turbochef",
+    "model": "hhs",
+    "issues": [
+        {
+            "name": "Hi-limit Is Tripping Or Wont Reset",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/turbochef/hhs/hi-limit-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC102075.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 102075 Hi Limit Thermostat EGO 3 Pole",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n102075",
+                    "fix_rate": 62.0,
+                    "list_price": "$ 170.84"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCHHC-6595.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef HHC-6595 Temperature Sensor, 3\", RTD",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nHHC-6595",
+                    "fix_rate": 24.0
+                }
+            ]
+        },
+        {
+            "name": "Display Is Blank",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/turbochef/hhs/display-is-blank",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100592.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100592 Fuse, 12 Amp, ATMR12",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100592",
+                    "fix_rate": 38.0,
+                    "list_price": "$ 33.36"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,605 @@
+{
+    "brand": "rational",
+    "model": "sccwe101g",
+    "issues": [
+        {
+            "name": "Unit Is Leaking",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/rational/sccwe101g/unit-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RATL/RATL20.02.552P.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Rational 20.02.552P Door Gasket, SCC Line 101, Black",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n20.02.552P",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 135.28"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RATL/RATL50.00.303P.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Rational 50.00.303P Bushing, Drip Collector, Pack of 2",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n50.00.303P",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 7.11"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RATL/RATL40.02.684P.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Rational 40.02.684P Air Inlet Filter Cpl.",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n40.02.684P",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 14.85"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RATL/RATL87.01.953S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Rational 87.01.953S PUMP F. CLEANING UP30 US/CA",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n87.01.953S",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 450.23"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RATL/RATL2112.1006S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Rational 2112.1006S Steam Hose Kit, 50 x 50MM",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2112.1006S",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 93.00"
+                }
+            ]
+        },
+        {
+            "name": "Door Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/rational/sccwe101g/door-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RATL/RATL24.00.142P.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Rational 24.00.142P Door Catch",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n24.00.142P",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 21.80"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RATL/RATL24.02.762P.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Rational 24.02.762P Door Lock, Spring U-Bolt",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n24.02.762P",
+                    "fix_rate": 24.0,
+                    "list_price": "$ 127.33"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RATL/RATL20.02.552P.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Rational 20.02.552P Door Gasket, SCC Line 101, Black",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n20.02.552P",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 135.28"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RATL/RATL87.01.770S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Rational 87.01.770S LED Bar, SCC/WE/101/102",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n87.01.770S",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 499.47"
+                }
+            ]
+        },
+        {
+            "name": "Hose Is Broken Or Leaking",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/rational/sccwe101g/hose-is-broken-or-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RATL/RATL2112.1006S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Rational 2112.1006S Steam Hose Kit, 50 x 50MM",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2112.1006S",
+                    "fix_rate": 20.0,
+                    "list_price": "$ 93.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RATL/RATL87.01.953S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Rational 87.01.953S PUMP F. CLEANING UP30 US/CA",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n87.01.953S",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 450.23"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RATL/RATL50.00.140P.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Rational 50.00.140P Hand Shower Roll Guide",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n50.00.140P",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 435.80"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RATL/RATL20.02.552P.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Rational 20.02.552P Door Gasket, SCC Line 101, Black",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n20.02.552P",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 135.28"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RATL/RATL50.00.303P.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Rational 50.00.303P Bushing, Drip Collector, Pack of 2",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n50.00.303P",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 7.11"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RATL/RATL44.01.213P.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Rational 44.01.213P Drain Hose, Steam Generator",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n44.01.213P",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 88.34"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RATL/RATL1107.0100P.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Rational 1107.0100P Star Lock Washer",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1107.0100P",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 7.90"
+                }
+            ]
+        },
+        {
+            "name": "Probe Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/rational/sccwe101g/probe-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RATL/RATL40.00.606P.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Rational 40.00.606P Sensor, Meat Probe",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n40.00.606P",
+                    "fix_rate": 67.0,
+                    "list_price": "$ 180.14"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RATL/RATL20.02.552P.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Rational 20.02.552P Door Gasket, SCC Line 101, Black",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n20.02.552P",
+                    "fix_rate": 20.0,
+                    "list_price": "$ 135.28"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RATL/RATL40.04.104P.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Rational 40.04.104P Meat Probe/Sensor",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n40.04.104P",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 186.19"
+                }
+            ]
+        },
+        {
+            "name": "Door Gasket Is Defective",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/rational/sccwe101g/door-gasket-is-defective",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RATL/RATL20.02.552P.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Rational 20.02.552P Door Gasket, SCC Line 101, Black",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n20.02.552P",
+                    "fix_rate": 69.0,
+                    "list_price": "$ 135.28"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RATL/RATL40.00.606P.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Rational 40.00.606P Sensor, Meat Probe",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n40.00.606P",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 180.14"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RATL/RATL40.02.684P.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Rational 40.02.684P Air Inlet Filter Cpl.",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n40.02.684P",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 14.85"
+                }
+            ]
+        },
+        {
+            "name": "Door Is Leaking",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/rational/sccwe101g/door-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RATL/RATL20.02.552P.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Rational 20.02.552P Door Gasket, SCC Line 101, Black",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n20.02.552P",
+                    "fix_rate": 33.0,
+                    "list_price": "$ 135.28"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RATL/RATL24.00.164P.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Rational 24.00.164P Inner Glass Pane, 12.2 Lbs",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n24.00.164P",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 523.35"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RATL/RATL24.02.762P.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Rational 24.02.762P Door Lock, Spring U-Bolt",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n24.02.762P",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 127.33"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RATL/RATL24.00.142P.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Rational 24.00.142P Door Catch",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n24.00.142P",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 21.80"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RATL/RATL24.00.171P.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Rational 24.00.171P Buffer, Silicone, 7mm, For Door, Pack of 5",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n24.00.171P",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 17.78"
+                }
+            ]
+        },
+        {
+            "name": "Gasket Is Defective Or Leaking",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/rational/sccwe101g/gasket-is-defective-or-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RATL/RATL20.02.552P.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Rational 20.02.552P Door Gasket, SCC Line 101, Black",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n20.02.552P",
+                    "fix_rate": 55.0,
+                    "list_price": "$ 135.28"
+                }
+            ]
+        },
+        {
+            "name": "Burner Is Malfunctioning Or Damaged",
+            "idx": 7,
+            "url": "https://www.partstown.com/part-predictor/rational/sccwe101g/burner-is-malfunctioning-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RATL/RATL70.01.530S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Rational 70.01.530S Automatic Ignition Controller",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n70.01.530S",
+                    "fix_rate": 23.0,
+                    "list_price": "$ 415.92"
+                }
+            ]
+        },
+        {
+            "name": "Fuse Is Blown",
+            "idx": 8,
+            "url": "https://www.partstown.com/part-predictor/rational/sccwe101g/fuse-is-blown",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RATL/RATL87.01.953S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Rational 87.01.953S PUMP F. CLEANING UP30 US/CA",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n87.01.953S",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 450.23"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RATL/RATL3019.0118P.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Rational 3019.0118P Fuse, 250 Volt, 8 Amp, 5 x 20MM",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3019.0118P",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 18.63"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RATL/RATL70.00.566P.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Rational 70.00.566P Blower For Burner NRG118, 230VAC, 50HZ, 110HZ, Class H",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n70.00.566P",
+                    "fix_rate": 24.0,
+                    "list_price": "$ 382.32"
+                }
+            ]
+        },
+        {
+            "name": "Handle Is Defective",
+            "idx": 9,
+            "url": "https://www.partstown.com/part-predictor/rational/sccwe101g/handle-is-defective",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RATL/RATL24.02.923P.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Rational 24.02.923P Door Handle",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n24.02.923P",
+                    "fix_rate": 30.0
+                }
+            ]
+        },
+        {
+            "name": "Latch Is Damaged Or Not Latching",
+            "idx": 10,
+            "url": "https://www.partstown.com/part-predictor/rational/sccwe101g/latch-is-damaged-or-not-latching",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RATL/RATL24.02.762P.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Rational 24.02.762P Door Lock, Spring U-Bolt",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n24.02.762P",
+                    "fix_rate": 58.0,
+                    "list_price": "$ 127.33"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RATL/RATL24.00.142P.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Rational 24.00.142P Door Catch",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n24.00.142P",
+                    "fix_rate": 32.0,
+                    "list_price": "$ 21.80"
+                }
+            ]
+        },
+        {
+            "name": "Steam Generator Is Malfunctioning",
+            "idx": 11,
+            "url": "https://www.partstown.com/part-predictor/rational/sccwe101g/steam-generator-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RATL/RATL87.01.346.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Rational 87.01.346 Ignition Electrode Kit, For Steam Generator",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n87.01.346",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 117.75"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RATL/RATL87.01.097.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Rational 87.01.097 Steam Generator, Insolated",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n87.01.097",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 1,984.14"
+                }
+            ]
+        },
+        {
+            "name": "Filter Is Malfunctioning",
+            "idx": 12,
+            "url": "https://www.partstown.com/part-predictor/rational/sccwe101g/filter-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RATL/RATL40.02.684P.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Rational 40.02.684P Air Inlet Filter Cpl.",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n40.02.684P",
+                    "fix_rate": 80.0,
+                    "list_price": "$ 14.85"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RATL/RATL20.02.552P.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Rational 20.02.552P Door Gasket, SCC Line 101, Black",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n20.02.552P",
+                    "fix_rate": 33.0,
+                    "list_price": "$ 135.28"
+                }
+            ]
+        },
+        {
+            "name": "Ignitor Is Malfunctioning Or Damaged",
+            "idx": 13,
+            "url": "https://www.partstown.com/part-predictor/rational/sccwe101g/ignitor-is-malfunctioning-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RATL/RATL87.01.346.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Rational 87.01.346 Ignition Electrode Kit, For Steam Generator",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n87.01.346",
+                    "fix_rate": 43.0,
+                    "list_price": "$ 117.75"
+                }
+            ]
+        },
+        {
+            "name": "Contactor Is Malfunctioning",
+            "idx": 14,
+            "url": "https://www.partstown.com/part-predictor/rational/sccwe101g/contactor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RATL/RATL40.03.686S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Rational 40.03.686S Contactor, BJ K3-40B00, EUR 190",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n40.03.686S",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 237.49"
+                }
+            ]
+        },
+        {
+            "name": "Hi-limit Is Tripping Or Wont Reset",
+            "idx": 15,
+            "url": "https://www.partstown.com/part-predictor/rational/sccwe101g/hi-limit-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RATL/RATL40.01.588P.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Rational 40.01.588P Fuse, 10mm x 38mm, SC-8A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n40.01.588P",
+                    "fix_rate": 42.0,
+                    "list_price": "$ 20.87"
+                }
+            ]
+        },
+        {
+            "name": "Ignition Module Is Malfunctioning",
+            "idx": 16,
+            "url": "https://www.partstown.com/part-predictor/rational/sccwe101g/ignition-module-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RATL/RATL70.01.530S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Rational 70.01.530S Automatic Ignition Controller",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n70.01.530S",
+                    "fix_rate": 56.0,
+                    "list_price": "$ 415.92"
+                }
+            ]
+        },
+        {
+            "name": "Blower Motor Is Malfunctioning",
+            "idx": 17,
+            "url": "https://www.partstown.com/part-predictor/rational/sccwe101g/blower-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RATL/RATL70.00.566P.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Rational 70.00.566P Blower For Burner NRG118, 230VAC, 50HZ, 110HZ, Class H",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n70.00.566P",
+                    "fix_rate": 75.0,
+                    "list_price": "$ 382.32"
+                }
+            ]
+        },
+        {
+            "name": "Heat Exchanger Is Damaged",
+            "idx": 18,
+            "url": "https://www.partstown.com/part-predictor/rational/sccwe101g/heat-exchanger-is-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RATL/RATL70.00.566P.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Rational 70.00.566P Blower For Burner NRG118, 230VAC, 50HZ, 110HZ, Class H",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n70.00.566P",
+                    "fix_rate": 62.0,
+                    "list_price": "$ 382.32"
+                }
+            ]
+        },
+        {
+            "name": "Ball Valve Is Malfunctioning",
+            "idx": 19,
+            "url": "https://www.partstown.com/part-predictor/rational/sccwe101g/ball-valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RATL/RATL56.00.618S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Rational 56.00.618S Ball Valve, Drain, SCC/CPL",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n56.00.618S",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 466.90"
+                }
+            ]
+        }
+    ]
+}

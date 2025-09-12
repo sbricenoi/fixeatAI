@@ -1,0 +1,1756 @@
+{
+    "brand": "henny-penny",
+    "model": "eeg-241",
+    "issues": [
+        {
+            "name": "Unit Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/eeg-241/unit-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN175860.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 175860 O-Ring, Replaces # 86349, Pack of 12",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n175860",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 15.50"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN140296.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 140296 Pilot Burner Kit, Natural Gas, EEG16X/2XX Baso",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n140296",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 182.00"
+                }
+            ]
+        },
+        {
+            "name": "Oil Is Leaking",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/eeg-241/oil-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN140244.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 140244 Drain Valve Kit, 1 1/2 Inch, with o Module",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n140244",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 376.10"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN86157.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 86157 Drain Actuator Motor, LVE20X S",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n86157",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 844.50"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN175860.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 175860 O-Ring, Replaces # 86349, Pack of 12",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n175860",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 15.50"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN17476.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 17476 Seal Kit, Pump, Mechanical, Viton",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n17476",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 71.20"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Leaking",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/eeg-241/unit-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN86157.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 86157 Drain Actuator Motor, LVE20X S",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n86157",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 844.50"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN175860.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 175860 O-Ring, Replaces # 86349, Pack of 12",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n175860",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 15.50"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN140244.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 140244 Drain Valve Kit, 1 1/2 Inch, with o Module",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n140244",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 376.10"
+                }
+            ]
+        },
+        {
+            "name": "Unit Will Not Pump Oil",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/eeg-241/unit-will-not-pump-oil",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN175860.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 175860 O-Ring, Replaces # 86349, Pack of 12",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n175860",
+                    "fix_rate": 23.0,
+                    "list_price": "$ 15.50"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN67583.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 67583 Filter Pump Motor, 1/2HP",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n67583",
+                    "fix_rate": 20.0,
+                    "list_price": "$ 931.80"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN17476.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 17476 Seal Kit, Pump, Mechanical, Viton",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n17476",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 71.20"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN171168.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 171168 Filter Pump Assembly, 5GPM",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n171168",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 558.50"
+                }
+            ]
+        },
+        {
+            "name": "Vat Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/eeg-241/vat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN26974.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 26974 Speaker Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n26974",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 36.10"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN140296.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 140296 Pilot Burner Kit, Natural Gas, EEG16X/2XX Baso",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n140296",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 182.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN175860.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 175860 O-Ring, Replaces # 86349, Pack of 12",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n175860",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 15.50"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN92717.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 92717 Thermocouple, Hi Limit, .188 Diameter",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n92717",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 232.70"
+                }
+            ]
+        },
+        {
+            "name": "Motor Is Malfunctioning",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/eeg-241/motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN67583.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 67583 Filter Pump Motor, 1/2HP",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n67583",
+                    "fix_rate": 33.0,
+                    "list_price": "$ 931.80"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN17476.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 17476 Seal Kit, Pump, Mechanical, Viton",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n17476",
+                    "fix_rate": 30.0,
+                    "list_price": "$ 71.20"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN171168.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 171168 Filter Pump Assembly, 5GPM",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n171168",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 558.50"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN175860.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 175860 O-Ring, Replaces # 86349, Pack of 12",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n175860",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 15.50"
+                }
+            ]
+        },
+        {
+            "name": "Hi-limit Is Tripping Or Wont Reset",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/eeg-241/hi-limit-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN92717.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 92717 Thermocouple, Hi Limit, .188 Diameter",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n92717",
+                    "fix_rate": 56.0,
+                    "list_price": "$ 232.70"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN140296.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 140296 Pilot Burner Kit, Natural Gas, EEG16X/2XX Baso",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n140296",
+                    "fix_rate": 23.0,
+                    "list_price": "$ 182.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN175915-003.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 175915-003 Limit Controller, 120V, 430F, Red",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n175915-003",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 420.20"
+                }
+            ]
+        },
+        {
+            "name": "Ignition Module Is Malfunctioning",
+            "idx": 7,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/eeg-241/ignition-module-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN140296.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 140296 Pilot Burner Kit, Natural Gas, EEG16X/2XX Baso",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n140296",
+                    "fix_rate": 35.0,
+                    "list_price": "$ 182.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN77839.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 77839 Ignition Module, Non CE",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n77839",
+                    "fix_rate": 30.0,
+                    "list_price": "$ 147.60"
+                }
+            ]
+        },
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 8,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/eeg-241/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN140537.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 140537 Drain Pan Replacement Switch Kit,LVE,LVG,EEG",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n140537",
+                    "fix_rate": 39.0,
+                    "list_price": "$ 130.20"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN77992.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 77992 Pressure Switch",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n77992",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 33.90"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Overheating",
+            "idx": 9,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/eeg-241/unit-is-overheating",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN92717.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 92717 Thermocouple, Hi Limit, .188 Diameter",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n92717",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 232.70"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN175915-003.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 175915-003 Limit Controller, 120V, 430F, Red",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n175915-003",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 420.20"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN151744.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 151744 Solenoid Valve, 120V, 1/2NPT",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n151744",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 463.00"
+                }
+            ]
+        },
+        {
+            "name": "Controller Is Malfunctioning",
+            "idx": 10,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/eeg-241/controller-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN140402.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 140402 Control Kit with Thumb Drive, EEX",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n140402",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 1,237.20"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN140471.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 140471 Control Kit, EEX, MAN/DRN-BRINK",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n140471",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 1,237.20"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN77992.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 77992 Pressure Switch",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n77992",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 33.90"
+                }
+            ]
+        },
+        {
+            "name": "Filter Is Malfunctioning",
+            "idx": 11,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/eeg-241/filter-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN175860.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 175860 O-Ring, Replaces # 86349, Pack of 12",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n175860",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 15.50"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN17476.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 17476 Seal Kit, Pump, Mechanical, Viton",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n17476",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 71.20"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN67583.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 67583 Filter Pump Motor, 1/2HP",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n67583",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 931.80"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN171168.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 171168 Filter Pump Assembly, 5GPM",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n171168",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 558.50"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN140537.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 140537 Drain Pan Replacement Switch Kit,LVE,LVG,EEG",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n140537",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 130.20"
+                }
+            ]
+        },
+        {
+            "name": "Filter Pump Is Tripping",
+            "idx": 12,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/eeg-241/filter-pump-is-tripping",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN17476.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 17476 Seal Kit, Pump, Mechanical, Viton",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n17476",
+                    "fix_rate": 30.0,
+                    "list_price": "$ 71.20"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN67583.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 67583 Filter Pump Motor, 1/2HP",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n67583",
+                    "fix_rate": 30.0,
+                    "list_price": "$ 931.80"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN175860.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 175860 O-Ring, Replaces # 86349, Pack of 12",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n175860",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 15.50"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN171168.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 171168 Filter Pump Assembly, 5GPM",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n171168",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 558.50"
+                }
+            ]
+        },
+        {
+            "name": "Unit Will Not Filter Properly",
+            "idx": 13,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/eeg-241/unit-will-not-filter-properly",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN175860.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 175860 O-Ring, Replaces # 86349, Pack of 12",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n175860",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 15.50"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN17476.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 17476 Seal Kit, Pump, Mechanical, Viton",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n17476",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 71.20"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN171168.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 171168 Filter Pump Assembly, 5GPM",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n171168",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 558.50"
+                }
+            ]
+        },
+        {
+            "name": "Valve Is Malfunctioning",
+            "idx": 14,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/eeg-241/valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN151744.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 151744 Solenoid Valve, 120V, 1/2NPT",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n151744",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 463.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN86157.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 86157 Drain Actuator Motor, LVE20X S",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n86157",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 844.50"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN140244.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 140244 Drain Valve Kit, 1 1/2 Inch, with o Module",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n140244",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 376.10"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN90506-001.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 90506-001 Check Valve, SAE 12-3PSI",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n90506-001",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 143.40"
+                }
+            ]
+        },
+        {
+            "name": "Pilot Is Malfunctioning",
+            "idx": 15,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/eeg-241/pilot-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN140296.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 140296 Pilot Burner Kit, Natural Gas, EEG16X/2XX Baso",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n140296",
+                    "fix_rate": 64.0,
+                    "list_price": "$ 182.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN92717.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 92717 Thermocouple, Hi Limit, .188 Diameter",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n92717",
+                    "fix_rate": 27.0,
+                    "list_price": "$ 232.70"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN77839.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 77839 Ignition Module, Non CE",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n77839",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 147.60"
+                }
+            ]
+        },
+        {
+            "name": "Filter Pump Is Malfunctioning",
+            "idx": 16,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/eeg-241/filter-pump-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN67583.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 67583 Filter Pump Motor, 1/2HP",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n67583",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 931.80"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN17476.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 17476 Seal Kit, Pump, Mechanical, Viton",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n17476",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 71.20"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN175860.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 175860 O-Ring, Replaces # 86349, Pack of 12",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n175860",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 15.50"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN171168.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 171168 Filter Pump Assembly, 5GPM",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n171168",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 558.50"
+                }
+            ]
+        },
+        {
+            "name": "Probe Is Malfunctioning",
+            "idx": 17,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/eeg-241/probe-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN92717.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 92717 Thermocouple, Hi Limit, .188 Diameter",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n92717",
+                    "fix_rate": 47.0,
+                    "list_price": "$ 232.70"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN140098.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 140098 Probe Kit, 2.5\", LVX20X/EEG16X-2XX",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n140098",
+                    "fix_rate": 35.0,
+                    "list_price": "$ 150.20"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN140296.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 140296 Pilot Burner Kit, Natural Gas, EEG16X/2XX Baso",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n140296",
+                    "fix_rate": 27.0,
+                    "list_price": "$ 182.00"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Not Draining",
+            "idx": 18,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/eeg-241/unit-is-not-draining",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN86157.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 86157 Drain Actuator Motor, LVE20X S",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n86157",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 844.50"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN175860.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 175860 O-Ring, Replaces # 86349, Pack of 12",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n175860",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 15.50"
+                }
+            ]
+        },
+        {
+            "name": "Hose Is Broken Or Leaking",
+            "idx": 19,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/eeg-241/hose-is-broken-or-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN175860.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 175860 O-Ring, Replaces # 86349, Pack of 12",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n175860",
+                    "fix_rate": 24.0,
+                    "list_price": "$ 15.50"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HENFP05-017.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny FP05-017 Quick Disconnect, 3/8",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nFP05-017",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 20.80"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN151686-002.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 151686-002 Hose 34\", Oil Dispose",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n151686-002",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 409.10"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN90506-001.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 90506-001 Check Valve, SAE 12-3PSI",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n90506-001",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 143.40"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN77523-001.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 77523-001 Suction Tube, Flexable, 12\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n77523-001",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 32.40"
+                }
+            ]
+        },
+        {
+            "name": "Not Filling Properly",
+            "idx": 20,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/eeg-241/not-filling-properly",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN175860.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 175860 O-Ring, Replaces # 86349, Pack of 12",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n175860",
+                    "fix_rate": 20.0,
+                    "list_price": "$ 15.50"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN151744.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 151744 Solenoid Valve, 120V, 1/2NPT",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n151744",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 463.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN140244.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 140244 Drain Valve Kit, 1 1/2 Inch, with o Module",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n140244",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 376.10"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN90506-001.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 90506-001 Check Valve, SAE 12-3PSI",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n90506-001",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 143.40"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Making Noise",
+            "idx": 21,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/eeg-241/unit-is-making-noise",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN26974.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 26974 Speaker Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n26974",
+                    "fix_rate": 66.0,
+                    "list_price": "$ 36.10"
+                }
+            ]
+        },
+        {
+            "name": "Drain Valve Is Malfunctioning",
+            "idx": 22,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/eeg-241/drain-valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN86157.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 86157 Drain Actuator Motor, LVE20X S",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n86157",
+                    "fix_rate": 43.0,
+                    "list_price": "$ 844.50"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN140244.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 140244 Drain Valve Kit, 1 1/2 Inch, with o Module",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n140244",
+                    "fix_rate": 40.0,
+                    "list_price": "$ 376.10"
+                }
+            ]
+        },
+        {
+            "name": "Vat Is Leaking",
+            "idx": 23,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/eeg-241/vat-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN140244.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 140244 Drain Valve Kit, 1 1/2 Inch, with o Module",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n140244",
+                    "fix_rate": 36.0,
+                    "list_price": "$ 376.10"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN86157.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 86157 Drain Actuator Motor, LVE20X S",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n86157",
+                    "fix_rate": 30.0,
+                    "list_price": "$ 844.50"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN175860.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 175860 O-Ring, Replaces # 86349, Pack of 12",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n175860",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 15.50"
+                }
+            ]
+        },
+        {
+            "name": "Drain Pan Is Malfunctioning",
+            "idx": 24,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/eeg-241/drain-pan-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN140537.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 140537 Drain Pan Replacement Switch Kit,LVE,LVG,EEG",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n140537",
+                    "fix_rate": 36.0,
+                    "list_price": "$ 130.20"
+                }
+            ]
+        },
+        {
+            "name": "Unit Making Noise",
+            "idx": 25,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/eeg-241/unit-making-noise",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN26974.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 26974 Speaker Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n26974",
+                    "fix_rate": 59.0,
+                    "list_price": "$ 36.10"
+                }
+            ]
+        },
+        {
+            "name": "Drain Pan Is Damaged",
+            "idx": 26,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/eeg-241/drain-pan-is-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN175860.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 175860 O-Ring, Replaces # 86349, Pack of 12",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n175860",
+                    "fix_rate": 55.0,
+                    "list_price": "$ 15.50"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN140537.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 140537 Drain Pan Replacement Switch Kit,LVE,LVG,EEG",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n140537",
+                    "fix_rate": 24.0,
+                    "list_price": "$ 130.20"
+                }
+            ]
+        },
+        {
+            "name": "Gas Valve Is Malfunctioning",
+            "idx": 27,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/eeg-241/gas-valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN87663-101.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 87663-101 Gas Solenoid Valve Kit, Natural Gas, 24V, Baso",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n87663-101",
+                    "fix_rate": 52.0,
+                    "list_price": "$ 585.30"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN140296.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 140296 Pilot Burner Kit, Natural Gas, EEG16X/2XX Baso",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n140296",
+                    "fix_rate": 38.0,
+                    "list_price": "$ 182.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN77839.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 77839 Ignition Module, Non CE",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n77839",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 147.60"
+                }
+            ]
+        },
+        {
+            "name": "Pump Motor Is Malfunctioning",
+            "idx": 28,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/eeg-241/pump-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN67583.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 67583 Filter Pump Motor, 1/2HP",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n67583",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 931.80"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN17476.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 17476 Seal Kit, Pump, Mechanical, Viton",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n17476",
+                    "fix_rate": 32.0,
+                    "list_price": "$ 71.20"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN171168.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 171168 Filter Pump Assembly, 5GPM",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n171168",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 558.50"
+                }
+            ]
+        },
+        {
+            "name": "Drain Pan Is Leaking",
+            "idx": 29,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/eeg-241/drain-pan-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN86157.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 86157 Drain Actuator Motor, LVE20X S",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n86157",
+                    "fix_rate": 35.0,
+                    "list_price": "$ 844.50"
+                }
+            ]
+        },
+        {
+            "name": "Pressure Switch Is Malfunctioning",
+            "idx": 30,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/eeg-241/pressure-switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN77992.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 77992 Pressure Switch",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n77992",
+                    "fix_rate": 80.0,
+                    "list_price": "$ 33.90"
+                }
+            ]
+        },
+        {
+            "name": "Sensor Is Malfunctioning",
+            "idx": 31,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/eeg-241/sensor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN140098.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 140098 Probe Kit, 2.5\", LVX20X/EEG16X-2XX",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n140098",
+                    "fix_rate": 28.0,
+                    "list_price": "$ 150.20"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN140537.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 140537 Drain Pan Replacement Switch Kit,LVE,LVG,EEG",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n140537",
+                    "fix_rate": 24.0,
+                    "list_price": "$ 130.20"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Not Reaching Set Temperature",
+            "idx": 32,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/eeg-241/unit-is-not-reaching-set-temperature",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN140296.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 140296 Pilot Burner Kit, Natural Gas, EEG16X/2XX Baso",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n140296",
+                    "fix_rate": 28.0,
+                    "list_price": "$ 182.00"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Shutting Down",
+            "idx": 33,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/eeg-241/unit-is-shutting-down",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN92717.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 92717 Thermocouple, Hi Limit, .188 Diameter",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n92717",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 232.70"
+                }
+            ]
+        },
+        {
+            "name": "Drain Valve Is Leaking",
+            "idx": 34,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/eeg-241/drain-valve-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN140244.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 140244 Drain Valve Kit, 1 1/2 Inch, with o Module",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n140244",
+                    "fix_rate": 70.0,
+                    "list_price": "$ 376.10"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN86157.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 86157 Drain Actuator Motor, LVE20X S",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n86157",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 844.50"
+                }
+            ]
+        },
+        {
+            "name": "Filter Pan Is Malfunctioning",
+            "idx": 35,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/eeg-241/filter-pan-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN175860.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 175860 O-Ring, Replaces # 86349, Pack of 12",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n175860",
+                    "fix_rate": 43.0,
+                    "list_price": "$ 15.50"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN140537.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 140537 Drain Pan Replacement Switch Kit,LVE,LVG,EEG",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n140537",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 130.20"
+                }
+            ]
+        },
+        {
+            "name": "Valve Is Leaking",
+            "idx": 36,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/eeg-241/valve-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN140244.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 140244 Drain Valve Kit, 1 1/2 Inch, with o Module",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n140244",
+                    "fix_rate": 23.0,
+                    "list_price": "$ 376.10"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN90506-001.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 90506-001 Check Valve, SAE 12-3PSI",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n90506-001",
+                    "fix_rate": 23.0,
+                    "list_price": "$ 143.40"
+                }
+            ]
+        },
+        {
+            "name": "Breaker Is Tripping Or Wont Reset",
+            "idx": 37,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/eeg-241/breaker-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN175915-003.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 175915-003 Limit Controller, 120V, 430F, Red",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n175915-003",
+                    "fix_rate": 24.0,
+                    "list_price": "$ 420.20"
+                }
+            ]
+        },
+        {
+            "name": "Relay Is Malfunctioning",
+            "idx": 38,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/eeg-241/relay-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HENME90-008.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny ME90-008 Relay, 12VDC Coil, 30A, T92",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nME90-008",
+                    "fix_rate": 71.0,
+                    "list_price": "$ 30.80"
+                }
+            ]
+        },
+        {
+            "name": "Solenoid Valve Is Malfunctioning",
+            "idx": 39,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/eeg-241/solenoid-valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN151744.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 151744 Solenoid Valve, 120V, 1/2NPT",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n151744",
+                    "fix_rate": 71.0,
+                    "list_price": "$ 463.00"
+                }
+            ]
+        },
+        {
+            "name": "Actuator Is Malfunctioning",
+            "idx": 40,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/eeg-241/actuator-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN86157.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 86157 Drain Actuator Motor, LVE20X S",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n86157",
+                    "fix_rate": 85.0,
+                    "list_price": "$ 844.50"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN140244.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 140244 Drain Valve Kit, 1 1/2 Inch, with o Module",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n140244",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 376.10"
+                }
+            ]
+        },
+        {
+            "name": "Blower Motor Is Malfunctioning",
+            "idx": 41,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/eeg-241/blower-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN92963-001.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 92963-001 Blower Motor, Flue Exhaust, 115V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n92963-001",
+                    "fix_rate": 40.0,
+                    "list_price": "$ 474.40"
+                }
+            ]
+        },
+        {
+            "name": "Filter Pan Is Leaking",
+            "idx": 42,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/eeg-241/filter-pan-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN95842.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 95842 Drain Pan with Casters, EEG/LVG",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n95842",
+                    "fix_rate": 40.0,
+                    "list_price": "$ 1,112.40"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN86157.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 86157 Drain Actuator Motor, LVE20X S",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n86157",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 844.50"
+                }
+            ]
+        },
+        {
+            "name": "Fan Motor Is Malfunctioning",
+            "idx": 43,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/eeg-241/fan-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN77992.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 77992 Pressure Switch",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n77992",
+                    "fix_rate": 37.0,
+                    "list_price": "$ 33.90"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN92963-001.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 92963-001 Blower Motor, Flue Exhaust, 115V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n92963-001",
+                    "fix_rate": 32.0,
+                    "list_price": "$ 474.40"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN140402.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 140402 Control Kit with Thumb Drive, EEX",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n140402",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 1,237.20"
+                }
+            ]
+        },
+        {
+            "name": "O Ring Is Damaged Or Leaking",
+            "idx": 44,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/eeg-241/o-ring-is-damaged-or-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN175860.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 175860 O-Ring, Replaces # 86349, Pack of 12",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n175860",
+                    "fix_rate": 67.0,
+                    "list_price": "$ 15.50"
+                }
+            ]
+        },
+        {
+            "name": "Wiring Issue",
+            "idx": 45,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/eeg-241/wiring-issue",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN140296.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 140296 Pilot Burner Kit, Natural Gas, EEG16X/2XX Baso",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n140296",
+                    "fix_rate": 28.0,
+                    "list_price": "$ 182.00"
+                }
+            ]
+        },
+        {
+            "name": "Burner Is Malfunctioning Or Damaged",
+            "idx": 46,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/eeg-241/burner-is-malfunctioning-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN140296.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 140296 Pilot Burner Kit, Natural Gas, EEG16X/2XX Baso",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n140296",
+                    "fix_rate": 35.0,
+                    "list_price": "$ 182.00"
+                }
+            ]
+        },
+        {
+            "name": "Filter Is Leaking Oil",
+            "idx": 47,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/eeg-241/filter-is-leaking-oil",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN175860.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 175860 O-Ring, Replaces # 86349, Pack of 12",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n175860",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 15.50"
+                }
+            ]
+        },
+        {
+            "name": "Pump Seal Is Leaking",
+            "idx": 48,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/eeg-241/pump-seal-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN17476.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 17476 Seal Kit, Pump, Mechanical, Viton",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n17476",
+                    "fix_rate": 41.0,
+                    "list_price": "$ 71.20"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN171168.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 171168 Filter Pump Assembly, 5GPM",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n171168",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 558.50"
+                }
+            ]
+        },
+        {
+            "name": "Thermocouple Is Malfunctioning",
+            "idx": 49,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/eeg-241/thermocouple-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN92717.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 92717 Thermocouple, Hi Limit, .188 Diameter",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n92717",
+                    "fix_rate": 82.0,
+                    "list_price": "$ 232.70"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN140296.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 140296 Pilot Burner Kit, Natural Gas, EEG16X/2XX Baso",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n140296",
+                    "fix_rate": 41.0,
+                    "list_price": "$ 182.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN175915-003.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 175915-003 Limit Controller, 120V, 430F, Red",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n175915-003",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 420.20"
+                }
+            ]
+        },
+        {
+            "name": "Flame Sensor Is Malfunctioning",
+            "idx": 50,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/eeg-241/flame-sensor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN140296.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 140296 Pilot Burner Kit, Natural Gas, EEG16X/2XX Baso",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n140296",
+                    "fix_rate": 86.0,
+                    "list_price": "$ 182.00"
+                }
+            ]
+        },
+        {
+            "name": "Connector Is Faulty",
+            "idx": 51,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/eeg-241/connector-is-faulty",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HENFP05-017.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny FP05-017 Quick Disconnect, 3/8",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nFP05-017",
+                    "fix_rate": 54.0,
+                    "list_price": "$ 20.80"
+                }
+            ]
+        },
+        {
+            "name": "Drain Switch Is Malfunctioning",
+            "idx": 52,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/eeg-241/drain-switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN140537.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 140537 Drain Pan Replacement Switch Kit,LVE,LVG,EEG",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n140537",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 130.20"
+                }
+            ]
+        },
+        {
+            "name": "Ignitor Is Malfunctioning Or Damaged",
+            "idx": 53,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/eeg-241/ignitor-is-malfunctioning-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN140296.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 140296 Pilot Burner Kit, Natural Gas, EEG16X/2XX Baso",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n140296",
+                    "fix_rate": 58.0,
+                    "list_price": "$ 182.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN92717.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 92717 Thermocouple, Hi Limit, .188 Diameter",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n92717",
+                    "fix_rate": 58.0,
+                    "list_price": "$ 232.70"
+                }
+            ]
+        },
+        {
+            "name": "Pump Seal Is Damaged Or Leaking",
+            "idx": 54,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/eeg-241/pump-seal-is-damaged-or-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN17476.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 17476 Seal Kit, Pump, Mechanical, Viton",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n17476",
+                    "fix_rate": 58.0,
+                    "list_price": "$ 71.20"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN171168.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 171168 Filter Pump Assembly, 5GPM",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n171168",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 558.50"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN67583.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 67583 Filter Pump Motor, 1/2HP",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n67583",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 931.80"
+                }
+            ]
+        },
+        {
+            "name": "Transformer Is Malfunctioning",
+            "idx": 55,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/eeg-241/transformer-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN86086.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 86086 Transformer, 120 to 24V, 75VA",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n86086",
+                    "fix_rate": 75.0,
+                    "list_price": "$ 100.80"
+                }
+            ]
+        },
+        {
+            "name": "Leaking At Probe",
+            "idx": 56,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/eeg-241/leaking-at-probe",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN140296.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 140296 Pilot Burner Kit, Natural Gas, EEG16X/2XX Baso",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n140296",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 182.00"
+                }
+            ]
+        },
+        {
+            "name": "Ball Valve Is Malfunctioning",
+            "idx": 57,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/eeg-241/ball-valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN140244.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 140244 Drain Valve Kit, 1 1/2 Inch, with o Module",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n140244",
+                    "fix_rate": 78.0,
+                    "list_price": "$ 376.10"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN86157.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 86157 Drain Actuator Motor, LVE20X S",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n86157",
+                    "fix_rate": 67.0,
+                    "list_price": "$ 844.50"
+                }
+            ]
+        },
+        {
+            "name": "Not Sensing Pilot",
+            "idx": 58,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/eeg-241/not-sensing-pilot",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN140296.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 140296 Pilot Burner Kit, Natural Gas, EEG16X/2XX Baso",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n140296",
+                    "fix_rate": 75.0,
+                    "list_price": "$ 182.00"
+                }
+            ]
+        },
+        {
+            "name": "Pump Motor Is Leaking",
+            "idx": 59,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/eeg-241/pump-motor-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN17476.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 17476 Seal Kit, Pump, Mechanical, Viton",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n17476",
+                    "fix_rate": 86.0,
+                    "list_price": "$ 71.20"
+                }
+            ]
+        }
+    ]
+}

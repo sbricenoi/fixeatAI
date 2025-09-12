@@ -1,0 +1,48 @@
+{
+    "brand": "wells",
+    "model": "f-30",
+    "issues": [
+        {
+            "name": "Hi-limit Is Tripping Or Wont Reset",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/wells/f-30/hi-limit-is-tripping-or-wont-reset",
+            "results": []
+        },
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/wells/f-30/thermostat-is-malfunctioning",
+            "results": []
+        },
+        {
+            "name": "Unit Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/wells/f-30/unit-is-malfunctioning",
+            "results": []
+        },
+        {
+            "name": "Unit Is Overheating",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/wells/f-30/unit-is-overheating",
+            "results": []
+        },
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/wells/f-30/switch-is-malfunctioning",
+            "results": []
+        },
+        {
+            "name": "Breaker Is Tripping Or Wont Reset",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/wells/f-30/breaker-is-tripping-or-wont-reset",
+            "results": []
+        },
+        {
+            "name": "Wiring Issue",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/wells/f-30/wiring-issue",
+            "results": []
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "brand": "apw-wyott",
+    "model": "eco-4000-350l",
+    "issues": [
+        {
+            "name": "Motor Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/apw-wyott/eco-4000-350l/motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/APW/APW2U-1407600.view?thumb&image.rules=G0&w=200",
+                    "product_name": "APW Wyott 2U-1407600 Motor, Variable Speed, 120V, 60H",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2U-1407600",
+                    "fix_rate": 75.0,
+                    "list_price": "$ 269.69"
+                }
+            ]
+        }
+    ]
+}

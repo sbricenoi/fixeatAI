@@ -1,0 +1,23 @@
+{
+    "brand": "garland",
+    "model": "mir-34l",
+    "issues": [
+        {
+            "name": "Burner Is Malfunctioning Or Damaged",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/garland/mir-34l/burner-is-malfunctioning-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GLCK117.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland CK117 Infrared Burner Assembly with Rods",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nCK117",
+                    "fix_rate": 60.0,
+                    "list_price": "$ 543.42"
+                }
+            ]
+        }
+    ]
+}

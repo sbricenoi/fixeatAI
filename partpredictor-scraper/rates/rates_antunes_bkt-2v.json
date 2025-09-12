@@ -1,0 +1,121 @@
+{
+    "brand": "antunes",
+    "model": "bkt-2v",
+    "issues": [
+        {
+            "name": "Sprocket Is Damaged",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/antunes/bkt-2v/sprocket-is-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7002361.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7002361 Idler Sprocket",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7002361",
+                    "fix_rate": 83.0,
+                    "list_price": "$ 219.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001969.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001969 Drive Chain, Stainless Steel",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001969",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 50.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001978.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001978 Drive Sprocket, Black",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001978",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 27.00"
+                }
+            ]
+        },
+        {
+            "name": "Motor Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/antunes/bkt-2v/motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7002361.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7002361 Idler Sprocket",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7002361",
+                    "fix_rate": 41.0,
+                    "list_price": "$ 219.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001959.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001959 Control Board, Power Supply",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001959",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 229.00"
+                }
+            ]
+        },
+        {
+            "name": "Display Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/antunes/bkt-2v/display-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001958.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001958 Kit, Display Board",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001958",
+                    "fix_rate": 62.0,
+                    "list_price": "$ 431.00"
+                }
+            ]
+        },
+        {
+            "name": "Hi-limit Is Tripping Or Wont Reset",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/antunes/bkt-2v/hi-limit-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001144.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001144 Hi-Limit Thermostat",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001144",
+                    "fix_rate": 75.0,
+                    "list_price": "$ 184.00"
+                }
+            ]
+        },
+        {
+            "name": "Bushing Is Damaged",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/antunes/bkt-2v/bushing-is-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7002361.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7002361 Idler Sprocket",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7002361",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 219.00"
+                }
+            ]
+        }
+    ]
+}

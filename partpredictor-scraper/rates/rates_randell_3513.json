@@ -1,0 +1,23 @@
+{
+    "brand": "randell",
+    "model": "3513",
+    "issues": [
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/randell/3513/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDELSWT610BE.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell EL SWT610BE Rocker Switch, Red Lighted",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nEL SWT610BE",
+                    "fix_rate": 85.0,
+                    "list_price": "$ 25.42"
+                }
+            ]
+        }
+    ]
+}

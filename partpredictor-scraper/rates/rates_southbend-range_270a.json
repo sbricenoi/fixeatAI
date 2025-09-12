@@ -1,0 +1,23 @@
+{
+    "brand": "southbend-range",
+    "model": "270a",
+    "issues": [
+        {
+            "name": "Burner Is Malfunctioning Or Damaged",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/southbend-range/270a/burner-is-malfunctioning-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1163875.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1163875 Infrared Burner Assembly, 24-1/8\" x 5-1/8\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1163875",
+                    "fix_rate": 55.0,
+                    "list_price": "$ 2,674.43"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,275 @@
+{
+    "brand": "AccuTemp",
+    "model": "GGF1201A3650-S2",
+    "issues": [
+        {
+            "name": "Burner Is Malfunctioning Or Damaged",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/accutemp/ggf1201a3650-s2/burner-is-malfunctioning-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/ACC/ACCAT2B-2099-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "AccuTemp AT2B-2099-1 Infra Red Burner, Main, 30,000 BTU",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nAT2B-2099-1",
+                    "fix_rate": 37.0,
+                    "list_price": "$ 578.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/ACC/ACCAT2Z-6451.view?thumb&image.rules=G0&w=200",
+                    "product_name": "AccuTemp AT2Z-6451 Mesh Burner Kit, Metal",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nAT2Z-6451",
+                    "fix_rate": 35.0,
+                    "list_price": "$ 1,290.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/ACC/ACCAT2Z-6452.view?thumb&image.rules=G0&w=200",
+                    "product_name": "AccuTemp AT2Z-6452 METAL MESS BURNER KIT FOR 48\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nAT2Z-6452",
+                    "fix_rate": 28.0,
+                    "list_price": "$ 1,934.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/ACC/ACCAT2B-2131-2.view?thumb&image.rules=G0&w=200",
+                    "product_name": "AccuTemp AT2B-2131-2 Infrared Burner, 20,000 BTU, 24\", A+B Models",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nAT2B-2131-2",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 367.00"
+                }
+            ]
+        },
+        {
+            "name": "Ignition Module Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/accutemp/ggf1201a3650-s2/ignition-module-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/ACC/ACCAT2T-5035-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "AccuTemp AT2T-5035-1 IGNITIOR REPLACEMENT KIT, GAS GRIDDLE",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nAT2T-5035-1",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 226.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/ACC/ACCAT2E-1806-2.view?thumb&image.rules=G0&w=200",
+                    "product_name": "AccuTemp AT2E-1806-2 Gas Solenoid Valve, 25V, Natural",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nAT2E-1806-2",
+                    "fix_rate": 23.0,
+                    "list_price": "$ 461.00"
+                }
+            ]
+        },
+        {
+            "name": "Controller Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/accutemp/ggf1201a3650-s2/controller-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/ACC/ACCAT0E-2559-6.view?thumb&image.rules=G0&w=200",
+                    "product_name": "AccuTemp AT0E-2559-6 Temperature Control/Thermostat, G1 RTD Gas Drop In",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nAT0E-2559-6",
+                    "fix_rate": 31.0,
+                    "list_price": "$ 388.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/ACC/ACCAT0E-6695-5-R03.view?thumb&image.rules=G0&w=200",
+                    "product_name": "AccuTemp AT0E-6695-5-R03 CONTROLLER-QUANTUM SERIES",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nAT0E-6695-5-R03",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 432.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/ACC/ACCAT0E-2885-3.view?thumb&image.rules=G0&w=200",
+                    "product_name": "AccuTemp AT0E-2885-3 Temperature Sensor, Replaceable, RTD",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nAT0E-2885-3",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 192.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/ACC/ACCAT2B-2099-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "AccuTemp AT2B-2099-1 Infra Red Burner, Main, 30,000 BTU",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nAT2B-2099-1",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 578.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/ACC/ACCAT0E-2500-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "AccuTemp AT0E-2500-1 Timer Relay, 24V, 1-60 Seconds",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nAT0E-2500-1",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 181.00"
+                }
+            ]
+        },
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/accutemp/ggf1201a3650-s2/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/ACC/ACCAT0E-3336-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "AccuTemp AT0E-3336-1 Switch, Rotary, On/Off",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nAT0E-3336-1",
+                    "fix_rate": 58.0,
+                    "list_price": "$ 64.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/ACC/ACCAT0E-3339-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "AccuTemp AT0E-3339-1 Mounting Latch",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nAT0E-3339-1",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 21.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/ACC/ACCAT0E-3338-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "AccuTemp AT0E-3338-1 Contact Block, Switch, On, Green",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nAT0E-3338-1",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 44.00"
+                }
+            ]
+        },
+        {
+            "name": "Ingition Module Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/accutemp/ggf1201a3650-s2/ingition-module-is-malfunctioning",
+            "results": []
+        },
+        {
+            "name": "Gas Valve Is Malfunctioning",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/accutemp/ggf1201a3650-s2/gas-valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/ACC/ACCAT2E-1806-2.view?thumb&image.rules=G0&w=200",
+                    "product_name": "AccuTemp AT2E-1806-2 Gas Solenoid Valve, 25V, Natural",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nAT2E-1806-2",
+                    "fix_rate": 77.0,
+                    "list_price": "$ 461.00"
+                }
+            ]
+        },
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/accutemp/ggf1201a3650-s2/thermostat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/ACC/ACCAT0E-2559-6.view?thumb&image.rules=G0&w=200",
+                    "product_name": "AccuTemp AT0E-2559-6 Temperature Control/Thermostat, G1 RTD Gas Drop In",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nAT0E-2559-6",
+                    "fix_rate": 60.0,
+                    "list_price": "$ 388.00"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Backfiring",
+            "idx": 7,
+            "url": "https://www.partstown.com/part-predictor/accutemp/ggf1201a3650-s2/unit-is-backfiring",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/ACC/ACCAT2Z-6452.view?thumb&image.rules=G0&w=200",
+                    "product_name": "AccuTemp AT2Z-6452 METAL MESS BURNER KIT FOR 48\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nAT2Z-6452",
+                    "fix_rate": 67.0,
+                    "list_price": "$ 1,934.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/ACC/ACCAT2Z-6451.view?thumb&image.rules=G0&w=200",
+                    "product_name": "AccuTemp AT2Z-6451 Mesh Burner Kit, Metal",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nAT2Z-6451",
+                    "fix_rate": 67.0,
+                    "list_price": "$ 1,290.00"
+                }
+            ]
+        },
+        {
+            "name": "Ignitor Is Malfunctioning Or Damaged",
+            "idx": 8,
+            "url": "https://www.partstown.com/part-predictor/accutemp/ggf1201a3650-s2/ignitor-is-malfunctioning-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/ACC/ACCAT2T-5035-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "AccuTemp AT2T-5035-1 IGNITIOR REPLACEMENT KIT, GAS GRIDDLE",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nAT2T-5035-1",
+                    "fix_rate": 71.0,
+                    "list_price": "$ 226.00"
+                }
+            ]
+        },
+        {
+            "name": "Gas Valve Is Leaking",
+            "idx": 9,
+            "url": "https://www.partstown.com/part-predictor/accutemp/ggf1201a3650-s2/gas-valve-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/ACC/ACCAT2E-1806-2.view?thumb&image.rules=G0&w=200",
+                    "product_name": "AccuTemp AT2E-1806-2 Gas Solenoid Valve, 25V, Natural",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nAT2E-1806-2",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 461.00"
+                }
+            ]
+        }
+    ]
+}

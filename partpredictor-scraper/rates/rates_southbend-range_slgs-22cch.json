@@ -1,0 +1,74 @@
+{
+    "brand": "southbend-range",
+    "model": "slgs-22cch",
+    "issues": [
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/southbend-range/slgs-22cch/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1177541.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1177541 Switch, Power, Black, SPDT",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1177541",
+                    "fix_rate": 31.0,
+                    "list_price": "$ 72.47"
+                }
+            ]
+        },
+        {
+            "name": "Flame Sensor Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/southbend-range/slgs-22cch/flame-sensor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1195448.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1195448 Flame Sensor, 90 Degree",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1195448",
+                    "fix_rate": 80.0,
+                    "list_price": "$ 155.91"
+                }
+            ]
+        },
+        {
+            "name": "Ignitor Is Malfunctioning Or Damaged",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/southbend-range/slgs-22cch/ignitor-is-malfunctioning-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1183200.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1183200 Hot Surface Ignitor",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1183200",
+                    "fix_rate": 90.0,
+                    "list_price": "$ 216.77"
+                }
+            ]
+        },
+        {
+            "name": "Controller Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/southbend-range/slgs-22cch/controller-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1180407.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1180407 Control Board, CCH",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1180407",
+                    "fix_rate": 56.0,
+                    "list_price": "$ 1,603.60"
+                }
+            ]
+        }
+    ]
+}

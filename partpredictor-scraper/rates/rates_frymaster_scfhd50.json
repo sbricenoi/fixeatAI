@@ -1,0 +1,23 @@
+{
+    "brand": "frymaster",
+    "model": "scfhd50",
+    "issues": [
+        {
+            "name": "Ignition Module Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/frymaster/scfhd50/ignition-module-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8262898.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8262898 Ignition Module Retro Kit, Fenwal",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8262898",
+                    "fix_rate": 62.0,
+                    "list_price": "$ 244.46"
+                }
+            ]
+        }
+    ]
+}

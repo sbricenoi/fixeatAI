@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Magnetron Is Malfunctioning",
+        "parsed_name": "magnetron-is-malfunctioning"
+    },
+    {
+        "name": "Fuse Is Blown",
+        "parsed_name": "fuse-is-blown"
+    },
+    {
+        "name": "Hi-limit Is Tripping Or Wont Reset",
+        "parsed_name": "hi-limit-is-tripping-or-wont-reset"
+    }
+]

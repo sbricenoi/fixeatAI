@@ -1,0 +1,60 @@
+{
+    "brand": "groen",
+    "model": "tdb-40",
+    "issues": [
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/groen/tdb-40/thermostat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GRZ012313.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen Z012313 Thermostat 100-290F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nZ012313",
+                    "fix_rate": 46.0,
+                    "list_price": "$ 216.38"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GR101542.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen 101542 Thermostat Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n101542",
+                    "fix_rate": 46.0,
+                    "list_price": "$ 317.17"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GRZ002868.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen Z002868 Knob, Thermostat, Off-1-10",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nZ002868",
+                    "fix_rate": 34.0,
+                    "list_price": "$ 32.00"
+                }
+            ]
+        },
+        {
+            "name": "Handle Is Defective",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/groen/tdb-40/handle-is-defective",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GRZ012694.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen Z012694 Handle And Ball Knob Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nZ012694",
+                    "fix_rate": 60.0,
+                    "list_price": "$ 423.33"
+                }
+            ]
+        }
+    ]
+}

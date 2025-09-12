@@ -1,0 +1,40 @@
+{
+    "brand": "cleveland",
+    "model": "c4ed-es-series",
+    "issues": [
+        {
+            "name": "Handle Is Defective",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/cleveland/c4ed-es-series/handle-is-defective",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/COV/COV6066543.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Convotherm 6066543 DOOR HANDLE CONVOTHERM 4",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n6066543",
+                    "fix_rate": 75.0,
+                    "list_price": "$ 152.29"
+                }
+            ]
+        },
+        {
+            "name": "Door Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/cleveland/c4ed-es-series/door-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/COV/COV6066543.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Convotherm 6066543 DOOR HANDLE CONVOTHERM 4",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n6066543",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 152.29"
+                }
+            ]
+        }
+    ]
+}

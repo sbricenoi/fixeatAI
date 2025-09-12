@@ -1,0 +1,30 @@
+{
+    "brand": "vulcan-hart",
+    "model": "900re-series---tf",
+    "issues": [
+        {
+            "name": "Pilot Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/vulcan-hart/900re-series---tf/pilot-is-malfunctioning",
+            "results": []
+        },
+        {
+            "name": "Flame Switch Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/vulcan-hart/900re-series---tf/flame-switch-is-malfunctioning",
+            "results": []
+        },
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/vulcan-hart/900re-series---tf/thermostat-is-malfunctioning",
+            "results": []
+        },
+        {
+            "name": "Burner Is Malfunctioning Or Damaged",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/vulcan-hart/900re-series---tf/burner-is-malfunctioning-or-damaged",
+            "results": []
+        }
+    ]
+}

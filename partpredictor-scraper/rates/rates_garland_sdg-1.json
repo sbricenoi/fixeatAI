@@ -1,0 +1,104 @@
+{
+    "brand": "garland",
+    "model": "sdg-1",
+    "issues": [
+        {
+            "name": "Pilot Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/garland/sdg-1/pilot-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4602647.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4602647 Ignition Module Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4602647",
+                    "fix_rate": 37.0,
+                    "list_price": "$ 274.21"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL1758901.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 1758901 Pilot/Ignitor Assembly, Natural Gas, Electronic Ignition",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1758901",
+                    "fix_rate": 37.0,
+                    "list_price": "$ 96.42"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL1466100.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 1466100 Flame Sensor",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1466100",
+                    "fix_rate": 32.0,
+                    "list_price": "$ 67.21"
+                }
+            ]
+        },
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/garland/sdg-1/thermostat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GLG02902-01.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland G02902-01 Thermostat, T Series Oven",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nG02902-01",
+                    "fix_rate": 64.0,
+                    "list_price": "$ 156.70"
+                }
+            ]
+        },
+        {
+            "name": "Burner Is Malfunctioning Or Damaged",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/garland/sdg-1/burner-is-malfunctioning-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL1466100.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 1466100 Flame Sensor",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1466100",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 67.21"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL1467400.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 1467400 Burner, Steel Tube, Conv Oven",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1467400",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 67.38"
+                }
+            ]
+        },
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/garland/sdg-1/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL1955401.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 1955401 Rocker Switch, DPDT, On/Off/On",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1955401",
+                    "fix_rate": 62.0,
+                    "list_price": "$ 41.62"
+                }
+            ]
+        }
+    ]
+}

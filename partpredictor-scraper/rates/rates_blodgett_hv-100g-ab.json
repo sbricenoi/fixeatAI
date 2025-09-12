@@ -1,0 +1,310 @@
+{
+    "brand": "blodgett",
+    "model": "hv-100g-ab",
+    "issues": [
+        {
+            "name": "Door Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/blodgett/hv-100g-ab/door-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL57953.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 57953 Turnbuckle Assembly, Door",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n57953",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 1,354.08"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL51610.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 51610 Door Gasket, Center Only",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n51610",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 243.36"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL52514.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 52514 Door Switch Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n52514",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 308.88"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL52716.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 52716 Gasket, Perimeter, HV100",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n52716",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 797.68"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL58938.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 58938 Latch Assembly, Receptacle, Bottom",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n58938",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 636.48"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL58939.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 58939 Latch Assembly, Left Hand",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n58939",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 636.48"
+                }
+            ]
+        },
+        {
+            "name": "Fan Motor Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/blodgett/hv-100g-ab/fan-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL58475.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 58475 Digital Speed Control/Inverter Kit, VFD, 120V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n58475",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 1,705.60"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL58476.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 58476 Inverter Drive Kit, Vfd, Analog",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n58476",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 1,638.00"
+                }
+            ]
+        },
+        {
+            "name": "Gasket Is Defective Or Leaking",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/blodgett/hv-100g-ab/gasket-is-defective-or-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL52716.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 52716 Gasket, Perimeter, HV100",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n52716",
+                    "fix_rate": 46.0,
+                    "list_price": "$ 797.68"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL51610.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 51610 Door Gasket, Center Only",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n51610",
+                    "fix_rate": 42.0,
+                    "list_price": "$ 243.36"
+                }
+            ]
+        },
+        {
+            "name": "Motor Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/blodgett/hv-100g-ab/motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL58476.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 58476 Inverter Drive Kit, Vfd, Analog",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n58476",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 1,638.00"
+                }
+            ]
+        },
+        {
+            "name": "Blower Motor Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/blodgett/hv-100g-ab/blower-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL58476.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 58476 Inverter Drive Kit, Vfd, Analog",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n58476",
+                    "fix_rate": 30.0,
+                    "list_price": "$ 1,638.00"
+                }
+            ]
+        },
+        {
+            "name": "Door Switch Is Malfunctioning",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/blodgett/hv-100g-ab/door-switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL52514.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 52514 Door Switch Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n52514",
+                    "fix_rate": 80.0,
+                    "list_price": "$ 308.88"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL57953.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 57953 Turnbuckle Assembly, Door",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n57953",
+                    "fix_rate": 33.0,
+                    "list_price": "$ 1,354.08"
+                }
+            ]
+        },
+        {
+            "name": "Probe Is Malfunctioning",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/blodgett/hv-100g-ab/probe-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL53007.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 53007 Cavity Probe with Fitting",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n53007",
+                    "fix_rate": 73.0,
+                    "list_price": "$ 205.92"
+                }
+            ]
+        },
+        {
+            "name": "Latch Is Damaged Or Not Latching",
+            "idx": 7,
+            "url": "https://www.partstown.com/part-predictor/blodgett/hv-100g-ab/latch-is-damaged-or-not-latching",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL58939.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 58939 Latch Assembly, Left Hand",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n58939",
+                    "fix_rate": 43.0,
+                    "list_price": "$ 636.48"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL58938.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 58938 Latch Assembly, Receptacle, Bottom",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n58938",
+                    "fix_rate": 36.0,
+                    "list_price": "$ 636.48"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL50223.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 50223 Spring, 1\", Extension",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n50223",
+                    "fix_rate": 36.0,
+                    "list_price": "$ 31.20"
+                }
+            ]
+        },
+        {
+            "name": "Ignition Module Is Malfunctioning",
+            "idx": 8,
+            "url": "https://www.partstown.com/part-predictor/blodgett/hv-100g-ab/ignition-module-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL54388.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 54388 Ignition Module, Fenwall HV100G",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n54388",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 370.24"
+                }
+            ]
+        },
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 9,
+            "url": "https://www.partstown.com/part-predictor/blodgett/hv-100g-ab/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL52514.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 52514 Door Switch Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n52514",
+                    "fix_rate": 42.0,
+                    "list_price": "$ 308.88"
+                }
+            ]
+        },
+        {
+            "name": "Relay Board Is Malfunctioning",
+            "idx": 10,
+            "url": "https://www.partstown.com/part-predictor/blodgett/hv-100g-ab/relay-board-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL57727.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 57727 Relay Board, TS TBG-C1922-B10",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n57727",
+                    "fix_rate": 60.0,
+                    "list_price": "$ 1,618.24"
+                }
+            ]
+        },
+        {
+            "name": "Flame Sensor Is Malfunctioning",
+            "idx": 11,
+            "url": "https://www.partstown.com/part-predictor/blodgett/hv-100g-ab/flame-sensor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL38517.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 38517 Spark Electrode, 90 Degree Bend",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n38517",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 29.12"
+                }
+            ]
+        }
+    ]
+}

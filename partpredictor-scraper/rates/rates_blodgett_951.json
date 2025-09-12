@@ -1,0 +1,33 @@
+{
+    "brand": "blodgett",
+    "model": "951",
+    "issues": [
+        {
+            "name": "Pilot Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/blodgett/951/pilot-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL100653.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 100653 Thermocouple",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100653",
+                    "fix_rate": 43.0,
+                    "list_price": "$ 95.68"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL55127.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 55127 Pilot Safety Valve, TS11, 1/4\" Tube Fitting",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n55127",
+                    "fix_rate": 36.0,
+                    "list_price": "$ 561.60"
+                }
+            ]
+        }
+    ]
+}

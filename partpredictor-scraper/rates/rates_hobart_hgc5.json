@@ -1,0 +1,74 @@
+{
+    "brand": "hobart",
+    "model": "hgc5",
+    "issues": [
+        {
+            "name": "Wiring Issue",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/hobart/hgc5/wiring-issue",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-961683-000G1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-961683-000G1 Hi Voltage Wire Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-961683-000G1",
+                    "fix_rate": 47.0,
+                    "list_price": "$ 41.64"
+                }
+            ]
+        },
+        {
+            "name": "Door Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/hobart/hgc5/door-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-343608-00002.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-343608-00002 Door Chain Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-343608-00002",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 123.19"
+                }
+            ]
+        },
+        {
+            "name": "Controller Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/hobart/hgc5/controller-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-913149.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-913149 NCC Temperature Control Kit with Harness",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-913149",
+                    "fix_rate": 45.0,
+                    "list_price": "$ 506.55"
+                }
+            ]
+        },
+        {
+            "name": "Gas Valve Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/hobart/hgc5/gas-valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-497269-00001.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-497269-00001 Gas Valve, Natural Gas, 24V, White Rogers",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-497269-00001",
+                    "fix_rate": 45.0,
+                    "list_price": "$ 185.30"
+                }
+            ]
+        }
+    ]
+}

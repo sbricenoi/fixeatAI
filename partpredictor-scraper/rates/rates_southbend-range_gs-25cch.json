@@ -1,0 +1,23 @@
+{
+    "brand": "southbend-range",
+    "model": "gs-25cch",
+    "issues": [
+        {
+            "name": "Controller Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/southbend-range/gs-25cch/controller-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1180407.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1180407 Control Board, CCH",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1180407",
+                    "fix_rate": 67.0,
+                    "list_price": "$ 1,603.60"
+                }
+            ]
+        }
+    ]
+}

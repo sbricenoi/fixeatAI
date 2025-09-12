@@ -1,0 +1,33 @@
+{
+    "brand": "hobart",
+    "model": "2712",
+    "issues": [
+        {
+            "name": "Blade Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/hobart/2712/blade-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HOB/HOB00-437994.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hobart 00-437994 Spring, Top Cover",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-437994",
+                    "fix_rate": 38.0,
+                    "list_price": "$ 4.47"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HOB/HOB00-875265.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hobart 00-875265 Stud, Locking, Knife Cover",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-875265",
+                    "fix_rate": 31.0,
+                    "list_price": "$ 36.84"
+                }
+            ]
+        }
+    ]
+}

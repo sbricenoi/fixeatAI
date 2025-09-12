@@ -1,0 +1,79 @@
+{
+    "brand": "turbochef",
+    "model": "eco-st",
+    "issues": [
+        {
+            "name": "Fuse Is Blown",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/turbochef/eco-st/fuse-is-blown",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100604.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100604 Fuse, 25 Amp, ATQR25",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100604",
+                    "fix_rate": 59.0,
+                    "list_price": "$ 43.61"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3015.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3015 Magnetron Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3015",
+                    "fix_rate": 30.0,
+                    "list_price": "$ 155.52"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCECS-9156.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef ECS-9156 Waveguide, Insulated",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nECS-9156",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 188.76"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100599.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100599 Fuse, 20 Amp, ATMR, Individual",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100599",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 37.62"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCCON-3039-3.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef CON-3039-3 Relay Board Service Kit, ECO-ST",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nCON-3039-3",
+                    "fix_rate": 19.0
+                }
+            ]
+        },
+        {
+            "name": "Magnetron Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/turbochef/eco-st/magnetron-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3015.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3015 Magnetron Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3015",
+                    "fix_rate": 73.0,
+                    "list_price": "$ 155.52"
+                }
+            ]
+        }
+    ]
+}

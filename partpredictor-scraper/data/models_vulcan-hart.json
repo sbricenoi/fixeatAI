@@ -1,0 +1,490 @@
+[
+    {
+        "name": "1036",
+        "parsed_name": "1036"
+    },
+    {
+        "name": "1036C",
+        "parsed_name": "1036c"
+    },
+    {
+        "name": "1036P",
+        "parsed_name": "1036p"
+    },
+    {
+        "name": "1GR35M",
+        "parsed_name": "1gr35m"
+    },
+    {
+        "name": "1GR45DF",
+        "parsed_name": "1gr45df"
+    },
+    {
+        "name": "1GR45M",
+        "parsed_name": "1gr45m"
+    },
+    {
+        "name": "1GR65AF",
+        "parsed_name": "1gr65af"
+    },
+    {
+        "name": "1GR65C",
+        "parsed_name": "1gr65c"
+    },
+    {
+        "name": "1GR65CF",
+        "parsed_name": "1gr65cf"
+    },
+    {
+        "name": "1GR65D",
+        "parsed_name": "1gr65d"
+    },
+    {
+        "name": "1GR65DF",
+        "parsed_name": "1gr65df"
+    },
+    {
+        "name": "1GR65M",
+        "parsed_name": "1gr65m"
+    },
+    {
+        "name": "1GR85AF",
+        "parsed_name": "1gr85af"
+    },
+    {
+        "name": "1GR85C",
+        "parsed_name": "1gr85c"
+    },
+    {
+        "name": "1GR85CF",
+        "parsed_name": "1gr85cf"
+    },
+    {
+        "name": "1GR85DF",
+        "parsed_name": "1gr85df"
+    },
+    {
+        "name": "1GR85M",
+        "parsed_name": "1gr85m"
+    },
+    {
+        "name": "1VEG35M",
+        "parsed_name": "1veg35m"
+    },
+    {
+        "name": "260L",
+        "parsed_name": "260l"
+    },
+    {
+        "name": "2ER50AF",
+        "parsed_name": "2er50af"
+    },
+    {
+        "name": "2GR45MF",
+        "parsed_name": "2gr45mf"
+    },
+    {
+        "name": "2TR45AF",
+        "parsed_name": "2tr45af"
+    },
+    {
+        "name": "36C",
+        "parsed_name": "36c"
+    },
+    {
+        "name": "36C-2B24GT",
+        "parsed_name": "36c-2b24gt"
+    },
+    {
+        "name": "36C-36GT",
+        "parsed_name": "36c-36gt"
+    },
+    {
+        "name": "36C-6B",
+        "parsed_name": "36c-6b"
+    },
+    {
+        "name": "36IRB",
+        "parsed_name": "36irb"
+    },
+    {
+        "name": "36L",
+        "parsed_name": "36l"
+    },
+    {
+        "name": "36RB",
+        "parsed_name": "36rb"
+    },
+    {
+        "name": "36RRG",
+        "parsed_name": "36rrg"
+    },
+    {
+        "name": "36S",
+        "parsed_name": "36s"
+    },
+    {
+        "name": "36S-36GT",
+        "parsed_name": "36s-36gt"
+    },
+    {
+        "name": "36S-6B",
+        "parsed_name": "36s-6b"
+    },
+    {
+        "name": "3GR45MF",
+        "parsed_name": "3gr45mf"
+    },
+    {
+        "name": "60L",
+        "parsed_name": "60l"
+    },
+    {
+        "name": "60L77R",
+        "parsed_name": "60l77r"
+    },
+    {
+        "name": "60SC-10B",
+        "parsed_name": "60sc-10b"
+    },
+    {
+        "name": "60SC-6B24CB",
+        "parsed_name": "60sc-6b24cb"
+    },
+    {
+        "name": "60SC-6B24GB",
+        "parsed_name": "60sc-6b24gb"
+    },
+    {
+        "name": "60SS-10B",
+        "parsed_name": "60ss-10b"
+    },
+    {
+        "name": "60SS-6B24GT",
+        "parsed_name": "60ss-6b24gt"
+    },
+    {
+        "name": "900A Series-TF",
+        "parsed_name": "900a-series-tf"
+    },
+    {
+        "name": "900RE Series - TF",
+        "parsed_name": "900re-series---tf"
+    },
+    {
+        "name": "900RX",
+        "parsed_name": "900rx"
+    },
+    {
+        "name": "924A",
+        "parsed_name": "924a"
+    },
+    {
+        "name": "948A",
+        "parsed_name": "948a"
+    },
+    {
+        "name": "948RX",
+        "parsed_name": "948rx"
+    },
+    {
+        "name": "972A",
+        "parsed_name": "972a"
+    },
+    {
+        "name": "C24EA3",
+        "parsed_name": "c24ea3"
+    },
+    {
+        "name": "C24EA5",
+        "parsed_name": "c24ea5"
+    },
+    {
+        "name": "C24ET10",
+        "parsed_name": "c24et10"
+    },
+    {
+        "name": "C24GA10",
+        "parsed_name": "c24ga10"
+    },
+    {
+        "name": "C68 Series",
+        "parsed_name": "c68-series"
+    },
+    {
+        "name": "CEF40",
+        "parsed_name": "cef40"
+    },
+    {
+        "name": "CMJ48",
+        "parsed_name": "cmj48"
+    },
+    {
+        "name": "E36L",
+        "parsed_name": "e36l"
+    },
+    {
+        "name": "E60L",
+        "parsed_name": "e60l"
+    },
+    {
+        "name": "ECO2D",
+        "parsed_name": "eco2d"
+    },
+    {
+        "name": "EV Series",
+        "parsed_name": "ev-series"
+    },
+    {
+        "name": "EV36S-2FP2HT",
+        "parsed_name": "ev36s-2fp2ht"
+    },
+    {
+        "name": "EV36S-3HT",
+        "parsed_name": "ev36s-3ht"
+    },
+    {
+        "name": "EV48S-8FP",
+        "parsed_name": "ev48s-8fp"
+    },
+    {
+        "name": "EV48SS",
+        "parsed_name": "ev48ss"
+    },
+    {
+        "name": "EV60S",
+        "parsed_name": "ev60s"
+    },
+    {
+        "name": "EV72S",
+        "parsed_name": "ev72s"
+    },
+    {
+        "name": "EV72SS",
+        "parsed_name": "ev72ss"
+    },
+    {
+        "name": "HEG36E",
+        "parsed_name": "heg36e"
+    },
+    {
+        "name": "LG300",
+        "parsed_name": "lg300"
+    },
+    {
+        "name": "LG400",
+        "parsed_name": "lg400"
+    },
+    {
+        "name": "LG500",
+        "parsed_name": "lg500"
+    },
+    {
+        "name": "MSA36",
+        "parsed_name": "msa36"
+    },
+    {
+        "name": "MSA48",
+        "parsed_name": "msa48"
+    },
+    {
+        "name": "MSA60",
+        "parsed_name": "msa60"
+    },
+    {
+        "name": "SG4D",
+        "parsed_name": "sg4d"
+    },
+    {
+        "name": "SG6D",
+        "parsed_name": "sg6d"
+    },
+    {
+        "name": "SX36",
+        "parsed_name": "sx36"
+    },
+    {
+        "name": "SX60",
+        "parsed_name": "sx60"
+    },
+    {
+        "name": "V36",
+        "parsed_name": "v36"
+    },
+    {
+        "name": "V36F",
+        "parsed_name": "v36f"
+    },
+    {
+        "name": "V4B36S",
+        "parsed_name": "v4b36s"
+    },
+    {
+        "name": "V6B36C",
+        "parsed_name": "v6b36c"
+    },
+    {
+        "name": "V6B36S",
+        "parsed_name": "v6b36s"
+    },
+    {
+        "name": "VACB Series",
+        "parsed_name": "vacb-series"
+    },
+    {
+        "name": "VBP15",
+        "parsed_name": "vbp15"
+    },
+    {
+        "name": "VBP15ES",
+        "parsed_name": "vbp15es"
+    },
+    {
+        "name": "VBP15I",
+        "parsed_name": "vbp15i"
+    },
+    {
+        "name": "VC Series Electric",
+        "parsed_name": "vc-series-electric"
+    },
+    {
+        "name": "VC Series Gas",
+        "parsed_name": "vc-series-gas"
+    },
+    {
+        "name": "VC10FE",
+        "parsed_name": "vc10fe"
+    },
+    {
+        "name": "VC10FEP",
+        "parsed_name": "vc10fep"
+    },
+    {
+        "name": "VC10FGP",
+        "parsed_name": "vc10fgp"
+    },
+    {
+        "name": "VC10HE",
+        "parsed_name": "vc10he"
+    },
+    {
+        "name": "VC10HEP",
+        "parsed_name": "vc10hep"
+    },
+    {
+        "name": "VC10HGP",
+        "parsed_name": "vc10hgp"
+    },
+    {
+        "name": "VC20FE",
+        "parsed_name": "vc20fe"
+    },
+    {
+        "name": "VC20FEP",
+        "parsed_name": "vc20fep"
+    },
+    {
+        "name": "VC20HE",
+        "parsed_name": "vc20he"
+    },
+    {
+        "name": "VC20HEP",
+        "parsed_name": "vc20hep"
+    },
+    {
+        "name": "VC4ED",
+        "parsed_name": "vc4ed"
+    },
+    {
+        "name": "VC4GD",
+        "parsed_name": "vc4gd"
+    },
+    {
+        "name": "VC5E Series",
+        "parsed_name": "vc5e-series"
+    },
+    {
+        "name": "VC5GD-11D1",
+        "parsed_name": "vc5gd-11d1"
+    },
+    {
+        "name": "VCCB Series",
+        "parsed_name": "vccb-series"
+    },
+    {
+        "name": "VCCG Series",
+        "parsed_name": "vccg-series"
+    },
+    {
+        "name": "VCRG Series",
+        "parsed_name": "vcrg-series"
+    },
+    {
+        "name": "VCRG24-M",
+        "parsed_name": "vcrg24-m"
+    },
+    {
+        "name": "VCRG36-M",
+        "parsed_name": "vcrg36-m"
+    },
+    {
+        "name": "VG30",
+        "parsed_name": "vg30"
+    },
+    {
+        "name": "VG40",
+        "parsed_name": "vg40"
+    },
+    {
+        "name": "VG60",
+        "parsed_name": "vg60"
+    },
+    {
+        "name": "VGMT36",
+        "parsed_name": "vgmt36"
+    },
+    {
+        "name": "VGMT36B",
+        "parsed_name": "vgmt36b"
+    },
+    {
+        "name": "VGMT36C",
+        "parsed_name": "vgmt36c"
+    },
+    {
+        "name": "VGMT36S",
+        "parsed_name": "vgmt36s"
+    },
+    {
+        "name": "VHFA18",
+        "parsed_name": "vhfa18"
+    },
+    {
+        "name": "VICM36",
+        "parsed_name": "vicm36"
+    },
+    {
+        "name": "VICM48",
+        "parsed_name": "vicm48"
+    },
+    {
+        "name": "VIR2",
+        "parsed_name": "vir2"
+    },
+    {
+        "name": "VMCS-101",
+        "parsed_name": "vmcs-101"
+    },
+    {
+        "name": "VP18",
+        "parsed_name": "vp18"
+    },
+    {
+        "name": "VTEC36",
+        "parsed_name": "vtec36"
+    },
+    {
+        "name": "WKGD",
+        "parsed_name": "wkgd"
+    }
+]

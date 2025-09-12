@@ -1,0 +1,40 @@
+{
+    "brand": "wells",
+    "model": "mod-100d",
+    "issues": [
+        {
+            "name": "Infinite Switch Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/wells/mod-100d/infinite-switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/WEL/WEL2E-Z21556.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Wells 2E-Z21556 Infinite Switch, 120V, 15A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2E-Z21556",
+                    "fix_rate": 38.0,
+                    "list_price": "$ 50.80"
+                }
+            ]
+        },
+        {
+            "name": "Hi-limit Is Tripping Or Wont Reset",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/wells/mod-100d/hi-limit-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/WEL/WELWS-50398.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Wells WS-50398 Element, 240V, 1200W, Warmer",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nWS-50398",
+                    "fix_rate": 45.0,
+                    "list_price": "$ 90.57"
+                }
+            ]
+        }
+    ]
+}

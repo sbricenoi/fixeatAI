@@ -1,0 +1,23 @@
+{
+    "brand": "vulcan-hart",
+    "model": "36irb",
+    "issues": [
+        {
+            "name": "Burner Is Malfunctioning Or Damaged",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/vulcan-hart/36irb/burner-is-malfunctioning-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-922751.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-922751 Infrared Burner",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-922751",
+                    "fix_rate": 92.0,
+                    "list_price": "$ 647.38"
+                }
+            ]
+        }
+    ]
+}

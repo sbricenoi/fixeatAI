@@ -1,0 +1,40 @@
+{
+    "brand": "antunes",
+    "model": "tw-100",
+    "issues": [
+        {
+            "name": "Thermocouple Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/antunes/tw-100/thermocouple-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7002334.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7002334 Thermocouple, TW-100",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7002334",
+                    "fix_rate": 45.0,
+                    "list_price": "$ 98.00"
+                }
+            ]
+        },
+        {
+            "name": "Wiring Issue",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/antunes/tw-100/wiring-issue",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001142.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001142 Relay Replacement Kit, Solid State",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001142",
+                    "fix_rate": 45.0,
+                    "list_price": "$ 184.00"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,390 @@
+{
+    "brand": "frymaster",
+    "model": "pf50",
+    "issues": [
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/frymaster/pf50/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8071040.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8071040 Toggle Switch, Hesitation, 3PDT",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8071040",
+                    "fix_rate": 83.0,
+                    "list_price": "$ 176.38"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8071041.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8071041 Switch, Toggle, SPDT, On/Off, FWH-1/2",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8071041",
+                    "fix_rate": 23.0,
+                    "list_price": "$ 30.50"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8261712.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8261712 Pump Motor Assembly, 115V, 60HZ, 1PH",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8261712",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 785.93"
+                }
+            ]
+        },
+        {
+            "name": "Filter Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/frymaster/pf50/filter-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8071040.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8071040 Toggle Switch, Hesitation, 3PDT",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8071040",
+                    "fix_rate": 38.0,
+                    "list_price": "$ 176.38"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8261712.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8261712 Pump Motor Assembly, 115V, 60HZ, 1PH",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8261712",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 785.93"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8263191.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8263191 Filter Pump Kit, 4GPM CCW",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8263191",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 571.12"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8071219.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8071219 Receptacle, 120V, 3 Wire",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8071219",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 78.90"
+                }
+            ]
+        },
+        {
+            "name": "Unit Will Not Pump Oil",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/frymaster/pf50/unit-will-not-pump-oil",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8071040.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8071040 Toggle Switch, Hesitation, 3PDT",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8071040",
+                    "fix_rate": 44.0,
+                    "list_price": "$ 176.38"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8261712.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8261712 Pump Motor Assembly, 115V, 60HZ, 1PH",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8261712",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 785.93"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8263191.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8263191 Filter Pump Kit, 4GPM CCW",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8263191",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 571.12"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/frymaster/pf50/unit-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8071040.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8071040 Toggle Switch, Hesitation, 3PDT",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8071040",
+                    "fix_rate": 54.0,
+                    "list_price": "$ 176.38"
+                }
+            ]
+        },
+        {
+            "name": "Motor Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/frymaster/pf50/motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8261712.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8261712 Pump Motor Assembly, 115V, 60HZ, 1PH",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8261712",
+                    "fix_rate": 61.0,
+                    "list_price": "$ 785.93"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8263191.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8263191 Filter Pump Kit, 4GPM CCW",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8263191",
+                    "fix_rate": 39.0,
+                    "list_price": "$ 571.12"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8071040.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8071040 Toggle Switch, Hesitation, 3PDT",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8071040",
+                    "fix_rate": 30.0,
+                    "list_price": "$ 176.38"
+                }
+            ]
+        },
+        {
+            "name": "Hose Is Broken Or Leaking",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/frymaster/pf50/hose-is-broken-or-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8101434.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8101434 Hose Assembly All PF50",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8101434",
+                    "fix_rate": 82.0,
+                    "list_price": "$ 550.58"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8263191.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8263191 Filter Pump Kit, 4GPM CCW",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8263191",
+                    "fix_rate": 23.0,
+                    "list_price": "$ 571.12"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Overheating",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/frymaster/pf50/unit-is-overheating",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8263191.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8263191 Filter Pump Kit, 4GPM CCW",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8263191",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 571.12"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8261712.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8261712 Pump Motor Assembly, 115V, 60HZ, 1PH",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8261712",
+                    "fix_rate": 39.0,
+                    "list_price": "$ 785.93"
+                }
+            ]
+        },
+        {
+            "name": "Filter Pump Is Malfunctioning",
+            "idx": 7,
+            "url": "https://www.partstown.com/part-predictor/frymaster/pf50/filter-pump-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8261712.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8261712 Pump Motor Assembly, 115V, 60HZ, 1PH",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8261712",
+                    "fix_rate": 44.0,
+                    "list_price": "$ 785.93"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8263191.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8263191 Filter Pump Kit, 4GPM CCW",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8263191",
+                    "fix_rate": 38.0,
+                    "list_price": "$ 571.12"
+                }
+            ]
+        },
+        {
+            "name": "Filter Pump Is Tripping",
+            "idx": 8,
+            "url": "https://www.partstown.com/part-predictor/frymaster/pf50/filter-pump-is-tripping",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8261712.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8261712 Pump Motor Assembly, 115V, 60HZ, 1PH",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8261712",
+                    "fix_rate": 40.0,
+                    "list_price": "$ 785.93"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8263191.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8263191 Filter Pump Kit, 4GPM CCW",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8263191",
+                    "fix_rate": 33.0,
+                    "list_price": "$ 571.12"
+                }
+            ]
+        },
+        {
+            "name": "Breaker Is Tripping Or Wont Reset",
+            "idx": 9,
+            "url": "https://www.partstown.com/part-predictor/frymaster/pf50/breaker-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8261712.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8261712 Pump Motor Assembly, 115V, 60HZ, 1PH",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8261712",
+                    "fix_rate": 38.0,
+                    "list_price": "$ 785.93"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8263191.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8263191 Filter Pump Kit, 4GPM CCW",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8263191",
+                    "fix_rate": 38.0,
+                    "list_price": "$ 571.12"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Leaking",
+            "idx": 10,
+            "url": "https://www.partstown.com/part-predictor/frymaster/pf50/unit-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8101434.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8101434 Hose Assembly All PF50",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8101434",
+                    "fix_rate": 64.0,
+                    "list_price": "$ 550.58"
+                }
+            ]
+        },
+        {
+            "name": "Unit Will Not Filter Properly",
+            "idx": 11,
+            "url": "https://www.partstown.com/part-predictor/frymaster/pf50/unit-will-not-filter-properly",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8071040.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8071040 Toggle Switch, Hesitation, 3PDT",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8071040",
+                    "fix_rate": 64.0,
+                    "list_price": "$ 176.38"
+                }
+            ]
+        },
+        {
+            "name": "Wiring Issue",
+            "idx": 12,
+            "url": "https://www.partstown.com/part-predictor/frymaster/pf50/wiring-issue",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8071219.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8071219 Receptacle, 120V, 3 Wire",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8071219",
+                    "fix_rate": 60.0,
+                    "list_price": "$ 78.90"
+                }
+            ]
+        },
+        {
+            "name": "Filter Pump Is Not Starting",
+            "idx": 13,
+            "url": "https://www.partstown.com/part-predictor/frymaster/pf50/filter-pump-is-not-starting",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8261712.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8261712 Pump Motor Assembly, 115V, 60HZ, 1PH",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8261712",
+                    "fix_rate": 62.0,
+                    "list_price": "$ 785.93"
+                }
+            ]
+        },
+        {
+            "name": "Unit Won't Turn On",
+            "idx": 14,
+            "url": "https://www.partstown.com/part-predictor/frymaster/pf50/unit-wont-turn-on",
+            "results": []
+        }
+    ]
+}

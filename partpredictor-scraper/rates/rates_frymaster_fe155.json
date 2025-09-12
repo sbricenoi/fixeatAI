@@ -1,0 +1,135 @@
+{
+    "brand": "frymaster",
+    "model": "fe155",
+    "issues": [
+        {
+            "name": "Contactor Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/frymaster/fe155/contactor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8263417.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8263417 Contactor Kit, 3 Pole, 50A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8263417",
+                    "fix_rate": 70.0,
+                    "list_price": "$ 154.67"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/frymaster/fe155/unit-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM1080435.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 1080435 Solenoid Valve Assembly, 24V, 60Hz, Fe55",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1080435",
+                    "fix_rate": 38.0,
+                    "list_price": "$ 291.64"
+                }
+            ]
+        },
+        {
+            "name": "Controller Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/frymaster/fe155/controller-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM1080274.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 1080274 Controller, Et/C, Bl Fe55 Fv, Chili'S",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1080274",
+                    "fix_rate": 67.0,
+                    "list_price": "$ 1,112.11"
+                }
+            ]
+        },
+        {
+            "name": "Breaker Is Tripping Or Wont Reset",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/frymaster/fe155/breaker-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8263417.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8263417 Contactor Kit, 3 Pole, 50A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8263417",
+                    "fix_rate": 45.0,
+                    "list_price": "$ 154.67"
+                }
+            ]
+        },
+        {
+            "name": "Transformer Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/frymaster/fe155/transformer-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8070680.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8070680 Transformer, Primary 208/240V Secondary 24V, 43Va",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8070680",
+                    "fix_rate": 75.0,
+                    "list_price": "$ 76.89"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8263417.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8263417 Contactor Kit, 3 Pole, 50A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8263417",
+                    "fix_rate": 62.0,
+                    "list_price": "$ 154.67"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Making Noise",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/frymaster/fe155/unit-is-making-noise",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8263417.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8263417 Contactor Kit, 3 Pole, 50A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8263417",
+                    "fix_rate": 62.0,
+                    "list_price": "$ 154.67"
+                }
+            ]
+        },
+        {
+            "name": "Float Is Malfunctioning",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/frymaster/fe155/float-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8262622.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8262622 Float Switch Kit, FE155",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8262622",
+                    "fix_rate": 86.0,
+                    "list_price": "$ 609.18"
+                }
+            ]
+        }
+    ]
+}

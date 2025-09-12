@@ -1,0 +1,40 @@
+{
+    "brand": "alto-shaam",
+    "model": "1200-up",
+    "issues": [
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/alto-shaam/1200-up/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/ALT/ALTSW-34769.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Alto Shaam SW-34769 Black Rocker Switch, 125-277V, 20A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSW-34769",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 37.00"
+                }
+            ]
+        },
+        {
+            "name": "Gasket Is Defective Or Leaking",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/alto-shaam/1200-up/gasket-is-defective-or-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/ALT/ALTGS-23796.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Alto Shaam GS-23796 Door Gasket Assembly, Low Wing",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nGS-23796",
+                    "fix_rate": 83.0,
+                    "list_price": "$ 213.00"
+                }
+            ]
+        }
+    ]
+}

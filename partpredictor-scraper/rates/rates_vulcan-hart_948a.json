@@ -1,0 +1,114 @@
+{
+    "brand": "vulcan-hart",
+    "model": "948a",
+    "issues": [
+        {
+            "name": "Pilot Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/vulcan-hart/948a/pilot-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-412788-00020.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-412788-00020 Thermocouple, 20\", T46",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-412788-00020",
+                    "fix_rate": 23.0,
+                    "list_price": "$ 28.56"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-920041-00011.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-920041-00011 Pilot Burner, Natural Gas, 900 Series",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-920041-00011",
+                    "fix_rate": 23.0,
+                    "list_price": "$ 34.90"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-819297.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-819297 Gas Solenoid Valve, Natural Gas, 120V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-819297",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 200.57"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-913102-00024.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-913102-00024 Gas Safety Valve with Connector, TS11",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-913102-00024",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 187.39"
+                }
+            ]
+        },
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/vulcan-hart/948a/thermostat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-810071.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-810071 Thermostat, Mechanical KX Type",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-810071",
+                    "fix_rate": 87.0,
+                    "list_price": "$ 178.53"
+                }
+            ]
+        },
+        {
+            "name": "Thermocouple Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/vulcan-hart/948a/thermocouple-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-412788-00020.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-412788-00020 Thermocouple, 20\", T46",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-412788-00020",
+                    "fix_rate": 36.0,
+                    "list_price": "$ 28.56"
+                }
+            ]
+        },
+        {
+            "name": "Pilot Safety Valve Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/vulcan-hart/948a/pilot-safety-valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-412788-00020.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-412788-00020 Thermocouple, 20\", T46",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-412788-00020",
+                    "fix_rate": 58.0,
+                    "list_price": "$ 28.56"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-913102-00024.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-913102-00024 Gas Safety Valve with Connector, TS11",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-913102-00024",
+                    "fix_rate": 58.0,
+                    "list_price": "$ 187.39"
+                }
+            ]
+        }
+    ]
+}

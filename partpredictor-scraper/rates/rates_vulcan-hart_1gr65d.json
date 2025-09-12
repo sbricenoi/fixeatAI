@@ -1,0 +1,40 @@
+{
+    "brand": "vulcan-hart",
+    "model": "1gr65d",
+    "issues": [
+        {
+            "name": "Pilot Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/vulcan-hart/1gr65d/pilot-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-410840-00002.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-410840-00002 Hi Limit Thermostat with Stuffing Box",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-410840-00002",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 228.08"
+                }
+            ]
+        },
+        {
+            "name": "Hi-limit Is Tripping Or Wont Reset",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/vulcan-hart/1gr65d/hi-limit-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-410840-00002.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-410840-00002 Hi Limit Thermostat with Stuffing Box",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-410840-00002",
+                    "fix_rate": 75.0,
+                    "list_price": "$ 228.08"
+                }
+            ]
+        }
+    ]
+}

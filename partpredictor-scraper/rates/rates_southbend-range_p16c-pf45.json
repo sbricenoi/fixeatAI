@@ -1,0 +1,33 @@
+{
+    "brand": "southbend-range",
+    "model": "p16c-pf45",
+    "issues": [
+        {
+            "name": "Pilot Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/southbend-range/p16c-pf45/pilot-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1182580.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1182580 Thermocouple, 24\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1182580",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 60.85"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1182154.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1182154 Thermopile",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1182154",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 188.77"
+                }
+            ]
+        }
+    ]
+}

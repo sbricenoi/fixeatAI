@@ -1,0 +1,33 @@
+{
+    "brand": "hatco",
+    "model": "chw-ful",
+    "issues": [
+        {
+            "name": "Relay Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/hatco/chw-ful/relay-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HT/HT02.01.403.00.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hatco 02.01.403.00 Relay, Mini, 120 Volt, SPDT",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n02.01.403.00",
+                    "fix_rate": 75.0,
+                    "list_price": "$ 10.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HT/HT02.16.169.00.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hatco 02.16.169.00 Thermostat, Capilary 2080MM. 150C, HW/CHW Series",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n02.16.169.00",
+                    "fix_rate": 42.0,
+                    "list_price": "$ 27.00"
+                }
+            ]
+        }
+    ]
+}

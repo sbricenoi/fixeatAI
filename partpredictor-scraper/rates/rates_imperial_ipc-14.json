@@ -1,0 +1,84 @@
+{
+    "brand": "imperial",
+    "model": "ipc-14",
+    "issues": [
+        {
+            "name": "Pilot Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/imperial/ipc-14/pilot-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP1096.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 1096 Thermopile, Fryer, TP-75",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1096",
+                    "fix_rate": 31.0,
+                    "list_price": "$ 100.09"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP1173.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 1173 Gas Valve, Natural Gas, Millivolt",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1173",
+                    "fix_rate": 20.0,
+                    "list_price": "$ 437.89"
+                }
+            ]
+        },
+        {
+            "name": "Hi-limit Is Tripping Or Wont Reset",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/imperial/ipc-14/hi-limit-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP32113.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 32113 Hi Limit Thermostat, Ipc",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n32113",
+                    "fix_rate": 45.0,
+                    "list_price": "$ 301.26"
+                }
+            ]
+        },
+        {
+            "name": "Gas Valve Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/imperial/ipc-14/gas-valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP1173.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 1173 Gas Valve, Natural Gas, Millivolt",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1173",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 437.89"
+                }
+            ]
+        },
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/imperial/ipc-14/thermostat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP1175.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 1175 Thermostat, Fryer 400F with 1/4' NPT Stuffing Box",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1175",
+                    "fix_rate": 86.0,
+                    "list_price": "$ 212.69"
+                }
+            ]
+        }
+    ]
+}

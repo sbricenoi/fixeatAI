@@ -1,0 +1,91 @@
+{
+    "brand": "hoshizaki",
+    "model": "km-650mah",
+    "issues": [
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/hoshizaki/km-650mah/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HOS/HOS2A8598G01.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hoshizaki 2A8598G01 Switch Mount, Bin Control",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2A8598G01",
+                    "fix_rate": 67.0,
+                    "list_price": "$ 82.50"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Leaking",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/hoshizaki/km-650mah/unit-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HOS/HOS2A8598G01.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hoshizaki 2A8598G01 Switch Mount, Bin Control",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2A8598G01",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 82.50"
+                }
+            ]
+        },
+        {
+            "name": "Motor Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/hoshizaki/km-650mah/motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HOS/HOSPA0613.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hoshizaki PA0613 Pump Motor Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nPA0613",
+                    "fix_rate": 60.0,
+                    "list_price": "$ 846.00"
+                }
+            ]
+        },
+        {
+            "name": "Float Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/hoshizaki/km-650mah/float-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HOS/HOS4A7077G01.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hoshizaki 4A7077G01 Float Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4A7077G01",
+                    "fix_rate": 64.0,
+                    "list_price": "$ 51.00"
+                }
+            ]
+        },
+        {
+            "name": "Water Inlet Valve Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/hoshizaki/km-650mah/water-inlet-valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HOS/HOS3U0111-02.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hoshizaki 3U0111-02 Solenoid Valve, Water Inlet, 120V, J248-032",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3U0111-02",
+                    "fix_rate": 75.0,
+                    "list_price": "$ 102.50"
+                }
+            ]
+        }
+    ]
+}

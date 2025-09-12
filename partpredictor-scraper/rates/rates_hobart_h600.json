@@ -1,0 +1,70 @@
+{
+    "brand": "hobart",
+    "model": "h600",
+    "issues": [
+        {
+            "name": "Oil Is Leaking",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/hobart/h600/oil-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HOB/HOB00-024651.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hobart 00-024651 Seal, Planetary Oil",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-024651",
+                    "fix_rate": 39.0,
+                    "list_price": "$ 143.37"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HOB/HOB00-067500-00021.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hobart 00-067500-00021 O-Ring, Planetary",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-067500-00021",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 0.63"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HOB/HOB00-102973-00071.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hobart 00-102973-00071 Gear Lubricant, Mobil Ep 460, 128 Oz",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-102973-00071",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 142.25"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Leaking",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/hobart/h600/unit-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HOB/HOB00-024651.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hobart 00-024651 Seal, Planetary Oil",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-024651",
+                    "fix_rate": 40.0,
+                    "list_price": "$ 143.37"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HOB/HOB00-067500-00021.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hobart 00-067500-00021 O-Ring, Planetary",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-067500-00021",
+                    "fix_rate": 33.0,
+                    "list_price": "$ 0.63"
+                }
+            ]
+        }
+    ]
+}

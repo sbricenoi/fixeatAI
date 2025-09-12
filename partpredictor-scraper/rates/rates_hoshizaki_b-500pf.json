@@ -1,0 +1,33 @@
+{
+    "brand": "hoshizaki",
+    "model": "b-500pf",
+    "issues": [
+        {
+            "name": "Burner Baffle Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/hoshizaki/b-500pf/burner-baffle-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HOS/HOS104322-01.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hoshizaki 104322-01 Baffle, Storage Bin, B-250/B-500",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n104322-01",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 129.30"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HOS/HOS415949G12.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hoshizaki 415949G12 Black Thumbscrew",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n415949G12",
+                    "fix_rate": 83.0,
+                    "list_price": "$ 3.80"
+                }
+            ]
+        }
+    ]
+}

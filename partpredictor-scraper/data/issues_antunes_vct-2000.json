@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Switch Is Malfunctioning",
+        "parsed_name": "switch-is-malfunctioning"
+    },
+    {
+        "name": "Motor Is Malfunctioning",
+        "parsed_name": "motor-is-malfunctioning"
+    },
+    {
+        "name": "Belt Is Defective",
+        "parsed_name": "belt-is-defective"
+    },
+    {
+        "name": "Sprocket Is Damaged",
+        "parsed_name": "sprocket-is-damaged"
+    },
+    {
+        "name": "Fan Motor Is Malfunctioning",
+        "parsed_name": "fan-motor-is-malfunctioning"
+    },
+    {
+        "name": "Unit Won't Turn On",
+        "parsed_name": "unit-won't-turn-on"
+    },
+    {
+        "name": "Cooling Fan Is Malfunctioning",
+        "parsed_name": "cooling-fan-is-malfunctioning"
+    },
+    {
+        "name": "Controller Is Malfunctioning",
+        "parsed_name": "controller-is-malfunctioning"
+    },
+    {
+        "name": "Interlock Switch Is Malfunctioning",
+        "parsed_name": "interlock-switch-is-malfunctioning"
+    },
+    {
+        "name": "Unit Is Overheating",
+        "parsed_name": "unit-is-overheating"
+    },
+    {
+        "name": "Motor Is Making Noise",
+        "parsed_name": "motor-is-making-noise"
+    },
+    {
+        "name": "Conveyor Belt Is Malfunctioning",
+        "parsed_name": "conveyor-belt-is-malfunctioning"
+    },
+    {
+        "name": "Wiring Issue",
+        "parsed_name": "wiring-issue"
+    },
+    {
+        "name": "Relay Is Malfunctioning",
+        "parsed_name": "relay-is-malfunctioning"
+    }
+]

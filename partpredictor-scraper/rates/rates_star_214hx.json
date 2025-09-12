@@ -1,0 +1,270 @@
+{
+    "brand": "star",
+    "model": "214hx",
+    "issues": [
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/star/214hx/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2E-200566.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2E-200566 Reset Switch, 190F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2E-200566",
+                    "fix_rate": 20.0,
+                    "list_price": "$ 58.79"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2U-Z11870.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2U-Z11870 Gear Motor with Fan, 208/240V, CW",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2U-Z11870",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 293.18"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2E-200543.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2E-200543 Switch, Toggle, On/Off, DPST",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2E-200543",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 53.70"
+                }
+            ]
+        },
+        {
+            "name": "Hi-limit Is Tripping Or Wont Reset",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/star/214hx/hi-limit-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2E-200566.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2E-200566 Reset Switch, 190F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2E-200566",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 58.79"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2U-200561.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2U-200561 Fan Motor, Axial, 240V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2U-200561",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 155.68"
+                }
+            ]
+        },
+        {
+            "name": "Fan Motor Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/star/214hx/fan-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2U-200561.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2U-200561 Fan Motor, Axial, 240V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2U-200561",
+                    "fix_rate": 43.0,
+                    "list_price": "$ 155.68"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2E-200566.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2E-200566 Reset Switch, 190F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2E-200566",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 58.79"
+                }
+            ]
+        },
+        {
+            "name": "Motor Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/star/214hx/motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2U-Z11870.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2U-Z11870 Gear Motor with Fan, 208/240V, CW",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2U-Z11870",
+                    "fix_rate": 41.0,
+                    "list_price": "$ 293.18"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2U-Z11871.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2U-Z11871 Gear Motor, CCW, 208/240V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2U-Z11871",
+                    "fix_rate": 41.0,
+                    "list_price": "$ 293.10"
+                }
+            ]
+        },
+        {
+            "name": "Contactor Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/star/214hx/contactor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2E-Z8966.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2E-Z8966 Contactor, 2 Pole, 208/240V, 50A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2E-Z8966",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 257.03"
+                }
+            ]
+        },
+        {
+            "name": "Cooling Fan Is Malfunctioning",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/star/214hx/cooling-fan-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2U-200561.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2U-200561 Fan Motor, Axial, 240V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2U-200561",
+                    "fix_rate": 75.0,
+                    "list_price": "$ 155.68"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2E-200566.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2E-200566 Reset Switch, 190F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2E-200566",
+                    "fix_rate": 42.0,
+                    "list_price": "$ 58.79"
+                }
+            ]
+        },
+        {
+            "name": "Speed Control Sensor Is Malfunctioning",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/star/214hx/speed-control-sensor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STAGB-118062.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star GB-118062 Speed Control Switch, 1000 Ohm, Cts/Mini",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nGB-118062",
+                    "fix_rate": 67.0,
+                    "list_price": "$ 217.05"
+                }
+            ]
+        },
+        {
+            "name": "Belt Is Defective",
+            "idx": 7,
+            "url": "https://www.partstown.com/part-predictor/star/214hx/belt-is-defective",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STAGB-160007.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star GB-160007 Conveyor Belt Kit, 14 x 62",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nGB-160007",
+                    "fix_rate": 60.0,
+                    "list_price": "$ 735.59"
+                }
+            ]
+        },
+        {
+            "name": "Relay Is Malfunctioning",
+            "idx": 8,
+            "url": "https://www.partstown.com/part-predictor/star/214hx/relay-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STASP-115339.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star SP-115339 Phase Control Assembly, 208V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSP-115339",
+                    "fix_rate": 78.0,
+                    "list_price": "$ 429.39"
+                }
+            ]
+        },
+        {
+            "name": "Conveyor Motor Is Malfunctioning",
+            "idx": 9,
+            "url": "https://www.partstown.com/part-predictor/star/214hx/conveyor-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2U-Z11870.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2U-Z11870 Gear Motor with Fan, 208/240V, CW",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2U-Z11870",
+                    "fix_rate": 75.0,
+                    "list_price": "$ 293.18"
+                }
+            ]
+        },
+        {
+            "name": "Power Cord Is Malfunctioning",
+            "idx": 10,
+            "url": "https://www.partstown.com/part-predictor/star/214hx/power-cord-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2E-200374.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2E-200374 Power Cord, 12/3, 6-30, T714",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2E-200374",
+                    "fix_rate": 75.0,
+                    "list_price": "$ 96.25"
+                }
+            ]
+        },
+        {
+            "name": "Fan Switch Is Malfunctioning",
+            "idx": 11,
+            "url": "https://www.partstown.com/part-predictor/star/214hx/fan-switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2E-200574.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2E-200574 Fan Switch/Disk, Ceramic",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2E-200574",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 58.22"
+                }
+            ]
+        }
+    ]
+}

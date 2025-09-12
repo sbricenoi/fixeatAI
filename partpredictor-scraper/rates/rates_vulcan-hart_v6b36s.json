@@ -1,0 +1,141 @@
+{
+    "brand": "vulcan-hart",
+    "model": "v6b36s",
+    "issues": [
+        {
+            "name": "Pilot Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/vulcan-hart/v6b36s/pilot-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-412788-00048.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-412788-00048 Thermocouple, T46, 48\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-412788-00048",
+                    "fix_rate": 45.0,
+                    "list_price": "$ 40.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-962067-0KIT1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-962067-0KIT1 Safety Valve Service Kit, Hd Ranges",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-962067-0KIT1",
+                    "fix_rate": 34.0,
+                    "list_price": "$ 637.35"
+                }
+            ]
+        },
+        {
+            "name": "Thermocouple Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/vulcan-hart/v6b36s/thermocouple-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-412788-00048.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-412788-00048 Thermocouple, T46, 48\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-412788-00048",
+                    "fix_rate": 40.0,
+                    "list_price": "$ 40.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-962067-0KIT1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-962067-0KIT1 Safety Valve Service Kit, Hd Ranges",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-962067-0KIT1",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 637.35"
+                }
+            ]
+        },
+        {
+            "name": "Valve Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/vulcan-hart/v6b36s/valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-957367-00001.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-957367-00001 Valve, Burner",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-957367-00001",
+                    "fix_rate": 33.0,
+                    "list_price": "$ 69.09"
+                }
+            ]
+        },
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/vulcan-hart/v6b36s/thermostat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-407522-00007.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-407522-00007 Thermostat, FDO, 550F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-407522-00007",
+                    "fix_rate": 57.0,
+                    "list_price": "$ 368.56"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-412788-00048.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-412788-00048 Thermocouple, T46, 48\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-412788-00048",
+                    "fix_rate": 36.0,
+                    "list_price": "$ 40.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-962067-0KIT1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-962067-0KIT1 Safety Valve Service Kit, Hd Ranges",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-962067-0KIT1",
+                    "fix_rate": 36.0,
+                    "list_price": "$ 637.35"
+                }
+            ]
+        },
+        {
+            "name": "Pilot Safety Valve Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/vulcan-hart/v6b36s/pilot-safety-valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-962067-0KIT1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-962067-0KIT1 Safety Valve Service Kit, Hd Ranges",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-962067-0KIT1",
+                    "fix_rate": 82.0,
+                    "list_price": "$ 637.35"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-412788-00048.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-412788-00048 Thermocouple, T46, 48\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-412788-00048",
+                    "fix_rate": 55.0,
+                    "list_price": "$ 40.00"
+                }
+            ]
+        }
+    ]
+}

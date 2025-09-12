@@ -1,0 +1,23 @@
+{
+    "brand": "imperial",
+    "model": "iheg-72-j-cs-nat",
+    "issues": [
+        {
+            "name": "Controller Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/imperial/iheg-72-j-cs-nat/controller-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP39828-2.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 39828-2 Digital Controller, Griddle, IHEG-J",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n39828-2",
+                    "fix_rate": 56.0,
+                    "list_price": "$ 809.56"
+                }
+            ]
+        }
+    ]
+}

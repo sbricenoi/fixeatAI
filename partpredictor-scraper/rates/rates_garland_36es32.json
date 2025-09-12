@@ -1,0 +1,23 @@
+{
+    "brand": "garland",
+    "model": "36es32",
+    "issues": [
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/garland/36es32/thermostat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL1010304.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 1010304 Control Thermostat, 2 Pole, 700F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1010304",
+                    "fix_rate": 83.0,
+                    "list_price": "$ 426.27"
+                }
+            ]
+        }
+    ]
+}

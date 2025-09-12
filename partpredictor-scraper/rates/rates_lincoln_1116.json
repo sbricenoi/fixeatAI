@@ -1,0 +1,74 @@
+{
+    "brand": "lincoln",
+    "model": "1116",
+    "issues": [
+        {
+            "name": "Fan Motor Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/lincoln/1116/fan-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369124.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369124 Cooling Fan, Axial, 100-125VAC, 50/60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369124",
+                    "fix_rate": 71.0,
+                    "list_price": "$ 133.93"
+                }
+            ]
+        },
+        {
+            "name": "Cooling Fan Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/lincoln/1116/cooling-fan-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369124.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369124 Cooling Fan, Axial, 100-125VAC, 50/60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369124",
+                    "fix_rate": 70.0,
+                    "list_price": "$ 133.93"
+                }
+            ]
+        },
+        {
+            "name": "Hi-limit Is Tripping Or Wont Reset",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/lincoln/1116/hi-limit-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN357067.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 357067 High Limit Thermostat, Oven Cavity",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n357067",
+                    "fix_rate": 60.0,
+                    "list_price": "$ 135.92"
+                }
+            ]
+        },
+        {
+            "name": "Valve Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/lincoln/1116/valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369398.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369398 Gas Valve , Basotrol, 120V, 60HZ, Natural Gas, Propane",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369398",
+                    "fix_rate": 86.0,
+                    "list_price": "$ 213.55"
+                }
+            ]
+        }
+    ]
+}

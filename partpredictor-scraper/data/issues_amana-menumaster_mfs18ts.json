@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Fuse Is Blown",
+        "parsed_name": "fuse-is-blown"
+    },
+    {
+        "name": "Magnetron Is Malfunctioning",
+        "parsed_name": "magnetron-is-malfunctioning"
+    },
+    {
+        "name": "Door Is Malfunctioning",
+        "parsed_name": "door-is-malfunctioning"
+    },
+    {
+        "name": "Interlock Switch Is Malfunctioning",
+        "parsed_name": "interlock-switch-is-malfunctioning"
+    }
+]

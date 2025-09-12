@@ -1,0 +1,70 @@
+{
+    "brand": "star",
+    "model": "630ff",
+    "issues": [
+        {
+            "name": "Pilot Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/star/630ff/pilot-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2T-Y9266.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2T-Y9266 Hi Limit/Safety Thermostat, Manual Reset",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2T-Y9266",
+                    "fix_rate": 44.0,
+                    "list_price": "$ 240.74"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2J-Y9270.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2J-Y9270 Thermopile With Forked Connector",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2J-Y9270",
+                    "fix_rate": 31.0,
+                    "list_price": "$ 189.13"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2T-Z6007.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2T-Z6007 Thermostat, 200-375F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2T-Z6007",
+                    "fix_rate": 31.0,
+                    "list_price": "$ 243.72"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2J-Z23118.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2J-Z23118 Gas Valve, Millivolt, Natural, 3.5\" WC",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2J-Z23118",
+                    "fix_rate": 31.0,
+                    "list_price": "$ 424.45"
+                }
+            ]
+        },
+        {
+            "name": "Thermopile Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/star/630ff/thermopile-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2J-Y9270.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2J-Y9270 Thermopile With Forked Connector",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2J-Y9270",
+                    "fix_rate": 71.0,
+                    "list_price": "$ 189.13"
+                }
+            ]
+        }
+    ]
+}

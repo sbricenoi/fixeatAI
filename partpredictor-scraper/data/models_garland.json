@@ -1,0 +1,310 @@
+[
+    {
+        "name": "36ES32",
+        "parsed_name": "36es32"
+    },
+    {
+        "name": "C2100M",
+        "parsed_name": "c2100m"
+    },
+    {
+        "name": "C836 Series",
+        "parsed_name": "c836-series"
+    },
+    {
+        "name": "C836-10",
+        "parsed_name": "c836-10"
+    },
+    {
+        "name": "C836-6",
+        "parsed_name": "c836-6"
+    },
+    {
+        "name": "CG-48F",
+        "parsed_name": "cg-48f"
+    },
+    {
+        "name": "CG-48R",
+        "parsed_name": "cg-48r"
+    },
+    {
+        "name": "CG-60F",
+        "parsed_name": "cg-60f"
+    },
+    {
+        "name": "CG-72F",
+        "parsed_name": "cg-72f"
+    },
+    {
+        "name": "CXBE12",
+        "parsed_name": "cxbe12"
+    },
+    {
+        "name": "CXPB12",
+        "parsed_name": "cxpb12"
+    },
+    {
+        "name": "ED-24G",
+        "parsed_name": "ed-24g"
+    },
+    {
+        "name": "G Series",
+        "parsed_name": "g-series"
+    },
+    {
+        "name": "G36",
+        "parsed_name": "g36"
+    },
+    {
+        "name": "G36-6C",
+        "parsed_name": "g36-6c"
+    },
+    {
+        "name": "G36-6R",
+        "parsed_name": "g36-6r"
+    },
+    {
+        "name": "G56-PT",
+        "parsed_name": "g56-pt"
+    },
+    {
+        "name": "G60-10CC",
+        "parsed_name": "g60-10cc"
+    },
+    {
+        "name": "G60-10CR",
+        "parsed_name": "g60-10cr"
+    },
+    {
+        "name": "G60-10RR",
+        "parsed_name": "g60-10rr"
+    },
+    {
+        "name": "G60-6R24CC",
+        "parsed_name": "g60-6r24cc"
+    },
+    {
+        "name": "G60-6R24CR",
+        "parsed_name": "g60-6r24cr"
+    },
+    {
+        "name": "G60-6R24RR",
+        "parsed_name": "g60-6r24rr"
+    },
+    {
+        "name": "GTGG24-GT24M",
+        "parsed_name": "gtgg24-gt24m"
+    },
+    {
+        "name": "GTGG36-GT36M",
+        "parsed_name": "gtgg36-gt36m"
+    },
+    {
+        "name": "GTGG48-GT48M",
+        "parsed_name": "gtgg48-gt48m"
+    },
+    {
+        "name": "GTGG60-GT60M",
+        "parsed_name": "gtgg60-gt60m"
+    },
+    {
+        "name": "H280",
+        "parsed_name": "h280"
+    },
+    {
+        "name": "IRCMA-48",
+        "parsed_name": "ircma-48"
+    },
+    {
+        "name": "M100XRM",
+        "parsed_name": "m100xrm"
+    },
+    {
+        "name": "M2R",
+        "parsed_name": "m2r"
+    },
+    {
+        "name": "M43R",
+        "parsed_name": "m43r"
+    },
+    {
+        "name": "M43RC",
+        "parsed_name": "m43rc"
+    },
+    {
+        "name": "M44R",
+        "parsed_name": "m44r"
+    },
+    {
+        "name": "M48RC",
+        "parsed_name": "m48rc"
+    },
+    {
+        "name": "MCO-ES-10-S",
+        "parsed_name": "mco-es-10-s"
+    },
+    {
+        "name": "MCO-GD-10-S",
+        "parsed_name": "mco-gd-10-s"
+    },
+    {
+        "name": "MCO-GS-10",
+        "parsed_name": "mco-gs-10"
+    },
+    {
+        "name": "MCO-GS-10-S",
+        "parsed_name": "mco-gs-10-s"
+    },
+    {
+        "name": "MCO-GS-10CE",
+        "parsed_name": "mco-gs-10ce"
+    },
+    {
+        "name": "MCOE5LDSMD",
+        "parsed_name": "mcoe5ldsmd"
+    },
+    {
+        "name": "ME-2P",
+        "parsed_name": "me-2p"
+    },
+    {
+        "name": "ME-3PX Electric",
+        "parsed_name": "me-3px-electric"
+    },
+    {
+        "name": "MG-3PX",
+        "parsed_name": "mg-3px"
+    },
+    {
+        "name": "MIR-34L",
+        "parsed_name": "mir-34l"
+    },
+    {
+        "name": "MWE-9501",
+        "parsed_name": "mwe-9501"
+    },
+    {
+        "name": "MWE2W-1",
+        "parsed_name": "mwe2w-1"
+    },
+    {
+        "name": "MWE3W",
+        "parsed_name": "mwe3w"
+    },
+    {
+        "name": "MWE3W-1",
+        "parsed_name": "mwe3w-1"
+    },
+    {
+        "name": "MWG-9501",
+        "parsed_name": "mwg-9501"
+    },
+    {
+        "name": "MWG2W-1",
+        "parsed_name": "mwg2w-1"
+    },
+    {
+        "name": "MWG3W",
+        "parsed_name": "mwg3w"
+    },
+    {
+        "name": "MWG3W-1",
+        "parsed_name": "mwg3w-1"
+    },
+    {
+        "name": "S-6-26",
+        "parsed_name": "s-6-26"
+    },
+    {
+        "name": "SCO-GS-10S",
+        "parsed_name": "sco-gs-10s"
+    },
+    {
+        "name": "SDG-1",
+        "parsed_name": "sdg-1"
+    },
+    {
+        "name": "SS686",
+        "parsed_name": "ss686"
+    },
+    {
+        "name": "SUMG-100",
+        "parsed_name": "sumg-100"
+    },
+    {
+        "name": "SX-24G-6-2626",
+        "parsed_name": "sx-24g-6-2626"
+    },
+    {
+        "name": "SX-6-26",
+        "parsed_name": "sx-6-26"
+    },
+    {
+        "name": "U36-6C",
+        "parsed_name": "u36-6c"
+    },
+    {
+        "name": "U36-6R",
+        "parsed_name": "u36-6r"
+    },
+    {
+        "name": "U36-6S",
+        "parsed_name": "u36-6s"
+    },
+    {
+        "name": "U60-10RR",
+        "parsed_name": "u60-10rr"
+    },
+    {
+        "name": "U60-6G24RR",
+        "parsed_name": "u60-6g24rr"
+    },
+    {
+        "name": "U60-6R24CC",
+        "parsed_name": "u60-6r24cc"
+    },
+    {
+        "name": "U60-8G12RR",
+        "parsed_name": "u60-8g12rr"
+    },
+    {
+        "name": "UIR36",
+        "parsed_name": "uir36"
+    },
+    {
+        "name": "X24-4L",
+        "parsed_name": "x24-4l"
+    },
+    {
+        "name": "X36-6R",
+        "parsed_name": "x36-6r"
+    },
+    {
+        "name": "X60-10RR",
+        "parsed_name": "x60-10rr"
+    },
+    {
+        "name": "X60-6G24RR",
+        "parsed_name": "x60-6g24rr"
+    },
+    {
+        "name": "X60-6R24RR",
+        "parsed_name": "x60-6r24rr"
+    },
+    {
+        "name": "XPE24AC",
+        "parsed_name": "xpe24ac"
+    },
+    {
+        "name": "XPE36",
+        "parsed_name": "xpe36"
+    },
+    {
+        "name": "XPE36AC",
+        "parsed_name": "xpe36ac"
+    },
+    {
+        "name": "XPG36",
+        "parsed_name": "xpg36"
+    }
+]

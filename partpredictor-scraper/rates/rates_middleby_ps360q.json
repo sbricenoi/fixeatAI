@@ -1,0 +1,23 @@
+{
+    "brand": "middleby",
+    "model": "ps360q",
+    "issues": [
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/middleby/ps360q/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/MD/MD78159.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Middleby 78159 Switch Kit with Contact Blocks",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n78159",
+                    "fix_rate": 86.0,
+                    "list_price": "$ 281.37"
+                }
+            ]
+        }
+    ]
+}

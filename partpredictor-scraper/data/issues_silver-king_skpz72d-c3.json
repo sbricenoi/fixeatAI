@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Unit Is Not Reaching Set Temperature",
+        "parsed_name": "unit-is-not-reaching-set-temperature"
+    },
+    {
+        "name": "Unit Is Leaking",
+        "parsed_name": "unit-is-leaking"
+    },
+    {
+        "name": "Controller Is Malfunctioning",
+        "parsed_name": "controller-is-malfunctioning"
+    },
+    {
+        "name": "Probe Is Malfunctioning",
+        "parsed_name": "probe-is-malfunctioning"
+    },
+    {
+        "name": "Refrigerant Is Leaking",
+        "parsed_name": "refrigerant-is-leaking"
+    },
+    {
+        "name": "Drain Pan Is Damaged",
+        "parsed_name": "drain-pan-is-damaged"
+    }
+]

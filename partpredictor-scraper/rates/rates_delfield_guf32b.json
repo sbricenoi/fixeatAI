@@ -1,0 +1,23 @@
+{
+    "brand": "delfield",
+    "model": "guf32b",
+    "issues": [
+        {
+            "name": "Controller Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/delfield/guf32b/controller-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL000-CZ0-0270-S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 000-CZ0-0270-S Digital Controller, Freezer, Undercounter",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n000-CZ0-0270-S",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 169.76"
+                }
+            ]
+        }
+    ]
+}

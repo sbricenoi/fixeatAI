@@ -1,0 +1,104 @@
+{
+    "brand": "henny-penny",
+    "model": "ahc-993",
+    "issues": [
+        {
+            "name": "Heating Element Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/ahc-993/heating-element-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN63831.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 63831 Hi Limit, Water Pan",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n63831",
+                    "fix_rate": 70.0,
+                    "list_price": "$ 54.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN40645.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 40645 Solid State Relay 25A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n40645",
+                    "fix_rate": 45.0,
+                    "list_price": "$ 76.20"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN140170.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 140170 Water Pan Heater Complete Kit, 120V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n140170",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 591.90"
+                }
+            ]
+        },
+        {
+            "name": "Hi-limit Is Tripping Or Wont Reset",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/ahc-993/hi-limit-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN63831.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 63831 Hi Limit, Water Pan",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n63831",
+                    "fix_rate": 53.0,
+                    "list_price": "$ 54.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN40645.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 40645 Solid State Relay 25A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n40645",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 76.20"
+                }
+            ]
+        },
+        {
+            "name": "Blower Motor Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/ahc-993/blower-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN63363.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 63363 Blower Motor, 120V, 50/60Hz",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n63363",
+                    "fix_rate": 67.0,
+                    "list_price": "$ 106.30"
+                }
+            ]
+        },
+        {
+            "name": "Relay Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/ahc-993/relay-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN40645.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 40645 Solid State Relay 25A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n40645",
+                    "fix_rate": 80.0,
+                    "list_price": "$ 76.20"
+                }
+            ]
+        }
+    ]
+}

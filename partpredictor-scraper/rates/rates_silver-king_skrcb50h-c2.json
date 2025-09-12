@@ -1,0 +1,23 @@
+{
+    "brand": "silver-king",
+    "model": "skrcb50h-c2",
+    "issues": [
+        {
+            "name": "Breaker Is Tripping Or Wont Reset",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/silver-king/skrcb50h-c2/breaker-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SVK/SVK37736.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Silver King 37736 Fan Motor, Axial, 115V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n37736",
+                    "fix_rate": 71.0,
+                    "list_price": "$ 96.97"
+                }
+            ]
+        }
+    ]
+}

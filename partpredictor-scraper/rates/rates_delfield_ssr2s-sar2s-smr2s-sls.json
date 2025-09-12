@@ -1,0 +1,23 @@
+{
+    "brand": "delfield",
+    "model": "ssr2s-sar2s-smr2s-sls",
+    "issues": [
+        {
+            "name": "Display Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/delfield/ssr2s-sar2s-smr2s-sls/display-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2194792.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2194792 Digital Display, Blue, Danfoss",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2194792",
+                    "fix_rate": 83.0,
+                    "list_price": "$ 198.99"
+                }
+            ]
+        }
+    ]
+}

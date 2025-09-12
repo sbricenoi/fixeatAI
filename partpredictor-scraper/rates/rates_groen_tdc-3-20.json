@@ -1,0 +1,23 @@
+{
+    "brand": "groen",
+    "model": "tdc-3-20",
+    "issues": [
+        {
+            "name": "Unit Is Leaking",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/groen/tdc-3-20/unit-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GR/GRZ002033.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Groen Z002033 Packing Ring, Set of 8",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nZ002033",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 98.42"
+                }
+            ]
+        }
+    ]
+}

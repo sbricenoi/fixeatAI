@@ -1,0 +1,22 @@
+{
+    "brand": "delfield",
+    "model": "6025xl-sh-md1",
+    "issues": [
+        {
+            "name": "Unit Is Not Reaching Set Temperature",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/delfield/6025xl-sh-md1/unit-is-not-reaching-set-temperature",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2194811KT-S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2194811KT-S Temperature Control Kit with Probes, 115V, Danfoss",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2194811KT-S",
+                    "fix_rate": 26.0
+                }
+            ]
+        }
+    ]
+}

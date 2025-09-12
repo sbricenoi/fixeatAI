@@ -1,0 +1,33 @@
+{
+    "brand": "hobart",
+    "model": "clps86e",
+    "issues": [
+        {
+            "name": "Unit Is Leaking",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/hobart/clps86e/unit-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HOB/HOB00-067500-00057.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hobart 00-067500-00057 O-Ring, Wash Feed Tube",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-067500-00057",
+                    "fix_rate": 39.0,
+                    "list_price": "$ 2.51"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HOB/HOB00-067500-00120.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hobart 00-067500-00120 O-Ring, Overflow Tube",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-067500-00120",
+                    "fix_rate": 28.0,
+                    "list_price": "$ 5.75"
+                }
+            ]
+        }
+    ]
+}

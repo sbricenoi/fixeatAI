@@ -1,0 +1,531 @@
+{
+    "brand": "imperial",
+    "model": "ifs-40",
+    "issues": [
+        {
+            "name": "Pilot Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/imperial/ifs-40/pilot-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP1096.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 1096 Thermopile, Fryer, TP-75",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1096",
+                    "fix_rate": 36.0,
+                    "list_price": "$ 100.09"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP1177.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 1177 Hi Limit Thermostat, 450F, Auto Reset, Fryer",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1177",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 262.72"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP1173.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 1173 Gas Valve, Natural Gas, Millivolt",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1173",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 437.89"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP1175.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 1175 Thermostat, Fryer 400F with 1/4' NPT Stuffing Box",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1175",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 212.69"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/imperial/ifs-40/unit-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP1175.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 1175 Thermostat, Fryer 400F with 1/4' NPT Stuffing Box",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1175",
+                    "fix_rate": 27.0,
+                    "list_price": "$ 212.69"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP1177.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 1177 Hi Limit Thermostat, 450F, Auto Reset, Fryer",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1177",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 262.72"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP1096.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 1096 Thermopile, Fryer, TP-75",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1096",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 100.09"
+                }
+            ]
+        },
+        {
+            "name": "Hi-limit Is Tripping Or Wont Reset",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/imperial/ifs-40/hi-limit-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP1177.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 1177 Hi Limit Thermostat, 450F, Auto Reset, Fryer",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1177",
+                    "fix_rate": 59.0,
+                    "list_price": "$ 262.72"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP1175.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 1175 Thermostat, Fryer 400F with 1/4' NPT Stuffing Box",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1175",
+                    "fix_rate": 35.0,
+                    "list_price": "$ 212.69"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP1096.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 1096 Thermopile, Fryer, TP-75",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1096",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 100.09"
+                }
+            ]
+        },
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/imperial/ifs-40/thermostat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP1175.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 1175 Thermostat, Fryer 400F with 1/4' NPT Stuffing Box",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1175",
+                    "fix_rate": 54.0,
+                    "list_price": "$ 212.69"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP1177.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 1177 Hi Limit Thermostat, 450F, Auto Reset, Fryer",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1177",
+                    "fix_rate": 32.0,
+                    "list_price": "$ 262.72"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP38010.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 38010 Thermostat, 60\" Capilary, Ifse-75",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n38010",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 281.67"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Leaking",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/imperial/ifs-40/unit-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP28005.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 28005 Vessel Assembly, Ifs-40",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n28005",
+                    "fix_rate": 52.0,
+                    "list_price": "$ 1,156.96"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP1175.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 1175 Thermostat, Fryer 400F with 1/4' NPT Stuffing Box",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1175",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 212.69"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP1177.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 1177 Hi Limit Thermostat, 450F, Auto Reset, Fryer",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1177",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 262.72"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP1173.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 1173 Gas Valve, Natural Gas, Millivolt",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1173",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 437.89"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP1623.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 1623 Drain Valve With Handle",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1623",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 253.07"
+                }
+            ]
+        },
+        {
+            "name": "Thermopile Is Malfunctioning",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/imperial/ifs-40/thermopile-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP1096.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 1096 Thermopile, Fryer, TP-75",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1096",
+                    "fix_rate": 55.0,
+                    "list_price": "$ 100.09"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP1173.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 1173 Gas Valve, Natural Gas, Millivolt",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1173",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 437.89"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Not Lighting",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/imperial/ifs-40/unit-is-not-lighting",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP1177.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 1177 Hi Limit Thermostat, 450F, Auto Reset, Fryer",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1177",
+                    "fix_rate": 33.0,
+                    "list_price": "$ 262.72"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP1096.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 1096 Thermopile, Fryer, TP-75",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1096",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 100.09"
+                }
+            ]
+        },
+        {
+            "name": "Oil Is Leaking",
+            "idx": 7,
+            "url": "https://www.partstown.com/part-predictor/imperial/ifs-40/oil-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP28005.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 28005 Vessel Assembly, Ifs-40",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n28005",
+                    "fix_rate": 60.0,
+                    "list_price": "$ 1,156.96"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP1175.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 1175 Thermostat, Fryer 400F with 1/4' NPT Stuffing Box",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1175",
+                    "fix_rate": 20.0,
+                    "list_price": "$ 212.69"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP1177.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 1177 Hi Limit Thermostat, 450F, Auto Reset, Fryer",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1177",
+                    "fix_rate": 20.0,
+                    "list_price": "$ 262.72"
+                }
+            ]
+        },
+        {
+            "name": "Vat Is Leaking",
+            "idx": 8,
+            "url": "https://www.partstown.com/part-predictor/imperial/ifs-40/vat-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP28005.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 28005 Vessel Assembly, Ifs-40",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n28005",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 1,156.96"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP1175.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 1175 Thermostat, Fryer 400F with 1/4' NPT Stuffing Box",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1175",
+                    "fix_rate": 20.0,
+                    "list_price": "$ 212.69"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP1177.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 1177 Hi Limit Thermostat, 450F, Auto Reset, Fryer",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1177",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 262.72"
+                }
+            ]
+        },
+        {
+            "name": "Gas Valve Is Malfunctioning",
+            "idx": 9,
+            "url": "https://www.partstown.com/part-predictor/imperial/ifs-40/gas-valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP1173.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 1173 Gas Valve, Natural Gas, Millivolt",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1173",
+                    "fix_rate": 62.0,
+                    "list_price": "$ 437.89"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP1096.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 1096 Thermopile, Fryer, TP-75",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1096",
+                    "fix_rate": 42.0,
+                    "list_price": "$ 100.09"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP1175.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 1175 Thermostat, Fryer 400F with 1/4' NPT Stuffing Box",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1175",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 212.69"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP1177.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 1177 Hi Limit Thermostat, 450F, Auto Reset, Fryer",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1177",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 262.72"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Overheating",
+            "idx": 10,
+            "url": "https://www.partstown.com/part-predictor/imperial/ifs-40/unit-is-overheating",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP1175.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 1175 Thermostat, Fryer 400F with 1/4' NPT Stuffing Box",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1175",
+                    "fix_rate": 43.0,
+                    "list_price": "$ 212.69"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Shutting Down",
+            "idx": 11,
+            "url": "https://www.partstown.com/part-predictor/imperial/ifs-40/unit-is-shutting-down",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP1175.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 1175 Thermostat, Fryer 400F with 1/4' NPT Stuffing Box",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1175",
+                    "fix_rate": 47.0,
+                    "list_price": "$ 212.69"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP1177.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 1177 Hi Limit Thermostat, 450F, Auto Reset, Fryer",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1177",
+                    "fix_rate": 32.0,
+                    "list_price": "$ 262.72"
+                }
+            ]
+        },
+        {
+            "name": "Valve Is Malfunctioning",
+            "idx": 12,
+            "url": "https://www.partstown.com/part-predictor/imperial/ifs-40/valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP1173.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 1173 Gas Valve, Natural Gas, Millivolt",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1173",
+                    "fix_rate": 38.0,
+                    "list_price": "$ 437.89"
+                }
+            ]
+        },
+        {
+            "name": "Thermocouple Is Malfunctioning",
+            "idx": 13,
+            "url": "https://www.partstown.com/part-predictor/imperial/ifs-40/thermocouple-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP1096.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 1096 Thermopile, Fryer, TP-75",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1096",
+                    "fix_rate": 83.0,
+                    "list_price": "$ 100.09"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Not Reaching Set Temperature",
+            "idx": 14,
+            "url": "https://www.partstown.com/part-predictor/imperial/ifs-40/unit-is-not-reaching-set-temperature",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP1175.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 1175 Thermostat, Fryer 400F with 1/4' NPT Stuffing Box",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1175",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 212.69"
+                }
+            ]
+        },
+        {
+            "name": "Burner Won't Stay Lit",
+            "idx": 15,
+            "url": "https://www.partstown.com/part-predictor/imperial/ifs-40/burner-wont-stay-lit",
+            "results": []
+        },
+        {
+            "name": "Fire Coming Out Of Unit",
+            "idx": 16,
+            "url": "https://www.partstown.com/part-predictor/imperial/ifs-40/fire-coming-out-of-unit",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP1175.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 1175 Thermostat, Fryer 400F with 1/4' NPT Stuffing Box",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1175",
+                    "fix_rate": 62.0,
+                    "list_price": "$ 212.69"
+                }
+            ]
+        },
+        {
+            "name": "Burner Is Leaking",
+            "idx": 17,
+            "url": "https://www.partstown.com/part-predictor/imperial/ifs-40/burner-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP28005.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 28005 Vessel Assembly, Ifs-40",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n28005",
+                    "fix_rate": 71.0,
+                    "list_price": "$ 1,156.96"
+                }
+            ]
+        }
+    ]
+}

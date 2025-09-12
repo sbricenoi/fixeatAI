@@ -1,0 +1,284 @@
+{
+    "brand": "henny-penny",
+    "model": "pfg-690",
+    "issues": [
+        {
+            "name": "Unit Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pfg-690/unit-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN16738.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 16738 Hi Limit Thermostat, 450F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n16738",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 175.40"
+                }
+            ]
+        },
+        {
+            "name": "Unit Will Not Pump Oil",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pfg-690/unit-will-not-pump-oil",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN67583.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 67583 Filter Pump Motor, 1/2HP",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n67583",
+                    "fix_rate": 31.0,
+                    "list_price": "$ 931.80"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN17476.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 17476 Seal Kit, Pump, Mechanical, Viton",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n17476",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 71.20"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN171168.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 171168 Filter Pump Assembly, 5GPM",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n171168",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 558.50"
+                }
+            ]
+        },
+        {
+            "name": "Hi-limit Is Tripping Or Wont Reset",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pfg-690/hi-limit-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN16738.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 16738 Hi Limit Thermostat, 450F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n16738",
+                    "fix_rate": 59.0,
+                    "list_price": "$ 175.40"
+                }
+            ]
+        },
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pfg-690/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN29898.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 29898 Switch, Power, DPDT",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n29898",
+                    "fix_rate": 42.0,
+                    "list_price": "$ 21.60"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN18227.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 18227 Microswitch, Drain Valve",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n18227",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 60.20"
+                }
+            ]
+        },
+        {
+            "name": "Gas Valve Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pfg-690/gas-valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN80761.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 80761 Gas Valve, Natural, 24V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n80761",
+                    "fix_rate": 41.0,
+                    "list_price": "$ 274.20"
+                }
+            ]
+        },
+        {
+            "name": "Gasket Is Defective Or Leaking",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pfg-690/gasket-is-defective-or-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN34526.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 34526 Lid Gasket, 8 Head",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n34526",
+                    "fix_rate": 40.0,
+                    "list_price": "$ 174.90"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN66620.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 66620 Lid Gasket, 8 Head",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n66620",
+                    "fix_rate": 30.0,
+                    "list_price": "$ 147.40"
+                }
+            ]
+        },
+        {
+            "name": "Probe Is Malfunctioning",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pfg-690/probe-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN14331.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 14331 Temperature Probe Kit, 600",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n14331",
+                    "fix_rate": 33.0,
+                    "list_price": "$ 136.30"
+                }
+            ]
+        },
+        {
+            "name": "Drain Switch Is Malfunctioning",
+            "idx": 7,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pfg-690/drain-switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN54228.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 54228 DRAIN SWITCH WITH BOOT",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n54228",
+                    "fix_rate": 36.0,
+                    "list_price": "$ 59.70"
+                }
+            ]
+        },
+        {
+            "name": "Filter Pump Is Tripping",
+            "idx": 8,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pfg-690/filter-pump-is-tripping",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN67583.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 67583 Filter Pump Motor, 1/2HP",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n67583",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 931.80"
+                }
+            ]
+        },
+        {
+            "name": "Filter Pump Is Malfunctioning",
+            "idx": 9,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pfg-690/filter-pump-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN67583.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 67583 Filter Pump Motor, 1/2HP",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n67583",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 931.80"
+                }
+            ]
+        },
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 10,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pfg-690/thermostat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN16738.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 16738 Hi Limit Thermostat, 450F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n16738",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 175.40"
+                }
+            ]
+        },
+        {
+            "name": "Flame Sensor Is Malfunctioning",
+            "idx": 11,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pfg-690/flame-sensor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN60292.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 60292 Flame Sensor, Pilot",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n60292",
+                    "fix_rate": 62.0,
+                    "list_price": "$ 37.50"
+                }
+            ]
+        },
+        {
+            "name": "Pressure Relief Valve Is Malfunctioning",
+            "idx": 12,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pfg-690/pressure-relief-valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN59742.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 59742 Relief Valve, 1/2\", 15PSI",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n59742",
+                    "fix_rate": 86.0,
+                    "list_price": "$ 266.70"
+                }
+            ]
+        },
+        {
+            "name": "Pressure Relief Valve Is Leaking",
+            "idx": 13,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/pfg-690/pressure-relief-valve-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN59742.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 59742 Relief Valve, 1/2\", 15PSI",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n59742",
+                    "fix_rate": 83.0,
+                    "list_price": "$ 266.70"
+                }
+            ]
+        }
+    ]
+}

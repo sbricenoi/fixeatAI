@@ -1,0 +1,155 @@
+{
+    "brand": "norlake",
+    "model": "cpf075dc-a",
+    "issues": [
+        {
+            "name": "Unit Is Not Reaching Set Temperature",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/norlake/cpf075dc-a/unit-is-not-reaching-set-temperature",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/NOR/NOR145288.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Norlake 145288 Probe, 5 Ft, Dixell, 18Nb-Ntc",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n145288",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 69.51"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/NOR/NOR161117.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Norlake 161117 Fan Assembly with Blade, 230V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n161117",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 184.91"
+                }
+            ]
+        },
+        {
+            "name": "Fan Motor Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/norlake/cpf075dc-a/fan-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/NOR/NOR161117.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Norlake 161117 Fan Assembly with Blade, 230V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n161117",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 184.91"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/NOR/NOR145288.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Norlake 145288 Probe, 5 Ft, Dixell, 18Nb-Ntc",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n145288",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 69.51"
+                }
+            ]
+        },
+        {
+            "name": "Controller Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/norlake/cpf075dc-a/controller-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/NOR/NOR145288.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Norlake 145288 Probe, 5 Ft, Dixell, 18Nb-Ntc",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n145288",
+                    "fix_rate": 43.0,
+                    "list_price": "$ 69.51"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/NOR/NOR154074.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Norlake 154074 Control, Dixell, XR06CX, Programmed to 154021",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n154074",
+                    "fix_rate": 33.0,
+                    "list_price": "$ 433.36"
+                }
+            ]
+        },
+        {
+            "name": "Probe Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/norlake/cpf075dc-a/probe-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/NOR/NOR145288.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Norlake 145288 Probe, 5 Ft, Dixell, 18Nb-Ntc",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n145288",
+                    "fix_rate": 77.0,
+                    "list_price": "$ 69.51"
+                }
+            ]
+        },
+        {
+            "name": "Relay Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/norlake/cpf075dc-a/relay-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/NOR/NOR113644.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Norlake 113644 Relay, 240V, 20A, SPDT",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n113644",
+                    "fix_rate": 42.0,
+                    "list_price": "$ 38.96"
+                }
+            ]
+        },
+        {
+            "name": "Sensor Is Malfunctioning",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/norlake/cpf075dc-a/sensor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/NOR/NOR145288.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Norlake 145288 Probe, 5 Ft, Dixell, 18Nb-Ntc",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n145288",
+                    "fix_rate": 75.0,
+                    "list_price": "$ 69.51"
+                }
+            ]
+        },
+        {
+            "name": "Motor Is Malfunctioning",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/norlake/cpf075dc-a/motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/NOR/NOR161117.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Norlake 161117 Fan Assembly with Blade, 230V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n161117",
+                    "fix_rate": 45.0,
+                    "list_price": "$ 184.91"
+                }
+            ]
+        }
+    ]
+}

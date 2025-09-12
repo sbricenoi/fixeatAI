@@ -1,0 +1,23 @@
+{
+    "brand": "traulsen",
+    "model": "g10010",
+    "issues": [
+        {
+            "name": "Unit Is Not Reaching Set Temperature",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/traulsen/g10010/unit-is-not-reaching-set-temperature",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TR/TR334-60406-02.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Traulsen 334-60406-02 Coil Temperature Sensor, Blue 74\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n334-60406-02",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 101.11"
+                }
+            ]
+        }
+    ]
+}

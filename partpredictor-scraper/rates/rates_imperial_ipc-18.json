@@ -1,0 +1,94 @@
+{
+    "brand": "imperial",
+    "model": "ipc-18",
+    "issues": [
+        {
+            "name": "Unit Is Leaking",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/imperial/ipc-18/unit-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP36864.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 36864 Drain Tubing, Flexible, 1 5/8 \"ID, IPC",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n36864",
+                    "fix_rate": 44.0,
+                    "list_price": "$ 112.54"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP36245.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 36245 Ball Valve, Water, 3/4\", IPC-14/18",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n36245",
+                    "fix_rate": 28.0,
+                    "list_price": "$ 159.99"
+                }
+            ]
+        },
+        {
+            "name": "Hose Is Broken Or Leaking",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/imperial/ipc-18/hose-is-broken-or-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP36864.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 36864 Drain Tubing, Flexible, 1 5/8 \"ID, IPC",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n36864",
+                    "fix_rate": 81.0,
+                    "list_price": "$ 112.54"
+                }
+            ]
+        },
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/imperial/ipc-18/thermostat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP1175.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 1175 Thermostat, Fryer 400F with 1/4' NPT Stuffing Box",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1175",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 212.69"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP1176.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 1176 Knob, Thermostat, Off-200-400, Fryer",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1176",
+                    "fix_rate": 89.0,
+                    "list_price": "$ 28.17"
+                }
+            ]
+        },
+        {
+            "name": "Hi-limit Is Tripping Or Wont Reset",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/imperial/ipc-18/hi-limit-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/IMP/IMP32113.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Imperial 32113 Hi Limit Thermostat, Ipc",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n32113",
+                    "fix_rate": 62.0,
+                    "list_price": "$ 301.26"
+                }
+            ]
+        }
+    ]
+}

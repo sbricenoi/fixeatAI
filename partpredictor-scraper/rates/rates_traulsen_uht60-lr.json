@@ -1,0 +1,101 @@
+{
+    "brand": "traulsen",
+    "model": "uht60-lr",
+    "issues": [
+        {
+            "name": "Unit Is Not Reaching Set Temperature",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/traulsen/uht60-lr/unit-is-not-reaching-set-temperature",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TR/TRSK-950-60552-00.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Traulsen SK-950-60552-00 Danfoss To Trl Retrofit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSK-950-60552-00",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 530.57"
+                }
+            ]
+        },
+        {
+            "name": "Fan Motor Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/traulsen/uht60-lr/fan-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TR/TRSK-950-60552-00.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Traulsen SK-950-60552-00 Danfoss To Trl Retrofit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSK-950-60552-00",
+                    "fix_rate": 57.0,
+                    "list_price": "$ 530.57"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TR/TR338-60054-00.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Traulsen 338-60054-00 Fan Motor, C Frame, 120V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n338-60054-00",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 173.21"
+                }
+            ]
+        },
+        {
+            "name": "Controller Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/traulsen/uht60-lr/controller-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TR/TRSK-950-60552-00.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Traulsen SK-950-60552-00 Danfoss To Trl Retrofit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSK-950-60552-00",
+                    "fix_rate": 83.0,
+                    "list_price": "$ 530.57"
+                }
+            ]
+        },
+        {
+            "name": "Door Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/traulsen/uht60-lr/door-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TR/TRSER-60248-00.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Traulsen SER-60248-00 Hinge Kit, Compact Undercounter",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSER-60248-00",
+                    "fix_rate": 54.0,
+                    "list_price": "$ 172.17"
+                }
+            ]
+        },
+        {
+            "name": "Hinge Is Defective Or Damaged",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/traulsen/uht60-lr/hinge-is-defective-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TR/TRSER-60248-00.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Traulsen SER-60248-00 Hinge Kit, Compact Undercounter",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSER-60248-00",
+                    "fix_rate": 77.0,
+                    "list_price": "$ 172.17"
+                }
+            ]
+        }
+    ]
+}

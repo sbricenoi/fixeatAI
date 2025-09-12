@@ -1,0 +1,23 @@
+{
+    "brand": "vulcan-hart",
+    "model": "vtec36",
+    "issues": [
+        {
+            "name": "Ignitor Is Malfunctioning Or Damaged",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/vulcan-hart/vtec36/ignitor-is-malfunctioning-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-944255.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-944255 Ignitor, Rotary, 3-Pole",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-944255",
+                    "fix_rate": 62.0,
+                    "list_price": "$ 27.44"
+                }
+            ]
+        }
+    ]
+}

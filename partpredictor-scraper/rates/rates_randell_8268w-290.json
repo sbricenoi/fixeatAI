@@ -1,0 +1,131 @@
+{
+    "brand": "randell",
+    "model": "8268w-290",
+    "issues": [
+        {
+            "name": "Unit Is Not Reaching Set Temperature",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/randell/8268w-290/unit-is-not-reaching-set-temperature",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRPCNT1720R.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RP CNT1720R Temperature Control, Danfoss, ERC112C, 8148N/W-8268",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRP CNT1720R",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 563.82"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFCNT1603.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF CNT1603 Thermister, QTI, Air Sensor, Black, 10'",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF CNT1603",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 29.37"
+                }
+            ]
+        },
+        {
+            "name": "Probe Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/randell/8268w-290/probe-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFCNT1603.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF CNT1603 Thermister, QTI, Air Sensor, Black, 10'",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF CNT1603",
+                    "fix_rate": 53.0,
+                    "list_price": "$ 29.37"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRPCNT1720R.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RP CNT1720R Temperature Control, Danfoss, ERC112C, 8148N/W-8268",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRP CNT1720R",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 563.82"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFCNT1602.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF CNT1602 Thermistor, Qt, Coil Sensor, Blue, 10'",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF CNT1602",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 29.35"
+                }
+            ]
+        },
+        {
+            "name": "Controller Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/randell/8268w-290/controller-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRPCNT1720R.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RP CNT1720R Temperature Control, Danfoss, ERC112C, 8148N/W-8268",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRP CNT1720R",
+                    "fix_rate": 59.0,
+                    "list_price": "$ 563.82"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFCNT1603.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF CNT1603 Thermister, QTI, Air Sensor, Black, 10'",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF CNT1603",
+                    "fix_rate": 24.0,
+                    "list_price": "$ 29.37"
+                }
+            ]
+        },
+        {
+            "name": "Keypad Is Not Responding Or Damaged",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/randell/8268w-290/keypad-is-not-responding-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRPCNT1720R.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RP CNT1720R Temperature Control, Danfoss, ERC112C, 8148N/W-8268",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRP CNT1720R",
+                    "fix_rate": 75.0,
+                    "list_price": "$ 563.82"
+                }
+            ]
+        },
+        {
+            "name": "Sensor Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/randell/8268w-290/sensor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFCNT1603.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF CNT1603 Thermister, QTI, Air Sensor, Black, 10'",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF CNT1603",
+                    "fix_rate": 80.0,
+                    "list_price": "$ 29.37"
+                }
+            ]
+        }
+    ]
+}

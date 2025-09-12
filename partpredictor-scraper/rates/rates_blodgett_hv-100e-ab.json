@@ -1,0 +1,87 @@
+{
+    "brand": "blodgett",
+    "model": "hv-100e-ab",
+    "issues": [
+        {
+            "name": "Door Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/blodgett/hv-100e-ab/door-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL57953.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 57953 Turnbuckle Assembly, Door",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n57953",
+                    "fix_rate": 39.0,
+                    "list_price": "$ 1,354.08"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL51610.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 51610 Door Gasket, Center Only",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n51610",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 243.36"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL52514.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 52514 Door Switch Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n52514",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 308.88"
+                }
+            ]
+        },
+        {
+            "name": "Door Switch Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/blodgett/hv-100e-ab/door-switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL52514.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 52514 Door Switch Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n52514",
+                    "fix_rate": 80.0,
+                    "list_price": "$ 308.88"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL57953.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 57953 Turnbuckle Assembly, Door",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n57953",
+                    "fix_rate": 60.0,
+                    "list_price": "$ 1,354.08"
+                }
+            ]
+        },
+        {
+            "name": "Gasket Is Defective Or Leaking",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/blodgett/hv-100e-ab/gasket-is-defective-or-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL51610.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 51610 Door Gasket, Center Only",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n51610",
+                    "fix_rate": 67.0,
+                    "list_price": "$ 243.36"
+                }
+            ]
+        }
+    ]
+}

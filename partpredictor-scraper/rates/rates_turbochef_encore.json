@@ -1,0 +1,597 @@
+{
+    "brand": "turbochef",
+    "model": "encore",
+    "issues": [
+        {
+            "name": "Fuse Is Blown",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/turbochef/encore/fuse-is-blown",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100599.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100599 Fuse, 20 Amp, ATMR, Individual",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100599",
+                    "fix_rate": 73.0,
+                    "list_price": "$ 37.62"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC101273.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 101273 Relay 2 Pole",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n101273",
+                    "fix_rate": 28.0,
+                    "list_price": "$ 54.61"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3062-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3062-1 Transformer, 208/240 Volt, 60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3062-1",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 405.70"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3015.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3015 Magnetron Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3015",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 155.52"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100232.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100232 Capacitor, High Voltage, Dual, 0.91UF0.19UF",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100232",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 74.45"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100481.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100481 Diode, High Voltage",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100481",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 28.02"
+                }
+            ]
+        },
+        {
+            "name": "Magnetron Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/turbochef/encore/magnetron-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100599.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100599 Fuse, 20 Amp, ATMR, Individual",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100599",
+                    "fix_rate": 55.0,
+                    "list_price": "$ 37.62"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3015.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3015 Magnetron Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3015",
+                    "fix_rate": 44.0,
+                    "list_price": "$ 155.52"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3062-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3062-1 Transformer, 208/240 Volt, 60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3062-1",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 405.70"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC101273.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 101273 Relay 2 Pole",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n101273",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 54.61"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100481.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100481 Diode, High Voltage",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100481",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 28.02"
+                }
+            ]
+        },
+        {
+            "name": "Door Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/turbochef/encore/door-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCENC-3050.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef ENC-3050 Door Switch Assembly, Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nENC-3050",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 224.75"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100599.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100599 Fuse, 20 Amp, ATMR, Individual",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100599",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 37.62"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC102012.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 102012 Switch, Interlock, NGO Oven Primary Switch Only",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n102012",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 8.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCENC-3015-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef ENC-3015-1 Door Hinge Service Kit, Encore",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nENC-3015-1",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 198.63"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCENC-1655.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef ENC-1655 Catch, Latch",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nENC-1655",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 57.63"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCENC-3015-2.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef ENC-3015-2 Door Hinge Service Kit, Encore",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nENC-3015-2",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 180.63"
+                }
+            ]
+        },
+        {
+            "name": "Door Switch Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/turbochef/encore/door-switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCENC-3050.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef ENC-3050 Door Switch Assembly, Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nENC-3050",
+                    "fix_rate": 44.0,
+                    "list_price": "$ 224.75"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC102012.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 102012 Switch, Interlock, NGO Oven Primary Switch Only",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n102012",
+                    "fix_rate": 32.0,
+                    "list_price": "$ 8.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100599.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100599 Fuse, 20 Amp, ATMR, Individual",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100599",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 37.62"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCENC-3015-2.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef ENC-3015-2 Door Hinge Service Kit, Encore",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nENC-3015-2",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 180.63"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCENC-3015-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef ENC-3015-1 Door Hinge Service Kit, Encore",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nENC-3015-1",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 198.63"
+                }
+            ]
+        },
+        {
+            "name": "Relay Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/turbochef/encore/relay-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100599.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100599 Fuse, 20 Amp, ATMR, Individual",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100599",
+                    "fix_rate": 61.0,
+                    "list_price": "$ 37.62"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC101273.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 101273 Relay 2 Pole",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n101273",
+                    "fix_rate": 59.0,
+                    "list_price": "$ 54.61"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3015.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3015 Magnetron Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3015",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 155.52"
+                }
+            ]
+        },
+        {
+            "name": "Transformer Is Malfunctioning",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/turbochef/encore/transformer-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3062-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3062-1 Transformer, 208/240 Volt, 60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3062-1",
+                    "fix_rate": 77.0,
+                    "list_price": "$ 405.70"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3015.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3015 Magnetron Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3015",
+                    "fix_rate": 36.0,
+                    "list_price": "$ 155.52"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100599.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100599 Fuse, 20 Amp, ATMR, Individual",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100599",
+                    "fix_rate": 36.0,
+                    "list_price": "$ 37.62"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC101273.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 101273 Relay 2 Pole",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n101273",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 54.61"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100232.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100232 Capacitor, High Voltage, Dual, 0.91UF0.19UF",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100232",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 74.45"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100481.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100481 Diode, High Voltage",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100481",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 28.02"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC101344.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 101344 SCREWPPHSS M5X25MM LG X.8MM",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n101344",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 1.76"
+                }
+            ]
+        },
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/turbochef/encore/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC102012.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 102012 Switch, Interlock, NGO Oven Primary Switch Only",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n102012",
+                    "fix_rate": 43.0,
+                    "list_price": "$ 8.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCENC-3050.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef ENC-3050 Door Switch Assembly, Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nENC-3050",
+                    "fix_rate": 31.0,
+                    "list_price": "$ 224.75"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100599.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100599 Fuse, 20 Amp, ATMR, Individual",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100599",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 37.62"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC101273.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 101273 Relay 2 Pole",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n101273",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 54.61"
+                }
+            ]
+        },
+        {
+            "name": "Hinge Is Defective Or Damaged",
+            "idx": 7,
+            "url": "https://www.partstown.com/part-predictor/turbochef/encore/hinge-is-defective-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCENC-3015-2.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef ENC-3015-2 Door Hinge Service Kit, Encore",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nENC-3015-2",
+                    "fix_rate": 41.0,
+                    "list_price": "$ 180.63"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCENC-3015-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef ENC-3015-1 Door Hinge Service Kit, Encore",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nENC-3015-1",
+                    "fix_rate": 41.0,
+                    "list_price": "$ 198.63"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCENC-3050.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef ENC-3050 Door Switch Assembly, Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nENC-3050",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 224.75"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI1-3220-2.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I1-3220-2 SERVICE KIT NGO-SOTA RIGHT H",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI1-3220-2",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 260.86"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCI1-3220-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef I1-3220-1 SERVICE KIT NGO-SOTA LEFT HINGE ASSEMB",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nI1-3220-1",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 260.86"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100599.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100599 Fuse, 20 Amp, ATMR, Individual",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100599",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 37.62"
+                }
+            ]
+        },
+        {
+            "name": "Hi-limit Is Tripping Or Wont Reset",
+            "idx": 8,
+            "url": "https://www.partstown.com/part-predictor/turbochef/encore/hi-limit-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC102075.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 102075 Hi Limit Thermostat EGO 3 Pole",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n102075",
+                    "fix_rate": 45.0,
+                    "list_price": "$ 170.84"
+                }
+            ]
+        },
+        {
+            "name": "Smoke Coming From Unit",
+            "idx": 9,
+            "url": "https://www.partstown.com/part-predictor/turbochef/encore/smoke-coming-from-unit",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3062-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3062-1 Transformer, 208/240 Volt, 60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3062-1",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 405.70"
+                }
+            ]
+        },
+        {
+            "name": "Capacitor Is Malfunctioning",
+            "idx": 10,
+            "url": "https://www.partstown.com/part-predictor/turbochef/encore/capacitor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100232.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100232 Capacitor, High Voltage, Dual, 0.91UF0.19UF",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100232",
+                    "fix_rate": 78.0,
+                    "list_price": "$ 74.45"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3062-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3062-1 Transformer, 208/240 Volt, 60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3062-1",
+                    "fix_rate": 67.0,
+                    "list_price": "$ 405.70"
+                }
+            ]
+        },
+        {
+            "name": "Diode Is Malfunctioning",
+            "idx": 11,
+            "url": "https://www.partstown.com/part-predictor/turbochef/encore/diode-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100481.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100481 Diode, High Voltage",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100481",
+                    "fix_rate": 78.0,
+                    "list_price": "$ 28.02"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBC100599.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef 100599 Fuse, 20 Amp, ATMR, Individual",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100599",
+                    "fix_rate": 56.0,
+                    "list_price": "$ 37.62"
+                }
+            ]
+        },
+        {
+            "name": "Wave Guide Is Malfunctioning",
+            "idx": 12,
+            "url": "https://www.partstown.com/part-predictor/turbochef/encore/wave-guide-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCENC-3008.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef ENC-3008 Waveguide Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nENC-3008",
+                    "fix_rate": 78.0,
+                    "list_price": "$ 223.75"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/TBC/TBCNGC-3015.view?thumb&image.rules=G0&w=200",
+                    "product_name": "TurboChef NGC-3015 Magnetron Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nNGC-3015",
+                    "fix_rate": 56.0,
+                    "list_price": "$ 155.52"
+                }
+            ]
+        }
+    ]
+}

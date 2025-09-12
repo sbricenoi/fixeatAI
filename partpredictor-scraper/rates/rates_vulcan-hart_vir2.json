@@ -1,0 +1,23 @@
+{
+    "brand": "vulcan-hart",
+    "model": "vir2",
+    "issues": [
+        {
+            "name": "Burner Is Malfunctioning Or Damaged",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/vulcan-hart/vir2/burner-is-malfunctioning-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-957037-00001.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-957037-00001 Infrared Burner",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-957037-00001",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 459.07"
+                }
+            ]
+        }
+    ]
+}

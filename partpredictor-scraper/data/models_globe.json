@@ -1,0 +1,78 @@
+[
+    {
+        "name": "3600N",
+        "parsed_name": "3600n"
+    },
+    {
+        "name": "4913",
+        "parsed_name": "4913"
+    },
+    {
+        "name": "4913N",
+        "parsed_name": "4913n"
+    },
+    {
+        "name": "G12",
+        "parsed_name": "g12"
+    },
+    {
+        "name": "G12A",
+        "parsed_name": "g12a"
+    },
+    {
+        "name": "G14",
+        "parsed_name": "g14"
+    },
+    {
+        "name": "GC512",
+        "parsed_name": "gc512"
+    },
+    {
+        "name": "GF30G",
+        "parsed_name": "gf30g"
+    },
+    {
+        "name": "GF30PG",
+        "parsed_name": "gf30pg"
+    },
+    {
+        "name": "GG48TG",
+        "parsed_name": "gg48tg"
+    },
+    {
+        "name": "PF32E",
+        "parsed_name": "pf32e"
+    },
+    {
+        "name": "S13",
+        "parsed_name": "s13"
+    },
+    {
+        "name": "S13A",
+        "parsed_name": "s13a"
+    },
+    {
+        "name": "SCR12",
+        "parsed_name": "scr12"
+    },
+    {
+        "name": "SG13A",
+        "parsed_name": "sg13a"
+    },
+    {
+        "name": "SP20",
+        "parsed_name": "sp20"
+    },
+    {
+        "name": "SP30",
+        "parsed_name": "sp30"
+    },
+    {
+        "name": "SP60",
+        "parsed_name": "sp60"
+    },
+    {
+        "name": "SP62P",
+        "parsed_name": "sp62p"
+    }
+]

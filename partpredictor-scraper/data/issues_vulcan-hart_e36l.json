@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Thermostat Is Malfunctioning",
+        "parsed_name": "thermostat-is-malfunctioning"
+    },
+    {
+        "name": "Infinite Switch Is Malfunctioning",
+        "parsed_name": "infinite-switch-is-malfunctioning"
+    }
+]

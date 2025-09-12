@@ -1,0 +1,128 @@
+{
+    "brand": "star",
+    "model": "524tgf",
+    "issues": [
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/star/524tgf/thermostat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2T-Z5958.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2T-Z5958 Thermostat, Star Max Griddles",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2T-Z5958",
+                    "fix_rate": 82.0,
+                    "list_price": "$ 264.74"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STASG3-624329.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star SG3-624329 Knob Assembly, Chrome",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSG3-624329",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 59.18"
+                }
+            ]
+        },
+        {
+            "name": "Breaker Is Tripping Or Wont Reset",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/star/524tgf/breaker-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2T-Z5958.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2T-Z5958 Thermostat, Star Max Griddles",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2T-Z5958",
+                    "fix_rate": 60.0,
+                    "list_price": "$ 264.74"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2N-Z5948.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2N-Z5948 Element, 240V, 4000W, Starmax",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2N-Z5948",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 183.76"
+                }
+            ]
+        },
+        {
+            "name": "Wiring Issue",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/star/524tgf/wiring-issue",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2T-Z5958.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2T-Z5958 Thermostat, Star Max Griddles",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2T-Z5958",
+                    "fix_rate": 58.0,
+                    "list_price": "$ 264.74"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Overheating",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/star/524tgf/unit-is-overheating",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2T-Z5958.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2T-Z5958 Thermostat, Star Max Griddles",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2T-Z5958",
+                    "fix_rate": 75.0,
+                    "list_price": "$ 264.74"
+                }
+            ]
+        },
+        {
+            "name": "Controller Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/star/524tgf/controller-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2T-Z5958.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2T-Z5958 Thermostat, Star Max Griddles",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2T-Z5958",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 264.74"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Not Reaching Set Temperature",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/star/524tgf/unit-is-not-reaching-set-temperature",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2T-Z5958.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2T-Z5958 Thermostat, Star Max Griddles",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2T-Z5958",
+                    "fix_rate": 86.0,
+                    "list_price": "$ 264.74"
+                }
+            ]
+        }
+    ]
+}

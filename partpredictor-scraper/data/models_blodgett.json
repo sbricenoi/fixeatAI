@@ -1,0 +1,342 @@
+[
+    {
+        "name": "1000",
+        "parsed_name": "1000"
+    },
+    {
+        "name": "100DS-KLS",
+        "parsed_name": "100ds-kls"
+    },
+    {
+        "name": "100DS-KLT",
+        "parsed_name": "100ds-klt"
+    },
+    {
+        "name": "100DS-KPS",
+        "parsed_name": "100ds-kps"
+    },
+    {
+        "name": "1048",
+        "parsed_name": "1048"
+    },
+    {
+        "name": "1060",
+        "parsed_name": "1060"
+    },
+    {
+        "name": "1400",
+        "parsed_name": "1400"
+    },
+    {
+        "name": "1405",
+        "parsed_name": "1405"
+    },
+    {
+        "name": "1415",
+        "parsed_name": "1415"
+    },
+    {
+        "name": "911P",
+        "parsed_name": "911p"
+    },
+    {
+        "name": "951",
+        "parsed_name": "951"
+    },
+    {
+        "name": "961",
+        "parsed_name": "961"
+    },
+    {
+        "name": "981",
+        "parsed_name": "981"
+    },
+    {
+        "name": "BCX-14E",
+        "parsed_name": "bcx-14e"
+    },
+    {
+        "name": "BCX-14G",
+        "parsed_name": "bcx-14g"
+    },
+    {
+        "name": "BDO-100-G-ES",
+        "parsed_name": "bdo-100-g-es"
+    },
+    {
+        "name": "BLCP-102E",
+        "parsed_name": "blcp-102e"
+    },
+    {
+        "name": "BLCP-61E",
+        "parsed_name": "blcp-61e"
+    },
+    {
+        "name": "BLCP-61G",
+        "parsed_name": "blcp-61g"
+    },
+    {
+        "name": "BLCT-10E",
+        "parsed_name": "blct-10e"
+    },
+    {
+        "name": "BLCT-10E",
+        "parsed_name": "blct-10e"
+    },
+    {
+        "name": "BLCT-6-6E",
+        "parsed_name": "blct-6-6e"
+    },
+    {
+        "name": "BLCT-61-101E",
+        "parsed_name": "blct-61-101e"
+    },
+    {
+        "name": "BLCT-61-61E",
+        "parsed_name": "blct-61-61e"
+    },
+    {
+        "name": "BLCT-61E",
+        "parsed_name": "blct-61e"
+    },
+    {
+        "name": "BLCT-62-102E",
+        "parsed_name": "blct-62-102e"
+    },
+    {
+        "name": "BLCT-62-62E",
+        "parsed_name": "blct-62-62e"
+    },
+    {
+        "name": "BLCT-62E",
+        "parsed_name": "blct-62e"
+    },
+    {
+        "name": "BLCT-6E",
+        "parsed_name": "blct-6e"
+    },
+    {
+        "name": "BLCT-6E-H",
+        "parsed_name": "blct-6e-h"
+    },
+    {
+        "name": "BLCT-6E-W",
+        "parsed_name": "blct-6e-w"
+    },
+    {
+        "name": "BX-14G",
+        "parsed_name": "bx-14g"
+    },
+    {
+        "name": "COS-101",
+        "parsed_name": "cos-101"
+    },
+    {
+        "name": "COS-1016",
+        "parsed_name": "cos-1016"
+    },
+    {
+        "name": "COS-101NSF",
+        "parsed_name": "cos-101nsf"
+    },
+    {
+        "name": "COS-101S",
+        "parsed_name": "cos-101s"
+    },
+    {
+        "name": "COS-101S6",
+        "parsed_name": "cos-101s6"
+    },
+    {
+        "name": "COS-101SNSF",
+        "parsed_name": "cos-101snsf"
+    },
+    {
+        "name": "COS-201NSF",
+        "parsed_name": "cos-201nsf"
+    },
+    {
+        "name": "CTB",
+        "parsed_name": "ctb"
+    },
+    {
+        "name": "CTB POPEYES",
+        "parsed_name": "ctb-popeyes"
+    },
+    {
+        "name": "CTB WENDYS",
+        "parsed_name": "ctb-wendys"
+    },
+    {
+        "name": "CTB-1",
+        "parsed_name": "ctb-1"
+    },
+    {
+        "name": "CTB-AP",
+        "parsed_name": "ctb-ap"
+    },
+    {
+        "name": "CTB-G",
+        "parsed_name": "ctb-g"
+    },
+    {
+        "name": "CTB-GFB",
+        "parsed_name": "ctb-gfb"
+    },
+    {
+        "name": "CTBR",
+        "parsed_name": "ctbr"
+    },
+    {
+        "name": "CTBR POPEYES",
+        "parsed_name": "ctbr-popeyes"
+    },
+    {
+        "name": "CTBR WENDYS",
+        "parsed_name": "ctbr-wendys"
+    },
+    {
+        "name": "CTBR-AP",
+        "parsed_name": "ctbr-ap"
+    },
+    {
+        "name": "CTBR-G",
+        "parsed_name": "ctbr-g"
+    },
+    {
+        "name": "CTBR-GFB",
+        "parsed_name": "ctbr-gfb"
+    },
+    {
+        "name": "DFG-100",
+        "parsed_name": "dfg-100"
+    },
+    {
+        "name": "DFG-100 XCEL",
+        "parsed_name": "dfg-100-xcel"
+    },
+    {
+        "name": "DFG-200",
+        "parsed_name": "dfg-200"
+    },
+    {
+        "name": "DFG-50",
+        "parsed_name": "dfg-50"
+    },
+    {
+        "name": "DFG-50 POPEYES",
+        "parsed_name": "dfg-50-popeyes"
+    },
+    {
+        "name": "EF SERIES",
+        "parsed_name": "ef-series"
+    },
+    {
+        "name": "FA Series",
+        "parsed_name": "fa-series"
+    },
+    {
+        "name": "HV-100E",
+        "parsed_name": "hv-100e"
+    },
+    {
+        "name": "HV-100E-AB",
+        "parsed_name": "hv-100e-ab"
+    },
+    {
+        "name": "HV-100G",
+        "parsed_name": "hv-100g"
+    },
+    {
+        "name": "HV-100G-AB",
+        "parsed_name": "hv-100g-ab"
+    },
+    {
+        "name": "HVH-100G",
+        "parsed_name": "hvh-100g"
+    },
+    {
+        "name": "MARK V KFC",
+        "parsed_name": "mark-v-kfc"
+    },
+    {
+        "name": "MARK V XCEL SERIES",
+        "parsed_name": "mark-v-xcel-series"
+    },
+    {
+        "name": "Mark V-100",
+        "parsed_name": "mark-v-100"
+    },
+    {
+        "name": "MARK V-IIIH",
+        "parsed_name": "mark-v-iiih"
+    },
+    {
+        "name": "MARK V-IIIHD",
+        "parsed_name": "mark-v-iiihd"
+    },
+    {
+        "name": "SHO-100-E",
+        "parsed_name": "sho-100-e"
+    },
+    {
+        "name": "SHO-100-G",
+        "parsed_name": "sho-100-g"
+    },
+    {
+        "name": "SHO-E",
+        "parsed_name": "sho-e"
+    },
+    {
+        "name": "SHO-G",
+        "parsed_name": "sho-g"
+    },
+    {
+        "name": "XCEL-50EC",
+        "parsed_name": "xcel-50ec"
+    },
+    {
+        "name": "XR8E",
+        "parsed_name": "xr8e"
+    },
+    {
+        "name": "XR8G",
+        "parsed_name": "xr8g"
+    },
+    {
+        "name": "Zephaire",
+        "parsed_name": "zephaire"
+    },
+    {
+        "name": "ZEPHAIRE 240E PLUS",
+        "parsed_name": "zephaire-240e-plus"
+    },
+    {
+        "name": "ZEPHAIRE E PLUS",
+        "parsed_name": "zephaire-e-plus"
+    },
+    {
+        "name": "ZEPHAIRE G",
+        "parsed_name": "zephaire-g"
+    },
+    {
+        "name": "ZEPHAIRE G PLUS",
+        "parsed_name": "zephaire-g-plus"
+    },
+    {
+        "name": "Zephaire-100-G",
+        "parsed_name": "zephaire-100-g"
+    },
+    {
+        "name": "Zephaire-100-G-ES",
+        "parsed_name": "zephaire-100-g-es"
+    },
+    {
+        "name": "Zephaire-200-G",
+        "parsed_name": "zephaire-200-g"
+    },
+    {
+        "name": "Zephaire-200-G-ES",
+        "parsed_name": "zephaire-200-g-es"
+    }
+]

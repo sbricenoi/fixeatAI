@@ -1,0 +1,91 @@
+{
+    "brand": "antunes",
+    "model": "is-8000",
+    "issues": [
+        {
+            "name": "Breaker Is Tripping Or Wont Reset",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/antunes/is-8000/breaker-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001820.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001820 Stream Generator",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001820",
+                    "fix_rate": 47.0,
+                    "list_price": "$ 229.00"
+                }
+            ]
+        },
+        {
+            "name": "Probe Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/antunes/is-8000/probe-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001824.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001824 Water Level Control",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001824",
+                    "fix_rate": 41.0,
+                    "list_price": "$ 547.00"
+                }
+            ]
+        },
+        {
+            "name": "Display Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/antunes/is-8000/display-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001784.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001784 GUI Module Assembly Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001784",
+                    "fix_rate": 64.0,
+                    "list_price": "$ 2,005.00"
+                }
+            ]
+        },
+        {
+            "name": "Handle Is Defective",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/antunes/is-8000/handle-is-defective",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001787.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001787 DRAWER HANDLE ASSEMBLY",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001787",
+                    "fix_rate": 38.0,
+                    "list_price": "$ 65.00"
+                }
+            ]
+        },
+        {
+            "name": "Controller Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/antunes/is-8000/controller-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001823.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001823 Control Board",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001823",
+                    "fix_rate": 62.0,
+                    "list_price": "$ 611.00"
+                }
+            ]
+        }
+    ]
+}

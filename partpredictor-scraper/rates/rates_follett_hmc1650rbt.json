@@ -1,0 +1,108 @@
+{
+    "brand": "follett",
+    "model": "hmc1650rbt",
+    "issues": [
+        {
+            "name": "Unit Is Leaking",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/follett/hmc1650rbt/unit-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FOL/FOL00130823.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Follett 00130823 Solenoid Valve Kit, Fill, 120V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00130823",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 153.00"
+                }
+            ]
+        },
+        {
+            "name": "Valve Is Leaking",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/follett/hmc1650rbt/valve-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FOL/FOL01382969.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Follett 01382969 Solenoid Valve Kit, Purge, 120V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n01382969",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 127.00"
+                }
+            ]
+        },
+        {
+            "name": "Valve Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/follett/hmc1650rbt/valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FOL/FOL00130823.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Follett 00130823 Solenoid Valve Kit, Fill, 120V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00130823",
+                    "fix_rate": 58.0,
+                    "list_price": "$ 153.00"
+                }
+            ]
+        },
+        {
+            "name": "Controller Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/follett/hmc1650rbt/controller-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FOL/FOL00132910.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Follett 00132910 Control Board Kit, Horizon, 120V, 60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00132910",
+                    "fix_rate": 56.0,
+                    "list_price": "$ 1,151.00"
+                }
+            ]
+        },
+        {
+            "name": "Relay Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/follett/hmc1650rbt/relay-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FOL/FOL00132910.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Follett 00132910 Control Board Kit, Horizon, 120V, 60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00132910",
+                    "fix_rate": 86.0,
+                    "list_price": "$ 1,151.00"
+                }
+            ]
+        },
+        {
+            "name": "Water Inlet Valve Is Malfunctioning",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/follett/hmc1650rbt/water-inlet-valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FOL/FOL00130823.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Follett 00130823 Solenoid Valve Kit, Fill, 120V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00130823",
+                    "fix_rate": 83.0,
+                    "list_price": "$ 153.00"
+                }
+            ]
+        }
+    ]
+}

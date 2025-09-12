@@ -1,0 +1,57 @@
+{
+    "brand": "blodgett",
+    "model": "hvh-100g",
+    "issues": [
+        {
+            "name": "Gasket Is Defective Or Leaking",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/blodgett/hvh-100g/gasket-is-defective-or-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL57671.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 57671 Flapper Gasket",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n57671",
+                    "fix_rate": 45.0,
+                    "list_price": "$ 163.28"
+                }
+            ]
+        },
+        {
+            "name": "Door Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/blodgett/hvh-100g/door-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL58938.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 58938 Latch Assembly, Receptacle, Bottom",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n58938",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 636.48"
+                }
+            ]
+        },
+        {
+            "name": "Door Gasket Is Defective",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/blodgett/hvh-100g/door-gasket-is-defective",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL51610.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 51610 Door Gasket, Center Only",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n51610",
+                    "fix_rate": 83.0,
+                    "list_price": "$ 243.36"
+                }
+            ]
+        }
+    ]
+}

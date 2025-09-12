@@ -1,0 +1,529 @@
+{
+    "brand": "henny-penny",
+    "model": "lve-104",
+    "issues": [
+        {
+            "name": "Hi-limit Is Tripping Or Wont Reset",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/lve-104/hi-limit-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN77285.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 77285 Hi Limit Thermostat, 425F/218C",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n77285",
+                    "fix_rate": 63.0,
+                    "list_price": "$ 190.20"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN78499.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 78499 Strap, Spreader Element, LVE10X",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n78499",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 8.40"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HENSC04-003.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny SC04-003 Screw, Phillips Head, 8-32 x 3/8\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSC04-003",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 0.15"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN78484-001.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 78484-001 Element, 208V, 7KW",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n78484-001",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 472.40"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/lve-104/unit-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN77285.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 77285 Hi Limit Thermostat, 425F/218C",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n77285",
+                    "fix_rate": 44.0,
+                    "list_price": "$ 190.20"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN78484-001.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 78484-001 Element, 208V, 7KW",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n78484-001",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 472.40"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Overheating",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/lve-104/unit-is-overheating",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN77285.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 77285 Hi Limit Thermostat, 425F/218C",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n77285",
+                    "fix_rate": 54.0,
+                    "list_price": "$ 190.20"
+                }
+            ]
+        },
+        {
+            "name": "Wiring Issue",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/lve-104/wiring-issue",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN77285.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 77285 Hi Limit Thermostat, 425F/218C",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n77285",
+                    "fix_rate": 33.0,
+                    "list_price": "$ 190.20"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN78484-001.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 78484-001 Element, 208V, 7KW",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n78484-001",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 472.40"
+                }
+            ]
+        },
+        {
+            "name": "Vat Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/lve-104/vat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN77285.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 77285 Hi Limit Thermostat, 425F/218C",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n77285",
+                    "fix_rate": 32.0,
+                    "list_price": "$ 190.20"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN78484-001.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 78484-001 Element, 208V, 7KW",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n78484-001",
+                    "fix_rate": 20.0,
+                    "list_price": "$ 472.40"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN78499.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 78499 Strap, Spreader Element, LVE10X",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n78499",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 8.40"
+                }
+            ]
+        },
+        {
+            "name": "Contactor Is Malfunctioning",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/lve-104/contactor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN78753.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 78753 Contactor, 3Pole, 24V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n78753",
+                    "fix_rate": 43.0,
+                    "list_price": "$ 373.60"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN29509.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 29509 Contactor, 24V, 40A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n29509",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 117.10"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN78484-001.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 78484-001 Element, 208V, 7KW",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n78484-001",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 472.40"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN65073.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 65073 Contactor, 3 Pole, 50A, 24V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n65073",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 373.60"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN77285.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 77285 Hi Limit Thermostat, 425F/218C",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n77285",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 190.20"
+                }
+            ]
+        },
+        {
+            "name": "Oil Is Leaking",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/lve-104/oil-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN79590.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 79590 Drain Valve, No Handle, 1-1/4\" Port",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n79590",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 217.10"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN72554.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 72554 Hose, Mandrel Wrapped Silicone",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n72554",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 91.30"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN77285.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 77285 Hi Limit Thermostat, 425F/218C",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n77285",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 190.20"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN76598.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 76598 Guard, Silicone, Hose, LVX10X",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n76598",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 5.70"
+                }
+            ]
+        },
+        {
+            "name": "Breaker Is Tripping Or Wont Reset",
+            "idx": 7,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/lve-104/breaker-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN77285.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 77285 Hi Limit Thermostat, 425F/218C",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n77285",
+                    "fix_rate": 33.0,
+                    "list_price": "$ 190.20"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN78484-001.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 78484-001 Element, 208V, 7KW",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n78484-001",
+                    "fix_rate": 24.0,
+                    "list_price": "$ 472.40"
+                }
+            ]
+        },
+        {
+            "name": "Unit Will Not Pump Oil",
+            "idx": 8,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/lve-104/unit-will-not-pump-oil",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN77285.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 77285 Hi Limit Thermostat, 425F/218C",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n77285",
+                    "fix_rate": 27.0,
+                    "list_price": "$ 190.20"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN67583.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 67583 Filter Pump Motor, 1/2HP",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n67583",
+                    "fix_rate": 23.0,
+                    "list_price": "$ 931.80"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Leaking",
+            "idx": 9,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/lve-104/unit-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN79590.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 79590 Drain Valve, No Handle, 1-1/4\" Port",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n79590",
+                    "fix_rate": 23.0,
+                    "list_price": "$ 217.10"
+                }
+            ]
+        },
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 10,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/lve-104/thermostat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN77285.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 77285 Hi Limit Thermostat, 425F/218C",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n77285",
+                    "fix_rate": 89.0,
+                    "list_price": "$ 190.20"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN78499.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 78499 Strap, Spreader Element, LVE10X",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n78499",
+                    "fix_rate": 37.0,
+                    "list_price": "$ 8.40"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HENSC04-003.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny SC04-003 Screw, Phillips Head, 8-32 x 3/8\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSC04-003",
+                    "fix_rate": 32.0,
+                    "list_price": "$ 0.15"
+                }
+            ]
+        },
+        {
+            "name": "Motor Is Malfunctioning",
+            "idx": 11,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/lve-104/motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN67583.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 67583 Filter Pump Motor, 1/2HP",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n67583",
+                    "fix_rate": 28.0,
+                    "list_price": "$ 931.80"
+                }
+            ]
+        },
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 12,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/lve-104/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN18227.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 18227 Microswitch, Drain Valve",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n18227",
+                    "fix_rate": 28.0,
+                    "list_price": "$ 60.20"
+                }
+            ]
+        },
+        {
+            "name": "Vat Is Leaking",
+            "idx": 13,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/lve-104/vat-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN79590.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 79590 Drain Valve, No Handle, 1-1/4\" Port",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n79590",
+                    "fix_rate": 33.0,
+                    "list_price": "$ 217.10"
+                }
+            ]
+        },
+        {
+            "name": "Filter Pump Is Tripping",
+            "idx": 14,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/lve-104/filter-pump-is-tripping",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN77285.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 77285 Hi Limit Thermostat, 425F/218C",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n77285",
+                    "fix_rate": 31.0,
+                    "list_price": "$ 190.20"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN67583.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 67583 Filter Pump Motor, 1/2HP",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n67583",
+                    "fix_rate": 31.0,
+                    "list_price": "$ 931.80"
+                }
+            ]
+        },
+        {
+            "name": "Transformer Is Malfunctioning",
+            "idx": 15,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/lve-104/transformer-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN86086.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 86086 Transformer, 120 to 24V, 75VA",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n86086",
+                    "fix_rate": 38.0,
+                    "list_price": "$ 100.80"
+                }
+            ]
+        },
+        {
+            "name": "Probe Is Malfunctioning",
+            "idx": 16,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/lve-104/probe-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN77285.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 77285 Hi Limit Thermostat, 425F/218C",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n77285",
+                    "fix_rate": 64.0,
+                    "list_price": "$ 190.20"
+                }
+            ]
+        },
+        {
+            "name": "Bracket Is Broken",
+            "idx": 17,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/lve-104/bracket-is-broken",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN77285.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 77285 Hi Limit Thermostat, 425F/218C",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n77285",
+                    "fix_rate": 69.0,
+                    "list_price": "$ 190.20"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN78499.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 78499 Strap, Spreader Element, LVE10X",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n78499",
+                    "fix_rate": 38.0,
+                    "list_price": "$ 8.40"
+                }
+            ]
+        },
+        {
+            "name": "Fire Coming Out Of Unit",
+            "idx": 18,
+            "url": "https://www.partstown.com/part-predictor/henny-penny/lve-104/fire-coming-out-of-unit",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HEN/HEN77285.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Henny Penny 77285 Hi Limit Thermostat, 425F/218C",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n77285",
+                    "fix_rate": 62.0,
+                    "list_price": "$ 190.20"
+                }
+            ]
+        }
+    ]
+}

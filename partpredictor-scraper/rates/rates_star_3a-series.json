@@ -1,0 +1,40 @@
+{
+    "brand": "star",
+    "model": "3a-series",
+    "issues": [
+        {
+            "name": "Caster Is Damaged",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/star/3a-series/caster-is-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/LG/LG2C-20306-01.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lang 2C-20306-01 Rivet Nut, 3/8-16",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2C-20306-01",
+                    "fix_rate": 65.0,
+                    "list_price": "$ 6.63"
+                }
+            ]
+        },
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/star/3a-series/thermostat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2T-3B70A8929.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2T-3B70A8929 Control Thermostat, K Type, 100-200F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2T-3B70A8929",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 130.02"
+                }
+            ]
+        }
+    ]
+}

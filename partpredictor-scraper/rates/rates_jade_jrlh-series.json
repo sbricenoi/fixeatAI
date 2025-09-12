@@ -1,0 +1,94 @@
+{
+    "brand": "jade",
+    "model": "jrlh-series",
+    "issues": [
+        {
+            "name": "Unit Is Not Reaching Set Temperature",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/jade/jrlh-series/unit-is-not-reaching-set-temperature",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/JD/JD2100061729.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jade 2100061729 Temperature Controller Kit, Electronic, Programmed",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2100061729",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 566.61"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/JD/JD3000013928.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jade 3000013928 Sensor Probe, For Burner",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3000013928",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 27.05"
+                }
+            ]
+        },
+        {
+            "name": "Controller Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/jade/jrlh-series/controller-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/JD/JD2100061729.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jade 2100061729 Temperature Controller Kit, Electronic, Programmed",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2100061729",
+                    "fix_rate": 61.0,
+                    "list_price": "$ 566.61"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/JD/JD3000013928.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jade 3000013928 Sensor Probe, For Burner",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3000013928",
+                    "fix_rate": 44.0,
+                    "list_price": "$ 27.05"
+                }
+            ]
+        },
+        {
+            "name": "Fan Motor Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/jade/jrlh-series/fan-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/JD/JD3000013265.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jade 3000013265 Fan/Motor Assembly, Fa-12, Tc-1200",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3000013265",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 1,399.75"
+                }
+            ]
+        },
+        {
+            "name": "Probe Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/jade/jrlh-series/probe-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/JD/JD3000013928.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jade 3000013928 Sensor Probe, For Burner",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3000013928",
+                    "fix_rate": 67.0,
+                    "list_price": "$ 27.05"
+                }
+            ]
+        }
+    ]
+}

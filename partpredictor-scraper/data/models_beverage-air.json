@@ -1,0 +1,106 @@
+[
+    {
+        "name": "ER-24-1AS",
+        "parsed_name": "er-24-1as"
+    },
+    {
+        "name": "GF48HC",
+        "parsed_name": "gf48hc"
+    },
+    {
+        "name": "GF48HC-B",
+        "parsed_name": "gf48hc-b"
+    },
+    {
+        "name": "GF48HC-S",
+        "parsed_name": "gf48hc-s"
+    },
+    {
+        "name": "HF1HC-1HS",
+        "parsed_name": "hf1hc-1hs"
+    },
+    {
+        "name": "HF2-1S",
+        "parsed_name": "hf2-1s"
+    },
+    {
+        "name": "HFS1HC-1S",
+        "parsed_name": "hfs1hc-1s"
+    },
+    {
+        "name": "HR1-1HS",
+        "parsed_name": "hr1-1hs"
+    },
+    {
+        "name": "SM58",
+        "parsed_name": "sm58"
+    },
+    {
+        "name": "SPE27HC-12M",
+        "parsed_name": "spe27hc-12m"
+    },
+    {
+        "name": "SPE27HC-12M-B",
+        "parsed_name": "spe27hc-12m-b"
+    },
+    {
+        "name": "SPE48HC-12",
+        "parsed_name": "spe48hc-12"
+    },
+    {
+        "name": "SPE48HC-18M",
+        "parsed_name": "spe48hc-18m"
+    },
+    {
+        "name": "SPE60HC-16",
+        "parsed_name": "spe60hc-16"
+    },
+    {
+        "name": "SPE72HC-30M",
+        "parsed_name": "spe72hc-30m"
+    },
+    {
+        "name": "SPE72HC-30M-CL",
+        "parsed_name": "spe72hc-30m-cl"
+    },
+    {
+        "name": "SPE72HC-30M-STL",
+        "parsed_name": "spe72hc-30m-stl"
+    },
+    {
+        "name": "SPED27HC-12M-B",
+        "parsed_name": "sped27hc-12m-b"
+    },
+    {
+        "name": "UCR-27A-23",
+        "parsed_name": "ucr-27a-23"
+    },
+    {
+        "name": "UCR20",
+        "parsed_name": "ucr20"
+    },
+    {
+        "name": "UCR27A",
+        "parsed_name": "ucr27a"
+    },
+    {
+        "name": "UCR27AHC",
+        "parsed_name": "ucr27ahc"
+    },
+    {
+        "name": "UCR34",
+        "parsed_name": "ucr34"
+    },
+    {
+        "name": "UCR48A",
+        "parsed_name": "ucr48a"
+    },
+    {
+        "name": "WTR27A",
+        "parsed_name": "wtr27a"
+    },
+    {
+        "name": "WTRCS84-1",
+        "parsed_name": "wtrcs84-1"
+    }
+]

@@ -1,0 +1,1568 @@
+{
+    "brand": "blodgett",
+    "model": "dfg-100",
+    "issues": [
+        {
+            "name": "Door Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/blodgett/dfg-100/door-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL36037.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 36037 Lower Door Support and Microswitch Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n36037",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 956.80"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL4887.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 4887 Chain and Turnbuckle Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4887",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 172.64"
+                }
+            ]
+        },
+        {
+            "name": "Pilot Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/blodgett/dfg-100/pilot-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL56463.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 56463 Pilot Burner Kit, Natural Gas",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n56463",
+                    "fix_rate": 61.0,
+                    "list_price": "$ 246.49"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL20348.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 20348 Spark Box Assembly with Screws",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n20348",
+                    "fix_rate": 31.0,
+                    "list_price": "$ 491.92"
+                }
+            ]
+        },
+        {
+            "name": "Fan Motor Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/blodgett/dfg-100/fan-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL21134.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 21134 Fan with Screw, 120V, 50/60HZ, 30 CFM",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n21134",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 107.12"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL23077.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 23077 Capacitor for 2 Speed Motor",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n23077",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 162.24"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL20348.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 20348 Spark Box Assembly with Screws",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n20348",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 491.92"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL32291.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 32291 Blower Motor Kit, 115V, 2 Speed, 1/2HP No Wheel",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n32291",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 1,316.64"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL15853.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 15853 Blower Wheel Assembly, DFG/Zephaire",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n15853",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 330.72"
+                }
+            ]
+        },
+        {
+            "name": "Controller Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/blodgett/dfg-100/controller-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL18588.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 18588 Temperature Probe, 100K",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n18588",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 109.20"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL18578.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 18578 Temperature/Cook Controller",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n18578",
+                    "fix_rate": 23.0,
+                    "list_price": "$ 334.88"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL33152.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 33152 Temperature Control",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n33152",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 438.88"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL20348.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 20348 Spark Box Assembly with Screws",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n20348",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 491.92"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL18234.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 18234 Potentiometer, Remote",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n18234",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 92.56"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL57372.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 57372 Temperature Control Kit, 350 TDC",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n57372",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 271.44"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL30658.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 30658 Controller Solid State, Digital, 5 Key",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n30658",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 1,246.96"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL58720.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 58720 Decal, Panel, Dfg",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n58720",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 162.24"
+                }
+            ]
+        },
+        {
+            "name": "Capacitor Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/blodgett/dfg-100/capacitor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL23077.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 23077 Capacitor for 2 Speed Motor",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n23077",
+                    "fix_rate": 73.0,
+                    "list_price": "$ 162.24"
+                }
+            ]
+        },
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/blodgett/dfg-100/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL18868.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 18868 Mode Selector Switch",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n18868",
+                    "fix_rate": 42.0,
+                    "list_price": "$ 48.88"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL16686.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 16686 Control Knob",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n16686",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 31.20"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL32291.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 32291 Blower Motor Kit, 115V, 2 Speed, 1/2HP No Wheel",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n32291",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 1,316.64"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL23077.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 23077 Capacitor for 2 Speed Motor",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n23077",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 162.24"
+                }
+            ]
+        },
+        {
+            "name": "Ignition Module Is Malfunctioning",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/blodgett/dfg-100/ignition-module-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL20348.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 20348 Spark Box Assembly with Screws",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n20348",
+                    "fix_rate": 69.0,
+                    "list_price": "$ 491.92"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL56463.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 56463 Pilot Burner Kit, Natural Gas",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n56463",
+                    "fix_rate": 33.0,
+                    "list_price": "$ 246.49"
+                }
+            ]
+        },
+        {
+            "name": "Blower Motor Is Malfunctioning",
+            "idx": 7,
+            "url": "https://www.partstown.com/part-predictor/blodgett/dfg-100/blower-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL32291.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 32291 Blower Motor Kit, 115V, 2 Speed, 1/2HP No Wheel",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n32291",
+                    "fix_rate": 33.0,
+                    "list_price": "$ 1,316.64"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL23077.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 23077 Capacitor for 2 Speed Motor",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n23077",
+                    "fix_rate": 32.0,
+                    "list_price": "$ 162.24"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL15853.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 15853 Blower Wheel Assembly, DFG/Zephaire",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n15853",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 330.72"
+                }
+            ]
+        },
+        {
+            "name": "Motor Is Malfunctioning",
+            "idx": 8,
+            "url": "https://www.partstown.com/part-predictor/blodgett/dfg-100/motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL23077.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 23077 Capacitor for 2 Speed Motor",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n23077",
+                    "fix_rate": 42.0,
+                    "list_price": "$ 162.24"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL32291.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 32291 Blower Motor Kit, 115V, 2 Speed, 1/2HP No Wheel",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n32291",
+                    "fix_rate": 37.0,
+                    "list_price": "$ 1,316.64"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL15853.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 15853 Blower Wheel Assembly, DFG/Zephaire",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n15853",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 330.72"
+                }
+            ]
+        },
+        {
+            "name": "Ignitor Is Malfunctioning Or Damaged",
+            "idx": 9,
+            "url": "https://www.partstown.com/part-predictor/blodgett/dfg-100/ignitor-is-malfunctioning-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL56463.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 56463 Pilot Burner Kit, Natural Gas",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n56463",
+                    "fix_rate": 66.0,
+                    "list_price": "$ 246.49"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL20348.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 20348 Spark Box Assembly with Screws",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n20348",
+                    "fix_rate": 23.0,
+                    "list_price": "$ 491.92"
+                }
+            ]
+        },
+        {
+            "name": "Probe Is Malfunctioning",
+            "idx": 10,
+            "url": "https://www.partstown.com/part-predictor/blodgett/dfg-100/probe-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL18588.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 18588 Temperature Probe, 100K",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n18588",
+                    "fix_rate": 54.0,
+                    "list_price": "$ 109.20"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL57562.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 57562 Temperature Probe, 1K Ohm RTD",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n57562",
+                    "fix_rate": 20.0,
+                    "list_price": "$ 112.32"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL18578.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 18578 Temperature/Cook Controller",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n18578",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 334.88"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL20348.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 20348 Spark Box Assembly with Screws",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n20348",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 491.92"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL56463.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 56463 Pilot Burner Kit, Natural Gas",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n56463",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 246.49"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL18234.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 18234 Potentiometer, Remote",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n18234",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 92.56"
+                }
+            ]
+        },
+        {
+            "name": "Door Switch Is Malfunctioning",
+            "idx": 11,
+            "url": "https://www.partstown.com/part-predictor/blodgett/dfg-100/door-switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL35702.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 35702 Door Switch Kit with Hardware",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n35702",
+                    "fix_rate": 60.0,
+                    "list_price": "$ 189.28"
+                }
+            ]
+        },
+        {
+            "name": "Gas Valve Is Malfunctioning",
+            "idx": 12,
+            "url": "https://www.partstown.com/part-predictor/blodgett/dfg-100/gas-valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL30005.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 30005 Gas Valve, Natural Gas, 24V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n30005",
+                    "fix_rate": 63.0,
+                    "list_price": "$ 277.69"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL20348.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 20348 Spark Box Assembly with Screws",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n20348",
+                    "fix_rate": 30.0,
+                    "list_price": "$ 491.92"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL56463.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 56463 Pilot Burner Kit, Natural Gas",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n56463",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 246.49"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL18265.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 18265 Indicator Light, Red, 28V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n18265",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 31.20"
+                }
+            ]
+        },
+        {
+            "name": "Ingition Module Is Malfunctioning",
+            "idx": 13,
+            "url": "https://www.partstown.com/part-predictor/blodgett/dfg-100/ingition-module-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL20348.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 20348 Spark Box Assembly with Screws",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n20348",
+                    "fix_rate": 70.0,
+                    "list_price": "$ 491.92"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL56463.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 56463 Pilot Burner Kit, Natural Gas",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n56463",
+                    "fix_rate": 30.0,
+                    "list_price": "$ 246.49"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL21134.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 21134 Fan with Screw, 120V, 50/60HZ, 30 CFM",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n21134",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 107.12"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL18265.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 18265 Indicator Light, Red, 28V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n18265",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 31.20"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Not Reaching Set Temperature",
+            "idx": 14,
+            "url": "https://www.partstown.com/part-predictor/blodgett/dfg-100/unit-is-not-reaching-set-temperature",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL18588.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 18588 Temperature Probe, 100K",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n18588",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 109.20"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL20348.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 20348 Spark Box Assembly with Screws",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n20348",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 491.92"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL18578.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 18578 Temperature/Cook Controller",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n18578",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 334.88"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL56463.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 56463 Pilot Burner Kit, Natural Gas",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n56463",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 246.49"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL18234.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 18234 Potentiometer, Remote",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n18234",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 92.56"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL30005.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 30005 Gas Valve, Natural Gas, 24V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n30005",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 277.69"
+                }
+            ]
+        },
+        {
+            "name": "Cooling Fan Is Malfunctioning",
+            "idx": 15,
+            "url": "https://www.partstown.com/part-predictor/blodgett/dfg-100/cooling-fan-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL21134.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 21134 Fan with Screw, 120V, 50/60HZ, 30 CFM",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n21134",
+                    "fix_rate": 68.0,
+                    "list_price": "$ 107.12"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL20348.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 20348 Spark Box Assembly with Screws",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n20348",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 491.92"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL18588.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 18588 Temperature Probe, 100K",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n18588",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 109.20"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL18265.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 18265 Indicator Light, Red, 28V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n18265",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 31.20"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL56463.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 56463 Pilot Burner Kit, Natural Gas",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n56463",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 246.49"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL18578.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 18578 Temperature/Cook Controller",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n18578",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 334.88"
+                }
+            ]
+        },
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 16,
+            "url": "https://www.partstown.com/part-predictor/blodgett/dfg-100/thermostat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL20348.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 20348 Spark Box Assembly with Screws",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n20348",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 491.92"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL18578.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 18578 Temperature/Cook Controller",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n18578",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 334.88"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL18588.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 18588 Temperature Probe, 100K",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n18588",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 109.20"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL57372.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 57372 Temperature Control Kit, 350 TDC",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n57372",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 271.44"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL57562.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 57562 Temperature Probe, 1K Ohm RTD",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n57562",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 112.32"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL56463.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 56463 Pilot Burner Kit, Natural Gas",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n56463",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 246.49"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL18234.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 18234 Potentiometer, Remote",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n18234",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 92.56"
+                }
+            ]
+        },
+        {
+            "name": "Wiring Issue",
+            "idx": 17,
+            "url": "https://www.partstown.com/part-predictor/blodgett/dfg-100/wiring-issue",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL56463.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 56463 Pilot Burner Kit, Natural Gas",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n56463",
+                    "fix_rate": 67.0,
+                    "list_price": "$ 246.49"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL20348.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 20348 Spark Box Assembly with Screws",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n20348",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 491.92"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL18588.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 18588 Temperature Probe, 100K",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n18588",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 109.20"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL18578.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 18578 Temperature/Cook Controller",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n18578",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 334.88"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL30005.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 30005 Gas Valve, Natural Gas, 24V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n30005",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 277.69"
+                }
+            ]
+        },
+        {
+            "name": "Keypad Is Not Responding Or Damaged",
+            "idx": 18,
+            "url": "https://www.partstown.com/part-predictor/blodgett/dfg-100/keypad-is-not-responding-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL58720.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 58720 Decal, Panel, Dfg",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n58720",
+                    "fix_rate": 63.0,
+                    "list_price": "$ 162.24"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL58718.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 58718 Digital Controller Kit, Solid State RTD",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n58718",
+                    "fix_rate": 43.0,
+                    "list_price": "$ 787.28"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL30658.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 30658 Controller Solid State, Digital, 5 Key",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n30658",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 1,246.96"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL56463.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 56463 Pilot Burner Kit, Natural Gas",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n56463",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 246.49"
+                }
+            ]
+        },
+        {
+            "name": "Filter Pump Is Not Starting",
+            "idx": 19,
+            "url": "https://www.partstown.com/part-predictor/blodgett/dfg-100/filter-pump-is-not-starting",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL23077.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 23077 Capacitor for 2 Speed Motor",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n23077",
+                    "fix_rate": 59.0,
+                    "list_price": "$ 162.24"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL32291.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 32291 Blower Motor Kit, 115V, 2 Speed, 1/2HP No Wheel",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n32291",
+                    "fix_rate": 27.0,
+                    "list_price": "$ 1,316.64"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL15853.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 15853 Blower Wheel Assembly, DFG/Zephaire",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n15853",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 330.72"
+                }
+            ]
+        },
+        {
+            "name": "Flame Sensor Is Malfunctioning",
+            "idx": 20,
+            "url": "https://www.partstown.com/part-predictor/blodgett/dfg-100/flame-sensor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL56463.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 56463 Pilot Burner Kit, Natural Gas",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n56463",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 246.49"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL20348.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 20348 Spark Box Assembly with Screws",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n20348",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 491.92"
+                }
+            ]
+        },
+        {
+            "name": "Burner Is Malfunctioning Or Damaged",
+            "idx": 21,
+            "url": "https://www.partstown.com/part-predictor/blodgett/dfg-100/burner-is-malfunctioning-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL56463.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 56463 Pilot Burner Kit, Natural Gas",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n56463",
+                    "fix_rate": 31.0,
+                    "list_price": "$ 246.49"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL20348.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 20348 Spark Box Assembly with Screws",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n20348",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 491.92"
+                }
+            ]
+        },
+        {
+            "name": "Indicator Light Is Malfunctioning",
+            "idx": 22,
+            "url": "https://www.partstown.com/part-predictor/blodgett/dfg-100/indicator-light-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL18265.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 18265 Indicator Light, Red, 28V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n18265",
+                    "fix_rate": 89.0,
+                    "list_price": "$ 31.20"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL20348.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 20348 Spark Box Assembly with Screws",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n20348",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 491.92"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL21134.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 21134 Fan with Screw, 120V, 50/60HZ, 30 CFM",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n21134",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 107.12"
+                }
+            ]
+        },
+        {
+            "name": "Breaker Is Tripping Or Wont Reset",
+            "idx": 23,
+            "url": "https://www.partstown.com/part-predictor/blodgett/dfg-100/breaker-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL20348.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 20348 Spark Box Assembly with Screws",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n20348",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 491.92"
+                }
+            ]
+        },
+        {
+            "name": "Unit Won't Turn On",
+            "idx": 24,
+            "url": "https://www.partstown.com/part-predictor/blodgett/dfg-100/unit-wont-turn-on",
+            "results": []
+        },
+        {
+            "name": "Unit Is Malfunctioning",
+            "idx": 25,
+            "url": "https://www.partstown.com/part-predictor/blodgett/dfg-100/unit-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL20348.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 20348 Spark Box Assembly with Screws",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n20348",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 491.92"
+                }
+            ]
+        },
+        {
+            "name": "Potentiometer Is Malfunctioning",
+            "idx": 26,
+            "url": "https://www.partstown.com/part-predictor/blodgett/dfg-100/potentiometer-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL18234.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 18234 Potentiometer, Remote",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n18234",
+                    "fix_rate": 44.0,
+                    "list_price": "$ 92.56"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL18578.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 18578 Temperature/Cook Controller",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n18578",
+                    "fix_rate": 33.0,
+                    "list_price": "$ 334.88"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL18588.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 18588 Temperature Probe, 100K",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n18588",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 109.20"
+                }
+            ]
+        },
+        {
+            "name": "Transformer Is Malfunctioning",
+            "idx": 27,
+            "url": "https://www.partstown.com/part-predictor/blodgett/dfg-100/transformer-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL20355.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 20355 Transformer, 115/24V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n20355",
+                    "fix_rate": 64.0,
+                    "list_price": "$ 92.56"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL20348.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 20348 Spark Box Assembly with Screws",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n20348",
+                    "fix_rate": 36.0,
+                    "list_price": "$ 491.92"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Leaking",
+            "idx": 28,
+            "url": "https://www.partstown.com/part-predictor/blodgett/dfg-100/unit-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL20348.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 20348 Spark Box Assembly with Screws",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n20348",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 491.92"
+                }
+            ]
+        },
+        {
+            "name": "Motor Is Making Noise",
+            "idx": 29,
+            "url": "https://www.partstown.com/part-predictor/blodgett/dfg-100/motor-is-making-noise",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL32291.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 32291 Blower Motor Kit, 115V, 2 Speed, 1/2HP No Wheel",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n32291",
+                    "fix_rate": 74.0,
+                    "list_price": "$ 1,316.64"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL15853.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 15853 Blower Wheel Assembly, DFG/Zephaire",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n15853",
+                    "fix_rate": 58.0,
+                    "list_price": "$ 330.72"
+                }
+            ]
+        },
+        {
+            "name": "Relay Is Malfunctioning",
+            "idx": 30,
+            "url": "https://www.partstown.com/part-predictor/blodgett/dfg-100/relay-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL18588.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 18588 Temperature Probe, 100K",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n18588",
+                    "fix_rate": 37.0,
+                    "list_price": "$ 109.20"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL18578.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 18578 Temperature/Cook Controller",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n18578",
+                    "fix_rate": 32.0,
+                    "list_price": "$ 334.88"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL18587.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 18587 Relay and Bracket Kit, 3PDT, 120V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n18587",
+                    "fix_rate": 32.0,
+                    "list_price": "$ 183.04"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL18234.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 18234 Potentiometer, Remote",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n18234",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 92.56"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Not Lighting",
+            "idx": 31,
+            "url": "https://www.partstown.com/part-predictor/blodgett/dfg-100/unit-is-not-lighting",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL20348.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 20348 Spark Box Assembly with Screws",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n20348",
+                    "fix_rate": 53.0,
+                    "list_price": "$ 491.92"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL56463.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 56463 Pilot Burner Kit, Natural Gas",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n56463",
+                    "fix_rate": 53.0,
+                    "list_price": "$ 246.49"
+                }
+            ]
+        },
+        {
+            "name": "Fire Coming Out Of Unit",
+            "idx": 32,
+            "url": "https://www.partstown.com/part-predictor/blodgett/dfg-100/fire-coming-out-of-unit",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL20348.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 20348 Spark Box Assembly with Screws",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n20348",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 491.92"
+                }
+            ]
+        },
+        {
+            "name": "Valve Is Malfunctioning",
+            "idx": 33,
+            "url": "https://www.partstown.com/part-predictor/blodgett/dfg-100/valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL30005.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 30005 Gas Valve, Natural Gas, 24V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n30005",
+                    "fix_rate": 71.0,
+                    "list_price": "$ 277.69"
+                }
+            ]
+        },
+        {
+            "name": "Gasket Is Defective Or Leaking",
+            "idx": 34,
+            "url": "https://www.partstown.com/part-predictor/blodgett/dfg-100/gasket-is-defective-or-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL36876.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 36876 Door Gasket Kit, Stainless Steel",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n36876",
+                    "fix_rate": 47.0,
+                    "list_price": "$ 222.56"
+                }
+            ]
+        },
+        {
+            "name": "Light Is Not Functioning Or Damaged",
+            "idx": 35,
+            "url": "https://www.partstown.com/part-predictor/blodgett/dfg-100/light-is-not-functioning-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL18265.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 18265 Indicator Light, Red, 28V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n18265",
+                    "fix_rate": 80.0,
+                    "list_price": "$ 31.20"
+                }
+            ]
+        },
+        {
+            "name": "Blower Wheel Is Malfunctioning",
+            "idx": 36,
+            "url": "https://www.partstown.com/part-predictor/blodgett/dfg-100/blower-wheel-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL32291.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 32291 Blower Motor Kit, 115V, 2 Speed, 1/2HP No Wheel",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n32291",
+                    "fix_rate": 64.0,
+                    "list_price": "$ 1,316.64"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL15853.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 15853 Blower Wheel Assembly, DFG/Zephaire",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n15853",
+                    "fix_rate": 64.0,
+                    "list_price": "$ 330.72"
+                }
+            ]
+        },
+        {
+            "name": "Buzzer Is Malfunctioning",
+            "idx": 37,
+            "url": "https://www.partstown.com/part-predictor/blodgett/dfg-100/buzzer-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL20349.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 20349 Buzzer, 120V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n20349",
+                    "fix_rate": 71.0,
+                    "list_price": "$ 122.72"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL18225.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 18225 Timer, 60 Minute, 120V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n18225",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 202.80"
+                }
+            ]
+        },
+        {
+            "name": "Handle Is Defective",
+            "idx": 38,
+            "url": "https://www.partstown.com/part-predictor/blodgett/dfg-100/handle-is-defective",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL17558.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 17558 Door Handle Assembly, Conv Oven",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n17558",
+                    "fix_rate": 46.0,
+                    "list_price": "$ 277.68"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Not Maintaining Temperature",
+            "idx": 39,
+            "url": "https://www.partstown.com/part-predictor/blodgett/dfg-100/unit-is-not-maintaining-temperature",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL18588.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 18588 Temperature Probe, 100K",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n18588",
+                    "fix_rate": 54.0,
+                    "list_price": "$ 109.20"
+                }
+            ]
+        },
+        {
+            "name": "Hinge Is Defective Or Damaged",
+            "idx": 40,
+            "url": "https://www.partstown.com/part-predictor/blodgett/dfg-100/hinge-is-defective-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL36037.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 36037 Lower Door Support and Microswitch Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n36037",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 956.80"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Making Noise",
+            "idx": 41,
+            "url": "https://www.partstown.com/part-predictor/blodgett/dfg-100/unit-is-making-noise",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL32291.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 32291 Blower Motor Kit, 115V, 2 Speed, 1/2HP No Wheel",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n32291",
+                    "fix_rate": 67.0,
+                    "list_price": "$ 1,316.64"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL15853.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 15853 Blower Wheel Assembly, DFG/Zephaire",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n15853",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 330.72"
+                }
+            ]
+        },
+        {
+            "name": "Door Gasket Is Defective",
+            "idx": 42,
+            "url": "https://www.partstown.com/part-predictor/blodgett/dfg-100/door-gasket-is-defective",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL36876.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 36876 Door Gasket Kit, Stainless Steel",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n36876",
+                    "fix_rate": 60.0,
+                    "list_price": "$ 222.56"
+                }
+            ]
+        },
+        {
+            "name": "Not Sensing Pilot",
+            "idx": 43,
+            "url": "https://www.partstown.com/part-predictor/blodgett/dfg-100/not-sensing-pilot",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL20348.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 20348 Spark Box Assembly with Screws",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n20348",
+                    "fix_rate": 60.0,
+                    "list_price": "$ 491.92"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL56463.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 56463 Pilot Burner Kit, Natural Gas",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n56463",
+                    "fix_rate": 60.0,
+                    "list_price": "$ 246.49"
+                }
+            ]
+        },
+        {
+            "name": "Run Capacitor Is Malfunctioning",
+            "idx": 44,
+            "url": "https://www.partstown.com/part-predictor/blodgett/dfg-100/run-capacitor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL23077.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 23077 Capacitor for 2 Speed Motor",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n23077",
+                    "fix_rate": 60.0,
+                    "list_price": "$ 162.24"
+                }
+            ]
+        },
+        {
+            "name": "Fan Motor Is Making Noise",
+            "idx": 45,
+            "url": "https://www.partstown.com/part-predictor/blodgett/dfg-100/fan-motor-is-making-noise",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL32291.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 32291 Blower Motor Kit, 115V, 2 Speed, 1/2HP No Wheel",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n32291",
+                    "fix_rate": 56.0,
+                    "list_price": "$ 1,316.64"
+                }
+            ]
+        },
+        {
+            "name": "Pilot Tube Is Leaking Or Damaged",
+            "idx": 46,
+            "url": "https://www.partstown.com/part-predictor/blodgett/dfg-100/pilot-tube-is-leaking-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL56463.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 56463 Pilot Burner Kit, Natural Gas",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n56463",
+                    "fix_rate": 88.0,
+                    "list_price": "$ 246.49"
+                }
+            ]
+        },
+        {
+            "name": "Sprocket Is Damaged",
+            "idx": 47,
+            "url": "https://www.partstown.com/part-predictor/blodgett/dfg-100/sprocket-is-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL36037.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 36037 Lower Door Support and Microswitch Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n36037",
+                    "fix_rate": 75.0,
+                    "list_price": "$ 956.80"
+                }
+            ]
+        },
+        {
+            "name": "Bushing Is Damaged",
+            "idx": 48,
+            "url": "https://www.partstown.com/part-predictor/blodgett/dfg-100/bushing-is-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL90004.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 90004 BEARING, DOOR HINGE, SET OF 2",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n90004",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 28.00"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,171 @@
+{
+    "brand": "garland",
+    "model": "g36-6r",
+    "issues": [
+        {
+            "name": "Pilot Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/garland/g36-6r/pilot-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4523506.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4523506 Oven Thermocouple, 60\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4523506",
+                    "fix_rate": 44.0,
+                    "list_price": "$ 53.09"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL2200702.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 2200702 Orifice, Pilot Burner, #32 Natural Gas",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2200702",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 22.77"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GLCK4603990.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland CK4603990 Thermostat, Oven, SIT, 1.0MM",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nCK4603990",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 277.63"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL2200700.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 2200700 Pilot, Right Hand",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2200700",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 34.94"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4524826.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4524826 Pilot Burner Kit, Natural Gas, LH Side of Buner",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4524826",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 278.41"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GLCK4523127.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland CK4523127 Pilot Kit for Open Top, Tubing and (2) Tips",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nCK4523127",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 88.42"
+                }
+            ]
+        },
+        {
+            "name": "Thermocouple Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/garland/g36-6r/thermocouple-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4523506.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4523506 Oven Thermocouple, 60\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4523506",
+                    "fix_rate": 87.0,
+                    "list_price": "$ 53.09"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GLCK4603990.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland CK4603990 Thermostat, Oven, SIT, 1.0MM",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nCK4603990",
+                    "fix_rate": 40.0,
+                    "list_price": "$ 277.63"
+                }
+            ]
+        },
+        {
+            "name": "Valve Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/garland/g36-6r/valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4523506.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4523506 Oven Thermocouple, 60\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4523506",
+                    "fix_rate": 38.0,
+                    "list_price": "$ 53.09"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GLCK4603990.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland CK4603990 Thermostat, Oven, SIT, 1.0MM",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nCK4603990",
+                    "fix_rate": 38.0,
+                    "list_price": "$ 277.63"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4530671.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4530671 Burner Valve without Hood, Open Top",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4530671",
+                    "fix_rate": 38.0,
+                    "list_price": "$ 47.13"
+                }
+            ]
+        },
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/garland/g36-6r/thermostat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GLCK4603990.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland CK4603990 Thermostat, Oven, SIT, 1.0MM",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nCK4603990",
+                    "fix_rate": 91.0,
+                    "list_price": "$ 277.63"
+                }
+            ]
+        },
+        {
+            "name": "Burner Valve Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/garland/g36-6r/burner-valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4530671.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4530671 Burner Valve without Hood, Open Top",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4530671",
+                    "fix_rate": 56.0,
+                    "list_price": "$ 47.13"
+                }
+            ]
+        }
+    ]
+}

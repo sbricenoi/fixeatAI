@@ -1,0 +1,23 @@
+{
+    "brand": "southbend-range",
+    "model": "336d",
+    "issues": [
+        {
+            "name": "Pilot Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/southbend-range/336d/pilot-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1180866.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1180866 Pilot Safety Valve, Natural/Propane",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1180866",
+                    "fix_rate": 31.0,
+                    "list_price": "$ 512.07"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "brand": "hatco",
+    "model": "abb-series",
+    "issues": [
+        {
+            "name": "Contactor Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/hatco/abb-series/contactor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/HT/HT02.01.015.00.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Hatco 02.01.015.00 Contactor, 3 Pole, 120V, 50 Amp",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n02.01.015.00",
+                    "fix_rate": 86.0,
+                    "list_price": "$ 101.00"
+                }
+            ]
+        }
+    ]
+}

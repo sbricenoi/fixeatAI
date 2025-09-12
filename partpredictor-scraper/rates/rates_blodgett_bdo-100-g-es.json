@@ -1,0 +1,361 @@
+{
+    "brand": "blodgett",
+    "model": "bdo-100-g-es",
+    "issues": [
+        {
+            "name": "Motor Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/blodgett/bdo-100-g-es/motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL56966.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 56966 Blower Motor, AC500 XCEL/DFG/SHO, 3/4HP",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n56966",
+                    "fix_rate": 63.0,
+                    "list_price": "$ 1,740.96"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL55346.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 55346 Blower Wheel",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n55346",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 153.92"
+                }
+            ]
+        },
+        {
+            "name": "Door Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/blodgett/bdo-100-g-es/door-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL37003.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 37003 Lower Door Support/Turnbuckle Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n37003",
+                    "fix_rate": 33.0,
+                    "list_price": "$ 865.28"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL21097.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 21097 Door Handle",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n21097",
+                    "fix_rate": 30.0,
+                    "list_price": "$ 134.16"
+                }
+            ]
+        },
+        {
+            "name": "Fan Motor Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/blodgett/bdo-100-g-es/fan-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL56966.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 56966 Blower Motor, AC500 XCEL/DFG/SHO, 3/4HP",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n56966",
+                    "fix_rate": 38.0,
+                    "list_price": "$ 1,740.96"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL55346.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 55346 Blower Wheel",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n55346",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 153.92"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL54897.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 54897 Blower, Fan, 12Vdc",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n54897",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 187.20"
+                }
+            ]
+        },
+        {
+            "name": "Blower Motor Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/blodgett/bdo-100-g-es/blower-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL56966.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 56966 Blower Motor, AC500 XCEL/DFG/SHO, 3/4HP",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n56966",
+                    "fix_rate": 33.0,
+                    "list_price": "$ 1,740.96"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL18588.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 18588 Temperature Probe, 100K",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n18588",
+                    "fix_rate": 24.0,
+                    "list_price": "$ 109.20"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL55346.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 55346 Blower Wheel",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n55346",
+                    "fix_rate": 24.0,
+                    "list_price": "$ 153.92"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL54897.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 54897 Blower, Fan, 12Vdc",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n54897",
+                    "fix_rate": 24.0,
+                    "list_price": "$ 187.20"
+                }
+            ]
+        },
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/blodgett/bdo-100-g-es/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL56966.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 56966 Blower Motor, AC500 XCEL/DFG/SHO, 3/4HP",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n56966",
+                    "fix_rate": 47.0,
+                    "list_price": "$ 1,740.96"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL55346.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 55346 Blower Wheel",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n55346",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 153.92"
+                }
+            ]
+        },
+        {
+            "name": "Controller Is Malfunctioning",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/blodgett/bdo-100-g-es/controller-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL54388.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 54388 Ignition Module, Fenwall HV100G",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n54388",
+                    "fix_rate": 42.0,
+                    "list_price": "$ 370.24"
+                }
+            ]
+        },
+        {
+            "name": "Ignition Module Is Malfunctioning",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/blodgett/bdo-100-g-es/ignition-module-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL54388.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 54388 Ignition Module, Fenwall HV100G",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n54388",
+                    "fix_rate": 55.0,
+                    "list_price": "$ 370.24"
+                }
+            ]
+        },
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 7,
+            "url": "https://www.partstown.com/part-predictor/blodgett/bdo-100-g-es/thermostat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL18588.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 18588 Temperature Probe, 100K",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n18588",
+                    "fix_rate": 67.0,
+                    "list_price": "$ 109.20"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL33152.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 33152 Temperature Control",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n33152",
+                    "fix_rate": 56.0,
+                    "list_price": "$ 438.88"
+                }
+            ]
+        },
+        {
+            "name": "Hi-limit Is Tripping Or Wont Reset",
+            "idx": 8,
+            "url": "https://www.partstown.com/part-predictor/blodgett/bdo-100-g-es/hi-limit-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL18588.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 18588 Temperature Probe, 100K",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n18588",
+                    "fix_rate": 75.0,
+                    "list_price": "$ 109.20"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL58025.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 58025 Hi Limit Thermostat",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n58025",
+                    "fix_rate": 62.0,
+                    "list_price": "$ 226.72"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Not Reaching Set Temperature",
+            "idx": 9,
+            "url": "https://www.partstown.com/part-predictor/blodgett/bdo-100-g-es/unit-is-not-reaching-set-temperature",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL18588.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 18588 Temperature Probe, 100K",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n18588",
+                    "fix_rate": 62.0,
+                    "list_price": "$ 109.20"
+                }
+            ]
+        },
+        {
+            "name": "Gas Valve Is Malfunctioning",
+            "idx": 10,
+            "url": "https://www.partstown.com/part-predictor/blodgett/bdo-100-g-es/gas-valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL54938.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 54938 Gas Valve, 24V, Natural Gas, White Rogers",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n54938",
+                    "fix_rate": 83.0,
+                    "list_price": "$ 563.68"
+                }
+            ]
+        },
+        {
+            "name": "Handle Is Defective",
+            "idx": 11,
+            "url": "https://www.partstown.com/part-predictor/blodgett/bdo-100-g-es/handle-is-defective",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL21097.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 21097 Door Handle",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n21097",
+                    "fix_rate": 83.0,
+                    "list_price": "$ 134.16"
+                }
+            ]
+        },
+        {
+            "name": "Probe Is Malfunctioning",
+            "idx": 12,
+            "url": "https://www.partstown.com/part-predictor/blodgett/bdo-100-g-es/probe-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL18588.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 18588 Temperature Probe, 100K",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n18588",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 109.20"
+                }
+            ]
+        },
+        {
+            "name": "Blower Wheel Is Malfunctioning",
+            "idx": 13,
+            "url": "https://www.partstown.com/part-predictor/blodgett/bdo-100-g-es/blower-wheel-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL56966.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 56966 Blower Motor, AC500 XCEL/DFG/SHO, 3/4HP",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n56966",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 1,740.96"
+                }
+            ]
+        },
+        {
+            "name": "Transformer Is Malfunctioning",
+            "idx": 14,
+            "url": "https://www.partstown.com/part-predictor/blodgett/bdo-100-g-es/transformer-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL20355.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 20355 Transformer, 115/24V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n20355",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 92.56"
+                }
+            ]
+        }
+    ]
+}

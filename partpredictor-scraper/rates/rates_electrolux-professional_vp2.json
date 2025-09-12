@@ -1,0 +1,147 @@
+{
+    "brand": "electrolux-professional",
+    "model": "vp2",
+    "issues": [
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/electrolux-professional/vp2/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/ELX/ELX0D7734.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Electrolux Professional 0D7734 Command Switch Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n0D7734",
+                    "fix_rate": 76.0,
+                    "list_price": "$ 138.76"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/ELX/ELX0D7855.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Electrolux Professional 0D7855 Magnetic Detector",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n0D7855",
+                    "fix_rate": 24.0,
+                    "list_price": "$ 36.59"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/ELX/ELX0D7617.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Electrolux Professional 0D7617 Control Board",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n0D7617",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 526.74"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/ELX/ELX0D7622.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Electrolux Professional 0D7622 Timer Switch, SP-VP2",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n0D7622",
+                    "fix_rate": 20.0,
+                    "list_price": "$ 104.63"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/ELX/ELX0D7628.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Electrolux Professional 0D7628 Magnet, Lid",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n0D7628",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 25.59"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/ELX/ELX0D7629.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Electrolux Professional 0D7629 Magnet Cover, w/ 2 Screws, Black, Models SP-VP2/VP2, Salad Spinner",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n0D7629",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 16.96"
+                }
+            ]
+        },
+        {
+            "name": "Unit Won't Turn On",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/electrolux-professional/vp2/unit-wont-turn-on",
+            "results": []
+        },
+        {
+            "name": "Keypad Is Not Responding Or Damaged",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/electrolux-professional/vp2/keypad-is-not-responding-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/ELX/ELX0D7734.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Electrolux Professional 0D7734 Command Switch Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n0D7734",
+                    "fix_rate": 93.0,
+                    "list_price": "$ 138.76"
+                }
+            ]
+        },
+        {
+            "name": "Motor Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/electrolux-professional/vp2/motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/ELX/ELX0D7734.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Electrolux Professional 0D7734 Command Switch Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n0D7734",
+                    "fix_rate": 42.0,
+                    "list_price": "$ 138.76"
+                }
+            ]
+        },
+        {
+            "name": "Contactor Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/electrolux-professional/vp2/contactor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/ELX/ELX0D7617.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Electrolux Professional 0D7617 Control Board",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n0D7617",
+                    "fix_rate": 71.0,
+                    "list_price": "$ 526.74"
+                }
+            ]
+        },
+        {
+            "name": "Controller Is Malfunctioning",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/electrolux-professional/vp2/controller-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/ELX/ELX0D7617.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Electrolux Professional 0D7617 Control Board",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n0D7617",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 526.74"
+                }
+            ]
+        }
+    ]
+}

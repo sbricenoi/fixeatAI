@@ -1,0 +1,209 @@
+{
+    "brand": "antunes",
+    "model": "rs-1000",
+    "issues": [
+        {
+            "name": "Display Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/antunes/rs-1000/display-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001897.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001897 KIT DISPLAY BOARD",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001897",
+                    "fix_rate": 83.0,
+                    "list_price": "$ 1,227.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA1002726.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 1002726 Label, Control, RS",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1002726",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 89.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7002310.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7002310 Control Board Kit for Noodles",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7002310",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 517.00"
+                }
+            ]
+        },
+        {
+            "name": "Hi-limit Is Tripping Or Wont Reset",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/antunes/rs-1000/hi-limit-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7000272.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7000272 Hi-Limit Thermostat",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7000272",
+                    "fix_rate": 68.0,
+                    "list_price": "$ 184.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001143.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001143 Relay, Solid State, Random Phase, 50A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001143",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 117.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7002310.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7002310 Control Board Kit for Noodles",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7002310",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 517.00"
+                }
+            ]
+        },
+        {
+            "name": "Breaker Is Tripping Or Wont Reset",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/antunes/rs-1000/breaker-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001609.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001609 Terminal Block, 3 Pole, RS-1000",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001609",
+                    "fix_rate": 36.0,
+                    "list_price": "$ 20.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7002310.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7002310 Control Board Kit for Noodles",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7002310",
+                    "fix_rate": 32.0,
+                    "list_price": "$ 517.00"
+                }
+            ]
+        },
+        {
+            "name": "Regulator Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/antunes/rs-1000/regulator-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7002319.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7002319 WATER REGULATOR KIT",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7002319",
+                    "fix_rate": 59.0,
+                    "list_price": "$ 331.00"
+                }
+            ]
+        },
+        {
+            "name": "Controller Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/antunes/rs-1000/controller-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7002310.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7002310 Control Board Kit for Noodles",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7002310",
+                    "fix_rate": 64.0,
+                    "list_price": "$ 517.00"
+                }
+            ]
+        },
+        {
+            "name": "Relay Is Malfunctioning",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/antunes/rs-1000/relay-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001143.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001143 Relay, Solid State, Random Phase, 50A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001143",
+                    "fix_rate": 91.0,
+                    "list_price": "$ 117.00"
+                }
+            ]
+        },
+        {
+            "name": "Wiring Issue",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/antunes/rs-1000/wiring-issue",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7002310.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7002310 Control Board Kit for Noodles",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7002310",
+                    "fix_rate": 55.0,
+                    "list_price": "$ 517.00"
+                }
+            ]
+        },
+        {
+            "name": "Power Cord Is Malfunctioning",
+            "idx": 7,
+            "url": "https://www.partstown.com/part-predictor/antunes/rs-1000/power-cord-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7001897.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7001897 KIT DISPLAY BOARD",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7001897",
+                    "fix_rate": 70.0,
+                    "list_price": "$ 1,227.00"
+                }
+            ]
+        },
+        {
+            "name": "Transformer Is Malfunctioning",
+            "idx": 8,
+            "url": "https://www.partstown.com/part-predictor/antunes/rs-1000/transformer-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/AJA/AJA7000319.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Antunes 7000319 Transformer, Pri 115/230V - Sec 24V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n7000319",
+                    "fix_rate": 88.0,
+                    "list_price": "$ 93.00"
+                }
+            ]
+        }
+    ]
+}

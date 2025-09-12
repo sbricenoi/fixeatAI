@@ -1,0 +1,33 @@
+{
+    "brand": "star",
+    "model": "50sce",
+    "issues": [
+        {
+            "name": "Roller Is Damaged Or Missing",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/star/50sce/roller-is-damaged-or-missing",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2P-Z2174.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2P-Z2174 Tube Guide/Bushing, Hot Dog Rollers",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2P-Z2174",
+                    "fix_rate": 32.0,
+                    "list_price": "$ 6.83"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2I-Z21293.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2I-Z21293 O-Ring 1-1/16\"ID x 1-3/16\"OD",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2I-Z21293",
+                    "fix_rate": 27.0,
+                    "list_price": "$ 0.59"
+                }
+            ]
+        }
+    ]
+}

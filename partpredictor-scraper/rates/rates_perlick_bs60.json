@@ -1,0 +1,40 @@
+{
+    "brand": "perlick",
+    "model": "bs60",
+    "issues": [
+        {
+            "name": "Unit Is Not Reaching Set Temperature",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/perlick/bs60/unit-is-not-reaching-set-temperature",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PE/PE61283.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Perlick 61283 Temperature Control",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n61283",
+                    "fix_rate": 30.0,
+                    "list_price": "$ 45.00"
+                }
+            ]
+        },
+        {
+            "name": "Fan Motor Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/perlick/bs60/fan-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PE/PEC15239A.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Perlick C15239A Fan Motor, 120V, 60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nC15239A",
+                    "fix_rate": 71.0,
+                    "list_price": "$ 145.00"
+                }
+            ]
+        }
+    ]
+}

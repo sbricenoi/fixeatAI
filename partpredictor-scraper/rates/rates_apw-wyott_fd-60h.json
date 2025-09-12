@@ -1,0 +1,128 @@
+{
+    "brand": "apw-wyott",
+    "model": "fd-60h",
+    "issues": [
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/apw-wyott/fd-60h/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/APW/APW2E-67005.view?thumb&image.rules=G0&w=200",
+                    "product_name": "APW Wyott 2E-67005 Toggle Switch, DPDT, 125V, 17A2",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2E-67005",
+                    "fix_rate": 40.0,
+                    "list_price": "$ 74.70"
+                }
+            ]
+        },
+        {
+            "name": "Light Is Not Functioning Or Damaged",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/apw-wyott/fd-60h/light-is-not-functioning-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/APW/APW2E-67005.view?thumb&image.rules=G0&w=200",
+                    "product_name": "APW Wyott 2E-67005 Toggle Switch, DPDT, 125V, 17A2",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2E-67005",
+                    "fix_rate": 20.0,
+                    "list_price": "$ 74.70"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/APW/APW2N-75809.view?thumb&image.rules=G0&w=200",
+                    "product_name": "APW Wyott 2N-75809 Element, HW, 208V, 1610W, FD-60",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2N-75809",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 90.16"
+                }
+            ]
+        },
+        {
+            "name": "Breaker Is Tripping Or Wont Reset",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/apw-wyott/fd-60h/breaker-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/APW/APW2N-75809.view?thumb&image.rules=G0&w=200",
+                    "product_name": "APW Wyott 2N-75809 Element, HW, 208V, 1610W, FD-60",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2N-75809",
+                    "fix_rate": 32.0,
+                    "list_price": "$ 90.16"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/APW/APW2E-67005.view?thumb&image.rules=G0&w=200",
+                    "product_name": "APW Wyott 2E-67005 Toggle Switch, DPDT, 125V, 17A2",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2E-67005",
+                    "fix_rate": 24.0,
+                    "list_price": "$ 74.70"
+                }
+            ]
+        },
+        {
+            "name": "Wiring Issue",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/apw-wyott/fd-60h/wiring-issue",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/APW/APW2E-67005.view?thumb&image.rules=G0&w=200",
+                    "product_name": "APW Wyott 2E-67005 Toggle Switch, DPDT, 125V, 17A2",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2E-67005",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 74.70"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Overheating",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/apw-wyott/fd-60h/unit-is-overheating",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/APW/APW2E-67005.view?thumb&image.rules=G0&w=200",
+                    "product_name": "APW Wyott 2E-67005 Toggle Switch, DPDT, 125V, 17A2",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2E-67005",
+                    "fix_rate": 42.0,
+                    "list_price": "$ 74.70"
+                }
+            ]
+        },
+        {
+            "name": "Heating Element Is Malfunctioning",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/apw-wyott/fd-60h/heating-element-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/APW/APW2N-75809.view?thumb&image.rules=G0&w=200",
+                    "product_name": "APW Wyott 2N-75809 Element, HW, 208V, 1610W, FD-60",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2N-75809",
+                    "fix_rate": 67.0,
+                    "list_price": "$ 90.16"
+                }
+            ]
+        }
+    ]
+}

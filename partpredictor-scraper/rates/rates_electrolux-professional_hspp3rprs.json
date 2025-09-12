@@ -1,0 +1,138 @@
+{
+    "brand": "electrolux-professional",
+    "model": "hspp3rprs",
+    "issues": [
+        {
+            "name": "Fuse Is Blown",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/electrolux-professional/hspp3rprs/fuse-is-blown",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/ELX/ELX0C1885.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Electrolux Professional 0C1885 Fuse, 15 Amp, 600VAC, 10MM x 38MM, KTK-15, Fast Acting",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n0C1885",
+                    "fix_rate": 46.0,
+                    "list_price": "$ 148.65"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/ELX/ELX0CA722.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Electrolux Professional 0CA722 Diode Box Assembly, HSPE",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n0CA722",
+                    "fix_rate": 39.0,
+                    "list_price": "$ 230.89"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/ELX/ELX0CA700.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Electrolux Professional 0CA700 Transformer, 208V, 60Hz",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n0CA700",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 671.05"
+                }
+            ]
+        },
+        {
+            "name": "Insulation Is Damaged",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/electrolux-professional/hspp3rprs/insulation-is-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/ELX/ELX0CA807.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Electrolux Professional 0CA807 Working Top, Glass",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n0CA807",
+                    "fix_rate": 58.0,
+                    "list_price": "$ 1,807.50"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/ELX/ELX0CB739.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Electrolux Professional 0CB739 Cooking Chamber Insulation Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n0CB739",
+                    "fix_rate": 42.0,
+                    "list_price": "$ 349.64"
+                }
+            ]
+        },
+        {
+            "name": "Probe Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/electrolux-professional/hspp3rprs/probe-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/ELX/ELX0CA452.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Electrolux Professional 0CA452 Temperature Probe, PT1000, Speedlight",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n0CA452",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 295.82"
+                }
+            ]
+        },
+        {
+            "name": "Transformer Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/electrolux-professional/hspp3rprs/transformer-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/ELX/ELX0C1885.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Electrolux Professional 0C1885 Fuse, 15 Amp, 600VAC, 10MM x 38MM, KTK-15, Fast Acting",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n0C1885",
+                    "fix_rate": 75.0,
+                    "list_price": "$ 148.65"
+                }
+            ]
+        },
+        {
+            "name": "Controller Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/electrolux-professional/hspp3rprs/controller-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/ELX/ELX0CA704.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Electrolux Professional 0CA704 Power Board, ACU, Speedlight",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n0CA704",
+                    "fix_rate": 83.0,
+                    "list_price": "$ 671.05"
+                }
+            ]
+        },
+        {
+            "name": "Diode Is Malfunctioning",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/electrolux-professional/hspp3rprs/diode-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/ELX/ELX0CA722.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Electrolux Professional 0CA722 Diode Box Assembly, HSPE",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n0CA722",
+                    "fix_rate": 83.0,
+                    "list_price": "$ 230.89"
+                }
+            ]
+        }
+    ]
+}

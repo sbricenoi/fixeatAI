@@ -1,0 +1,23 @@
+{
+    "brand": "jade",
+    "model": "jcm-36",
+    "issues": [
+        {
+            "name": "Burner Is Malfunctioning Or Damaged",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/jade/jcm-36/burner-is-malfunctioning-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/JD/JD1212300000.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jade 1212300000 Infrared Burner, Large, 28-1/4\" x 6-3/4\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1212300000",
+                    "fix_rate": 80.0,
+                    "list_price": "$ 1,452.90"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Caster Is Damaged",
+        "parsed_name": "caster-is-damaged"
+    },
+    {
+        "name": "Thermostat Is Malfunctioning",
+        "parsed_name": "thermostat-is-malfunctioning"
+    }
+]

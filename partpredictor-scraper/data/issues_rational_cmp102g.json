@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Door Gasket Is Defective",
+        "parsed_name": "door-gasket-is-defective"
+    },
+    {
+        "name": "Potentiometer Is Malfunctioning",
+        "parsed_name": "potentiometer-is-malfunctioning"
+    },
+    {
+        "name": "Unit Is Leaking",
+        "parsed_name": "unit-is-leaking"
+    }
+]

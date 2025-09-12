@@ -1,0 +1,424 @@
+{
+    "brand": "frymaster",
+    "model": "sr42g",
+    "issues": [
+        {
+            "name": "Pilot Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/frymaster/sr42g/pilot-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8073485.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8073485 Thermopile/Pilot Generator with Forked Connector",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8073485",
+                    "fix_rate": 27.0,
+                    "list_price": "$ 80.93"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8262013.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8262013 Thermostat Kit, Sunne, Dean Units",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8262013",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 155.43"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8073516.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8073516 Hi-Limit Thermostat, Auto Reset, 435F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8073516",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 213.91"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8072427.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8072427 Gas Valve, Natural Gas, 1/2\" x 1/2\", Millivolt",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8072427",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 353.50"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8072424.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8072424 Gas Valve, Propane Gas, 1/2\" x 1/2\", For Use with Millivolt",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8072424",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 352.87"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/frymaster/sr42g/unit-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8262013.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8262013 Thermostat Kit, Sunne, Dean Units",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8262013",
+                    "fix_rate": 28.0,
+                    "list_price": "$ 155.43"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8073516.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8073516 Hi-Limit Thermostat, Auto Reset, 435F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8073516",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 213.91"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8072424.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8072424 Gas Valve, Propane Gas, 1/2\" x 1/2\", For Use with Millivolt",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8072424",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 352.87"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8073485.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8073485 Thermopile/Pilot Generator with Forked Connector",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8073485",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 80.93"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8072427.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8072427 Gas Valve, Natural Gas, 1/2\" x 1/2\", Millivolt",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8072427",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 353.50"
+                }
+            ]
+        },
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/frymaster/sr42g/thermostat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8262013.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8262013 Thermostat Kit, Sunne, Dean Units",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8262013",
+                    "fix_rate": 71.0,
+                    "list_price": "$ 155.43"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8073516.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8073516 Hi-Limit Thermostat, Auto Reset, 435F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8073516",
+                    "fix_rate": 20.0,
+                    "list_price": "$ 213.91"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8262014.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8262014 Thermostat Kit, Sunne 375F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8262014",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 171.84"
+                }
+            ]
+        },
+        {
+            "name": "Hi-limit Is Tripping Or Wont Reset",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/frymaster/sr42g/hi-limit-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8073516.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8073516 Hi-Limit Thermostat, Auto Reset, 435F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8073516",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 213.91"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8262013.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8262013 Thermostat Kit, Sunne, Dean Units",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8262013",
+                    "fix_rate": 39.0,
+                    "list_price": "$ 155.43"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8073680.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8073680 Hi Limit Thermostat, 450F, Manual Reset",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8073680",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 219.53"
+                }
+            ]
+        },
+        {
+            "name": "Gas Valve Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/frymaster/sr42g/gas-valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8072424.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8072424 Gas Valve, Propane Gas, 1/2\" x 1/2\", For Use with Millivolt",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8072424",
+                    "fix_rate": 51.0,
+                    "list_price": "$ 352.87"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8072427.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8072427 Gas Valve, Natural Gas, 1/2\" x 1/2\", Millivolt",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8072427",
+                    "fix_rate": 35.0,
+                    "list_price": "$ 353.50"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8073485.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8073485 Thermopile/Pilot Generator with Forked Connector",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8073485",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 80.93"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Leaking",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/frymaster/sr42g/unit-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8072427.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8072427 Gas Valve, Natural Gas, 1/2\" x 1/2\", Millivolt",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8072427",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 353.50"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Not Lighting",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/frymaster/sr42g/unit-is-not-lighting",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8262013.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8262013 Thermostat Kit, Sunne, Dean Units",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8262013",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 155.43"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8072424.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8072424 Gas Valve, Propane Gas, 1/2\" x 1/2\", For Use with Millivolt",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8072424",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 352.87"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8073516.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8073516 Hi-Limit Thermostat, Auto Reset, 435F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8073516",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 213.91"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8073485.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8073485 Thermopile/Pilot Generator with Forked Connector",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8073485",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 80.93"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Not Reaching Set Temperature",
+            "idx": 7,
+            "url": "https://www.partstown.com/part-predictor/frymaster/sr42g/unit-is-not-reaching-set-temperature",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8262013.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8262013 Thermostat Kit, Sunne, Dean Units",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8262013",
+                    "fix_rate": 48.0,
+                    "list_price": "$ 155.43"
+                }
+            ]
+        },
+        {
+            "name": "Thermopile Is Malfunctioning",
+            "idx": 8,
+            "url": "https://www.partstown.com/part-predictor/frymaster/sr42g/thermopile-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8073485.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8073485 Thermopile/Pilot Generator with Forked Connector",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8073485",
+                    "fix_rate": 48.0,
+                    "list_price": "$ 80.93"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Shutting Down",
+            "idx": 9,
+            "url": "https://www.partstown.com/part-predictor/frymaster/sr42g/unit-is-shutting-down",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8262013.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8262013 Thermostat Kit, Sunne, Dean Units",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8262013",
+                    "fix_rate": 41.0,
+                    "list_price": "$ 155.43"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Overheating",
+            "idx": 10,
+            "url": "https://www.partstown.com/part-predictor/frymaster/sr42g/unit-is-overheating",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8262013.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8262013 Thermostat Kit, Sunne, Dean Units",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8262013",
+                    "fix_rate": 53.0,
+                    "list_price": "$ 155.43"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8073516.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8073516 Hi-Limit Thermostat, Auto Reset, 435F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8073516",
+                    "fix_rate": 40.0,
+                    "list_price": "$ 213.91"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Not Maintaining Temperature",
+            "idx": 11,
+            "url": "https://www.partstown.com/part-predictor/frymaster/sr42g/unit-is-not-maintaining-temperature",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8262013.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8262013 Thermostat Kit, Sunne, Dean Units",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8262013",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 155.43"
+                }
+            ]
+        },
+        {
+            "name": "Valve Is Malfunctioning",
+            "idx": 12,
+            "url": "https://www.partstown.com/part-predictor/frymaster/sr42g/valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8072424.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8072424 Gas Valve, Propane Gas, 1/2\" x 1/2\", For Use with Millivolt",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8072424",
+                    "fix_rate": 60.0,
+                    "list_price": "$ 352.87"
+                }
+            ]
+        },
+        {
+            "name": "Drain Valve Is Leaking",
+            "idx": 13,
+            "url": "https://www.partstown.com/part-predictor/frymaster/sr42g/drain-valve-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8101338.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8101338 Drain Valve, 1\" Npt Inlet And Oulet, Dual Vat",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8101338",
+                    "fix_rate": 86.0,
+                    "list_price": "$ 173.26"
+                }
+            ]
+        }
+    ]
+}

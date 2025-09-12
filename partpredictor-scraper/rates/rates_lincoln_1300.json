@@ -1,0 +1,239 @@
+{
+    "brand": "lincoln",
+    "model": "1300",
+    "issues": [
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/lincoln/1300/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369432.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369432 Rocker Switch, On/Off, Green Lighted",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369432",
+                    "fix_rate": 42.0,
+                    "list_price": "$ 52.81"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369470.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369470 Insulation Seal",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369470",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 37.60"
+                }
+            ]
+        },
+        {
+            "name": "Hi-limit Is Tripping Or Wont Reset",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/lincoln/1300/hi-limit-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN357067.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 357067 High Limit Thermostat, Oven Cavity",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n357067",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 135.92"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369470.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369470 Insulation Seal",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369470",
+                    "fix_rate": 20.0,
+                    "list_price": "$ 37.60"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369431.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369431 Hi Limit Thermostat, Control Box",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369431",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 82.28"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369378.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369378 Axial Fan, 220-240V, 50/60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369378",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 180.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369192.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369192 Capacitor, 7.5 MFD 370VAC",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369192",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 40.73"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369432.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369432 Rocker Switch, On/Off, Green Lighted",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369432",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 52.81"
+                }
+            ]
+        },
+        {
+            "name": "Capacitor Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/lincoln/1300/capacitor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369192.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369192 Capacitor, 7.5 MFD 370VAC",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369192",
+                    "fix_rate": 51.0,
+                    "list_price": "$ 40.73"
+                }
+            ]
+        },
+        {
+            "name": "Motor Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/lincoln/1300/motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369466.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369466 Conveyor Motor Assembly, S/N 3000481 and Above",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369466",
+                    "fix_rate": 36.0,
+                    "list_price": "$ 662.81"
+                }
+            ]
+        },
+        {
+            "name": "Fan Motor Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/lincoln/1300/fan-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369192.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369192 Capacitor, 7.5 MFD 370VAC",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369192",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 40.73"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369378.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369378 Axial Fan, 220-240V, 50/60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369378",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 180.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369431.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369431 Hi Limit Thermostat, Control Box",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369431",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 82.28"
+                }
+            ]
+        },
+        {
+            "name": "Blower Motor Is Malfunctioning",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/lincoln/1300/blower-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369192.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369192 Capacitor, 7.5 MFD 370VAC",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369192",
+                    "fix_rate": 43.0,
+                    "list_price": "$ 40.73"
+                }
+            ]
+        },
+        {
+            "name": "Conveyor Motor Is Malfunctioning",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/lincoln/1300/conveyor-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369466.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369466 Conveyor Motor Assembly, S/N 3000481 and Above",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369466",
+                    "fix_rate": 76.0,
+                    "list_price": "$ 662.81"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Not Reaching Set Temperature",
+            "idx": 7,
+            "url": "https://www.partstown.com/part-predictor/lincoln/1300/unit-is-not-reaching-set-temperature",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369470.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369470 Insulation Seal",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369470",
+                    "fix_rate": 36.0,
+                    "list_price": "$ 37.60"
+                }
+            ]
+        },
+        {
+            "name": "Contactor Is Malfunctioning",
+            "idx": 8,
+            "url": "https://www.partstown.com/part-predictor/lincoln/1300/contactor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369425-AS.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369425-AS Contactor Kit, 369425",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369425-AS",
+                    "fix_rate": 60.0,
+                    "list_price": "$ 489.12"
+                }
+            ]
+        }
+    ]
+}

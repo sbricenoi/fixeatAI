@@ -1,0 +1,104 @@
+{
+    "brand": "follett",
+    "model": "hmd1410rbt",
+    "issues": [
+        {
+            "name": "Unit Is Leaking",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/follett/hmd1410rbt/unit-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FOL/FOL01118082.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Follett 01118082 Housing, Bushing",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n01118082",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 376.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FOL/FOL01302249.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Follett 01302249 Seal, Auger Shaft",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n01302249",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 105.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FOL/FOL01039437.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Follett 01039437 Seal, Auger Shaft",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n01039437",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 121.00"
+                }
+            ]
+        },
+        {
+            "name": "Valve Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/follett/hmd1410rbt/valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FOL/FOL00130823.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Follett 00130823 Solenoid Valve Kit, Fill, 120V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00130823",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 153.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FOL/FOL01223015.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Follett 01223015 Solenoid Valve, Water Feed",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n01223015",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 154.52"
+                }
+            ]
+        },
+        {
+            "name": "Compressor Is Not Running",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/follett/hmd1410rbt/compressor-is-not-running",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FOL/FOL01122647.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Follett 1122647 COMPRESSOR 1410R 3PH",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1122647",
+                    "fix_rate": 40.0,
+                    "list_price": "$ 2,487.00"
+                }
+            ]
+        },
+        {
+            "name": "Motor Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/follett/hmd1410rbt/motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FOL/FOL01132307.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Follett 1132307 Gearmotor, 115 Volt, 60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1132307",
+                    "fix_rate": 38.0,
+                    "list_price": "$ 2,014.50"
+                }
+            ]
+        }
+    ]
+}

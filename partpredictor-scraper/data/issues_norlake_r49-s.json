@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Unit Is Not Reaching Set Temperature",
+        "parsed_name": "unit-is-not-reaching-set-temperature"
+    },
+    {
+        "name": "Unit Is Leaking",
+        "parsed_name": "unit-is-leaking"
+    },
+    {
+        "name": "Condenser Fan Motor Is Malfunctioning",
+        "parsed_name": "condenser-fan-motor-is-malfunctioning"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Probe Is Malfunctioning",
+        "parsed_name": "probe-is-malfunctioning"
+    },
+    {
+        "name": "Sensor Is Malfunctioning",
+        "parsed_name": "sensor-is-malfunctioning"
+    },
+    {
+        "name": "Water Inlet Valve Is Malfunctioning",
+        "parsed_name": "water-inlet-valve-is-malfunctioning"
+    }
+]

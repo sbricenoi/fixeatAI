@@ -1,0 +1,161 @@
+{
+    "brand": "bakers-pride",
+    "model": "gp61-hp",
+    "issues": [
+        {
+            "name": "Pilot Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/bakers-pride/gp61-hp/pilot-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BKP/BKP2J-M1265A.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Bakers Pride 2J-M1265A Thermopile, 72\", with Armoured Cable",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2J-M1265A",
+                    "fix_rate": 48.0,
+                    "list_price": "$ 182.75"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BKP/BKPAS-M1220X.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Bakers Pride AS-M1220X Pilot Burner, Natural Gas, 101/151",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nAS-M1220X",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 79.60"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BKP/BKP2V-R3104A.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Bakers Pride 2V-R3104A Gas Valve, 1/2\" x 1/2\", 7000BMVR, Natural Gas",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2V-R3104A",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 480.42"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BKP/BKPAS-M1005X.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Bakers Pride AS-M1005X Thermostat with Knob, 650F, FDTH, Gas",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nAS-M1005X",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 564.73"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BKP/BKPAS-310690.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Bakers Pride AS-310690 Orifice, Pilot, #18, Propane Gas",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nAS-310690",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 4.73"
+                }
+            ]
+        },
+        {
+            "name": "Thermopile Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/bakers-pride/gp61-hp/thermopile-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BKP/BKP2J-M1265A.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Bakers Pride 2J-M1265A Thermopile, 72\", with Armoured Cable",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2J-M1265A",
+                    "fix_rate": 46.0,
+                    "list_price": "$ 182.75"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BKP/BKPAS-M1220X.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Bakers Pride AS-M1220X Pilot Burner, Natural Gas, 101/151",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nAS-M1220X",
+                    "fix_rate": 20.0,
+                    "list_price": "$ 79.60"
+                }
+            ]
+        },
+        {
+            "name": "Gas Valve Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/bakers-pride/gp61-hp/gas-valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BKP/BKP2V-R3104A.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Bakers Pride 2V-R3104A Gas Valve, 1/2\" x 1/2\", 7000BMVR, Natural Gas",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2V-R3104A",
+                    "fix_rate": 46.0,
+                    "list_price": "$ 480.42"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BKP/BKP2J-M1265A.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Bakers Pride 2J-M1265A Thermopile, 72\", with Armoured Cable",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2J-M1265A",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 182.75"
+                }
+            ]
+        },
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/bakers-pride/gp61-hp/thermostat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BKP/BKPAS-M1005X.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Bakers Pride AS-M1005X Thermostat with Knob, 650F, FDTH, Gas",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nAS-M1005X",
+                    "fix_rate": 75.0,
+                    "list_price": "$ 564.73"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BKP/BKP2J-M1265A.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Bakers Pride 2J-M1265A Thermopile, 72\", with Armoured Cable",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2J-M1265A",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 182.75"
+                }
+            ]
+        },
+        {
+            "name": "Door Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/bakers-pride/gp61-hp/door-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BKP/BKP2J-M1265A.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Bakers Pride 2J-M1265A Thermopile, 72\", with Armoured Cable",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2J-M1265A",
+                    "fix_rate": 42.0,
+                    "list_price": "$ 182.75"
+                }
+            ]
+        }
+    ]
+}

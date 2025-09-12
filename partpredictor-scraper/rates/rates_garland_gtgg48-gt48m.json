@@ -1,0 +1,33 @@
+{
+    "brand": "garland",
+    "model": "gtgg48-gt48m",
+    "issues": [
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/garland/gtgg48-gt48m/thermostat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4531139.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4531139 Thermostat, GS, G/UT Series",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4531139",
+                    "fix_rate": 96.0,
+                    "list_price": "$ 408.78"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4531382.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4531382 Knob Assembly, Thermostat, 200 - 550F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4531382",
+                    "fix_rate": 30.0,
+                    "list_price": "$ 133.20"
+                }
+            ]
+        }
+    ]
+}

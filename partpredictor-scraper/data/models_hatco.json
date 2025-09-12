@@ -1,0 +1,1890 @@
+[
+    {
+        "name": "3CS",
+        "parsed_name": "3cs"
+    },
+    {
+        "name": "ABB Series",
+        "parsed_name": "abb-series"
+    },
+    {
+        "name": "AWD",
+        "parsed_name": "awd"
+    },
+    {
+        "name": "AWD-12",
+        "parsed_name": "awd-12"
+    },
+    {
+        "name": "C-12",
+        "parsed_name": "c-12"
+    },
+    {
+        "name": "CHW",
+        "parsed_name": "chw"
+    },
+    {
+        "name": "CHW-43",
+        "parsed_name": "chw-43"
+    },
+    {
+        "name": "CHW-FUL",
+        "parsed_name": "chw-ful"
+    },
+    {
+        "name": "CWB",
+        "parsed_name": "cwb"
+    },
+    {
+        "name": "CWB-1",
+        "parsed_name": "cwb-1"
+    },
+    {
+        "name": "CWB-2",
+        "parsed_name": "cwb-2"
+    },
+    {
+        "name": "CWB-3",
+        "parsed_name": "cwb-3"
+    },
+    {
+        "name": "CWB-4",
+        "parsed_name": "cwb-4"
+    },
+    {
+        "name": "CWB-5",
+        "parsed_name": "cwb-5"
+    },
+    {
+        "name": "CWB-6",
+        "parsed_name": "cwb-6"
+    },
+    {
+        "name": "CWB-S",
+        "parsed_name": "cwb-s"
+    },
+    {
+        "name": "CWB-S1",
+        "parsed_name": "cwb-s1"
+    },
+    {
+        "name": "CWB-S2",
+        "parsed_name": "cwb-s2"
+    },
+    {
+        "name": "CWB-S3",
+        "parsed_name": "cwb-s3"
+    },
+    {
+        "name": "CWBR-1",
+        "parsed_name": "cwbr-1"
+    },
+    {
+        "name": "CWBR-2",
+        "parsed_name": "cwbr-2"
+    },
+    {
+        "name": "DL Series",
+        "parsed_name": "dl-series"
+    },
+    {
+        "name": "DL-500",
+        "parsed_name": "dl-500"
+    },
+    {
+        "name": "DL-725",
+        "parsed_name": "dl-725"
+    },
+    {
+        "name": "DL-750",
+        "parsed_name": "dl-750"
+    },
+    {
+        "name": "DL-775",
+        "parsed_name": "dl-775"
+    },
+    {
+        "name": "FDW-1",
+        "parsed_name": "fdw-1"
+    },
+    {
+        "name": "FDW-1X",
+        "parsed_name": "fdw-1x"
+    },
+    {
+        "name": "FDW-2",
+        "parsed_name": "fdw-2"
+    },
+    {
+        "name": "FDWD",
+        "parsed_name": "fdwd"
+    },
+    {
+        "name": "FDWD-1",
+        "parsed_name": "fdwd-1"
+    },
+    {
+        "name": "FDWD-1-MN",
+        "parsed_name": "fdwd-1-mn"
+    },
+    {
+        "name": "FDWD-12",
+        "parsed_name": "fdwd-12"
+    },
+    {
+        "name": "FDWD-12-1",
+        "parsed_name": "fdwd-12-1"
+    },
+    {
+        "name": "FDWD-12-2X",
+        "parsed_name": "fdwd-12-2x"
+    },
+    {
+        "name": "FDWD-1X",
+        "parsed_name": "fdwd-1x"
+    },
+    {
+        "name": "FDWD-2",
+        "parsed_name": "fdwd-2"
+    },
+    {
+        "name": "FDWD-2X",
+        "parsed_name": "fdwd-2x"
+    },
+    {
+        "name": "FS Series",
+        "parsed_name": "fs-series"
+    },
+    {
+        "name": "FS2HAC",
+        "parsed_name": "fs2hac"
+    },
+    {
+        "name": "FS2HAC-4PT",
+        "parsed_name": "fs2hac-4pt"
+    },
+    {
+        "name": "FS3HAC",
+        "parsed_name": "fs3hac"
+    },
+    {
+        "name": "FS3HAC-3026",
+        "parsed_name": "fs3hac-3026"
+    },
+    {
+        "name": "FS3HAC-3626",
+        "parsed_name": "fs3hac-3626"
+    },
+    {
+        "name": "FS3HAC-4226",
+        "parsed_name": "fs3hac-4226"
+    },
+    {
+        "name": "FSDT",
+        "parsed_name": "fsdt"
+    },
+    {
+        "name": "FSHC",
+        "parsed_name": "fshc"
+    },
+    {
+        "name": "FST-1",
+        "parsed_name": "fst-1"
+    },
+    {
+        "name": "FST-1-MN",
+        "parsed_name": "fst-1-mn"
+    },
+    {
+        "name": "FST-1X",
+        "parsed_name": "fst-1x"
+    },
+    {
+        "name": "FST-2X",
+        "parsed_name": "fst-2x"
+    },
+    {
+        "name": "GLO-RAY Series",
+        "parsed_name": "glo-ray-series"
+    },
+    {
+        "name": "GR-24",
+        "parsed_name": "gr-24"
+    },
+    {
+        "name": "GR-36",
+        "parsed_name": "gr-36"
+    },
+    {
+        "name": "GR-48",
+        "parsed_name": "gr-48"
+    },
+    {
+        "name": "GR-60",
+        "parsed_name": "gr-60"
+    },
+    {
+        "name": "GR2S",
+        "parsed_name": "gr2s"
+    },
+    {
+        "name": "GR2SDH-30D",
+        "parsed_name": "gr2sdh-30d"
+    },
+    {
+        "name": "GR2SDH-36D",
+        "parsed_name": "gr2sdh-36d"
+    },
+    {
+        "name": "GR2SDH-42D",
+        "parsed_name": "gr2sdh-42d"
+    },
+    {
+        "name": "GR2SDH-48",
+        "parsed_name": "gr2sdh-48"
+    },
+    {
+        "name": "GR2SDH-48T",
+        "parsed_name": "gr2sdh-48t"
+    },
+    {
+        "name": "GR2SDH-54D",
+        "parsed_name": "gr2sdh-54d"
+    },
+    {
+        "name": "GR2SDH-60D",
+        "parsed_name": "gr2sdh-60d"
+    },
+    {
+        "name": "GR2SDS",
+        "parsed_name": "gr2sds"
+    },
+    {
+        "name": "GR2SDS-24",
+        "parsed_name": "gr2sds-24"
+    },
+    {
+        "name": "GR2SDS-24D",
+        "parsed_name": "gr2sds-24d"
+    },
+    {
+        "name": "GR2SDS-30D",
+        "parsed_name": "gr2sds-30d"
+    },
+    {
+        "name": "GR2SDS-36D",
+        "parsed_name": "gr2sds-36d"
+    },
+    {
+        "name": "GR2SDS-42D",
+        "parsed_name": "gr2sds-42d"
+    },
+    {
+        "name": "GR2SDS-48D",
+        "parsed_name": "gr2sds-48d"
+    },
+    {
+        "name": "GR2SDS-54D",
+        "parsed_name": "gr2sds-54d"
+    },
+    {
+        "name": "GR2SDS-60D",
+        "parsed_name": "gr2sds-60d"
+    },
+    {
+        "name": "GR3SDH-27D",
+        "parsed_name": "gr3sdh-27d"
+    },
+    {
+        "name": "GR3SDH-33D",
+        "parsed_name": "gr3sdh-33d"
+    },
+    {
+        "name": "GR3SDH-39",
+        "parsed_name": "gr3sdh-39"
+    },
+    {
+        "name": "GR3SDH-39D",
+        "parsed_name": "gr3sdh-39d"
+    },
+    {
+        "name": "GR3SDS",
+        "parsed_name": "gr3sds"
+    },
+    {
+        "name": "GR3SDS-33TCT",
+        "parsed_name": "gr3sds-33tct"
+    },
+    {
+        "name": "GR3SDS-39D",
+        "parsed_name": "gr3sds-39d"
+    },
+    {
+        "name": "GR3SDS-39TCT",
+        "parsed_name": "gr3sds-39tct"
+    },
+    {
+        "name": "GRA",
+        "parsed_name": "gra"
+    },
+    {
+        "name": "GRA-120",
+        "parsed_name": "gra-120"
+    },
+    {
+        "name": "GRA-144D",
+        "parsed_name": "gra-144d"
+    },
+    {
+        "name": "GRA-24",
+        "parsed_name": "gra-24"
+    },
+    {
+        "name": "GRA-24D",
+        "parsed_name": "gra-24d"
+    },
+    {
+        "name": "GRA-30",
+        "parsed_name": "gra-30"
+    },
+    {
+        "name": "GRA-30D",
+        "parsed_name": "gra-30d"
+    },
+    {
+        "name": "GRA-36",
+        "parsed_name": "gra-36"
+    },
+    {
+        "name": "GRA-36D",
+        "parsed_name": "gra-36d"
+    },
+    {
+        "name": "GRA-42",
+        "parsed_name": "gra-42"
+    },
+    {
+        "name": "GRA-42D",
+        "parsed_name": "gra-42d"
+    },
+    {
+        "name": "GRA-48",
+        "parsed_name": "gra-48"
+    },
+    {
+        "name": "GRA-48D",
+        "parsed_name": "gra-48d"
+    },
+    {
+        "name": "GRA-54",
+        "parsed_name": "gra-54"
+    },
+    {
+        "name": "GRA-54D",
+        "parsed_name": "gra-54d"
+    },
+    {
+        "name": "GRA-60",
+        "parsed_name": "gra-60"
+    },
+    {
+        "name": "GRA-60D",
+        "parsed_name": "gra-60d"
+    },
+    {
+        "name": "GRA-66",
+        "parsed_name": "gra-66"
+    },
+    {
+        "name": "GRA-66D",
+        "parsed_name": "gra-66d"
+    },
+    {
+        "name": "GRA-72",
+        "parsed_name": "gra-72"
+    },
+    {
+        "name": "GRA-72D",
+        "parsed_name": "gra-72d"
+    },
+    {
+        "name": "GRA-84",
+        "parsed_name": "gra-84"
+    },
+    {
+        "name": "GRA-84D",
+        "parsed_name": "gra-84d"
+    },
+    {
+        "name": "GRA-96",
+        "parsed_name": "gra-96"
+    },
+    {
+        "name": "GRA-96D",
+        "parsed_name": "gra-96d"
+    },
+    {
+        "name": "GRAH",
+        "parsed_name": "grah"
+    },
+    {
+        "name": "GRAH-108",
+        "parsed_name": "grah-108"
+    },
+    {
+        "name": "GRAH-108D",
+        "parsed_name": "grah-108d"
+    },
+    {
+        "name": "GRAH-114T",
+        "parsed_name": "grah-114t"
+    },
+    {
+        "name": "GRAH-120",
+        "parsed_name": "grah-120"
+    },
+    {
+        "name": "GRAH-120D",
+        "parsed_name": "grah-120d"
+    },
+    {
+        "name": "GRAH-144D",
+        "parsed_name": "grah-144d"
+    },
+    {
+        "name": "GRAH-18",
+        "parsed_name": "grah-18"
+    },
+    {
+        "name": "GRAH-18D",
+        "parsed_name": "grah-18d"
+    },
+    {
+        "name": "GRAH-24",
+        "parsed_name": "grah-24"
+    },
+    {
+        "name": "GRAH-24D",
+        "parsed_name": "grah-24d"
+    },
+    {
+        "name": "GRAH-30",
+        "parsed_name": "grah-30"
+    },
+    {
+        "name": "GRAH-30D",
+        "parsed_name": "grah-30d"
+    },
+    {
+        "name": "GRAH-36D",
+        "parsed_name": "grah-36d"
+    },
+    {
+        "name": "GRAH-42",
+        "parsed_name": "grah-42"
+    },
+    {
+        "name": "GRAH-42D",
+        "parsed_name": "grah-42d"
+    },
+    {
+        "name": "GRAH-48",
+        "parsed_name": "grah-48"
+    },
+    {
+        "name": "GRAH-48D",
+        "parsed_name": "grah-48d"
+    },
+    {
+        "name": "GRAH-48D3",
+        "parsed_name": "grah-48d3"
+    },
+    {
+        "name": "GRAH-54",
+        "parsed_name": "grah-54"
+    },
+    {
+        "name": "GRAH-54D",
+        "parsed_name": "grah-54d"
+    },
+    {
+        "name": "GRAH-60",
+        "parsed_name": "grah-60"
+    },
+    {
+        "name": "GRAH-60D",
+        "parsed_name": "grah-60d"
+    },
+    {
+        "name": "GRAH-60D3",
+        "parsed_name": "grah-60d3"
+    },
+    {
+        "name": "GRAH-66",
+        "parsed_name": "grah-66"
+    },
+    {
+        "name": "GRAH-66D",
+        "parsed_name": "grah-66d"
+    },
+    {
+        "name": "GRAH-72",
+        "parsed_name": "grah-72"
+    },
+    {
+        "name": "GRAH-72D",
+        "parsed_name": "grah-72d"
+    },
+    {
+        "name": "GRAH-84",
+        "parsed_name": "grah-84"
+    },
+    {
+        "name": "GRAH-84D",
+        "parsed_name": "grah-84d"
+    },
+    {
+        "name": "GRAH-96",
+        "parsed_name": "grah-96"
+    },
+    {
+        "name": "GRAH-96D",
+        "parsed_name": "grah-96d"
+    },
+    {
+        "name": "GRAH36D",
+        "parsed_name": "grah36d"
+    },
+    {
+        "name": "GRAHL",
+        "parsed_name": "grahl"
+    },
+    {
+        "name": "GRAHL-108D",
+        "parsed_name": "grahl-108d"
+    },
+    {
+        "name": "GRAHL-120D",
+        "parsed_name": "grahl-120d"
+    },
+    {
+        "name": "GRAHL-132",
+        "parsed_name": "grahl-132"
+    },
+    {
+        "name": "GRAHL-144D",
+        "parsed_name": "grahl-144d"
+    },
+    {
+        "name": "GRAHL-18",
+        "parsed_name": "grahl-18"
+    },
+    {
+        "name": "GRAHL-18D",
+        "parsed_name": "grahl-18d"
+    },
+    {
+        "name": "GRAHL-24",
+        "parsed_name": "grahl-24"
+    },
+    {
+        "name": "GRAHL-24D",
+        "parsed_name": "grahl-24d"
+    },
+    {
+        "name": "GRAHL-30",
+        "parsed_name": "grahl-30"
+    },
+    {
+        "name": "GRAHL-30D",
+        "parsed_name": "grahl-30d"
+    },
+    {
+        "name": "GRAHL-36",
+        "parsed_name": "grahl-36"
+    },
+    {
+        "name": "GRAHL-36D",
+        "parsed_name": "grahl-36d"
+    },
+    {
+        "name": "GRAHL-42",
+        "parsed_name": "grahl-42"
+    },
+    {
+        "name": "GRAHL-42D",
+        "parsed_name": "grahl-42d"
+    },
+    {
+        "name": "GRAHL-48",
+        "parsed_name": "grahl-48"
+    },
+    {
+        "name": "GRAHL-48D",
+        "parsed_name": "grahl-48d"
+    },
+    {
+        "name": "GRAHL-54",
+        "parsed_name": "grahl-54"
+    },
+    {
+        "name": "GRAHL-54D",
+        "parsed_name": "grahl-54d"
+    },
+    {
+        "name": "GRAHL-60",
+        "parsed_name": "grahl-60"
+    },
+    {
+        "name": "GRAHL-60D",
+        "parsed_name": "grahl-60d"
+    },
+    {
+        "name": "GRAHL-66",
+        "parsed_name": "grahl-66"
+    },
+    {
+        "name": "GRAHL-66D",
+        "parsed_name": "grahl-66d"
+    },
+    {
+        "name": "GRAHL-72",
+        "parsed_name": "grahl-72"
+    },
+    {
+        "name": "GRAHL-72D",
+        "parsed_name": "grahl-72d"
+    },
+    {
+        "name": "GRAHL-72D3",
+        "parsed_name": "grahl-72d3"
+    },
+    {
+        "name": "GRAHL-84",
+        "parsed_name": "grahl-84"
+    },
+    {
+        "name": "GRAHL-96D",
+        "parsed_name": "grahl-96d"
+    },
+    {
+        "name": "GRAIHL",
+        "parsed_name": "graihl"
+    },
+    {
+        "name": "GRAL",
+        "parsed_name": "gral"
+    },
+    {
+        "name": "GRAL-108D",
+        "parsed_name": "gral-108d"
+    },
+    {
+        "name": "GRAL-120D",
+        "parsed_name": "gral-120d"
+    },
+    {
+        "name": "GRAL-18",
+        "parsed_name": "gral-18"
+    },
+    {
+        "name": "GRAL-24",
+        "parsed_name": "gral-24"
+    },
+    {
+        "name": "GRAL-24D",
+        "parsed_name": "gral-24d"
+    },
+    {
+        "name": "GRAL-30",
+        "parsed_name": "gral-30"
+    },
+    {
+        "name": "GRAL-36",
+        "parsed_name": "gral-36"
+    },
+    {
+        "name": "GRAL-36D",
+        "parsed_name": "gral-36d"
+    },
+    {
+        "name": "GRAL-42",
+        "parsed_name": "gral-42"
+    },
+    {
+        "name": "GRAL-42D",
+        "parsed_name": "gral-42d"
+    },
+    {
+        "name": "GRAL-48",
+        "parsed_name": "gral-48"
+    },
+    {
+        "name": "GRAL-48D",
+        "parsed_name": "gral-48d"
+    },
+    {
+        "name": "GRAL-54",
+        "parsed_name": "gral-54"
+    },
+    {
+        "name": "GRAL-60",
+        "parsed_name": "gral-60"
+    },
+    {
+        "name": "GRAL-60D",
+        "parsed_name": "gral-60d"
+    },
+    {
+        "name": "GRAL-66D",
+        "parsed_name": "gral-66d"
+    },
+    {
+        "name": "GRAL-72",
+        "parsed_name": "gral-72"
+    },
+    {
+        "name": "GRAL-72D",
+        "parsed_name": "gral-72d"
+    },
+    {
+        "name": "GRAL-84",
+        "parsed_name": "gral-84"
+    },
+    {
+        "name": "GRAL-84D",
+        "parsed_name": "gral-84d"
+    },
+    {
+        "name": "GRAL-96",
+        "parsed_name": "gral-96"
+    },
+    {
+        "name": "GRAL-96D",
+        "parsed_name": "gral-96d"
+    },
+    {
+        "name": "GRAM-18",
+        "parsed_name": "gram-18"
+    },
+    {
+        "name": "GRAM-24",
+        "parsed_name": "gram-24"
+    },
+    {
+        "name": "GRAM-36",
+        "parsed_name": "gram-36"
+    },
+    {
+        "name": "GRAM-36D",
+        "parsed_name": "gram-36d"
+    },
+    {
+        "name": "GRAM-42D",
+        "parsed_name": "gram-42d"
+    },
+    {
+        "name": "GRAM-48",
+        "parsed_name": "gram-48"
+    },
+    {
+        "name": "GRAM-48D",
+        "parsed_name": "gram-48d"
+    },
+    {
+        "name": "GRAM-54",
+        "parsed_name": "gram-54"
+    },
+    {
+        "name": "GRAM-54D",
+        "parsed_name": "gram-54d"
+    },
+    {
+        "name": "GRAM-60",
+        "parsed_name": "gram-60"
+    },
+    {
+        "name": "GRAM-60D",
+        "parsed_name": "gram-60d"
+    },
+    {
+        "name": "GRAM-66",
+        "parsed_name": "gram-66"
+    },
+    {
+        "name": "GRAM-66D",
+        "parsed_name": "gram-66d"
+    },
+    {
+        "name": "GRAM-72",
+        "parsed_name": "gram-72"
+    },
+    {
+        "name": "GRAM-72D",
+        "parsed_name": "gram-72d"
+    },
+    {
+        "name": "GRAM-84D",
+        "parsed_name": "gram-84d"
+    },
+    {
+        "name": "GRAM-96D",
+        "parsed_name": "gram-96d"
+    },
+    {
+        "name": "GRAML",
+        "parsed_name": "graml"
+    },
+    {
+        "name": "GRAML-132D",
+        "parsed_name": "graml-132d"
+    },
+    {
+        "name": "GRAML-36",
+        "parsed_name": "graml-36"
+    },
+    {
+        "name": "GRAML-42D",
+        "parsed_name": "graml-42d"
+    },
+    {
+        "name": "GRAML-48D",
+        "parsed_name": "graml-48d"
+    },
+    {
+        "name": "GRAML-60",
+        "parsed_name": "graml-60"
+    },
+    {
+        "name": "GRAML-60D",
+        "parsed_name": "graml-60d"
+    },
+    {
+        "name": "GRAML-72",
+        "parsed_name": "graml-72"
+    },
+    {
+        "name": "GRAML-72D",
+        "parsed_name": "graml-72d"
+    },
+    {
+        "name": "GRAML-84",
+        "parsed_name": "graml-84"
+    },
+    {
+        "name": "GRAML-96D",
+        "parsed_name": "graml-96d"
+    },
+    {
+        "name": "GRAML48D",
+        "parsed_name": "graml48d"
+    },
+    {
+        "name": "GRAML96D",
+        "parsed_name": "graml96d"
+    },
+    {
+        "name": "GRCD",
+        "parsed_name": "grcd"
+    },
+    {
+        "name": "GRCD-2PD",
+        "parsed_name": "grcd-2pd"
+    },
+    {
+        "name": "GRCD-3PD",
+        "parsed_name": "grcd-3pd"
+    },
+    {
+        "name": "GRCDH",
+        "parsed_name": "grcdh"
+    },
+    {
+        "name": "GRCDH-1PD",
+        "parsed_name": "grcdh-1pd"
+    },
+    {
+        "name": "GRCDH-2PD",
+        "parsed_name": "grcdh-2pd"
+    },
+    {
+        "name": "GRCDH-3P",
+        "parsed_name": "grcdh-3p"
+    },
+    {
+        "name": "GRCDH-3PD",
+        "parsed_name": "grcdh-3pd"
+    },
+    {
+        "name": "GRFHS",
+        "parsed_name": "grfhs"
+    },
+    {
+        "name": "GRFHS-16",
+        "parsed_name": "grfhs-16"
+    },
+    {
+        "name": "GRFHS-21",
+        "parsed_name": "grfhs-21"
+    },
+    {
+        "name": "GRFHS-22",
+        "parsed_name": "grfhs-22"
+    },
+    {
+        "name": "GRFHS-26",
+        "parsed_name": "grfhs-26"
+    },
+    {
+        "name": "GRFHS-PT16",
+        "parsed_name": "grfhs-pt16"
+    },
+    {
+        "name": "GRFHS-PT26",
+        "parsed_name": "grfhs-pt26"
+    },
+    {
+        "name": "GRFHS-PTT16",
+        "parsed_name": "grfhs-ptt16"
+    },
+    {
+        "name": "GRFHS-PTT21",
+        "parsed_name": "grfhs-ptt21"
+    },
+    {
+        "name": "GRFS-24",
+        "parsed_name": "grfs-24"
+    },
+    {
+        "name": "GRFSC",
+        "parsed_name": "grfsc"
+    },
+    {
+        "name": "GRFSC-18",
+        "parsed_name": "grfsc-18"
+    },
+    {
+        "name": "GRFSCL-18",
+        "parsed_name": "grfscl-18"
+    },
+    {
+        "name": "GRFSCR-18",
+        "parsed_name": "grfscr-18"
+    },
+    {
+        "name": "GRFSL-24",
+        "parsed_name": "grfsl-24"
+    },
+    {
+        "name": "GRH-36",
+        "parsed_name": "grh-36"
+    },
+    {
+        "name": "GRH-48",
+        "parsed_name": "grh-48"
+    },
+    {
+        "name": "GRH-60",
+        "parsed_name": "grh-60"
+    },
+    {
+        "name": "GRH-72",
+        "parsed_name": "grh-72"
+    },
+    {
+        "name": "GRHD-2P",
+        "parsed_name": "grhd-2p"
+    },
+    {
+        "name": "GRHD-2PD",
+        "parsed_name": "grhd-2pd"
+    },
+    {
+        "name": "GRHD-3P",
+        "parsed_name": "grhd-3p"
+    },
+    {
+        "name": "GRHD-3PD",
+        "parsed_name": "grhd-3pd"
+    },
+    {
+        "name": "GRHD-4P",
+        "parsed_name": "grhd-4p"
+    },
+    {
+        "name": "GRHD-4PD",
+        "parsed_name": "grhd-4pd"
+    },
+    {
+        "name": "GRHDH-3PD",
+        "parsed_name": "grhdh-3pd"
+    },
+    {
+        "name": "GRHDH-4P",
+        "parsed_name": "grhdh-4p"
+    },
+    {
+        "name": "GRHDH-4PD",
+        "parsed_name": "grhdh-4pd"
+    },
+    {
+        "name": "GRN4-30",
+        "parsed_name": "grn4-30"
+    },
+    {
+        "name": "GRN4-36",
+        "parsed_name": "grn4-36"
+    },
+    {
+        "name": "GRN4-60",
+        "parsed_name": "grn4-60"
+    },
+    {
+        "name": "GRN4-72",
+        "parsed_name": "grn4-72"
+    },
+    {
+        "name": "GRN4L",
+        "parsed_name": "grn4l"
+    },
+    {
+        "name": "GRN4L-24",
+        "parsed_name": "grn4l-24"
+    },
+    {
+        "name": "GRN4L-30",
+        "parsed_name": "grn4l-30"
+    },
+    {
+        "name": "GRN4L-36",
+        "parsed_name": "grn4l-36"
+    },
+    {
+        "name": "GRN4L-42",
+        "parsed_name": "grn4l-42"
+    },
+    {
+        "name": "GRN4L-48",
+        "parsed_name": "grn4l-48"
+    },
+    {
+        "name": "GRN4L-54",
+        "parsed_name": "grn4l-54"
+    },
+    {
+        "name": "GRN4L-60",
+        "parsed_name": "grn4l-60"
+    },
+    {
+        "name": "GRN4L-66",
+        "parsed_name": "grn4l-66"
+    },
+    {
+        "name": "GRN4L-72",
+        "parsed_name": "grn4l-72"
+    },
+    {
+        "name": "GRNM",
+        "parsed_name": "grnm"
+    },
+    {
+        "name": "GRNM-24",
+        "parsed_name": "grnm-24"
+    },
+    {
+        "name": "GRNM-36",
+        "parsed_name": "grnm-36"
+    },
+    {
+        "name": "GRNM-48",
+        "parsed_name": "grnm-48"
+    },
+    {
+        "name": "GRNM-54",
+        "parsed_name": "grnm-54"
+    },
+    {
+        "name": "GRNM-72",
+        "parsed_name": "grnm-72"
+    },
+    {
+        "name": "GRPWS",
+        "parsed_name": "grpws"
+    },
+    {
+        "name": "GRPWS-2418D",
+        "parsed_name": "grpws-2418d"
+    },
+    {
+        "name": "GRPWS-2424D",
+        "parsed_name": "grpws-2424d"
+    },
+    {
+        "name": "GRPWS-2424T",
+        "parsed_name": "grpws-2424t"
+    },
+    {
+        "name": "GRPWS-3624",
+        "parsed_name": "grpws-3624"
+    },
+    {
+        "name": "GRPWS-3624T",
+        "parsed_name": "grpws-3624t"
+    },
+    {
+        "name": "GRPWS-4818D",
+        "parsed_name": "grpws-4818d"
+    },
+    {
+        "name": "GRPWS-4824",
+        "parsed_name": "grpws-4824"
+    },
+    {
+        "name": "GRPWS-4824Q",
+        "parsed_name": "grpws-4824q"
+    },
+    {
+        "name": "GRPWS-4824T",
+        "parsed_name": "grpws-4824t"
+    },
+    {
+        "name": "GRS",
+        "parsed_name": "grs"
+    },
+    {
+        "name": "GRS-18-A",
+        "parsed_name": "grs-18-a"
+    },
+    {
+        "name": "GRS-18-I",
+        "parsed_name": "grs-18-i"
+    },
+    {
+        "name": "GRS-18-L",
+        "parsed_name": "grs-18-l"
+    },
+    {
+        "name": "GRS-24-I",
+        "parsed_name": "grs-24-i"
+    },
+    {
+        "name": "GRS-30-A",
+        "parsed_name": "grs-30-a"
+    },
+    {
+        "name": "GRS-30-E",
+        "parsed_name": "grs-30-e"
+    },
+    {
+        "name": "GRS-30-F",
+        "parsed_name": "grs-30-f"
+    },
+    {
+        "name": "GRS-30-I",
+        "parsed_name": "grs-30-i"
+    },
+    {
+        "name": "GRS-36-I",
+        "parsed_name": "grs-36-i"
+    },
+    {
+        "name": "GRS-42-I",
+        "parsed_name": "grs-42-i"
+    },
+    {
+        "name": "GRS-48",
+        "parsed_name": "grs-48"
+    },
+    {
+        "name": "GRS-48-I",
+        "parsed_name": "grs-48-i"
+    },
+    {
+        "name": "GRS-48-K",
+        "parsed_name": "grs-48-k"
+    },
+    {
+        "name": "GRS-48-L",
+        "parsed_name": "grs-48-l"
+    },
+    {
+        "name": "GRS-60",
+        "parsed_name": "grs-60"
+    },
+    {
+        "name": "GRS-60-I",
+        "parsed_name": "grs-60-i"
+    },
+    {
+        "name": "GRS-72",
+        "parsed_name": "grs-72"
+    },
+    {
+        "name": "GRS-72-C",
+        "parsed_name": "grs-72-c"
+    },
+    {
+        "name": "GRS-72-G",
+        "parsed_name": "grs-72-g"
+    },
+    {
+        "name": "GRS-72-L",
+        "parsed_name": "grs-72-l"
+    },
+    {
+        "name": "GRSB-24-F",
+        "parsed_name": "grsb-24-f"
+    },
+    {
+        "name": "GRSB-36-I",
+        "parsed_name": "grsb-36-i"
+    },
+    {
+        "name": "GRSB-36-O",
+        "parsed_name": "grsb-36-o"
+    },
+    {
+        "name": "GRSB-42-I",
+        "parsed_name": "grsb-42-i"
+    },
+    {
+        "name": "GRSB-48",
+        "parsed_name": "grsb-48"
+    },
+    {
+        "name": "GRSB-48-F",
+        "parsed_name": "grsb-48-f"
+    },
+    {
+        "name": "GRSB-48-I",
+        "parsed_name": "grsb-48-i"
+    },
+    {
+        "name": "GRSB-60-F",
+        "parsed_name": "grsb-60-f"
+    },
+    {
+        "name": "GRSB-60-I",
+        "parsed_name": "grsb-60-i"
+    },
+    {
+        "name": "GRSBF",
+        "parsed_name": "grsbf"
+    },
+    {
+        "name": "GRSBF-24-F",
+        "parsed_name": "grsbf-24-f"
+    },
+    {
+        "name": "GRSBF-24-I",
+        "parsed_name": "grsbf-24-i"
+    },
+    {
+        "name": "GRSBF-24-S",
+        "parsed_name": "grsbf-24-s"
+    },
+    {
+        "name": "GRSBF-30-I",
+        "parsed_name": "grsbf-30-i"
+    },
+    {
+        "name": "GRSBF-36-F",
+        "parsed_name": "grsbf-36-f"
+    },
+    {
+        "name": "GRSBF-36-I",
+        "parsed_name": "grsbf-36-i"
+    },
+    {
+        "name": "GRSBF-36-S",
+        "parsed_name": "grsbf-36-s"
+    },
+    {
+        "name": "GRSBF-42",
+        "parsed_name": "grsbf-42"
+    },
+    {
+        "name": "GRSBF-42-F",
+        "parsed_name": "grsbf-42-f"
+    },
+    {
+        "name": "GRSBF-42-S",
+        "parsed_name": "grsbf-42-s"
+    },
+    {
+        "name": "GRSBF-48-I",
+        "parsed_name": "grsbf-48-i"
+    },
+    {
+        "name": "GRSBF-48-O",
+        "parsed_name": "grsbf-48-o"
+    },
+    {
+        "name": "GRSBF-48-S",
+        "parsed_name": "grsbf-48-s"
+    },
+    {
+        "name": "GRSBF-60",
+        "parsed_name": "grsbf-60"
+    },
+    {
+        "name": "GRSBF-60-I",
+        "parsed_name": "grsbf-60-i"
+    },
+    {
+        "name": "GRSBF-60-S",
+        "parsed_name": "grsbf-60-s"
+    },
+    {
+        "name": "GRSBF-66-I",
+        "parsed_name": "grsbf-66-i"
+    },
+    {
+        "name": "GRSBF-72-F",
+        "parsed_name": "grsbf-72-f"
+    },
+    {
+        "name": "GRSBF-72-I",
+        "parsed_name": "grsbf-72-i"
+    },
+    {
+        "name": "GRSBF-72-O",
+        "parsed_name": "grsbf-72-o"
+    },
+    {
+        "name": "GRSBF-72-S",
+        "parsed_name": "grsbf-72-s"
+    },
+    {
+        "name": "GRSDH-30D",
+        "parsed_name": "grsdh-30d"
+    },
+    {
+        "name": "GRSDH-36D",
+        "parsed_name": "grsdh-36d"
+    },
+    {
+        "name": "GRSDH-41D",
+        "parsed_name": "grsdh-41d"
+    },
+    {
+        "name": "GRSDH-52",
+        "parsed_name": "grsdh-52"
+    },
+    {
+        "name": "GRSDH-52D",
+        "parsed_name": "grsdh-52d"
+    },
+    {
+        "name": "GRSDH-60D",
+        "parsed_name": "grsdh-60d"
+    },
+    {
+        "name": "GRSDS",
+        "parsed_name": "grsds"
+    },
+    {
+        "name": "GRSDS-24D",
+        "parsed_name": "grsds-24d"
+    },
+    {
+        "name": "GRSDS-30D",
+        "parsed_name": "grsds-30d"
+    },
+    {
+        "name": "GRSDS-36",
+        "parsed_name": "grsds-36"
+    },
+    {
+        "name": "GRSDS-36D",
+        "parsed_name": "grsds-36d"
+    },
+    {
+        "name": "GRSDS-41D",
+        "parsed_name": "grsds-41d"
+    },
+    {
+        "name": "GRSDS-41DHW",
+        "parsed_name": "grsds-41dhw"
+    },
+    {
+        "name": "GRSDS-52D",
+        "parsed_name": "grsds-52d"
+    },
+    {
+        "name": "GRSDS-60D",
+        "parsed_name": "grsds-60d"
+    },
+    {
+        "name": "HCSBF",
+        "parsed_name": "hcsbf"
+    },
+    {
+        "name": "HCSBF-24-I",
+        "parsed_name": "hcsbf-24-i"
+    },
+    {
+        "name": "HCSBF-36-I",
+        "parsed_name": "hcsbf-36-i"
+    },
+    {
+        "name": "HCSBF-36-S",
+        "parsed_name": "hcsbf-36-s"
+    },
+    {
+        "name": "HCSBF-48-I",
+        "parsed_name": "hcsbf-48-i"
+    },
+    {
+        "name": "HCSSBF",
+        "parsed_name": "hcssbf"
+    },
+    {
+        "name": "HCSSBF-24-S",
+        "parsed_name": "hcssbf-24-s"
+    },
+    {
+        "name": "HCSSBF-36-S",
+        "parsed_name": "hcssbf-36-s"
+    },
+    {
+        "name": "HCSSBF-48-F",
+        "parsed_name": "hcssbf-48-f"
+    },
+    {
+        "name": "HCSSBF-48-S",
+        "parsed_name": "hcssbf-48-s"
+    },
+    {
+        "name": "HCWBI",
+        "parsed_name": "hcwbi"
+    },
+    {
+        "name": "HCWBI-2DA",
+        "parsed_name": "hcwbi-2da"
+    },
+    {
+        "name": "HCWBI-3DA",
+        "parsed_name": "hcwbi-3da"
+    },
+    {
+        "name": "HCWBI-4DA",
+        "parsed_name": "hcwbi-4da"
+    },
+    {
+        "name": "HCWBI-5DA",
+        "parsed_name": "hcwbi-5da"
+    },
+    {
+        "name": "HCWBI-6DA",
+        "parsed_name": "hcwbi-6da"
+    },
+    {
+        "name": "HDW Series",
+        "parsed_name": "hdw-series"
+    },
+    {
+        "name": "HDW-1",
+        "parsed_name": "hdw-1"
+    },
+    {
+        "name": "HDW-1B",
+        "parsed_name": "hdw-1b"
+    },
+    {
+        "name": "HDW-1BN",
+        "parsed_name": "hdw-1bn"
+    },
+    {
+        "name": "HDW-1N",
+        "parsed_name": "hdw-1n"
+    },
+    {
+        "name": "HDW-1R2",
+        "parsed_name": "hdw-1r2"
+    },
+    {
+        "name": "HDW-2",
+        "parsed_name": "hdw-2"
+    },
+    {
+        "name": "HDW-2-MN",
+        "parsed_name": "hdw-2-mn"
+    },
+    {
+        "name": "HDW-2B",
+        "parsed_name": "hdw-2b"
+    },
+    {
+        "name": "HDW-2BN",
+        "parsed_name": "hdw-2bn"
+    },
+    {
+        "name": "HDW-2N",
+        "parsed_name": "hdw-2n"
+    },
+    {
+        "name": "HDW-2R2",
+        "parsed_name": "hdw-2r2"
+    },
+    {
+        "name": "HDW-3",
+        "parsed_name": "hdw-3"
+    },
+    {
+        "name": "HDW-3B",
+        "parsed_name": "hdw-3b"
+    },
+    {
+        "name": "HDW-3BN",
+        "parsed_name": "hdw-3bn"
+    },
+    {
+        "name": "HDW-3N",
+        "parsed_name": "hdw-3n"
+    },
+    {
+        "name": "HDW-4",
+        "parsed_name": "hdw-4"
+    },
+    {
+        "name": "HW Series",
+        "parsed_name": "hw-series"
+    },
+    {
+        "name": "HW-43",
+        "parsed_name": "hw-43"
+    },
+    {
+        "name": "HW-FUL",
+        "parsed_name": "hw-ful"
+    },
+    {
+        "name": "HWB Series",
+        "parsed_name": "hwb-series"
+    },
+    {
+        "name": "HWB-11QT",
+        "parsed_name": "hwb-11qt"
+    },
+    {
+        "name": "HWB-11QTD",
+        "parsed_name": "hwb-11qtd"
+    },
+    {
+        "name": "HWB-43",
+        "parsed_name": "hwb-43"
+    },
+    {
+        "name": "HWB-43D",
+        "parsed_name": "hwb-43d"
+    },
+    {
+        "name": "HWB-43DA",
+        "parsed_name": "hwb-43da"
+    },
+    {
+        "name": "HWB-7QT",
+        "parsed_name": "hwb-7qt"
+    },
+    {
+        "name": "HWB-7QTD",
+        "parsed_name": "hwb-7qtd"
+    },
+    {
+        "name": "HWB-FUL",
+        "parsed_name": "hwb-ful"
+    },
+    {
+        "name": "HWB-FULD",
+        "parsed_name": "hwb-fuld"
+    },
+    {
+        "name": "HWBH-11QT",
+        "parsed_name": "hwbh-11qt"
+    },
+    {
+        "name": "HWBH-11QTD",
+        "parsed_name": "hwbh-11qtd"
+    },
+    {
+        "name": "HWBH-43",
+        "parsed_name": "hwbh-43"
+    },
+    {
+        "name": "HWBH-43D",
+        "parsed_name": "hwbh-43d"
+    },
+    {
+        "name": "HWBH-7QT",
+        "parsed_name": "hwbh-7qt"
+    },
+    {
+        "name": "HWBH-7QTD",
+        "parsed_name": "hwbh-7qtd"
+    },
+    {
+        "name": "HWBI",
+        "parsed_name": "hwbi"
+    },
+    {
+        "name": "ITQ",
+        "parsed_name": "itq"
+    },
+    {
+        "name": "PFST",
+        "parsed_name": "pfst"
+    },
+    {
+        "name": "PFST-1X",
+        "parsed_name": "pfst-1x"
+    },
+    {
+        "name": "PFST-1XB",
+        "parsed_name": "pfst-1xb"
+    },
+    {
+        "name": "PFST-2X",
+        "parsed_name": "pfst-2x"
+    },
+    {
+        "name": "PMG-60",
+        "parsed_name": "pmg-60"
+    },
+    {
+        "name": "RMB",
+        "parsed_name": "rmb"
+    },
+    {
+        "name": "S Series",
+        "parsed_name": "s-series"
+    },
+    {
+        "name": "S-12",
+        "parsed_name": "s-12"
+    },
+    {
+        "name": "S-15",
+        "parsed_name": "s-15"
+    },
+    {
+        "name": "S-17",
+        "parsed_name": "s-17"
+    },
+    {
+        "name": "S-24",
+        "parsed_name": "s-24"
+    },
+    {
+        "name": "S-27",
+        "parsed_name": "s-27"
+    },
+    {
+        "name": "S-30",
+        "parsed_name": "s-30"
+    },
+    {
+        "name": "S-36",
+        "parsed_name": "s-36"
+    },
+    {
+        "name": "S-39",
+        "parsed_name": "s-39"
+    },
+    {
+        "name": "S-40",
+        "parsed_name": "s-40"
+    },
+    {
+        "name": "S-45",
+        "parsed_name": "s-45"
+    },
+    {
+        "name": "S-54",
+        "parsed_name": "s-54"
+    },
+    {
+        "name": "S-57",
+        "parsed_name": "s-57"
+    },
+    {
+        "name": "S-58",
+        "parsed_name": "s-58"
+    },
+    {
+        "name": "S-7",
+        "parsed_name": "s-7"
+    },
+    {
+        "name": "S-9",
+        "parsed_name": "s-9"
+    },
+    {
+        "name": "TK Series",
+        "parsed_name": "tk-series"
+    },
+    {
+        "name": "TK-100",
+        "parsed_name": "tk-100"
+    },
+    {
+        "name": "TK-135B",
+        "parsed_name": "tk-135b"
+    },
+    {
+        "name": "TK-155B",
+        "parsed_name": "tk-155b"
+    },
+    {
+        "name": "TK-72",
+        "parsed_name": "tk-72"
+    },
+    {
+        "name": "TK-75",
+        "parsed_name": "tk-75"
+    },
+    {
+        "name": "TQ-10",
+        "parsed_name": "tq-10"
+    },
+    {
+        "name": "TQ-1200",
+        "parsed_name": "tq-1200"
+    },
+    {
+        "name": "TQ-1800",
+        "parsed_name": "tq-1800"
+    },
+    {
+        "name": "TQ-1800BA",
+        "parsed_name": "tq-1800ba"
+    },
+    {
+        "name": "TQ-1800H",
+        "parsed_name": "tq-1800h"
+    },
+    {
+        "name": "TQ-1800HBA",
+        "parsed_name": "tq-1800hba"
+    },
+    {
+        "name": "TQ-20BA",
+        "parsed_name": "tq-20ba"
+    },
+    {
+        "name": "TQ-300",
+        "parsed_name": "tq-300"
+    },
+    {
+        "name": "TQ-400",
+        "parsed_name": "tq-400"
+    },
+    {
+        "name": "TQ-400H",
+        "parsed_name": "tq-400h"
+    },
+    {
+        "name": "TQ-700",
+        "parsed_name": "tq-700"
+    },
+    {
+        "name": "TQ-800",
+        "parsed_name": "tq-800"
+    },
+    {
+        "name": "TQ-800BA",
+        "parsed_name": "tq-800ba"
+    },
+    {
+        "name": "TQ-800H",
+        "parsed_name": "tq-800h"
+    },
+    {
+        "name": "TQ-800HBA",
+        "parsed_name": "tq-800hba"
+    },
+    {
+        "name": "TQ3",
+        "parsed_name": "tq3"
+    },
+    {
+        "name": "TQ3 Series",
+        "parsed_name": "tq3-series"
+    },
+    {
+        "name": "TQ3-2000",
+        "parsed_name": "tq3-2000"
+    },
+    {
+        "name": "TQ3-2000H",
+        "parsed_name": "tq3-2000h"
+    },
+    {
+        "name": "TQ3-400",
+        "parsed_name": "tq3-400"
+    },
+    {
+        "name": "TQ3-500H",
+        "parsed_name": "tq3-500h"
+    },
+    {
+        "name": "TQ3-900",
+        "parsed_name": "tq3-900"
+    },
+    {
+        "name": "TQ3-900H",
+        "parsed_name": "tq3-900h"
+    },
+    {
+        "name": "UGA-30",
+        "parsed_name": "uga-30"
+    },
+    {
+        "name": "UGA-60",
+        "parsed_name": "uga-60"
+    },
+    {
+        "name": "UGAH",
+        "parsed_name": "ugah"
+    },
+    {
+        "name": "UGAH-18",
+        "parsed_name": "ugah-18"
+    },
+    {
+        "name": "UGAH-24",
+        "parsed_name": "ugah-24"
+    },
+    {
+        "name": "UGAH-36",
+        "parsed_name": "ugah-36"
+    },
+    {
+        "name": "UGAH-42",
+        "parsed_name": "ugah-42"
+    },
+    {
+        "name": "UGAH-60",
+        "parsed_name": "ugah-60"
+    },
+    {
+        "name": "UGAH-72",
+        "parsed_name": "ugah-72"
+    },
+    {
+        "name": "UGAHL",
+        "parsed_name": "ugahl"
+    },
+    {
+        "name": "WFST",
+        "parsed_name": "wfst"
+    },
+    {
+        "name": "WFST-1X",
+        "parsed_name": "wfst-1x"
+    },
+    {
+        "name": "WFST-2X",
+        "parsed_name": "wfst-2x"
+    }
+]

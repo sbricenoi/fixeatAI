@@ -1,0 +1,104 @@
+{
+    "brand": "silver-king",
+    "model": "skf72d-c10",
+    "issues": [
+        {
+            "name": "Unit Is Not Reaching Set Temperature",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/silver-king/skf72d-c10/unit-is-not-reaching-set-temperature",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SVK/SVK38553.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Silver King 38553 Temperature Control, Programmed 115V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n38553",
+                    "fix_rate": 41.0,
+                    "list_price": "$ 474.59"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/SVK/SVK38822.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Silver King 38822 Temperature Probe, 96\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n38822",
+                    "fix_rate": 31.0,
+                    "list_price": "$ 50.08"
+                }
+            ]
+        },
+        {
+            "name": "Probe Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/silver-king/skf72d-c10/probe-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SVK/SVK38822.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Silver King 38822 Temperature Probe, 96\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n38822",
+                    "fix_rate": 83.0,
+                    "list_price": "$ 50.08"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/SVK/SVK38553.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Silver King 38553 Temperature Control, Programmed 115V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n38553",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 474.59"
+                }
+            ]
+        },
+        {
+            "name": "Controller Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/silver-king/skf72d-c10/controller-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SVK/SVK38553.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Silver King 38553 Temperature Control, Programmed 115V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n38553",
+                    "fix_rate": 68.0,
+                    "list_price": "$ 474.59"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/SVK/SVK38822.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Silver King 38822 Temperature Probe, 96\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n38822",
+                    "fix_rate": 44.0,
+                    "list_price": "$ 50.08"
+                }
+            ]
+        },
+        {
+            "name": "Heating Element Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/silver-king/skf72d-c10/heating-element-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SVK/SVK38210.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Silver King 38210 Defrost Heater, Evaporator, 115V, SKF72",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n38210",
+                    "fix_rate": 58.0,
+                    "list_price": "$ 207.82"
+                }
+            ]
+        }
+    ]
+}

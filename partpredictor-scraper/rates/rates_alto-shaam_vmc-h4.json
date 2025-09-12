@@ -1,0 +1,40 @@
+{
+    "brand": "alto-shaam",
+    "model": "vmc-h4",
+    "issues": [
+        {
+            "name": "Door Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/alto-shaam/vmc-h4/door-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/ALT/ALT5028179.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Alto Shaam 5028179 Kit, Service Handle Replacement, VMC-H3 Deluxe, VMC-H3H Deluxe",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n5028179",
+                    "fix_rate": 47.0,
+                    "list_price": "$ 369.00"
+                }
+            ]
+        },
+        {
+            "name": "Handle Is Defective",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/alto-shaam/vmc-h4/handle-is-defective",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/ALT/ALT5028179.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Alto Shaam 5028179 Kit, Service Handle Replacement, VMC-H3 Deluxe, VMC-H3H Deluxe",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n5028179",
+                    "fix_rate": 57.0,
+                    "list_price": "$ 369.00"
+                }
+            ]
+        }
+    ]
+}

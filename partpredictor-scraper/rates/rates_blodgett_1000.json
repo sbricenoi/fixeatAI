@@ -1,0 +1,77 @@
+{
+    "brand": "blodgett",
+    "model": "1000",
+    "issues": [
+        {
+            "name": "Pilot Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/blodgett/1000/pilot-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL100653.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 100653 Thermocouple",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100653",
+                    "fix_rate": 46.0,
+                    "list_price": "$ 95.68"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL55127.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 55127 Pilot Safety Valve, TS11, 1/4\" Tube Fitting",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n55127",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 561.60"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL11529.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 11529 Thermostat, FDH, with Knob and Nipple",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n11529",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 811.20"
+                }
+            ]
+        },
+        {
+            "name": "Thermocouple Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/blodgett/1000/thermocouple-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL100653.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 100653 Thermocouple",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n100653",
+                    "fix_rate": 68.0,
+                    "list_price": "$ 95.68"
+                }
+            ]
+        },
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/blodgett/1000/thermostat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL11529.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 11529 Thermostat, FDH, with Knob and Nipple",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n11529",
+                    "fix_rate": 78.0,
+                    "list_price": "$ 811.20"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1238 @@
+{
+    "brand": "randell",
+    "model": "52365wprm-cfa",
+    "issues": [
+        {
+            "name": "Unit Is Not Reaching Set Temperature",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/randell/52365wprm-cfa/unit-is-not-reaching-set-temperature",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFFLT251.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF FLT251 Filter Drier, 1/4\" with 2nd 1/4\" Inlet",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF FLT251",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 30.54"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFSOL9801.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF SOL9801 Solenoid Valve, 120V, 50/60HZ, 0634",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF SOL9801",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 89.14"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFVLV414.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF VLV414 Expansion Valve, 1/4 Ton, R404, Med/Hi Temp",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF VLV414",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 153.62"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFCNT0505.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF CNT0505 Probe, Dixell, NTC Defrost and Fan Relay with 8' Leads",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF CNT0505",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 34.52"
+                }
+            ]
+        },
+        {
+            "name": "Compressor Is Not Running",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/randell/52365wprm-cfa/compressor-is-not-running",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFFLT251.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF FLT251 Filter Drier, 1/4\" with 2nd 1/4\" Inlet",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF FLT251",
+                    "fix_rate": 41.0,
+                    "list_price": "$ 30.54"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFCMP1602.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF CMP1602 Compressor, 1/2Hp, LT R404A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF CMP1602",
+                    "fix_rate": 35.0,
+                    "list_price": "$ 2,979.81"
+                }
+            ]
+        },
+        {
+            "name": "Hinge Is Defective Or Damaged",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/randell/52365wprm-cfa/hinge-is-defective-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDHDHNG0501.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell HD HNG0501 Hinge, Counter Balance CB251",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nHD HNG0501",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 3,746.56"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDFABLT4115.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell FA BLT4115 Bolt, Phillips, 1/4-20X1-3/4 T/H/P",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nFA BLT4115",
+                    "fix_rate": 47.0,
+                    "list_price": "$ 0.69"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDHDHNG0707.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell HD HNG0707 Spring Kit, Door Hinge",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nHD HNG0707",
+                    "fix_rate": 24.0,
+                    "list_price": "$ 37.32"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDHDHNG0706.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell HD HNG0706 Door hinge, Edgemount",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nHD HNG0706",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 90.03"
+                }
+            ]
+        },
+        {
+            "name": "Breaker Is Tripping Or Wont Reset",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/randell/52365wprm-cfa/breaker-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFFLT251.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF FLT251 Filter Drier, 1/4\" with 2nd 1/4\" Inlet",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF FLT251",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 30.54"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDELMTR302R22.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell EL MTR302R22 Fan Motor, 115V, 9W, Cw,Morrill",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nEL MTR302R22",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 427.56"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFCMP1602.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF CMP1602 Compressor, 1/2Hp, LT R404A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF CMP1602",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 2,979.81"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Leaking",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/randell/52365wprm-cfa/unit-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFFLT251.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF FLT251 Filter Drier, 1/4\" with 2nd 1/4\" Inlet",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF FLT251",
+                    "fix_rate": 35.0,
+                    "list_price": "$ 30.54"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFSOL9801.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF SOL9801 Solenoid Valve, 120V, 50/60HZ, 0634",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF SOL9801",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 89.14"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFVLV414.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF VLV414 Expansion Valve, 1/4 Ton, R404, Med/Hi Temp",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF VLV414",
+                    "fix_rate": 20.0,
+                    "list_price": "$ 153.62"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFCOI107.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF COI107 Evaporator Coil, 4 x 3.75 x 15.5, New Mullion",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF COI107",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 428.28"
+                }
+            ]
+        },
+        {
+            "name": "Probe Is Malfunctioning",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/randell/52365wprm-cfa/probe-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFCNT1104.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF CNT1104 Probe, Dixell, NTC, 6.0 Meter with No Sleeve",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF CNT1104",
+                    "fix_rate": 35.0,
+                    "list_price": "$ 49.49"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFCNT0505.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF CNT0505 Probe, Dixell, NTC Defrost and Fan Relay with 8' Leads",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF CNT0505",
+                    "fix_rate": 34.0,
+                    "list_price": "$ 34.52"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Overheating",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/randell/52365wprm-cfa/unit-is-overheating",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFFLT251.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF FLT251 Filter Drier, 1/4\" with 2nd 1/4\" Inlet",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF FLT251",
+                    "fix_rate": 20.0,
+                    "list_price": "$ 30.54"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFCMP1602.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF CMP1602 Compressor, 1/2Hp, LT R404A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF CMP1602",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 2,979.81"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDELMTR302R22.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell EL MTR302R22 Fan Motor, 115V, 9W, Cw,Morrill",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nEL MTR302R22",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 427.56"
+                }
+            ]
+        },
+        {
+            "name": "Door Is Malfunctioning",
+            "idx": 7,
+            "url": "https://www.partstown.com/part-predictor/randell/52365wprm-cfa/door-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDHDHNG0707.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell HD HNG0707 Spring Kit, Door Hinge",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nHD HNG0707",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 37.32"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDHDHNG0706.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell HD HNG0706 Door hinge, Edgemount",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nHD HNG0706",
+                    "fix_rate": 20.0,
+                    "list_price": "$ 90.03"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFFLT251.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF FLT251 Filter Drier, 1/4\" with 2nd 1/4\" Inlet",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF FLT251",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 30.54"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFSOL9801.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF SOL9801 Solenoid Valve, 120V, 50/60HZ, 0634",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF SOL9801",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 89.14"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFVLV414.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF VLV414 Expansion Valve, 1/4 Ton, R404, Med/Hi Temp",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF VLV414",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 153.62"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDINGSK1020.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell IN GSK1020 Door Gasket, Push-In, 15.59 x 24.25",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nIN GSK1020",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 60.83"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRPBRK1509.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RP BRK1509 Hinge Bracket, Right Front, CON1401, Chick-Fil-A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRP BRK1509",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 373.46"
+                }
+            ]
+        },
+        {
+            "name": "Controller Is Malfunctioning",
+            "idx": 8,
+            "url": "https://www.partstown.com/part-predictor/randell/52365wprm-cfa/controller-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRPCNT0204.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RP CNT0204 Digital Control, Dixell",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRP CNT0204",
+                    "fix_rate": 28.0,
+                    "list_price": "$ 544.11"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRPCNT0501.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RP CNT0501 Digital Control, Dixell 52365WPRM, CFA",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRP CNT0501",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 495.75"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFFLT251.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF FLT251 Filter Drier, 1/4\" with 2nd 1/4\" Inlet",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF FLT251",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 30.54"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFSOL9801.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF SOL9801 Solenoid Valve, 120V, 50/60HZ, 0634",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF SOL9801",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 89.14"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFCNT0505.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF CNT0505 Probe, Dixell, NTC Defrost and Fan Relay with 8' Leads",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF CNT0505",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 34.52"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFCNT1104.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF CNT1104 Probe, Dixell, NTC, 6.0 Meter with No Sleeve",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF CNT1104",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 49.49"
+                }
+            ]
+        },
+        {
+            "name": "Fan Motor Is Malfunctioning",
+            "idx": 9,
+            "url": "https://www.partstown.com/part-predictor/randell/52365wprm-cfa/fan-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDELMTR302R22.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell EL MTR302R22 Fan Motor, 115V, 9W, Cw,Morrill",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nEL MTR302R22",
+                    "fix_rate": 24.0,
+                    "list_price": "$ 427.56"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDELMTR2338.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell EL MTR2338 Fan/Motor Assembly, 120V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nEL MTR2338",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 92.84"
+                }
+            ]
+        },
+        {
+            "name": "Compressor Is Getting Hot",
+            "idx": 10,
+            "url": "https://www.partstown.com/part-predictor/randell/52365wprm-cfa/compressor-is-getting-hot",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFFLT251.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF FLT251 Filter Drier, 1/4\" with 2nd 1/4\" Inlet",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF FLT251",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 30.54"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFCMP1602.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF CMP1602 Compressor, 1/2Hp, LT R404A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF CMP1602",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 2,979.81"
+                }
+            ]
+        },
+        {
+            "name": "Relay Is Malfunctioning",
+            "idx": 11,
+            "url": "https://www.partstown.com/part-predictor/randell/52365wprm-cfa/relay-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFFLT251.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF FLT251 Filter Drier, 1/4\" with 2nd 1/4\" Inlet",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF FLT251",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 30.54"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFCMP1602.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF CMP1602 Compressor, 1/2Hp, LT R404A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF CMP1602",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 2,979.81"
+                }
+            ]
+        },
+        {
+            "name": "Refrigerant Is Leaking",
+            "idx": 12,
+            "url": "https://www.partstown.com/part-predictor/randell/52365wprm-cfa/refrigerant-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFFLT251.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF FLT251 Filter Drier, 1/4\" with 2nd 1/4\" Inlet",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF FLT251",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 30.54"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFSOL9801.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF SOL9801 Solenoid Valve, 120V, 50/60HZ, 0634",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF SOL9801",
+                    "fix_rate": 24.0,
+                    "list_price": "$ 89.14"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFVLV414.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF VLV414 Expansion Valve, 1/4 Ton, R404, Med/Hi Temp",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF VLV414",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 153.62"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFCOI107.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF COI107 Evaporator Coil, 4 x 3.75 x 15.5, New Mullion",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF COI107",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 428.28"
+                }
+            ]
+        },
+        {
+            "name": "Condenser Fan Motor Is Malfunctioning",
+            "idx": 13,
+            "url": "https://www.partstown.com/part-predictor/randell/52365wprm-cfa/condenser-fan-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDELMTR302R22.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell EL MTR302R22 Fan Motor, 115V, 9W, Cw,Morrill",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nEL MTR302R22",
+                    "fix_rate": 46.0,
+                    "list_price": "$ 427.56"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Malfunctioning",
+            "idx": 14,
+            "url": "https://www.partstown.com/part-predictor/randell/52365wprm-cfa/unit-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFFLT251.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF FLT251 Filter Drier, 1/4\" with 2nd 1/4\" Inlet",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF FLT251",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 30.54"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFSOL9801.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF SOL9801 Solenoid Valve, 120V, 50/60HZ, 0634",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF SOL9801",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 89.14"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFVLV414.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF VLV414 Expansion Valve, 1/4 Ton, R404, Med/Hi Temp",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF VLV414",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 153.62"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDHDHNG0707.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell HD HNG0707 Spring Kit, Door Hinge",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nHD HNG0707",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 37.32"
+                }
+            ]
+        },
+        {
+            "name": "Valve Is Malfunctioning",
+            "idx": 15,
+            "url": "https://www.partstown.com/part-predictor/randell/52365wprm-cfa/valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFSOL9801.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF SOL9801 Solenoid Valve, 120V, 50/60HZ, 0634",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF SOL9801",
+                    "fix_rate": 52.0,
+                    "list_price": "$ 89.14"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFFLT251.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF FLT251 Filter Drier, 1/4\" with 2nd 1/4\" Inlet",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF FLT251",
+                    "fix_rate": 42.0,
+                    "list_price": "$ 30.54"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFVLV414.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF VLV414 Expansion Valve, 1/4 Ton, R404, Med/Hi Temp",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF VLV414",
+                    "fix_rate": 42.0,
+                    "list_price": "$ 153.62"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFVLV404.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF VLV404 Expansion Valve, 1/4 Ton, R404, Low Temp",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF VLV404",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 153.62"
+                }
+            ]
+        },
+        {
+            "name": "Valve Is Leaking",
+            "idx": 16,
+            "url": "https://www.partstown.com/part-predictor/randell/52365wprm-cfa/valve-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFSOL9801.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF SOL9801 Solenoid Valve, 120V, 50/60HZ, 0634",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF SOL9801",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 89.14"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFVLV414.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF VLV414 Expansion Valve, 1/4 Ton, R404, Med/Hi Temp",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF VLV414",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 153.62"
+                }
+            ]
+        },
+        {
+            "name": "Freon Is Leaking",
+            "idx": 17,
+            "url": "https://www.partstown.com/part-predictor/randell/52365wprm-cfa/freon-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFFLT251.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF FLT251 Filter Drier, 1/4\" with 2nd 1/4\" Inlet",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF FLT251",
+                    "fix_rate": 27.0,
+                    "list_price": "$ 30.54"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFSOL9801.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF SOL9801 Solenoid Valve, 120V, 50/60HZ, 0634",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF SOL9801",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 89.14"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFVLV414.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF VLV414 Expansion Valve, 1/4 Ton, R404, Med/Hi Temp",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF VLV414",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 153.62"
+                }
+            ]
+        },
+        {
+            "name": "Spring Is Malfunctioning",
+            "idx": 18,
+            "url": "https://www.partstown.com/part-predictor/randell/52365wprm-cfa/spring-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDHDHNG0707.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell HD HNG0707 Spring Kit, Door Hinge",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nHD HNG0707",
+                    "fix_rate": 69.0,
+                    "list_price": "$ 37.32"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDHDHNG0706.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell HD HNG0706 Door hinge, Edgemount",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nHD HNG0706",
+                    "fix_rate": 20.0,
+                    "list_price": "$ 90.03"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDFABLT4115.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell FA BLT4115 Bolt, Phillips, 1/4-20X1-3/4 T/H/P",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nFA BLT4115",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 0.69"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDHDHNG0501.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell HD HNG0501 Hinge, Counter Balance CB251",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nHD HNG0501",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 3,746.56"
+                }
+            ]
+        },
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 19,
+            "url": "https://www.partstown.com/part-predictor/randell/52365wprm-cfa/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDELSWT0502.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell EL SWT0502 Switch, On/Off, Rocker, Spst, 20A, 277V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nEL SWT0502",
+                    "fix_rate": 37.0,
+                    "list_price": "$ 22.73"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFFLT251.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF FLT251 Filter Drier, 1/4\" with 2nd 1/4\" Inlet",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF FLT251",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 30.54"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFCMP1602.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF CMP1602 Compressor, 1/2Hp, LT R404A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF CMP1602",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 2,979.81"
+                }
+            ]
+        },
+        {
+            "name": "Power Cord Is Malfunctioning",
+            "idx": 20,
+            "url": "https://www.partstown.com/part-predictor/randell/52365wprm-cfa/power-cord-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDELWIR1703.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell EL WIR1703 Power Cord, 9', 16/3",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nEL WIR1703",
+                    "fix_rate": 24.0,
+                    "list_price": "$ 32.39"
+                }
+            ]
+        },
+        {
+            "name": "Sensor Is Malfunctioning",
+            "idx": 21,
+            "url": "https://www.partstown.com/part-predictor/randell/52365wprm-cfa/sensor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFCNT1104.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF CNT1104 Probe, Dixell, NTC, 6.0 Meter with No Sleeve",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF CNT1104",
+                    "fix_rate": 41.0,
+                    "list_price": "$ 49.49"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFCNT1703.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF CNT1703 Probe, 54\" Leads, Dixell NTC",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF CNT1703",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 46.44"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDHDSEN0201S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell HD SEN0201S Sensor, Special Rail, 52365WPRM",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nHD SEN0201S",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 81.44"
+                }
+            ]
+        },
+        {
+            "name": "Display Is Malfunctioning",
+            "idx": 22,
+            "url": "https://www.partstown.com/part-predictor/randell/52365wprm-cfa/display-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFCNT1104.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF CNT1104 Probe, Dixell, NTC, 6.0 Meter with No Sleeve",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF CNT1104",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 49.49"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFCNT0505.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF CNT0505 Probe, Dixell, NTC Defrost and Fan Relay with 8' Leads",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF CNT0505",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 34.52"
+                }
+            ]
+        },
+        {
+            "name": "Solenoid Valve Is Malfunctioning",
+            "idx": 23,
+            "url": "https://www.partstown.com/part-predictor/randell/52365wprm-cfa/solenoid-valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFSOL9801.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF SOL9801 Solenoid Valve, 120V, 50/60HZ, 0634",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF SOL9801",
+                    "fix_rate": 84.0,
+                    "list_price": "$ 89.14"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFFLT251.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF FLT251 Filter Drier, 1/4\" with 2nd 1/4\" Inlet",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF FLT251",
+                    "fix_rate": 60.0,
+                    "list_price": "$ 30.54"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFVLV414.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF VLV414 Expansion Valve, 1/4 Ton, R404, Med/Hi Temp",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF VLV414",
+                    "fix_rate": 48.0,
+                    "list_price": "$ 153.62"
+                }
+            ]
+        },
+        {
+            "name": "Door Spring Is Malfunctioning",
+            "idx": 24,
+            "url": "https://www.partstown.com/part-predictor/randell/52365wprm-cfa/door-spring-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDHDHNG0707.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell HD HNG0707 Spring Kit, Door Hinge",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nHD HNG0707",
+                    "fix_rate": 91.0,
+                    "list_price": "$ 37.32"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDHDHNG0706.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell HD HNG0706 Door hinge, Edgemount",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nHD HNG0706",
+                    "fix_rate": 35.0,
+                    "list_price": "$ 90.03"
+                }
+            ]
+        },
+        {
+            "name": "Filter Is Malfunctioning",
+            "idx": 25,
+            "url": "https://www.partstown.com/part-predictor/randell/52365wprm-cfa/filter-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFFLT251.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF FLT251 Filter Drier, 1/4\" with 2nd 1/4\" Inlet",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF FLT251",
+                    "fix_rate": 30.0,
+                    "list_price": "$ 30.54"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFCMP1602.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF CMP1602 Compressor, 1/2Hp, LT R404A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF CMP1602",
+                    "fix_rate": 30.0,
+                    "list_price": "$ 2,979.81"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFSOL9801.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF SOL9801 Solenoid Valve, 120V, 50/60HZ, 0634",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF SOL9801",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 89.14"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Not Maintaining Temperature",
+            "idx": 26,
+            "url": "https://www.partstown.com/part-predictor/randell/52365wprm-cfa/unit-is-not-maintaining-temperature",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFCNT0505.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF CNT0505 Probe, Dixell, NTC Defrost and Fan Relay with 8' Leads",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF CNT0505",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 34.52"
+                }
+            ]
+        },
+        {
+            "name": "Freon Charge Issue",
+            "idx": 27,
+            "url": "https://www.partstown.com/part-predictor/randell/52365wprm-cfa/freon-charge-issue",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFSOL9801.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF SOL9801 Solenoid Valve, 120V, 50/60HZ, 0634",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF SOL9801",
+                    "fix_rate": 48.0,
+                    "list_price": "$ 89.14"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFFLT251.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF FLT251 Filter Drier, 1/4\" with 2nd 1/4\" Inlet",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF FLT251",
+                    "fix_rate": 43.0,
+                    "list_price": "$ 30.54"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFVLV414.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF VLV414 Expansion Valve, 1/4 Ton, R404, Med/Hi Temp",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF VLV414",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 153.62"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFVLV404.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF VLV404 Expansion Valve, 1/4 Ton, R404, Low Temp",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF VLV404",
+                    "fix_rate": 24.0,
+                    "list_price": "$ 153.62"
+                }
+            ]
+        },
+        {
+            "name": "Motor Is Malfunctioning",
+            "idx": 28,
+            "url": "https://www.partstown.com/part-predictor/randell/52365wprm-cfa/motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDELMTR2338.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell EL MTR2338 Fan/Motor Assembly, 120V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nEL MTR2338",
+                    "fix_rate": 38.0,
+                    "list_price": "$ 92.84"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDELMTR302R22.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell EL MTR302R22 Fan Motor, 115V, 9W, Cw,Morrill",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nEL MTR302R22",
+                    "fix_rate": 24.0,
+                    "list_price": "$ 427.56"
+                }
+            ]
+        },
+        {
+            "name": "Compressor Is Not Cycling Properly",
+            "idx": 29,
+            "url": "https://www.partstown.com/part-predictor/randell/52365wprm-cfa/compressor-is-not-cycling-properly",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFFLT251.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF FLT251 Filter Drier, 1/4\" with 2nd 1/4\" Inlet",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF FLT251",
+                    "fix_rate": 30.0,
+                    "list_price": "$ 30.54"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFSOL9801.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF SOL9801 Solenoid Valve, 120V, 50/60HZ, 0634",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF SOL9801",
+                    "fix_rate": 30.0,
+                    "list_price": "$ 89.14"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFCNT1104.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF CNT1104 Probe, Dixell, NTC, 6.0 Meter with No Sleeve",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF CNT1104",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 49.49"
+                }
+            ]
+        },
+        {
+            "name": "Gasket Is Defective Or Leaking",
+            "idx": 30,
+            "url": "https://www.partstown.com/part-predictor/randell/52365wprm-cfa/gasket-is-defective-or-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDINGSK1020.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell IN GSK1020 Door Gasket, Push-In, 15.59 x 24.25",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nIN GSK1020",
+                    "fix_rate": 53.0,
+                    "list_price": "$ 60.83"
+                }
+            ]
+        },
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 31,
+            "url": "https://www.partstown.com/part-predictor/randell/52365wprm-cfa/thermostat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFFLT251.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF FLT251 Filter Drier, 1/4\" with 2nd 1/4\" Inlet",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF FLT251",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 30.54"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFVLV414.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF VLV414 Expansion Valve, 1/4 Ton, R404, Med/Hi Temp",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF VLV414",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 153.62"
+                }
+            ]
+        },
+        {
+            "name": "Condenser Coil Is Malfunctioning",
+            "idx": 32,
+            "url": "https://www.partstown.com/part-predictor/randell/52365wprm-cfa/condenser-coil-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFFLT251.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF FLT251 Filter Drier, 1/4\" with 2nd 1/4\" Inlet",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF FLT251",
+                    "fix_rate": 42.0,
+                    "list_price": "$ 30.54"
+                }
+            ]
+        },
+        {
+            "name": "Issue With Hardware Or Fittings",
+            "idx": 33,
+            "url": "https://www.partstown.com/part-predictor/randell/52365wprm-cfa/issue-with-hardware-or-fittings",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDHDHNG0501.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell HD HNG0501 Hinge, Counter Balance CB251",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nHD HNG0501",
+                    "fix_rate": 58.0,
+                    "list_price": "$ 3,746.56"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDFABLT4115.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell FA BLT4115 Bolt, Phillips, 1/4-20X1-3/4 T/H/P",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nFA BLT4115",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 0.69"
+                }
+            ]
+        },
+        {
+            "name": "Bracket Is Broken",
+            "idx": 34,
+            "url": "https://www.partstown.com/part-predictor/randell/52365wprm-cfa/bracket-is-broken",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRPBRK1509.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RP BRK1509 Hinge Bracket, Right Front, CON1401, Chick-Fil-A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRP BRK1509",
+                    "fix_rate": 55.0,
+                    "list_price": "$ 373.46"
+                }
+            ]
+        },
+        {
+            "name": "Smoke Coming From Unit",
+            "idx": 35,
+            "url": "https://www.partstown.com/part-predictor/randell/52365wprm-cfa/smoke-coming-from-unit",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RD/RDRFFLT251.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Randell RF FLT251 Filter Drier, 1/4\" with 2nd 1/4\" Inlet",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF FLT251",
+                    "fix_rate": 64.0,
+                    "list_price": "$ 30.54"
+                }
+            ]
+        }
+    ]
+}

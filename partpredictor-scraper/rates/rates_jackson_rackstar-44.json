@@ -1,0 +1,128 @@
+{
+    "brand": "jackson",
+    "model": "rackstar-44",
+    "issues": [
+        {
+            "name": "Contactor Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/jackson/rackstar-44/contactor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/JAC/JAC5945-002-24-70.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jackson 5945-002-24-70 Contactor, 3 Pole, 50A, 120V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n5945-002-24-70",
+                    "fix_rate": 28.0,
+                    "list_price": "$ 420.52"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/JAC/JAC50001291.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jackson 50001291 Mini Contactor, 3 Pole with Auxilary, 110/120 Volt Coil, 50/60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n50001291",
+                    "fix_rate": 24.0,
+                    "list_price": "$ 100.41"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Leaking",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/jackson/rackstar-44/unit-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/JAC/JAC5330-200-02-70.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jackson 5330-200-02-70 Gasket, Booster Heater",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n5330-200-02-70",
+                    "fix_rate": 32.0,
+                    "list_price": "$ 9.73"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/JAC/JAC04820-003-06-13.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jackson 04820-003-06-13 Vacuum Breaker Assembly, 125 PSI, 180 Degrees F, Brass, Complete, 1/2\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n04820-003-06-13",
+                    "fix_rate": 20.0,
+                    "list_price": "$ 109.44"
+                }
+            ]
+        },
+        {
+            "name": "Gasket Is Defective Or Leaking",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/jackson/rackstar-44/gasket-is-defective-or-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/JAC/JAC5330-200-02-70.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jackson 5330-200-02-70 Gasket, Booster Heater",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n5330-200-02-70",
+                    "fix_rate": 63.0,
+                    "list_price": "$ 9.73"
+                }
+            ]
+        },
+        {
+            "name": "Hi-limit Is Tripping Or Wont Reset",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/jackson/rackstar-44/hi-limit-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/JAC/JAC5930-011-49-43.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jackson 5930-011-49-43 Hi Limit Thermostat, 220F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n5930-011-49-43",
+                    "fix_rate": 35.0,
+                    "list_price": "$ 239.21"
+                }
+            ]
+        },
+        {
+            "name": "Heating Element Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/jackson/rackstar-44/heating-element-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/JAC/JAC5330-200-02-70.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jackson 5330-200-02-70 Gasket, Booster Heater",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n5330-200-02-70",
+                    "fix_rate": 33.0,
+                    "list_price": "$ 9.73"
+                }
+            ]
+        },
+        {
+            "name": "Display Is Malfunctioning",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/jackson/rackstar-44/display-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/JAC/JAC5700-004-31-50.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Jackson 5700-004-31-50 Display, Rackstar",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n5700-004-31-50",
+                    "fix_rate": 60.0,
+                    "list_price": "$ 529.10"
+                }
+            ]
+        }
+    ]
+}

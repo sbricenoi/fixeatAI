@@ -1,0 +1,40 @@
+{
+    "brand": "rational",
+    "model": "cmp202g",
+    "issues": [
+        {
+            "name": "Gasket Is Defective Or Leaking",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/rational/cmp202g/gasket-is-defective-or-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RATL/RATL20.00.399P.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Rational 20.00.399P Door Gasket",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n20.00.399P",
+                    "fix_rate": 36.0,
+                    "list_price": "$ 175.54"
+                }
+            ]
+        },
+        {
+            "name": "Potentiometer Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/rational/cmp202g/potentiometer-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/RATL/RATL40.00.464P.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Rational 40.00.464P Potentiometer",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n40.00.464P",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 53.96"
+                }
+            ]
+        }
+    ]
+}

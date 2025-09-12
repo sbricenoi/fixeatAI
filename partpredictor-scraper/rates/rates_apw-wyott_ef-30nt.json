@@ -1,0 +1,84 @@
+{
+    "brand": "apw-wyott",
+    "model": "ef-30nt",
+    "issues": [
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/apw-wyott/ef-30nt/thermostat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/APW/APW2T-1487600.view?thumb&image.rules=G0&w=200",
+                    "product_name": "APW Wyott 2T-1487600 Thermostat, With Auxiliary Switch, 200-400F, 30AMP",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2T-1487600",
+                    "fix_rate": 69.0,
+                    "list_price": "$ 207.38"
+                }
+            ]
+        },
+        {
+            "name": "Hi-limit Is Tripping Or Wont Reset",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/apw-wyott/ef-30nt/hi-limit-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/APW/APWAS-1380500.view?thumb&image.rules=G0&w=200",
+                    "product_name": "APW Wyott AS-1380500 Hi Limit Thermostat, LCH",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nAS-1380500",
+                    "fix_rate": 69.0,
+                    "list_price": "$ 288.40"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/APW/APW2T-1487600.view?thumb&image.rules=G0&w=200",
+                    "product_name": "APW Wyott 2T-1487600 Thermostat, With Auxiliary Switch, 200-400F, 30AMP",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2T-1487600",
+                    "fix_rate": 62.0,
+                    "list_price": "$ 207.38"
+                }
+            ]
+        },
+        {
+            "name": "Wiring Issue",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/apw-wyott/ef-30nt/wiring-issue",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/APW/APW2T-1487600.view?thumb&image.rules=G0&w=200",
+                    "product_name": "APW Wyott 2T-1487600 Thermostat, With Auxiliary Switch, 200-400F, 30AMP",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2T-1487600",
+                    "fix_rate": 67.0,
+                    "list_price": "$ 207.38"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/apw-wyott/ef-30nt/unit-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/APW/APW2T-1487600.view?thumb&image.rules=G0&w=200",
+                    "product_name": "APW Wyott 2T-1487600 Thermostat, With Auxiliary Switch, 200-400F, 30AMP",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2T-1487600",
+                    "fix_rate": 71.0,
+                    "list_price": "$ 207.38"
+                }
+            ]
+        }
+    ]
+}

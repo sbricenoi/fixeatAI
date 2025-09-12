@@ -1,0 +1,23 @@
+{
+    "brand": "alto-shaam",
+    "model": "ec2-96",
+    "issues": [
+        {
+            "name": "Fuse Is Blown",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/alto-shaam/ec2-96/fuse-is-blown",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/ALT/ALTFU-3775.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Alto Shaam FU-3775 Fuse, SLC 15, 15A, Class G",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nFU-3775",
+                    "fix_rate": 64.0,
+                    "list_price": "$ 16.00"
+                }
+            ]
+        }
+    ]
+}

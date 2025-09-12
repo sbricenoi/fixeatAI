@@ -1,0 +1,50 @@
+{
+    "brand": "perlick",
+    "model": "br72",
+    "issues": [
+        {
+            "name": "Unit Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/perlick/br72/unit-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PE/PEC15239A.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Perlick C15239A Fan Motor, 120V, 60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nC15239A",
+                    "fix_rate": 30.0,
+                    "list_price": "$ 145.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/PE/PE57699.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Perlick 57699 Fan Blade, 5 1/2\", 3/16\" Bore",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n57699",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 9.00"
+                }
+            ]
+        },
+        {
+            "name": "Fan Motor Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/perlick/br72/fan-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/PE/PEC15239A.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Perlick C15239A Fan Motor, 120V, 60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nC15239A",
+                    "fix_rate": 71.0,
+                    "list_price": "$ 145.00"
+                }
+            ]
+        }
+    ]
+}

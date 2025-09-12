@@ -1,0 +1,60 @@
+{
+    "brand": "garland",
+    "model": "cg-48r",
+    "issues": [
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/garland/cg-48r/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL2423301.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 2423301 Rocker Switch, SPST, 1801-1119 Marquard",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2423301",
+                    "fix_rate": 55.0,
+                    "list_price": "$ 35.69"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL2423300.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 2423300 Rocker Switch, SPST, Power",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2423300",
+                    "fix_rate": 45.0,
+                    "list_price": "$ 34.68"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GLG04055-2.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland G04055-2 Indicator Light, Green, Round",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nG04055-2",
+                    "fix_rate": 45.0,
+                    "list_price": "$ 31.88"
+                }
+            ]
+        },
+        {
+            "name": "Ignition Module Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/garland/cg-48r/ignition-module-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4531250.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4531250 Ignition Module Service Kit, 3 Tries",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4531250",
+                    "fix_rate": 86.0,
+                    "list_price": "$ 382.15"
+                }
+            ]
+        }
+    ]
+}

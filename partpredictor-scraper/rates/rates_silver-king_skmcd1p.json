@@ -1,0 +1,104 @@
+{
+    "brand": "silver-king",
+    "model": "skmcd1p",
+    "issues": [
+        {
+            "name": "Keypad Is Not Responding Or Damaged",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/silver-king/skmcd1p/keypad-is-not-responding-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SVK/SVK32034.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Silver King 32034 Membrane Switch Assembly, 3 Button",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n32034",
+                    "fix_rate": 78.0,
+                    "list_price": "$ 81.74"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/SVK/SVK35896.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Silver King 35896 Control Board, 3 Button, McDonald's",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n35896",
+                    "fix_rate": 28.0,
+                    "list_price": "$ 408.44"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Not Dispensing",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/silver-king/skmcd1p/unit-is-not-dispensing",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SVK/SVK32034.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Silver King 32034 Membrane Switch Assembly, 3 Button",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n32034",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 81.74"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/SVK/SVK10327-59.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Silver King 10327-59 Solenoid, Bag Kit Portion Control",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n10327-59",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 363.03"
+                }
+            ]
+        },
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/silver-king/skmcd1p/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SVK/SVK32034.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Silver King 32034 Membrane Switch Assembly, 3 Button",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n32034",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 81.74"
+                }
+            ]
+        },
+        {
+            "name": "Valve Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/silver-king/skmcd1p/valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SVK/SVK35896.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Silver King 35896 Control Board, 3 Button, McDonald's",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n35896",
+                    "fix_rate": 86.0,
+                    "list_price": "$ 408.44"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/SVK/SVK10327-59.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Silver King 10327-59 Solenoid, Bag Kit Portion Control",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n10327-59",
+                    "fix_rate": 71.0,
+                    "list_price": "$ 363.03"
+                }
+            ]
+        }
+    ]
+}

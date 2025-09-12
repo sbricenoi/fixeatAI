@@ -1,0 +1,1061 @@
+{
+    "brand": "garland",
+    "model": "cxpb12",
+    "issues": [
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/garland/cxpb12/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4600614.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4600614 Rocker Switch, Main Power, Green Lighted",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4600614",
+                    "fix_rate": 51.0,
+                    "list_price": "$ 76.67"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4600129.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4600129 Fuse, Slo-Blow, 250V, 5mm x 20mm",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4600129",
+                    "fix_rate": 33.0,
+                    "list_price": "$ 19.73"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4600127.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4600127 Sensor, Inductive Proximity Pwm",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4600127",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 166.25"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GLCK4603129.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland CK4603129 Actuator Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nCK4603129",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 1,070.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4603115.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4603115 REFERENCE SWITCH KIT",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4603115",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 54.30"
+                }
+            ]
+        },
+        {
+            "name": "Actuator Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/garland/cxpb12/actuator-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GLCK4603129.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland CK4603129 Actuator Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nCK4603129",
+                    "fix_rate": 81.0,
+                    "list_price": "$ 1,070.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4603371.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4603371 Shaft Seal Kit, Cfa",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4603371",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 104.70"
+                }
+            ]
+        },
+        {
+            "name": "Caster Is Damaged",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/garland/cxpb12/caster-is-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4602571.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4602571 Caster, 4\", Stem, Swivel, With Brake",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4602571",
+                    "fix_rate": 62.0,
+                    "list_price": "$ 147.66"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4602572.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4602572 Caster, Stem, 5\", Without Brake",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4602572",
+                    "fix_rate": 39.0,
+                    "list_price": "$ 98.33"
+                }
+            ]
+        },
+        {
+            "name": "Unit Won't Turn On",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/garland/cxpb12/unit-wont-turn-on",
+            "results": []
+        },
+        {
+            "name": "Fuse Is Blown",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/garland/cxpb12/fuse-is-blown",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4600129.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4600129 Fuse, Slo-Blow, 250V, 5mm x 20mm",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4600129",
+                    "fix_rate": 62.0,
+                    "list_price": "$ 19.73"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4600614.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4600614 Rocker Switch, Main Power, Green Lighted",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4600614",
+                    "fix_rate": 40.0,
+                    "list_price": "$ 76.67"
+                }
+            ]
+        },
+        {
+            "name": "Breaker Is Tripping Or Wont Reset",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/garland/cxpb12/breaker-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4531775-E.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4531775-E Solid State Relay Board/Heat Sink Assembly, Rev. 9",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4531775-E",
+                    "fix_rate": 24.0,
+                    "list_price": "$ 1,045.50"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4532046-GAR.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4532046-GAR Power Cord Assembly, Chick-Fil-A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4532046-GAR",
+                    "fix_rate": 20.0,
+                    "list_price": "$ 816.73"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4600614.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4600614 Rocker Switch, Main Power, Green Lighted",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4600614",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 76.67"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4600129.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4600129 Fuse, Slo-Blow, 250V, 5mm x 20mm",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4600129",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 19.73"
+                }
+            ]
+        },
+        {
+            "name": "Wiring Issue",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/garland/cxpb12/wiring-issue",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4600129.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4600129 Fuse, Slo-Blow, 250V, 5mm x 20mm",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4600129",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 19.73"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4602144.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4602144 Wire Harness, Platen",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4602144",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 227.20"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4603149.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4603149 Conduit System Kit, 45 Degree",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4603149",
+                    "fix_rate": 16.0
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4531775-E.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4531775-E Solid State Relay Board/Heat Sink Assembly, Rev. 9",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4531775-E",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 1,045.50"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4600127.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4600127 Sensor, Inductive Proximity Pwm",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4600127",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 166.25"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GLCK4602928.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland CK4602928 Conduit And Fitting Kit, Cfa",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nCK4602928",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 573.69"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4602176.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4602176 Thermocouple and Cable, Platen",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4602176",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 61.78"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4602683.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4602683 Seal, CFA, NG, Arm Cover",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4602683",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 198.60"
+                }
+            ]
+        },
+        {
+            "name": "Contactor Is Malfunctioning",
+            "idx": 7,
+            "url": "https://www.partstown.com/part-predictor/garland/cxpb12/contactor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL1637002.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 1637002 Contactor, 240V, 3 Pole",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1637002",
+                    "fix_rate": 32.0,
+                    "list_price": "$ 84.44"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4600129.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4600129 Fuse, Slo-Blow, 250V, 5mm x 20mm",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4600129",
+                    "fix_rate": 20.0,
+                    "list_price": "$ 19.73"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4600614.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4600614 Rocker Switch, Main Power, Green Lighted",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4600614",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 76.67"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4531775-E.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4531775-E Solid State Relay Board/Heat Sink Assembly, Rev. 9",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4531775-E",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 1,045.50"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4603108.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4603108 Hi Limit Thermostat Kit with Platen Seal",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4603108",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 601.09"
+                }
+            ]
+        },
+        {
+            "name": "Controller Is Malfunctioning",
+            "idx": 8,
+            "url": "https://www.partstown.com/part-predictor/garland/cxpb12/controller-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GLCK4608246.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland CK4608246 User Interface Service Kit, Version 4.4.3",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nCK4608246",
+                    "fix_rate": 57.0,
+                    "list_price": "$ 1,594.23"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4600129.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4600129 Fuse, Slo-Blow, 250V, 5mm x 20mm",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4600129",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 19.73"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Overheating",
+            "idx": 9,
+            "url": "https://www.partstown.com/part-predictor/garland/cxpb12/unit-is-overheating",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4531775-E.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4531775-E Solid State Relay Board/Heat Sink Assembly, Rev. 9",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4531775-E",
+                    "fix_rate": 45.0,
+                    "list_price": "$ 1,045.50"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4532046-GAR.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4532046-GAR Power Cord Assembly, Chick-Fil-A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4532046-GAR",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 816.73"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4600614.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4600614 Rocker Switch, Main Power, Green Lighted",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4600614",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 76.67"
+                }
+            ]
+        },
+        {
+            "name": "Motor Is Malfunctioning",
+            "idx": 10,
+            "url": "https://www.partstown.com/part-predictor/garland/cxpb12/motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GLCK4603129.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland CK4603129 Actuator Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nCK4603129",
+                    "fix_rate": 78.0,
+                    "list_price": "$ 1,070.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4603371.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4603371 Shaft Seal Kit, Cfa",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4603371",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 104.70"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4603678.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4603678 SIB Board and Mounting Plate",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4603678",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 1,099.00"
+                }
+            ]
+        },
+        {
+            "name": "Power Cord Is Malfunctioning",
+            "idx": 11,
+            "url": "https://www.partstown.com/part-predictor/garland/cxpb12/power-cord-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4532046-GAR.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4532046-GAR Power Cord Assembly, Chick-Fil-A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4532046-GAR",
+                    "fix_rate": 58.0,
+                    "list_price": "$ 816.73"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4600129.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4600129 Fuse, Slo-Blow, 250V, 5mm x 20mm",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4600129",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 19.73"
+                }
+            ]
+        },
+        {
+            "name": "Display Is Malfunctioning",
+            "idx": 12,
+            "url": "https://www.partstown.com/part-predictor/garland/cxpb12/display-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GLCK4608246.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland CK4608246 User Interface Service Kit, Version 4.4.3",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nCK4608246",
+                    "fix_rate": 66.0,
+                    "list_price": "$ 1,594.23"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4600127.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4600127 Sensor, Inductive Proximity Pwm",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4600127",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 166.25"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4603678.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4603678 SIB Board and Mounting Plate",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4603678",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 1,099.00"
+                }
+            ]
+        },
+        {
+            "name": "Sensor Is Malfunctioning",
+            "idx": 13,
+            "url": "https://www.partstown.com/part-predictor/garland/cxpb12/sensor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4600127.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4600127 Sensor, Inductive Proximity Pwm",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4600127",
+                    "fix_rate": 73.0,
+                    "list_price": "$ 166.25"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Malfunctioning",
+            "idx": 14,
+            "url": "https://www.partstown.com/part-predictor/garland/cxpb12/unit-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GLCK4603129.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland CK4603129 Actuator Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nCK4603129",
+                    "fix_rate": 24.0,
+                    "list_price": "$ 1,070.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4603371.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4603371 Shaft Seal Kit, Cfa",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4603371",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 104.70"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4531775-E.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4531775-E Solid State Relay Board/Heat Sink Assembly, Rev. 9",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4531775-E",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 1,045.50"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4602571.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4602571 Caster, 4\", Stem, Swivel, With Brake",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4602571",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 147.66"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4600129.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4600129 Fuse, Slo-Blow, 250V, 5mm x 20mm",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4600129",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 19.73"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Not Reaching Set Temperature",
+            "idx": 15,
+            "url": "https://www.partstown.com/part-predictor/garland/cxpb12/unit-is-not-reaching-set-temperature",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GLCK4603129.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland CK4603129 Actuator Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nCK4603129",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 1,070.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4603371.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4603371 Shaft Seal Kit, Cfa",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4603371",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 104.70"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4531775-E.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4531775-E Solid State Relay Board/Heat Sink Assembly, Rev. 9",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4531775-E",
+                    "fix_rate": 20.0,
+                    "list_price": "$ 1,045.50"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4600477.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4600477 Seal, Shaft Tube to Backsplash, XPE/XPG/CXPB12",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4600477",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 32.53"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Shutting Down",
+            "idx": 16,
+            "url": "https://www.partstown.com/part-predictor/garland/cxpb12/unit-is-shutting-down",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GLCK4608246.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland CK4608246 User Interface Service Kit, Version 4.4.3",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nCK4608246",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 1,594.23"
+                }
+            ]
+        },
+        {
+            "name": "Hi-limit Is Tripping Or Wont Reset",
+            "idx": 17,
+            "url": "https://www.partstown.com/part-predictor/garland/cxpb12/hi-limit-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4603108.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4603108 Hi Limit Thermostat Kit with Platen Seal",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4603108",
+                    "fix_rate": 38.0,
+                    "list_price": "$ 601.09"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4531775-E.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4531775-E Solid State Relay Board/Heat Sink Assembly, Rev. 9",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4531775-E",
+                    "fix_rate": 28.0,
+                    "list_price": "$ 1,045.50"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4600129.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4600129 Fuse, Slo-Blow, 250V, 5mm x 20mm",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4600129",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 19.73"
+                }
+            ]
+        },
+        {
+            "name": "Shaft Seal Is Damaged Or Leaking",
+            "idx": 18,
+            "url": "https://www.partstown.com/part-predictor/garland/cxpb12/shaft-seal-is-damaged-or-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4603371.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4603371 Shaft Seal Kit, Cfa",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4603371",
+                    "fix_rate": 71.0,
+                    "list_price": "$ 104.70"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GLCK4603129.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland CK4603129 Actuator Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nCK4603129",
+                    "fix_rate": 46.0,
+                    "list_price": "$ 1,070.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4600477.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4600477 Seal, Shaft Tube to Backsplash, XPE/XPG/CXPB12",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4600477",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 32.53"
+                }
+            ]
+        },
+        {
+            "name": "Relay Board Is Malfunctioning",
+            "idx": 19,
+            "url": "https://www.partstown.com/part-predictor/garland/cxpb12/relay-board-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4531775-E.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4531775-E Solid State Relay Board/Heat Sink Assembly, Rev. 9",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4531775-E",
+                    "fix_rate": 74.0,
+                    "list_price": "$ 1,045.50"
+                }
+            ]
+        },
+        {
+            "name": "Thermocouple Is Malfunctioning",
+            "idx": 20,
+            "url": "https://www.partstown.com/part-predictor/garland/cxpb12/thermocouple-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4531775-E.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4531775-E Solid State Relay Board/Heat Sink Assembly, Rev. 9",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4531775-E",
+                    "fix_rate": 52.0,
+                    "list_price": "$ 1,045.50"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4602176.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4602176 Thermocouple and Cable, Platen",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4602176",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 61.78"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4602144.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4602144 Wire Harness, Platen",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4602144",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 227.20"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4602696.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4602696 Thermocouple/Probe, Type K Bayonet Style",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4602696",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 114.06"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Making Noise",
+            "idx": 21,
+            "url": "https://www.partstown.com/part-predictor/garland/cxpb12/unit-is-making-noise",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4602687.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4602687 Speaker, 8 Ohm 1W",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4602687",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 130.21"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GLCK4608246.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland CK4608246 User Interface Service Kit, Version 4.4.3",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nCK4608246",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 1,594.23"
+                }
+            ]
+        },
+        {
+            "name": "Keypad Is Not Responding Or Damaged",
+            "idx": 22,
+            "url": "https://www.partstown.com/part-predictor/garland/cxpb12/keypad-is-not-responding-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4524675.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4524675 Pushbutton Switch Kit, Green/Cancel",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4524675",
+                    "fix_rate": 43.0,
+                    "list_price": "$ 139.70"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GLCK4608246.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland CK4608246 User Interface Service Kit, Version 4.4.3",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nCK4608246",
+                    "fix_rate": 30.0,
+                    "list_price": "$ 1,594.23"
+                }
+            ]
+        },
+        {
+            "name": "Display Is Blank",
+            "idx": 23,
+            "url": "https://www.partstown.com/part-predictor/garland/cxpb12/display-is-blank",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GLCK4608246.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland CK4608246 User Interface Service Kit, Version 4.4.3",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nCK4608246",
+                    "fix_rate": 32.0,
+                    "list_price": "$ 1,594.23"
+                }
+            ]
+        },
+        {
+            "name": "Oil Is Leaking",
+            "idx": 24,
+            "url": "https://www.partstown.com/part-predictor/garland/cxpb12/oil-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GLCK4603129.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland CK4603129 Actuator Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nCK4603129",
+                    "fix_rate": 32.0,
+                    "list_price": "$ 1,070.00"
+                }
+            ]
+        },
+        {
+            "name": "Bracket Is Broken",
+            "idx": 25,
+            "url": "https://www.partstown.com/part-predictor/garland/cxpb12/bracket-is-broken",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GLCK4608246.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland CK4608246 User Interface Service Kit, Version 4.4.3",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nCK4608246",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 1,594.23"
+                }
+            ]
+        },
+        {
+            "name": "Unit Making Noise",
+            "idx": 26,
+            "url": "https://www.partstown.com/part-predictor/garland/cxpb12/unit-making-noise",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GLCK4603129.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland CK4603129 Actuator Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nCK4603129",
+                    "fix_rate": 79.0,
+                    "list_price": "$ 1,070.00"
+                }
+            ]
+        },
+        {
+            "name": "Heating Element Is Malfunctioning",
+            "idx": 27,
+            "url": "https://www.partstown.com/part-predictor/garland/cxpb12/heating-element-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4531775-E.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4531775-E Solid State Relay Board/Heat Sink Assembly, Rev. 9",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4531775-E",
+                    "fix_rate": 54.0,
+                    "list_price": "$ 1,045.50"
+                }
+            ]
+        },
+        {
+            "name": "Interface Board Is Malfunctioning",
+            "idx": 28,
+            "url": "https://www.partstown.com/part-predictor/garland/cxpb12/interface-board-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GLCK4608246.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland CK4608246 User Interface Service Kit, Version 4.4.3",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nCK4608246",
+                    "fix_rate": 85.0,
+                    "list_price": "$ 1,594.23"
+                }
+            ]
+        },
+        {
+            "name": "Probe Is Malfunctioning",
+            "idx": 29,
+            "url": "https://www.partstown.com/part-predictor/garland/cxpb12/probe-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4531775-E.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4531775-E Solid State Relay Board/Heat Sink Assembly, Rev. 9",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4531775-E",
+                    "fix_rate": 58.0,
+                    "list_price": "$ 1,045.50"
+                }
+            ]
+        },
+        {
+            "name": "Handle Is Defective",
+            "idx": 30,
+            "url": "https://www.partstown.com/part-predictor/garland/cxpb12/handle-is-defective",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4602773.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4602773 Grease/Debris Drawer, CXPB12",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4602773",
+                    "fix_rate": 82.0,
+                    "list_price": "$ 496.83"
+                }
+            ]
+        },
+        {
+            "name": "Unit Making A Grinding Noise",
+            "idx": 31,
+            "url": "https://www.partstown.com/part-predictor/garland/cxpb12/unit-making-a-grinding-noise",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GLCK4603129.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland CK4603129 Actuator Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nCK4603129",
+                    "fix_rate": 91.0,
+                    "list_price": "$ 1,070.00"
+                }
+            ]
+        },
+        {
+            "name": "Wiring Harness Is Damaged",
+            "idx": 32,
+            "url": "https://www.partstown.com/part-predictor/garland/cxpb12/wiring-harness-is-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4602144.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4602144 Wire Harness, Platen",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4602144",
+                    "fix_rate": 55.0,
+                    "list_price": "$ 227.20"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4603149.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4603149 Conduit System Kit, 45 Degree",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4603149",
+                    "fix_rate": 45.0
+                }
+            ]
+        },
+        {
+            "name": "Breaker Is Tripping Or Won't Reset",
+            "idx": 33,
+            "url": "https://www.partstown.com/part-predictor/garland/cxpb12/breaker-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4531775-E.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4531775-E Solid State Relay Board/Heat Sink Assembly, Rev. 9",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4531775-E",
+                    "fix_rate": 24.0,
+                    "list_price": "$ 1,045.50"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4532046-GAR.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4532046-GAR Power Cord Assembly, Chick-Fil-A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4532046-GAR",
+                    "fix_rate": 20.0,
+                    "list_price": "$ 816.73"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4600614.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4600614 Rocker Switch, Main Power, Green Lighted",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4600614",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 76.67"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4600129.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4600129 Fuse, Slo-Blow, 250V, 5mm x 20mm",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4600129",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 19.73"
+                }
+            ]
+        }
+    ]
+}

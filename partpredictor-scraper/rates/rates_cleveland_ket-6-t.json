@@ -1,0 +1,1127 @@
+{
+    "brand": "cleveland",
+    "model": "ket-6-t",
+    "issues": [
+        {
+            "name": "Potentiometer Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/cleveland/ket-6-t/potentiometer-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLESE00114.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland SE00114 Potentiometer Kit/On-Off Switch with Seal",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSE00114",
+                    "fix_rate": 85.0,
+                    "list_price": "$ 194.36"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE50569-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE50569-1 Knob for Potentiometer",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE50569-1",
+                    "fix_rate": 61.0,
+                    "list_price": "$ 57.21"
+                }
+            ]
+        },
+        {
+            "name": "Contactor Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/cleveland/ket-6-t/contactor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE603902-9.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE603902-9 240V Coil Contactor",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE603902-9",
+                    "fix_rate": 35.0,
+                    "list_price": "$ 209.42"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE603902-2.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE603902-2 Contactor, 240V, 30A, 3 Pole",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE603902-2",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 166.96"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE00458-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE00458-1 Control Box, Solid State, KEL/KGL/T",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE00458-1",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 515.30"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLESE00114.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland SE00114 Potentiometer Kit/On-Off Switch with Seal",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSE00114",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 194.36"
+                }
+            ]
+        },
+        {
+            "name": "Controller Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/cleveland/ket-6-t/controller-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE00458-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE00458-1 Control Box, Solid State, KEL/KGL/T",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE00458-1",
+                    "fix_rate": 67.0,
+                    "list_price": "$ 515.30"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLESE00114.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland SE00114 Potentiometer Kit/On-Off Switch with Seal",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSE00114",
+                    "fix_rate": 37.0,
+                    "list_price": "$ 194.36"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE50569-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE50569-1 Knob for Potentiometer",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE50569-1",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 57.21"
+                }
+            ]
+        },
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/cleveland/ket-6-t/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLESE00114.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland SE00114 Potentiometer Kit/On-Off Switch with Seal",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSE00114",
+                    "fix_rate": 81.0,
+                    "list_price": "$ 194.36"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE50569-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE50569-1 Knob for Potentiometer",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE50569-1",
+                    "fix_rate": 57.0,
+                    "list_price": "$ 57.21"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE00458-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE00458-1 Control Box, Solid State, KEL/KGL/T",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE00458-1",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 515.30"
+                }
+            ]
+        },
+        {
+            "name": "Breaker Is Tripping Or Wont Reset",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/cleveland/ket-6-t/breaker-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE603902-9.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE603902-9 240V Coil Contactor",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE603902-9",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 209.42"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLESE00114.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland SE00114 Potentiometer Kit/On-Off Switch with Seal",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSE00114",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 194.36"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE50569-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE50569-1 Knob for Potentiometer",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE50569-1",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 57.21"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE603902-2.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE603902-2 Contactor, 240V, 30A, 3 Pole",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE603902-2",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 166.96"
+                }
+            ]
+        },
+        {
+            "name": "Wiring Issue",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/cleveland/ket-6-t/wiring-issue",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE00458-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE00458-1 Control Box, Solid State, KEL/KGL/T",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE00458-1",
+                    "fix_rate": 20.0,
+                    "list_price": "$ 515.30"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLESE00114.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland SE00114 Potentiometer Kit/On-Off Switch with Seal",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSE00114",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 194.36"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE50569-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE50569-1 Knob for Potentiometer",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE50569-1",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 57.21"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE603902-2.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE603902-2 Contactor, 240V, 30A, 3 Pole",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE603902-2",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 166.96"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE603902-9.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE603902-9 240V Coil Contactor",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE603902-9",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 209.42"
+                }
+            ]
+        },
+        {
+            "name": "Hi-limit Is Tripping Or Wont Reset",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/cleveland/ket-6-t/hi-limit-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE55069-8.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE55069-8 Safety Thermostat, Ranco, 140C, KEL/KGL",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE55069-8",
+                    "fix_rate": 69.0,
+                    "list_price": "$ 99.51"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE54941-6.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE54941-6 Pressure Relief/Safety Valve, 50PSI, 1/2\" x 1/2\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE54941-6",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 239.09"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE50569-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE50569-1 Knob for Potentiometer",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE50569-1",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 57.21"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLESE00114.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland SE00114 Potentiometer Kit/On-Off Switch with Seal",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSE00114",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 194.36"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE00458-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE00458-1 Control Box, Solid State, KEL/KGL/T",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE00458-1",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 515.30"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE003868.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE003868 Thermistor Replacement Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE003868",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 328.17"
+                }
+            ]
+        },
+        {
+            "name": "Probe Is Malfunctioning",
+            "idx": 7,
+            "url": "https://www.partstown.com/part-predictor/cleveland/ket-6-t/probe-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE50556-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE50556-1 Water Level Probe, KEL/KET/KGT/KGL25/T 3H",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE50556-1",
+                    "fix_rate": 51.0,
+                    "list_price": "$ 180.35"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLESE00114.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland SE00114 Potentiometer Kit/On-Off Switch with Seal",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSE00114",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 194.36"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE00458-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE00458-1 Control Box, Solid State, KEL/KGL/T",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE00458-1",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 515.30"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE003868.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE003868 Thermistor Replacement Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE003868",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 328.17"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE54941-6.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE54941-6 Pressure Relief/Safety Valve, 50PSI, 1/2\" x 1/2\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE54941-6",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 239.09"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE50569-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE50569-1 Knob for Potentiometer",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE50569-1",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 57.21"
+                }
+            ]
+        },
+        {
+            "name": "Unit Won't Turn On",
+            "idx": 8,
+            "url": "https://www.partstown.com/part-predictor/cleveland/ket-6-t/unit-wont-turn-on",
+            "results": []
+        },
+        {
+            "name": "Unit Is Leaking",
+            "idx": 9,
+            "url": "https://www.partstown.com/part-predictor/cleveland/ket-6-t/unit-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE54941-6.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE54941-6 Pressure Relief/Safety Valve, 50PSI, 1/2\" x 1/2\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE54941-6",
+                    "fix_rate": 28.0,
+                    "list_price": "$ 239.09"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE50429-5.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE50429-5 Pressure Gauge, Bottom Mount",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE50429-5",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 222.42"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE54941-5.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE54941-5 Pressure Relief/Safety Valve, 50PSI, 1/2\" x 1/2\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE54941-5",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 210.09"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Overheating",
+            "idx": 10,
+            "url": "https://www.partstown.com/part-predictor/cleveland/ket-6-t/unit-is-overheating",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE603902-9.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE603902-9 240V Coil Contactor",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE603902-9",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 209.42"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE50569-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE50569-1 Knob for Potentiometer",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE50569-1",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 57.21"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE55069-8.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE55069-8 Safety Thermostat, Ranco, 140C, KEL/KGL",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE55069-8",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 99.51"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE00458-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE00458-1 Control Box, Solid State, KEL/KGL/T",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE00458-1",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 515.30"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE003868.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE003868 Thermistor Replacement Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE003868",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 328.17"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLESE00114.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland SE00114 Potentiometer Kit/On-Off Switch with Seal",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSE00114",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 194.36"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE603902-2.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE603902-2 Contactor, 240V, 30A, 3 Pole",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE603902-2",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 166.96"
+                }
+            ]
+        },
+        {
+            "name": "Pilot Safety Valve Is Malfunctioning",
+            "idx": 11,
+            "url": "https://www.partstown.com/part-predictor/cleveland/ket-6-t/pilot-safety-valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE54941-6.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE54941-6 Pressure Relief/Safety Valve, 50PSI, 1/2\" x 1/2\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE54941-6",
+                    "fix_rate": 75.0,
+                    "list_price": "$ 239.09"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE54941-5.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE54941-5 Pressure Relief/Safety Valve, 50PSI, 1/2\" x 1/2\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE54941-5",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 210.09"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE50429-5.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE50429-5 Pressure Gauge, Bottom Mount",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE50429-5",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 222.42"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Not Reaching Set Temperature",
+            "idx": 12,
+            "url": "https://www.partstown.com/part-predictor/cleveland/ket-6-t/unit-is-not-reaching-set-temperature",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLESE00114.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland SE00114 Potentiometer Kit/On-Off Switch with Seal",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSE00114",
+                    "fix_rate": 34.0,
+                    "list_price": "$ 194.36"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE50569-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE50569-1 Knob for Potentiometer",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE50569-1",
+                    "fix_rate": 24.0,
+                    "list_price": "$ 57.21"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE00458-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE00458-1 Control Box, Solid State, KEL/KGL/T",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE00458-1",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 515.30"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE54941-6.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE54941-6 Pressure Relief/Safety Valve, 50PSI, 1/2\" x 1/2\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE54941-6",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 239.09"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE003868.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE003868 Thermistor Replacement Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE003868",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 328.17"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE50429-5.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE50429-5 Pressure Gauge, Bottom Mount",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE50429-5",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 222.42"
+                }
+            ]
+        },
+        {
+            "name": "Pressure Relief Valve Is Malfunctioning",
+            "idx": 13,
+            "url": "https://www.partstown.com/part-predictor/cleveland/ket-6-t/pressure-relief-valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE54941-6.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE54941-6 Pressure Relief/Safety Valve, 50PSI, 1/2\" x 1/2\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE54941-6",
+                    "fix_rate": 61.0,
+                    "list_price": "$ 239.09"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE50429-5.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE50429-5 Pressure Gauge, Bottom Mount",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE50429-5",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 222.42"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE50569-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE50569-1 Knob for Potentiometer",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE50569-1",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 57.21"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLESE00114.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland SE00114 Potentiometer Kit/On-Off Switch with Seal",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSE00114",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 194.36"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE54941-5.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE54941-5 Pressure Relief/Safety Valve, 50PSI, 1/2\" x 1/2\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE54941-5",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 210.09"
+                }
+            ]
+        },
+        {
+            "name": "Pressure Relief Valve Is Leaking",
+            "idx": 14,
+            "url": "https://www.partstown.com/part-predictor/cleveland/ket-6-t/pressure-relief-valve-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE54941-6.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE54941-6 Pressure Relief/Safety Valve, 50PSI, 1/2\" x 1/2\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE54941-6",
+                    "fix_rate": 61.0,
+                    "list_price": "$ 239.09"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLESE00114.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland SE00114 Potentiometer Kit/On-Off Switch with Seal",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSE00114",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 194.36"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE54941-5.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE54941-5 Pressure Relief/Safety Valve, 50PSI, 1/2\" x 1/2\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE54941-5",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 210.09"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE50429-5.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE50429-5 Pressure Gauge, Bottom Mount",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE50429-5",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 222.42"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Shutting Down",
+            "idx": 15,
+            "url": "https://www.partstown.com/part-predictor/cleveland/ket-6-t/unit-is-shutting-down",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLESE00114.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland SE00114 Potentiometer Kit/On-Off Switch with Seal",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSE00114",
+                    "fix_rate": 37.0,
+                    "list_price": "$ 194.36"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE50569-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE50569-1 Knob for Potentiometer",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE50569-1",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 57.21"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE54941-6.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE54941-6 Pressure Relief/Safety Valve, 50PSI, 1/2\" x 1/2\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE54941-6",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 239.09"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE00458-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE00458-1 Control Box, Solid State, KEL/KGL/T",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE00458-1",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 515.30"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Malfunctioning",
+            "idx": 16,
+            "url": "https://www.partstown.com/part-predictor/cleveland/ket-6-t/unit-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLESE00114.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland SE00114 Potentiometer Kit/On-Off Switch with Seal",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSE00114",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 194.36"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE50569-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE50569-1 Knob for Potentiometer",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE50569-1",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 57.21"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE00458-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE00458-1 Control Box, Solid State, KEL/KGL/T",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE00458-1",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 515.30"
+                }
+            ]
+        },
+        {
+            "name": "Valve Is Malfunctioning",
+            "idx": 17,
+            "url": "https://www.partstown.com/part-predictor/cleveland/ket-6-t/valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE54941-6.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE54941-6 Pressure Relief/Safety Valve, 50PSI, 1/2\" x 1/2\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE54941-6",
+                    "fix_rate": 58.0,
+                    "list_price": "$ 239.09"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE50569-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE50569-1 Knob for Potentiometer",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE50569-1",
+                    "fix_rate": 24.0,
+                    "list_price": "$ 57.21"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLESE00114.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland SE00114 Potentiometer Kit/On-Off Switch with Seal",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSE00114",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 194.36"
+                }
+            ]
+        },
+        {
+            "name": "Valve Is Leaking",
+            "idx": 18,
+            "url": "https://www.partstown.com/part-predictor/cleveland/ket-6-t/valve-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE54941-6.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE54941-6 Pressure Relief/Safety Valve, 50PSI, 1/2\" x 1/2\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE54941-6",
+                    "fix_rate": 72.0,
+                    "list_price": "$ 239.09"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE50429-5.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE50429-5 Pressure Gauge, Bottom Mount",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE50429-5",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 222.42"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE55069-8.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE55069-8 Safety Thermostat, Ranco, 140C, KEL/KGL",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE55069-8",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 99.51"
+                }
+            ]
+        },
+        {
+            "name": "Relay Is Malfunctioning",
+            "idx": 19,
+            "url": "https://www.partstown.com/part-predictor/cleveland/ket-6-t/relay-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE50753-7.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE50753-7 Relay, Omron, SPDT, 12VDC, 10A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE50753-7",
+                    "fix_rate": 57.0,
+                    "list_price": "$ 120.32"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE00458-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE00458-1 Control Box, Solid State, KEL/KGL/T",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE00458-1",
+                    "fix_rate": 43.0,
+                    "list_price": "$ 515.30"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLESE00114.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland SE00114 Potentiometer Kit/On-Off Switch with Seal",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSE00114",
+                    "fix_rate": 36.0,
+                    "list_price": "$ 194.36"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE50569-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE50569-1 Knob for Potentiometer",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE50569-1",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 57.21"
+                }
+            ]
+        },
+        {
+            "name": "Transformer Is Malfunctioning",
+            "idx": 20,
+            "url": "https://www.partstown.com/part-predictor/cleveland/ket-6-t/transformer-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE53838-21.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE53838-21 Transformer, Primary 240V Secondary 16V, 20VA",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE53838-21",
+                    "fix_rate": 44.0,
+                    "list_price": "$ 143.62"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLESE00114.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland SE00114 Potentiometer Kit/On-Off Switch with Seal",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSE00114",
+                    "fix_rate": 40.0,
+                    "list_price": "$ 194.36"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE50569-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE50569-1 Knob for Potentiometer",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE50569-1",
+                    "fix_rate": 32.0,
+                    "list_price": "$ 57.21"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE00458-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE00458-1 Control Box, Solid State, KEL/KGL/T",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE00458-1",
+                    "fix_rate": 28.0,
+                    "list_price": "$ 515.30"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE603902-2.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE603902-2 Contactor, 240V, 30A, 3 Pole",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE603902-2",
+                    "fix_rate": 20.0,
+                    "list_price": "$ 166.96"
+                }
+            ]
+        },
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 21,
+            "url": "https://www.partstown.com/part-predictor/cleveland/ket-6-t/thermostat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE55069-8.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE55069-8 Safety Thermostat, Ranco, 140C, KEL/KGL",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE55069-8",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 99.51"
+                }
+            ]
+        },
+        {
+            "name": "Gasket Is Defective Or Leaking",
+            "idx": 22,
+            "url": "https://www.partstown.com/part-predictor/cleveland/ket-6-t/gasket-is-defective-or-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLERB01850.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland RB01850 Gasket, Black Neoprene, Duro 60, Sold per Foot",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRB01850",
+                    "fix_rate": 56.0,
+                    "list_price": "$ 8.34"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE00458-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE00458-1 Control Box, Solid State, KEL/KGL/T",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE00458-1",
+                    "fix_rate": 44.0,
+                    "list_price": "$ 515.30"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEFA95074.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland FA95074 Nylon Anchor Nut, #8 Threaded Hole",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nFA95074",
+                    "fix_rate": 33.0,
+                    "list_price": "$ 10.54"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE19267.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 19267 Screw, Tapping Phillips Drive Slot",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n19267",
+                    "fix_rate": 33.0,
+                    "list_price": "$ 5.48"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLESE00114.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland SE00114 Potentiometer Kit/On-Off Switch with Seal",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSE00114",
+                    "fix_rate": 28.0,
+                    "list_price": "$ 194.36"
+                }
+            ]
+        },
+        {
+            "name": "Latch Is Damaged Or Not Latching",
+            "idx": 23,
+            "url": "https://www.partstown.com/part-predictor/cleveland/ket-6-t/latch-is-damaged-or-not-latching",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE02078-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE02078-1 Latch, Left Hand, KET",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE02078-1",
+                    "fix_rate": 33.0,
+                    "list_price": "$ 205.61"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEFA15019-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland FA15019-1 Shoulder Bolt, 1/4-20 x 1-3/8 Long",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nFA15019-1",
+                    "fix_rate": 33.0,
+                    "list_price": "$ 39.15"
+                }
+            ]
+        },
+        {
+            "name": "Sensor Is Malfunctioning",
+            "idx": 24,
+            "url": "https://www.partstown.com/part-predictor/cleveland/ket-6-t/sensor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE50556-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE50556-1 Water Level Probe, KEL/KET/KGT/KGL25/T 3H",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE50556-1",
+                    "fix_rate": 60.0,
+                    "list_price": "$ 180.35"
+                }
+            ]
+        },
+        {
+            "name": "Roller Is Damaged Or Missing",
+            "idx": 25,
+            "url": "https://www.partstown.com/part-predictor/cleveland/ket-6-t/roller-is-damaged-or-missing",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEFA95007-2.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland FA95007-2 Retaining Ring, SPNR #255-801, 5/16",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nFA95007-2",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 1.43"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEST50010.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland ST50010 Wheel, Slide, St-28",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nST50010",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 34.58"
+                }
+            ]
+        }
+    ]
+}

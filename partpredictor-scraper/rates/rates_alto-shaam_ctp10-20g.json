@@ -1,0 +1,182 @@
+{
+    "brand": "alto-shaam",
+    "model": "ctp10-20g",
+    "issues": [
+        {
+            "name": "Ignition Module Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/alto-shaam/ctp10-20g/ignition-module-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/ALT/ALTSN-48141R.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Alto Shaam SN-48141R Flame Sensor Kit with Wire",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSN-48141R",
+                    "fix_rate": 55.0,
+                    "list_price": "$ 26.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/ALT/ALT5017541.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Alto Shaam 5017541 Igniter Service Kit, Combi 2014",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n5017541",
+                    "fix_rate": 48.0,
+                    "list_price": "$ 299.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/ALT/ALTBA-39987.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Alto Shaam BA-39987 Adaptor Board, BA 39987",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nBA-39987",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 200.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/ALT/ALTBA-35062.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Alto Shaam BA-35062 Ignition Control Board",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nBA-35062",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 460.00"
+                }
+            ]
+        },
+        {
+            "name": "Door Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/alto-shaam/ctp10-20g/door-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/ALT/ALTHD-35197R.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Alto Shaam HD-35197R Handle Kit, T-Shaped",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nHD-35197R",
+                    "fix_rate": 41.0,
+                    "list_price": "$ 656.00"
+                }
+            ]
+        },
+        {
+            "name": "Heat Exchanger Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/alto-shaam/ctp10-20g/heat-exchanger-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/ALT/ALT5017570.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Alto Shaam 5017570 SERVICE KIT HEAT EXCHANGER",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n5017570",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 5,234.00"
+                }
+            ]
+        },
+        {
+            "name": "Ignitor Is Malfunctioning Or Damaged",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/alto-shaam/ctp10-20g/ignitor-is-malfunctioning-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/ALT/ALT5017541.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Alto Shaam 5017541 Igniter Service Kit, Combi 2014",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n5017541",
+                    "fix_rate": 78.0,
+                    "list_price": "$ 299.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/ALT/ALTSN-48141R.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Alto Shaam SN-48141R Flame Sensor Kit with Wire",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSN-48141R",
+                    "fix_rate": 67.0,
+                    "list_price": "$ 26.00"
+                }
+            ]
+        },
+        {
+            "name": "Door Gasket Is Defective",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/alto-shaam/ctp10-20g/door-gasket-is-defective",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/ALT/ALTGS-35239.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Alto Shaam GS-35239 Door Gasket, Ctc10-20",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nGS-35239",
+                    "fix_rate": 62.0,
+                    "list_price": "$ 351.00"
+                }
+            ]
+        },
+        {
+            "name": "Wiring Issue",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/alto-shaam/ctp10-20g/wiring-issue",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/ALT/ALT5017541.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Alto Shaam 5017541 Igniter Service Kit, Combi 2014",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n5017541",
+                    "fix_rate": 71.0,
+                    "list_price": "$ 299.00"
+                }
+            ]
+        },
+        {
+            "name": "Burner Is Malfunctioning Or Damaged",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/alto-shaam/ctp10-20g/burner-is-malfunctioning-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/ALT/ALTSN-48141R.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Alto Shaam SN-48141R Flame Sensor Kit with Wire",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSN-48141R",
+                    "fix_rate": 83.0,
+                    "list_price": "$ 26.00"
+                }
+            ]
+        },
+        {
+            "name": "Flame Sensor Is Malfunctioning",
+            "idx": 7,
+            "url": "https://www.partstown.com/part-predictor/alto-shaam/ctp10-20g/flame-sensor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/ALT/ALT5017541.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Alto Shaam 5017541 Igniter Service Kit, Combi 2014",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n5017541",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 299.00"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "brand": "southbend-range",
+    "model": "4241e",
+    "issues": [
+        {
+            "name": "Burner Valve Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/southbend-range/4241e/burner-valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/SOU/SOU1178202.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Southbend Range 1178202 Valve, Hi-Off, Top Burner, Natural Gas or Propane",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1178202",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 88.51"
+                }
+            ]
+        }
+    ]
+}

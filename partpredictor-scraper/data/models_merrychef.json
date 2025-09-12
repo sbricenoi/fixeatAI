@@ -1,0 +1,34 @@
+[
+    {
+        "name": "402S",
+        "parsed_name": "402s"
+    },
+    {
+        "name": "EIKON E2",
+        "parsed_name": "eikon-e2"
+    },
+    {
+        "name": "Eikon e2s",
+        "parsed_name": "eikon-e2s"
+    },
+    {
+        "name": "EIKON E3",
+        "parsed_name": "eikon-e3"
+    },
+    {
+        "name": "EIKON E4",
+        "parsed_name": "eikon-e4"
+    },
+    {
+        "name": "EIKON E4S",
+        "parsed_name": "eikon-e4s"
+    },
+    {
+        "name": "EIKON E5",
+        "parsed_name": "eikon-e5"
+    },
+    {
+        "name": "EIKON E6",
+        "parsed_name": "eikon-e6"
+    }
+]

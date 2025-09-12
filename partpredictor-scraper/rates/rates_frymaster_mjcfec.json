@@ -1,0 +1,175 @@
+{
+    "brand": "frymaster",
+    "model": "mjcfec",
+    "issues": [
+        {
+            "name": "Unit Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/frymaster/mjcfec/unit-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8060184.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8060184 Thermostat, Operating, MJ35/J1C",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8060184",
+                    "fix_rate": 31.0,
+                    "list_price": "$ 443.27"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8072427.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8072427 Gas Valve, Natural Gas, 1/2\" x 1/2\", Millivolt",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8072427",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 353.50"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8101873.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8101873 Thermocouple, ITT",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8101873",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 102.82"
+                }
+            ]
+        },
+        {
+            "name": "Pilot Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/frymaster/mjcfec/pilot-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8101873.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8101873 Thermocouple, ITT",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8101873",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 102.82"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8072427.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8072427 Gas Valve, Natural Gas, 1/2\" x 1/2\", Millivolt",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8072427",
+                    "fix_rate": 23.0,
+                    "list_price": "$ 353.50"
+                }
+            ]
+        },
+        {
+            "name": "Gas Valve Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/frymaster/mjcfec/gas-valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8072427.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8072427 Gas Valve, Natural Gas, 1/2\" x 1/2\", Millivolt",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8072427",
+                    "fix_rate": 59.0,
+                    "list_price": "$ 353.50"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8101873.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8101873 Thermocouple, ITT",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8101873",
+                    "fix_rate": 23.0,
+                    "list_price": "$ 102.82"
+                }
+            ]
+        },
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/frymaster/mjcfec/thermostat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8060184.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8060184 Thermostat, Operating, MJ35/J1C",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8060184",
+                    "fix_rate": 65.0,
+                    "list_price": "$ 443.27"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8100334.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8100334 Knob With Arrow, Black Plastic",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8100334",
+                    "fix_rate": 35.0,
+                    "list_price": "$ 29.58"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Not Reaching Set Temperature",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/frymaster/mjcfec/unit-is-not-reaching-set-temperature",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8060184.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8060184 Thermostat, Operating, MJ35/J1C",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8060184",
+                    "fix_rate": 55.0,
+                    "list_price": "$ 443.27"
+                }
+            ]
+        },
+        {
+            "name": "Hi-limit Is Tripping Or Wont Reset",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/frymaster/mjcfec/hi-limit-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8072427.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8072427 Gas Valve, Natural Gas, 1/2\" x 1/2\", Millivolt",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8072427",
+                    "fix_rate": 62.0,
+                    "list_price": "$ 353.50"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Not Lighting",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/frymaster/mjcfec/unit-is-not-lighting",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8101873.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8101873 Thermocouple, ITT",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8101873",
+                    "fix_rate": 62.0,
+                    "list_price": "$ 102.82"
+                }
+            ]
+        }
+    ]
+}

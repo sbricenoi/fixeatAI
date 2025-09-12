@@ -1,0 +1,148 @@
+{
+    "brand": "bunn",
+    "model": "tb3q",
+    "issues": [
+        {
+            "name": "Unit Is Leaking",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/bunn/tb3q/unit-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BU/BU38969.0003.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Bunn 38969.0003 Fitting, 90 Degree Silicone Tank Vent",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n38969.0003",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 6.51"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BU/BU43041.0000.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Bunn 43041.0000 Solenoid Valve, Dual Coil, 120V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n43041.0000",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 94.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BU/BU47270.0001.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Bunn 47270.0001 Gasket with Tabs, Tank Lid, TB3",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n47270.0001",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 3.80"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BU/BU05515.0000.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Bunn 05515.0000 Gasket, Sprayhead Tube",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n05515.0000",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 1.20"
+                }
+            ]
+        },
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/bunn/tb3q/thermostat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BU/BU03024.0005.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Bunn 03024.0005 Thermostat Assembly, 206F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n03024.0005",
+                    "fix_rate": 79.0,
+                    "list_price": "$ 77.31"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BU/BU32400.0002.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Bunn 32400.0002 Timer Kit, Digital, 120V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n32400.0002",
+                    "fix_rate": 36.0,
+                    "list_price": "$ 92.00"
+                }
+            ]
+        },
+        {
+            "name": "Valve Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/bunn/tb3q/valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BU/BU43041.0000.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Bunn 43041.0000 Solenoid Valve, Dual Coil, 120V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n43041.0000",
+                    "fix_rate": 75.0,
+                    "list_price": "$ 94.00"
+                }
+            ]
+        },
+        {
+            "name": "Hi-limit Is Tripping Or Wont Reset",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/bunn/tb3q/hi-limit-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BU/BU29329.1000.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Bunn 29329.1000 Hi Limit Thermostat",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n29329.1000",
+                    "fix_rate": 71.0,
+                    "list_price": "$ 8.51"
+                }
+            ]
+        },
+        {
+            "name": "Not Filling Properly",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/bunn/tb3q/not-filling-properly",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BU/BU43041.0000.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Bunn 43041.0000 Solenoid Valve, Dual Coil, 120V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n43041.0000",
+                    "fix_rate": 86.0,
+                    "list_price": "$ 94.00"
+                }
+            ]
+        },
+        {
+            "name": "Solenoid Valve Is Malfunctioning",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/bunn/tb3q/solenoid-valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BU/BU43041.0000.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Bunn 43041.0000 Solenoid Valve, Dual Coil, 120V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n43041.0000",
+                    "fix_rate": 86.0,
+                    "list_price": "$ 94.00"
+                }
+            ]
+        }
+    ]
+}

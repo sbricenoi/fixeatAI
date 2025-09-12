@@ -1,0 +1,751 @@
+{
+    "brand": "cleveland",
+    "model": "kgl-40",
+    "issues": [
+        {
+            "name": "Potentiometer Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/cleveland/kgl-40/potentiometer-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLESE00114.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland SE00114 Potentiometer Kit/On-Off Switch with Seal",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSE00114",
+                    "fix_rate": 73.0,
+                    "list_price": "$ 194.36"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE50569-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE50569-1 Knob for Potentiometer",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE50569-1",
+                    "fix_rate": 39.0,
+                    "list_price": "$ 57.21"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE50988-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE50988-1 Potentiometer/On - Off Switch",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE50988-1",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 175.20"
+                }
+            ]
+        },
+        {
+            "name": "Ignitor Is Malfunctioning Or Damaged",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/cleveland/kgl-40/ignitor-is-malfunctioning-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE53437-3.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE53437-3 Hot Surface Ignitor/Glo Coil, KGL",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE53437-3",
+                    "fix_rate": 78.0,
+                    "list_price": "$ 194.43"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE53469-5.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE53469-5 Ignition Module, CSA KGL/T",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE53469-5",
+                    "fix_rate": 24.0,
+                    "list_price": "$ 504.35"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE53570.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE53570 Ignitor Gasket, KGL/KGL-T",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE53570",
+                    "fix_rate": 24.0,
+                    "list_price": "$ 5.60"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE55240R.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE55240R Gas Valve, 3/4\", Natural Gas, 24V, 60HZ, Honeywell",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE55240R",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 377.61"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE00458-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE00458-1 Control Box, Solid State, KEL/KGL/T",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE00458-1",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 515.30"
+                }
+            ]
+        },
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/cleveland/kgl-40/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLESE00114.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland SE00114 Potentiometer Kit/On-Off Switch with Seal",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSE00114",
+                    "fix_rate": 73.0,
+                    "list_price": "$ 194.36"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE50569-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE50569-1 Knob for Potentiometer",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE50569-1",
+                    "fix_rate": 31.0,
+                    "list_price": "$ 57.21"
+                }
+            ]
+        },
+        {
+            "name": "Gas Valve Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/cleveland/kgl-40/gas-valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE55240R.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE55240R Gas Valve, 3/4\", Natural Gas, 24V, 60HZ, Honeywell",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE55240R",
+                    "fix_rate": 70.0,
+                    "list_price": "$ 377.61"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE53469-5.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE53469-5 Ignition Module, CSA KGL/T",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE53469-5",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 504.35"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE53437-3.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE53437-3 Hot Surface Ignitor/Glo Coil, KGL",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE53437-3",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 194.43"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE55069-8.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE55069-8 Safety Thermostat, Ranco, 140C, KEL/KGL",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE55069-8",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 99.51"
+                }
+            ]
+        },
+        {
+            "name": "Controller Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/cleveland/kgl-40/controller-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE00458-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE00458-1 Control Box, Solid State, KEL/KGL/T",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE00458-1",
+                    "fix_rate": 55.0,
+                    "list_price": "$ 515.30"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLESE00114.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland SE00114 Potentiometer Kit/On-Off Switch with Seal",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSE00114",
+                    "fix_rate": 40.0,
+                    "list_price": "$ 194.36"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE003868.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE003868 Thermistor Replacement Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE003868",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 328.17"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE50569-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE50569-1 Knob for Potentiometer",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE50569-1",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 57.21"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE53437-3.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE53437-3 Hot Surface Ignitor/Glo Coil, KGL",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE53437-3",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 194.43"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE53469-5.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE53469-5 Ignition Module, CSA KGL/T",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE53469-5",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 504.35"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE52871.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE52871 Gasket, Sight Glass",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE52871",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 13.19"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEFA05002-30.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland FA05002-30 O-Ring, Sight Glass",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nFA05002-30",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 2.61"
+                }
+            ]
+        },
+        {
+            "name": "Ignition Module Is Malfunctioning",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/cleveland/kgl-40/ignition-module-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE53469-5.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE53469-5 Ignition Module, CSA KGL/T",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE53469-5",
+                    "fix_rate": 58.0,
+                    "list_price": "$ 504.35"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE53437-3.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE53437-3 Hot Surface Ignitor/Glo Coil, KGL",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE53437-3",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 194.43"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE55240R.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE55240R Gas Valve, 3/4\", Natural Gas, 24V, 60HZ, Honeywell",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE55240R",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 377.61"
+                }
+            ]
+        },
+        {
+            "name": "Gasket Is Defective Or Leaking",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/cleveland/kgl-40/gasket-is-defective-or-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE52871.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE52871 Gasket, Sight Glass",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE52871",
+                    "fix_rate": 24.0,
+                    "list_price": "$ 13.19"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE53437-3.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE53437-3 Hot Surface Ignitor/Glo Coil, KGL",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE53437-3",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 194.43"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLESKE54419-3.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland SKE54419-3 Service Wrap Cover Gasket, Kgl-80",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSKE54419-3",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 232.33"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE53469-5.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE53469-5 Ignition Module, CSA KGL/T",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE53469-5",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 504.35"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE55240R.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE55240R Gas Valve, 3/4\", Natural Gas, 24V, 60HZ, Honeywell",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE55240R",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 377.61"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEFA05002-30.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland FA05002-30 O-Ring, Sight Glass",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nFA05002-30",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 2.61"
+                }
+            ]
+        },
+        {
+            "name": "Hi-limit Is Tripping Or Wont Reset",
+            "idx": 7,
+            "url": "https://www.partstown.com/part-predictor/cleveland/kgl-40/hi-limit-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE55069-8.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE55069-8 Safety Thermostat, Ranco, 140C, KEL/KGL",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE55069-8",
+                    "fix_rate": 65.0,
+                    "list_price": "$ 99.51"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE53469-5.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE53469-5 Ignition Module, CSA KGL/T",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE53469-5",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 504.35"
+                }
+            ]
+        },
+        {
+            "name": "Valve Is Malfunctioning",
+            "idx": 8,
+            "url": "https://www.partstown.com/part-predictor/cleveland/kgl-40/valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE55240R.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE55240R Gas Valve, 3/4\", Natural Gas, 24V, 60HZ, Honeywell",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE55240R",
+                    "fix_rate": 37.0,
+                    "list_price": "$ 377.61"
+                }
+            ]
+        },
+        {
+            "name": "Probe Is Malfunctioning",
+            "idx": 9,
+            "url": "https://www.partstown.com/part-predictor/cleveland/kgl-40/probe-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE50556-2.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE50556-2 Water Level Probe, KGL40",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE50556-2",
+                    "fix_rate": 44.0,
+                    "list_price": "$ 179.13"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE003868.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE003868 Thermistor Replacement Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE003868",
+                    "fix_rate": 28.0,
+                    "list_price": "$ 328.17"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Not Reaching Set Temperature",
+            "idx": 10,
+            "url": "https://www.partstown.com/part-predictor/cleveland/kgl-40/unit-is-not-reaching-set-temperature",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLESE00114.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland SE00114 Potentiometer Kit/On-Off Switch with Seal",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSE00114",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 194.36"
+                }
+            ]
+        },
+        {
+            "name": "Unit Won't Turn On",
+            "idx": 11,
+            "url": "https://www.partstown.com/part-predictor/cleveland/kgl-40/unit-wont-turn-on",
+            "results": []
+        },
+        {
+            "name": "Wiring Issue",
+            "idx": 12,
+            "url": "https://www.partstown.com/part-predictor/cleveland/kgl-40/wiring-issue",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE00458-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE00458-1 Control Box, Solid State, KEL/KGL/T",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE00458-1",
+                    "fix_rate": 33.0,
+                    "list_price": "$ 515.30"
+                }
+            ]
+        },
+        {
+            "name": "Relay Is Malfunctioning",
+            "idx": 13,
+            "url": "https://www.partstown.com/part-predictor/cleveland/kgl-40/relay-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE50753-7.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE50753-7 Relay, Omron, SPDT, 12VDC, 10A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE50753-7",
+                    "fix_rate": 64.0,
+                    "list_price": "$ 120.32"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Shutting Down",
+            "idx": 14,
+            "url": "https://www.partstown.com/part-predictor/cleveland/kgl-40/unit-is-shutting-down",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLESE00114.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland SE00114 Potentiometer Kit/On-Off Switch with Seal",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSE00114",
+                    "fix_rate": 36.0,
+                    "list_price": "$ 194.36"
+                }
+            ]
+        },
+        {
+            "name": "Blower Motor Is Malfunctioning",
+            "idx": 15,
+            "url": "https://www.partstown.com/part-predictor/cleveland/kgl-40/blower-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLESKE53441.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland SKE53441 Burner Blower Service Kit, Gas Kettle",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSKE53441",
+                    "fix_rate": 69.0,
+                    "list_price": "$ 1,466.50"
+                }
+            ]
+        },
+        {
+            "name": "O Ring Is Damaged Or Leaking",
+            "idx": 16,
+            "url": "https://www.partstown.com/part-predictor/cleveland/kgl-40/o-ring-is-damaged-or-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEFA05002-55.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland FA05002-55 O-Ring, Viton AS568A-322",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nFA05002-55",
+                    "fix_rate": 46.0,
+                    "list_price": "$ 8.43"
+                }
+            ]
+        },
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 17,
+            "url": "https://www.partstown.com/part-predictor/cleveland/kgl-40/thermostat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE55069-8.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE55069-8 Safety Thermostat, Ranco, 140C, KEL/KGL",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE55069-8",
+                    "fix_rate": 62.0,
+                    "list_price": "$ 99.51"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE003868.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE003868 Thermistor Replacement Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE003868",
+                    "fix_rate": 38.0,
+                    "list_price": "$ 328.17"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Overheating",
+            "idx": 18,
+            "url": "https://www.partstown.com/part-predictor/cleveland/kgl-40/unit-is-overheating",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLESE00114.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland SE00114 Potentiometer Kit/On-Off Switch with Seal",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSE00114",
+                    "fix_rate": 38.0,
+                    "list_price": "$ 194.36"
+                }
+            ]
+        },
+        {
+            "name": "Ingition Module Is Malfunctioning",
+            "idx": 19,
+            "url": "https://www.partstown.com/part-predictor/cleveland/kgl-40/ingition-module-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE53469-5.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE53469-5 Ignition Module, CSA KGL/T",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE53469-5",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 504.35"
+                }
+            ]
+        },
+        {
+            "name": "Spring Is Malfunctioning",
+            "idx": 20,
+            "url": "https://www.partstown.com/part-predictor/cleveland/kgl-40/spring-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE50121-2.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE50121-2 Hinge Spring, Light, 0.162\" Diameter",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE50121-2",
+                    "fix_rate": 58.0,
+                    "list_price": "$ 23.62"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE50121-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE50121-1 Hinge Spring, Heavy, Left Hand, 0.187 Coil",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE50121-1",
+                    "fix_rate": 42.0,
+                    "list_price": "$ 26.08"
+                }
+            ]
+        },
+        {
+            "name": "Faucet Is Malfunctioning",
+            "idx": 21,
+            "url": "https://www.partstown.com/part-predictor/cleveland/kgl-40/faucet-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEFA05002-19.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland FA05002-19 O-Ring, EPDM-E515, A-016",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nFA05002-19",
+                    "fix_rate": 45.0,
+                    "list_price": "$ 7.54"
+                }
+            ]
+        },
+        {
+            "name": "Pressure Relief Valve Is Leaking",
+            "idx": 22,
+            "url": "https://www.partstown.com/part-predictor/cleveland/kgl-40/pressure-relief-valve-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE54941-5.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE54941-5 Pressure Relief/Safety Valve, 50PSI, 1/2\" x 1/2\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE54941-5",
+                    "fix_rate": 70.0,
+                    "list_price": "$ 210.09"
+                }
+            ]
+        },
+        {
+            "name": "Pressure Relief Valve Is Malfunctioning",
+            "idx": 23,
+            "url": "https://www.partstown.com/part-predictor/cleveland/kgl-40/pressure-relief-valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE54941-5.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE54941-5 Pressure Relief/Safety Valve, 50PSI, 1/2\" x 1/2\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE54941-5",
+                    "fix_rate": 80.0,
+                    "list_price": "$ 210.09"
+                }
+            ]
+        },
+        {
+            "name": "Valve Is Leaking",
+            "idx": 24,
+            "url": "https://www.partstown.com/part-predictor/cleveland/kgl-40/valve-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE54941-5.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE54941-5 Pressure Relief/Safety Valve, 50PSI, 1/2\" x 1/2\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE54941-5",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 210.09"
+                }
+            ]
+        },
+        {
+            "name": "Fire Coming Out Of Unit",
+            "idx": 25,
+            "url": "https://www.partstown.com/part-predictor/cleveland/kgl-40/fire-coming-out-of-unit",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE00458-1.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE00458-1 Control Box, Solid State, KEL/KGL/T",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE00458-1",
+                    "fix_rate": 62.0,
+                    "list_price": "$ 515.30"
+                }
+            ]
+        },
+        {
+            "name": "Pilot Safety Valve Is Malfunctioning",
+            "idx": 26,
+            "url": "https://www.partstown.com/part-predictor/cleveland/kgl-40/pilot-safety-valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE54941-5.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE54941-5 Pressure Relief/Safety Valve, 50PSI, 1/2\" x 1/2\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE54941-5",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 210.09"
+                }
+            ]
+        },
+        {
+            "name": "Drain Valve Is Leaking",
+            "idx": 27,
+            "url": "https://www.partstown.com/part-predictor/cleveland/kgl-40/drain-valve-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE52752.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE52752 VALVE PISTON, TD2 PRIOR TO 1-2-2012",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE52752",
+                    "fix_rate": 83.0,
+                    "list_price": "$ 301.15"
+                }
+            ]
+        }
+    ]
+}

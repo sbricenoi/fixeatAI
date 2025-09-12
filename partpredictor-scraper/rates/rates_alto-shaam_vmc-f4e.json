@@ -1,0 +1,84 @@
+{
+    "brand": "alto-shaam",
+    "model": "vmc-f4e",
+    "issues": [
+        {
+            "name": "Door Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/alto-shaam/vmc-f4e/door-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/ALT/ALTHD-46826R.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Alto Shaam HD-46826R Handle Replacement Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nHD-46826R",
+                    "fix_rate": 30.0,
+                    "list_price": "$ 358.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/ALT/ALT5024161R.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Alto Shaam 5024161R Outer Door Service Kit Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n5024161R",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 2,027.00"
+                }
+            ]
+        },
+        {
+            "name": "Handle Is Defective",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/alto-shaam/vmc-f4e/handle-is-defective",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/ALT/ALTHD-46826R.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Alto Shaam HD-46826R Handle Replacement Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nHD-46826R",
+                    "fix_rate": 59.0,
+                    "list_price": "$ 358.00"
+                }
+            ]
+        },
+        {
+            "name": "Blower Motor Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/alto-shaam/vmc-f4e/blower-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/ALT/ALT5034355R.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Alto Shaam 5034355R BLOWER MOTOR ASSEMBLY",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n5034355R",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 1,500.00"
+                }
+            ]
+        },
+        {
+            "name": "Motor Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/alto-shaam/vmc-f4e/motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/ALT/ALT5034355R.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Alto Shaam 5034355R BLOWER MOTOR ASSEMBLY",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n5034355R",
+                    "fix_rate": 83.0,
+                    "list_price": "$ 1,500.00"
+                }
+            ]
+        }
+    ]
+}

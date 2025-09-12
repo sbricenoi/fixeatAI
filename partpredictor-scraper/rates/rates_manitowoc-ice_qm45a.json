@@ -1,0 +1,33 @@
+{
+    "brand": "manitowoc-ice",
+    "model": "qm45a",
+    "issues": [
+        {
+            "name": "Door Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/manitowoc-ice/qm45a/door-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/MAN/MAN040000627.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Manitowoc Ice 040000627 Door Frame Asembly, QM30/45",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n040000627",
+                    "fix_rate": 64.0,
+                    "list_price": "$ 145.90"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/MAN/MAN040002220.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Manitowoc Ice 040002220 Bin Door Assembly, QM30/45",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n040002220",
+                    "fix_rate": 43.0,
+                    "list_price": "$ 123.80"
+                }
+            ]
+        }
+    ]
+}

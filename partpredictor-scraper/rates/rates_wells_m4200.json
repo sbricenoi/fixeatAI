@@ -1,0 +1,74 @@
+{
+    "brand": "wells",
+    "model": "m4200",
+    "issues": [
+        {
+            "name": "Fan Motor Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/wells/m4200/fan-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/WEL/WELWS-63932.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Wells WS-63932 Blower Motor, 1/4 HP, 208/230V, 50/60HZ, 1PH",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nWS-63932",
+                    "fix_rate": 33.0,
+                    "list_price": "$ 1,686.55"
+                }
+            ]
+        },
+        {
+            "name": "Probe Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/wells/m4200/probe-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/WEL/WEL2J-304580.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Wells 2J-304580 Temperature Probe/Thermocouple, M4200",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2J-304580",
+                    "fix_rate": 67.0,
+                    "list_price": "$ 189.39"
+                }
+            ]
+        },
+        {
+            "name": "Hi-limit Is Tripping Or Wont Reset",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/wells/m4200/hi-limit-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/WEL/WEL2T-45180.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Wells 2T-45180 Hi Limit Thermostat, Snap Disc, M4200/OC-1",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2T-45180",
+                    "fix_rate": 60.0,
+                    "list_price": "$ 190.48"
+                }
+            ]
+        },
+        {
+            "name": "Filter Pump Is Not Starting",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/wells/m4200/filter-pump-is-not-starting",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/WEL/WELWS-63932.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Wells WS-63932 Blower Motor, 1/4 HP, 208/230V, 50/60HZ, 1PH",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nWS-63932",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 1,686.55"
+                }
+            ]
+        }
+    ]
+}

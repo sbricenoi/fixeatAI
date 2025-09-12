@@ -1,0 +1,754 @@
+[
+    {
+        "name": "E3 SERIES",
+        "parsed_name": "e3-series"
+    },
+    {
+        "name": "E32081D060",
+        "parsed_name": "e32081d060"
+    },
+    {
+        "name": "E32081D060 DBL",
+        "parsed_name": "e32081d060-dbl"
+    },
+    {
+        "name": "E32081D060 TPL",
+        "parsed_name": "e32081d060-tpl"
+    },
+    {
+        "name": "E32081E060",
+        "parsed_name": "e32081e060"
+    },
+    {
+        "name": "E32081E060 DBL",
+        "parsed_name": "e32081e060-dbl"
+    },
+    {
+        "name": "E32081E060 TPL",
+        "parsed_name": "e32081e060-tpl"
+    },
+    {
+        "name": "E32083D150",
+        "parsed_name": "e32083d150"
+    },
+    {
+        "name": "E32083D150 DBL",
+        "parsed_name": "e32083d150-dbl"
+    },
+    {
+        "name": "E32083D150 TPL",
+        "parsed_name": "e32083d150-tpl"
+    },
+    {
+        "name": "E32083E150",
+        "parsed_name": "e32083e150"
+    },
+    {
+        "name": "E32083E150 DBL",
+        "parsed_name": "e32083e150-dbl"
+    },
+    {
+        "name": "E32083E150 TPL",
+        "parsed_name": "e32083e150-tpl"
+    },
+    {
+        "name": "E32401D080",
+        "parsed_name": "e32401d080"
+    },
+    {
+        "name": "E32401D080 DBL",
+        "parsed_name": "e32401d080-dbl"
+    },
+    {
+        "name": "E32401D080 TPL",
+        "parsed_name": "e32401d080-tpl"
+    },
+    {
+        "name": "E32401E080",
+        "parsed_name": "e32401e080"
+    },
+    {
+        "name": "E32401E080 DBL",
+        "parsed_name": "e32401e080-dbl"
+    },
+    {
+        "name": "E32401E080 TPL",
+        "parsed_name": "e32401e080-tpl"
+    },
+    {
+        "name": "E32403D110",
+        "parsed_name": "e32403d110"
+    },
+    {
+        "name": "E32403D110 DBL",
+        "parsed_name": "e32403d110-dbl"
+    },
+    {
+        "name": "E32403D110 TPL",
+        "parsed_name": "e32403d110-tpl"
+    },
+    {
+        "name": "E32403E110",
+        "parsed_name": "e32403e110"
+    },
+    {
+        "name": "E32403E110 DBL",
+        "parsed_name": "e32403e110-dbl"
+    },
+    {
+        "name": "E32403E110 TPL",
+        "parsed_name": "e32403e110-tpl"
+    },
+    {
+        "name": "E34803D140",
+        "parsed_name": "e34803d140"
+    },
+    {
+        "name": "E34803D140 DBL",
+        "parsed_name": "e34803d140-dbl"
+    },
+    {
+        "name": "E34803D140 TPL",
+        "parsed_name": "e34803d140-tpl"
+    },
+    {
+        "name": "E34803E140",
+        "parsed_name": "e34803e140"
+    },
+    {
+        "name": "E34803E140 DBL",
+        "parsed_name": "e34803e140-dbl"
+    },
+    {
+        "name": "E34803E140 TPL",
+        "parsed_name": "e34803e140-tpl"
+    },
+    {
+        "name": "E6 SERIES",
+        "parsed_name": "e6-series"
+    },
+    {
+        "name": "E62081D060",
+        "parsed_name": "e62081d060"
+    },
+    {
+        "name": "E62081D060 DBL",
+        "parsed_name": "e62081d060-dbl"
+    },
+    {
+        "name": "E62081D060 SGL",
+        "parsed_name": "e62081d060-sgl"
+    },
+    {
+        "name": "E62081E060",
+        "parsed_name": "e62081e060"
+    },
+    {
+        "name": "E62081E060 DBL",
+        "parsed_name": "e62081e060-dbl"
+    },
+    {
+        "name": "E62081E060 SGL",
+        "parsed_name": "e62081e060-sgl"
+    },
+    {
+        "name": "E62083D100",
+        "parsed_name": "e62083d100"
+    },
+    {
+        "name": "E62083D100 DBL",
+        "parsed_name": "e62083d100-dbl"
+    },
+    {
+        "name": "E62083D100 SGL",
+        "parsed_name": "e62083d100-sgl"
+    },
+    {
+        "name": "E62083D10000200",
+        "parsed_name": "e62083d10000200"
+    },
+    {
+        "name": "E62083D150",
+        "parsed_name": "e62083d150"
+    },
+    {
+        "name": "E62083D150 DBL",
+        "parsed_name": "e62083d150-dbl"
+    },
+    {
+        "name": "E62083D150 SGL",
+        "parsed_name": "e62083d150-sgl"
+    },
+    {
+        "name": "E62083E100",
+        "parsed_name": "e62083e100"
+    },
+    {
+        "name": "E62083E100 DBL",
+        "parsed_name": "e62083e100-dbl"
+    },
+    {
+        "name": "E62083E100 SGL",
+        "parsed_name": "e62083e100-sgl"
+    },
+    {
+        "name": "E62083E150",
+        "parsed_name": "e62083e150"
+    },
+    {
+        "name": "E62083E150 DBL",
+        "parsed_name": "e62083e150-dbl"
+    },
+    {
+        "name": "E62083E150 SGL",
+        "parsed_name": "e62083e150-sgl"
+    },
+    {
+        "name": "E62301D070",
+        "parsed_name": "e62301d070"
+    },
+    {
+        "name": "E62301D070 DBL",
+        "parsed_name": "e62301d070-dbl"
+    },
+    {
+        "name": "E62301D070 SGL",
+        "parsed_name": "e62301d070-sgl"
+    },
+    {
+        "name": "E62301E070",
+        "parsed_name": "e62301e070"
+    },
+    {
+        "name": "E62301E070 DBL",
+        "parsed_name": "e62301e070-dbl"
+    },
+    {
+        "name": "E62301E070 SGL",
+        "parsed_name": "e62301e070-sgl"
+    },
+    {
+        "name": "E62401D060",
+        "parsed_name": "e62401d060"
+    },
+    {
+        "name": "E62401D060 DBL",
+        "parsed_name": "e62401d060-dbl"
+    },
+    {
+        "name": "E62401D060 SGL",
+        "parsed_name": "e62401d060-sgl"
+    },
+    {
+        "name": "E62401E060",
+        "parsed_name": "e62401e060"
+    },
+    {
+        "name": "E62401E060 DBL",
+        "parsed_name": "e62401e060-dbl"
+    },
+    {
+        "name": "E62401E060 SGL",
+        "parsed_name": "e62401e060-sgl"
+    },
+    {
+        "name": "E62403D110",
+        "parsed_name": "e62403d110"
+    },
+    {
+        "name": "E62403D110 DBL",
+        "parsed_name": "e62403d110-dbl"
+    },
+    {
+        "name": "E62403D110 SGL",
+        "parsed_name": "e62403d110-sgl"
+    },
+    {
+        "name": "E62403D130",
+        "parsed_name": "e62403d130"
+    },
+    {
+        "name": "E62403D130 DBL",
+        "parsed_name": "e62403d130-dbl"
+    },
+    {
+        "name": "E62403D130 SGL",
+        "parsed_name": "e62403d130-sgl"
+    },
+    {
+        "name": "E62403E110",
+        "parsed_name": "e62403e110"
+    },
+    {
+        "name": "E62403E110 DBL",
+        "parsed_name": "e62403e110-dbl"
+    },
+    {
+        "name": "E62403E110 SGL",
+        "parsed_name": "e62403e110-sgl"
+    },
+    {
+        "name": "E62403E130",
+        "parsed_name": "e62403e130"
+    },
+    {
+        "name": "E62403E130 DBL",
+        "parsed_name": "e62403e130-dbl"
+    },
+    {
+        "name": "E62403E130 SGL",
+        "parsed_name": "e62403e130-sgl"
+    },
+    {
+        "name": "E64005D110",
+        "parsed_name": "e64005d110"
+    },
+    {
+        "name": "E64005D110 DBL",
+        "parsed_name": "e64005d110-dbl"
+    },
+    {
+        "name": "E64005D110 SGL",
+        "parsed_name": "e64005d110-sgl"
+    },
+    {
+        "name": "E64005E110",
+        "parsed_name": "e64005e110"
+    },
+    {
+        "name": "E64005E110 DBL",
+        "parsed_name": "e64005e110-dbl"
+    },
+    {
+        "name": "E64005E110 SGL",
+        "parsed_name": "e64005e110-sgl"
+    },
+    {
+        "name": "E64803D140",
+        "parsed_name": "e64803d140"
+    },
+    {
+        "name": "E64803D140 DBL",
+        "parsed_name": "e64803d140-dbl"
+    },
+    {
+        "name": "E64803D140 SGL",
+        "parsed_name": "e64803d140-sgl"
+    },
+    {
+        "name": "E64803E140",
+        "parsed_name": "e64803e140"
+    },
+    {
+        "name": "E64803E140 DBL",
+        "parsed_name": "e64803e140-dbl"
+    },
+    {
+        "name": "E64803E140 SGL",
+        "parsed_name": "e64803e140-sgl"
+    },
+    {
+        "name": "EGF SERIES",
+        "parsed_name": "egf-series"
+    },
+    {
+        "name": "EGF2401A2450-S2",
+        "parsed_name": "egf2401a2450-s2"
+    },
+    {
+        "name": "EGF2401A2450-T1",
+        "parsed_name": "egf2401a2450-t1"
+    },
+    {
+        "name": "EGF2401A3650-S2",
+        "parsed_name": "egf2401a3650-s2"
+    },
+    {
+        "name": "EGF2401A3650-T1",
+        "parsed_name": "egf2401a3650-t1"
+    },
+    {
+        "name": "EGF2401A4850-S2",
+        "parsed_name": "egf2401a4850-s2"
+    },
+    {
+        "name": "EGF2401A4850-T1",
+        "parsed_name": "egf2401a4850-t1"
+    },
+    {
+        "name": "EGF2401B2450-S2",
+        "parsed_name": "egf2401b2450-s2"
+    },
+    {
+        "name": "EGF2401B2450-T1",
+        "parsed_name": "egf2401b2450-t1"
+    },
+    {
+        "name": "EGF2401B3650-S2",
+        "parsed_name": "egf2401b3650-s2"
+    },
+    {
+        "name": "EGF2401B3650-T1",
+        "parsed_name": "egf2401b3650-t1"
+    },
+    {
+        "name": "EGF2401B4850-S2",
+        "parsed_name": "egf2401b4850-s2"
+    },
+    {
+        "name": "EGF2401B4850-T1",
+        "parsed_name": "egf2401b4850-t1"
+    },
+    {
+        "name": "EGF2403A2450-S2",
+        "parsed_name": "egf2403a2450-s2"
+    },
+    {
+        "name": "EGF2403A2450-T1",
+        "parsed_name": "egf2403a2450-t1"
+    },
+    {
+        "name": "EGF2403A3650-S2",
+        "parsed_name": "egf2403a3650-s2"
+    },
+    {
+        "name": "EGF2403A3650-T1",
+        "parsed_name": "egf2403a3650-t1"
+    },
+    {
+        "name": "EGF2403A4850-S2",
+        "parsed_name": "egf2403a4850-s2"
+    },
+    {
+        "name": "EGF2403A4850-T1",
+        "parsed_name": "egf2403a4850-t1"
+    },
+    {
+        "name": "EGF2403B2450-S2",
+        "parsed_name": "egf2403b2450-s2"
+    },
+    {
+        "name": "EGF2403B2450-T1",
+        "parsed_name": "egf2403b2450-t1"
+    },
+    {
+        "name": "EGF2403B3650-S2",
+        "parsed_name": "egf2403b3650-s2"
+    },
+    {
+        "name": "EGF2403B3650-T1",
+        "parsed_name": "egf2403b3650-t1"
+    },
+    {
+        "name": "EGF2403B4850-S2",
+        "parsed_name": "egf2403b4850-s2"
+    },
+    {
+        "name": "EGF2403B4850-T1",
+        "parsed_name": "egf2403b4850-t1"
+    },
+    {
+        "name": "EGF2803A2450-S2",
+        "parsed_name": "egf2803a2450-s2"
+    },
+    {
+        "name": "EGF2803A2450-T1",
+        "parsed_name": "egf2803a2450-t1"
+    },
+    {
+        "name": "EGF2803A3650-S2",
+        "parsed_name": "egf2803a3650-s2"
+    },
+    {
+        "name": "EGF2803A3650-T1",
+        "parsed_name": "egf2803a3650-t1"
+    },
+    {
+        "name": "EGF2803A4850-S2",
+        "parsed_name": "egf2803a4850-s2"
+    },
+    {
+        "name": "EGF2803A4850-T1",
+        "parsed_name": "egf2803a4850-t1"
+    },
+    {
+        "name": "EGF2803B2450-S2",
+        "parsed_name": "egf2803b2450-s2"
+    },
+    {
+        "name": "EGF2803B2450-T1",
+        "parsed_name": "egf2803b2450-t1"
+    },
+    {
+        "name": "EGF2803B3650-S2",
+        "parsed_name": "egf2803b3650-s2"
+    },
+    {
+        "name": "EGF2803B3650-T1",
+        "parsed_name": "egf2803b3650-t1"
+    },
+    {
+        "name": "EGF2803B4850-S2",
+        "parsed_name": "egf2803b4850-s2"
+    },
+    {
+        "name": "EGF2803B4850-T1",
+        "parsed_name": "egf2803b4850-t1"
+    },
+    {
+        "name": "EGF36A",
+        "parsed_name": "egf36a"
+    },
+    {
+        "name": "EGF36B",
+        "parsed_name": "egf36b"
+    },
+    {
+        "name": "EGF4403A2450-S2",
+        "parsed_name": "egf4403a2450-s2"
+    },
+    {
+        "name": "EGF4403A2450-T1",
+        "parsed_name": "egf4403a2450-t1"
+    },
+    {
+        "name": "EGF4403A3650-S2",
+        "parsed_name": "egf4403a3650-s2"
+    },
+    {
+        "name": "EGF4403A3650-T1",
+        "parsed_name": "egf4403a3650-t1"
+    },
+    {
+        "name": "EGF4403A4850-S2",
+        "parsed_name": "egf4403a4850-s2"
+    },
+    {
+        "name": "EGF4403A4850-T1",
+        "parsed_name": "egf4403a4850-t1"
+    },
+    {
+        "name": "EGF4403B2450-S2",
+        "parsed_name": "egf4403b2450-s2"
+    },
+    {
+        "name": "EGF4403B2450-T1",
+        "parsed_name": "egf4403b2450-t1"
+    },
+    {
+        "name": "EGF4403B3650-S2",
+        "parsed_name": "egf4403b3650-s2"
+    },
+    {
+        "name": "EGF4403B3650-T1",
+        "parsed_name": "egf4403b3650-t1"
+    },
+    {
+        "name": "EGF4403B4850-S2",
+        "parsed_name": "egf4403b4850-s2"
+    },
+    {
+        "name": "EGF4403B4850-T1",
+        "parsed_name": "egf4403b4850-t1"
+    },
+    {
+        "name": "EGF4803A2450-S2",
+        "parsed_name": "egf4803a2450-s2"
+    },
+    {
+        "name": "EGF4803A2450-T1",
+        "parsed_name": "egf4803a2450-t1"
+    },
+    {
+        "name": "EGF4803A3650-S2",
+        "parsed_name": "egf4803a3650-s2"
+    },
+    {
+        "name": "EGF4803A3650-T1",
+        "parsed_name": "egf4803a3650-t1"
+    },
+    {
+        "name": "EGF4803A4850-S2",
+        "parsed_name": "egf4803a4850-s2"
+    },
+    {
+        "name": "EGF4803A4850-T1",
+        "parsed_name": "egf4803a4850-t1"
+    },
+    {
+        "name": "EGF4803B2450-S2",
+        "parsed_name": "egf4803b2450-s2"
+    },
+    {
+        "name": "EGF4803B2450-T1",
+        "parsed_name": "egf4803b2450-t1"
+    },
+    {
+        "name": "EGF4803B3650-S2",
+        "parsed_name": "egf4803b3650-s2"
+    },
+    {
+        "name": "EGF4803B3650-T1",
+        "parsed_name": "egf4803b3650-t1"
+    },
+    {
+        "name": "EGF4803B4850-S2",
+        "parsed_name": "egf4803b4850-s2"
+    },
+    {
+        "name": "EGF4803B4850-T1",
+        "parsed_name": "egf4803b4850-t1"
+    },
+    {
+        "name": "Evolution Electric Series",
+        "parsed_name": "evolution-electric-series"
+    },
+    {
+        "name": "GGF SERIES",
+        "parsed_name": "ggf-series"
+    },
+    {
+        "name": "GGF1201A2450-S2",
+        "parsed_name": "ggf1201a2450-s2"
+    },
+    {
+        "name": "GGF1201A2450-T1",
+        "parsed_name": "ggf1201a2450-t1"
+    },
+    {
+        "name": "GGF1201A36",
+        "parsed_name": "ggf1201a36"
+    },
+    {
+        "name": "GGF1201A3650-S2",
+        "parsed_name": "ggf1201a3650-s2"
+    },
+    {
+        "name": "GGF1201A3650-T1",
+        "parsed_name": "ggf1201a3650-t1"
+    },
+    {
+        "name": "GGF1201A4850-S2",
+        "parsed_name": "ggf1201a4850-s2"
+    },
+    {
+        "name": "GGF1201A4850-T1",
+        "parsed_name": "ggf1201a4850-t1"
+    },
+    {
+        "name": "GGF1201B2450-S2",
+        "parsed_name": "ggf1201b2450-s2"
+    },
+    {
+        "name": "GGF1201B2450-T1",
+        "parsed_name": "ggf1201b2450-t1"
+    },
+    {
+        "name": "GGF1201B3650-S2",
+        "parsed_name": "ggf1201b3650-s2"
+    },
+    {
+        "name": "GGF1201B3650-T1",
+        "parsed_name": "ggf1201b3650-t1"
+    },
+    {
+        "name": "GGF1201B4850-S2",
+        "parsed_name": "ggf1201b4850-s2"
+    },
+    {
+        "name": "GGF1201B4850-T1",
+        "parsed_name": "ggf1201b4850-t1"
+    },
+    {
+        "name": "N6 SERIES",
+        "parsed_name": "n6-series"
+    },
+    {
+        "name": "N61201D",
+        "parsed_name": "n61201d"
+    },
+    {
+        "name": "N61201D DBL",
+        "parsed_name": "n61201d-dbl"
+    },
+    {
+        "name": "N61201D SGL",
+        "parsed_name": "n61201d-sgl"
+    },
+    {
+        "name": "N61201E",
+        "parsed_name": "n61201e"
+    },
+    {
+        "name": "N61201E DBL",
+        "parsed_name": "n61201e-dbl"
+    },
+    {
+        "name": "N61201E SGL",
+        "parsed_name": "n61201e-sgl"
+    },
+    {
+        "name": "P61201D",
+        "parsed_name": "p61201d"
+    },
+    {
+        "name": "P61201D DBL",
+        "parsed_name": "p61201d-dbl"
+    },
+    {
+        "name": "P61201D SGL",
+        "parsed_name": "p61201d-sgl"
+    },
+    {
+        "name": "P61201E",
+        "parsed_name": "p61201e"
+    },
+    {
+        "name": "P61201E DBL",
+        "parsed_name": "p61201e-dbl"
+    },
+    {
+        "name": "P61201E SGL",
+        "parsed_name": "p61201e-sgl"
+    },
+    {
+        "name": "S6 SERIES",
+        "parsed_name": "s6-series"
+    },
+    {
+        "name": "S62081D060",
+        "parsed_name": "s62081d060"
+    },
+    {
+        "name": "S62083D100",
+        "parsed_name": "s62083d100"
+    },
+    {
+        "name": "S62083D120",
+        "parsed_name": "s62083d120"
+    },
+    {
+        "name": "S62083D150",
+        "parsed_name": "s62083d150"
+    },
+    {
+        "name": "S62401D060",
+        "parsed_name": "s62401d060"
+    },
+    {
+        "name": "S62403D110",
+        "parsed_name": "s62403d110"
+    },
+    {
+        "name": "S62403D130",
+        "parsed_name": "s62403d130"
+    },
+    {
+        "name": "S64403D120",
+        "parsed_name": "s64403d120"
+    },
+    {
+        "name": "S64803D140",
+        "parsed_name": "s64803d140"
+    }
+]

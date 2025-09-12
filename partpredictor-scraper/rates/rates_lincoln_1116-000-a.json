@@ -1,0 +1,111 @@
+{
+    "brand": "lincoln",
+    "model": "1116-000-a",
+    "issues": [
+        {
+            "name": "Hi-limit Is Tripping Or Wont Reset",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/lincoln/1116-000-a/hi-limit-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN357067.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 357067 High Limit Thermostat, Oven Cavity",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n357067",
+                    "fix_rate": 47.0,
+                    "list_price": "$ 135.92"
+                }
+            ]
+        },
+        {
+            "name": "Fan Motor Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/lincoln/1116-000-a/fan-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369124.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369124 Cooling Fan, Axial, 100-125VAC, 50/60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369124",
+                    "fix_rate": 40.0,
+                    "list_price": "$ 133.93"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369182.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369182 Fan Assembly, 2'",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369182",
+                    "fix_rate": 33.0,
+                    "list_price": "$ 697.65"
+                }
+            ]
+        },
+        {
+            "name": "Motor Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/lincoln/1116-000-a/motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369182.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369182 Fan Assembly, 2'",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369182",
+                    "fix_rate": 46.0,
+                    "list_price": "$ 697.65"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369539.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369539 Motor, Main Fan, 120V, 60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369539",
+                    "fix_rate": 46.0,
+                    "list_price": "$ 1,142.62"
+                }
+            ]
+        },
+        {
+            "name": "Cooling Fan Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/lincoln/1116-000-a/cooling-fan-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369124.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369124 Cooling Fan, Axial, 100-125VAC, 50/60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369124",
+                    "fix_rate": 71.0,
+                    "list_price": "$ 133.93"
+                }
+            ]
+        },
+        {
+            "name": "Valve Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/lincoln/1116-000-a/valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/LIN/LIN369398.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Lincoln 369398 Gas Valve , Basotrol, 120V, 60HZ, Natural Gas, Propane",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n369398",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 213.55"
+                }
+            ]
+        }
+    ]
+}

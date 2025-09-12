@@ -1,0 +1,120 @@
+{
+    "brand": "pitco",
+    "model": "45c+",
+    "issues": [
+        {
+            "name": "Pilot Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/pitco/45c+/pilot-is-malfunctioning",
+            "results": []
+        },
+        {
+            "name": "Hi-limit Is Tripping Or Wont Reset",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/pitco/45c+/hi-limit-is-tripping-or-wont-reset",
+            "results": []
+        },
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/pitco/45c+/thermostat-is-malfunctioning",
+            "results": []
+        },
+        {
+            "name": "Unit Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/pitco/45c+/unit-is-malfunctioning",
+            "results": []
+        },
+        {
+            "name": "Unit Is Not Lighting",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/pitco/45c+/unit-is-not-lighting",
+            "results": []
+        },
+        {
+            "name": "Gas Valve Is Malfunctioning",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/pitco/45c+/gas-valve-is-malfunctioning",
+            "results": []
+        },
+        {
+            "name": "Unit Is Leaking",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/pitco/45c+/unit-is-leaking",
+            "results": []
+        },
+        {
+            "name": "Thermopile Is Malfunctioning",
+            "idx": 7,
+            "url": "https://www.partstown.com/part-predictor/pitco/45c+/thermopile-is-malfunctioning",
+            "results": []
+        },
+        {
+            "name": "Unit Is Overheating",
+            "idx": 8,
+            "url": "https://www.partstown.com/part-predictor/pitco/45c+/unit-is-overheating",
+            "results": []
+        },
+        {
+            "name": "Oil Is Leaking",
+            "idx": 9,
+            "url": "https://www.partstown.com/part-predictor/pitco/45c+/oil-is-leaking",
+            "results": []
+        },
+        {
+            "name": "Burner Is Malfunctioning Or Damaged",
+            "idx": 10,
+            "url": "https://www.partstown.com/part-predictor/pitco/45c+/burner-is-malfunctioning-or-damaged",
+            "results": []
+        },
+        {
+            "name": "Unit Is Shutting Down",
+            "idx": 11,
+            "url": "https://www.partstown.com/part-predictor/pitco/45c+/unit-is-shutting-down",
+            "results": []
+        },
+        {
+            "name": "Unit Won't Turn On",
+            "idx": 12,
+            "url": "https://www.partstown.com/part-predictor/pitco/45c+/unit-wont-turn-on",
+            "results": []
+        },
+        {
+            "name": "Door Is Malfunctioning",
+            "idx": 13,
+            "url": "https://www.partstown.com/part-predictor/pitco/45c+/door-is-malfunctioning",
+            "results": []
+        },
+        {
+            "name": "Valve Is Leaking",
+            "idx": 14,
+            "url": "https://www.partstown.com/part-predictor/pitco/45c+/valve-is-leaking",
+            "results": []
+        },
+        {
+            "name": "Unit Is Not Maintaining Temperature",
+            "idx": 15,
+            "url": "https://www.partstown.com/part-predictor/pitco/45c+/unit-is-not-maintaining-temperature",
+            "results": []
+        },
+        {
+            "name": "Unit Is Not Reaching Set Temperature",
+            "idx": 16,
+            "url": "https://www.partstown.com/part-predictor/pitco/45c+/unit-is-not-reaching-set-temperature",
+            "results": []
+        },
+        {
+            "name": "Handle Is Defective",
+            "idx": 17,
+            "url": "https://www.partstown.com/part-predictor/pitco/45c+/handle-is-defective",
+            "results": []
+        },
+        {
+            "name": "Gas Valve Is Leaking",
+            "idx": 18,
+            "url": "https://www.partstown.com/part-predictor/pitco/45c+/gas-valve-is-leaking",
+            "results": []
+        }
+    ]
+}

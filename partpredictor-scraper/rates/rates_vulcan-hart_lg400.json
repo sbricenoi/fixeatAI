@@ -1,0 +1,289 @@
+{
+    "brand": "vulcan-hart",
+    "model": "lg400",
+    "issues": [
+        {
+            "name": "Pilot Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/vulcan-hart/lg400/pilot-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-410839-00004.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-410839-00004 Thermopile",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-410839-00004",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 79.15"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-410840-00002.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-410840-00002 Hi Limit Thermostat with Stuffing Box",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-410840-00002",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 228.08"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-913153.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-913153 Thermostat Kit with Knob and Screws",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-913153",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 168.70"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-410841-00022.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-410841-00022 Gas Valve, Robershaw, Natural Gas, Millivolt",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-410841-00022",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 319.42"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/vulcan-hart/lg400/unit-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-913153.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-913153 Thermostat Kit with Knob and Screws",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-913153",
+                    "fix_rate": 27.0,
+                    "list_price": "$ 168.70"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-410840-00002.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-410840-00002 Hi Limit Thermostat with Stuffing Box",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-410840-00002",
+                    "fix_rate": 23.0,
+                    "list_price": "$ 228.08"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-410839-00004.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-410839-00004 Thermopile",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-410839-00004",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 79.15"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-410841-00022.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-410841-00022 Gas Valve, Robershaw, Natural Gas, Millivolt",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-410841-00022",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 319.42"
+                }
+            ]
+        },
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/vulcan-hart/lg400/thermostat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-913153.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-913153 Thermostat Kit with Knob and Screws",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-913153",
+                    "fix_rate": 68.0,
+                    "list_price": "$ 168.70"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-410840-00002.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-410840-00002 Hi Limit Thermostat with Stuffing Box",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-410840-00002",
+                    "fix_rate": 30.0,
+                    "list_price": "$ 228.08"
+                }
+            ]
+        },
+        {
+            "name": "Hi-limit Is Tripping Or Wont Reset",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/vulcan-hart/lg400/hi-limit-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-410840-00002.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-410840-00002 Hi Limit Thermostat with Stuffing Box",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-410840-00002",
+                    "fix_rate": 69.0,
+                    "list_price": "$ 228.08"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-913153.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-913153 Thermostat Kit with Knob and Screws",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-913153",
+                    "fix_rate": 37.0,
+                    "list_price": "$ 168.70"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-410839-00004.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-410839-00004 Thermopile",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-410839-00004",
+                    "fix_rate": 31.0,
+                    "list_price": "$ 79.15"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-410841-00022.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-410841-00022 Gas Valve, Robershaw, Natural Gas, Millivolt",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-410841-00022",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 319.42"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Not Lighting",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/vulcan-hart/lg400/unit-is-not-lighting",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-913153.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-913153 Thermostat Kit with Knob and Screws",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-913153",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 168.70"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-410840-00002.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-410840-00002 Hi Limit Thermostat with Stuffing Box",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-410840-00002",
+                    "fix_rate": 20.0,
+                    "list_price": "$ 228.08"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-410839-00004.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-410839-00004 Thermopile",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-410839-00004",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 79.15"
+                }
+            ]
+        },
+        {
+            "name": "Thermopile Is Malfunctioning",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/vulcan-hart/lg400/thermopile-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-410839-00004.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-410839-00004 Thermopile",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-410839-00004",
+                    "fix_rate": 38.0,
+                    "list_price": "$ 79.15"
+                }
+            ]
+        },
+        {
+            "name": "Gas Valve Is Malfunctioning",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/vulcan-hart/lg400/gas-valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-410841-00022.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-410841-00022 Gas Valve, Robershaw, Natural Gas, Millivolt",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-410841-00022",
+                    "fix_rate": 36.0,
+                    "list_price": "$ 319.42"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-410839-00004.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-410839-00004 Thermopile",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-410839-00004",
+                    "fix_rate": 32.0,
+                    "list_price": "$ 79.15"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Leaking",
+            "idx": 7,
+            "url": "https://www.partstown.com/part-predictor/vulcan-hart/lg400/unit-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DR/DR1675BPQ48.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Dormont 1675BPQ48 Gas Hose Blue 3/4\" x 48\", with Snapfast Disconnect",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1675BPQ48",
+                    "fix_rate": 40.0,
+                    "list_price": "$ 460.57"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Shutting Down",
+            "idx": 8,
+            "url": "https://www.partstown.com/part-predictor/vulcan-hart/lg400/unit-is-shutting-down",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-913153.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-913153 Thermostat Kit with Knob and Screws",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-913153",
+                    "fix_rate": 71.0,
+                    "list_price": "$ 168.70"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,155 @@
+{
+    "brand": "blodgett",
+    "model": "dfg-100-xcel",
+    "issues": [
+        {
+            "name": "Ignition Module Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/blodgett/dfg-100-xcel/ignition-module-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL54725.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 54725 Direct Spark Ignition Control Kit, Natural Gas, Propane",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n54725",
+                    "fix_rate": 47.0,
+                    "list_price": "$ 476.32"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL55648.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 55648 SPARK WIRE ASSEMBLY",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n55648",
+                    "fix_rate": 32.0,
+                    "list_price": "$ 50.96"
+                }
+            ]
+        },
+        {
+            "name": "Ingition Module Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/blodgett/dfg-100-xcel/ingition-module-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL55648.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 55648 SPARK WIRE ASSEMBLY",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n55648",
+                    "fix_rate": 81.0,
+                    "list_price": "$ 50.96"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL54725.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 54725 Direct Spark Ignition Control Kit, Natural Gas, Propane",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n54725",
+                    "fix_rate": 75.0,
+                    "list_price": "$ 476.32"
+                }
+            ]
+        },
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/blodgett/dfg-100-xcel/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL21068.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 21068 Switch, Rotary, 4 Position",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n21068",
+                    "fix_rate": 56.0,
+                    "list_price": "$ 56.16"
+                }
+            ]
+        },
+        {
+            "name": "Motor Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/blodgett/dfg-100-xcel/motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL37022.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 37022 Blower Motor with Conduit, 115V, 60HZ, 1PH, 2 Speed, D1XL",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n37022",
+                    "fix_rate": 60.0,
+                    "list_price": "$ 1,536.08"
+                }
+            ]
+        },
+        {
+            "name": "Gas Valve Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/blodgett/dfg-100-xcel/gas-valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL36608.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 36608 Gas Valve Assembly, Natural Gas",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n36608",
+                    "fix_rate": 75.0,
+                    "list_price": "$ 642.72"
+                }
+            ]
+        },
+        {
+            "name": "Wiring Issue",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/blodgett/dfg-100-xcel/wiring-issue",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL55648.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 55648 SPARK WIRE ASSEMBLY",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n55648",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 50.96"
+                }
+            ]
+        },
+        {
+            "name": "Pilot Is Malfunctioning",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/blodgett/dfg-100-xcel/pilot-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL54725.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 54725 Direct Spark Ignition Control Kit, Natural Gas, Propane",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n54725",
+                    "fix_rate": 56.0,
+                    "list_price": "$ 476.32"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/BL/BL55648.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Blodgett 55648 SPARK WIRE ASSEMBLY",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n55648",
+                    "fix_rate": 56.0,
+                    "list_price": "$ 50.96"
+                }
+            ]
+        }
+    ]
+}

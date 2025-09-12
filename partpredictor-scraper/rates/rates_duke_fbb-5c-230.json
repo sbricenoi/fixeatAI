@@ -1,0 +1,777 @@
+{
+    "brand": "duke",
+    "model": "fbb-5c-230",
+    "issues": [
+        {
+            "name": "Burner Is Malfunctioning Or Damaged",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/duke/fbb-5c-230/burner-is-malfunctioning-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DUK/DUK176901.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Duke 176901 Infrared Burner Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n176901",
+                    "fix_rate": 64.0,
+                    "list_price": "$ 614.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DUK/DUK175536.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Duke 175536 Ignitor, Spark PSE-DK4",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n175536",
+                    "fix_rate": 34.0,
+                    "list_price": "$ 50.50"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DUK/DUK175535.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Duke 175535 Flame Sensor, IR Burner",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n175535",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 91.22"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DUK/DUK175534.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Duke 175534 Flame Sensor, Lower Burner",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n175534",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 87.34"
+                }
+            ]
+        },
+        {
+            "name": "Ignitor Is Malfunctioning Or Damaged",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/duke/fbb-5c-230/ignitor-is-malfunctioning-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DUK/DUK175536.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Duke 175536 Ignitor, Spark PSE-DK4",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n175536",
+                    "fix_rate": 89.0,
+                    "list_price": "$ 50.50"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DUK/DUK176901.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Duke 176901 Infrared Burner Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n176901",
+                    "fix_rate": 28.0,
+                    "list_price": "$ 614.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DUK/DUK175535.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Duke 175535 Flame Sensor, IR Burner",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n175535",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 91.22"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DUK/DUK175534.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Duke 175534 Flame Sensor, Lower Burner",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n175534",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 87.34"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DUK/DUK175877K.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Duke 175877K Ignition Module Service Assembly, 24-5-3",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n175877K",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 302.00"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/duke/fbb-5c-230/unit-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DUK/DUK176901.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Duke 176901 Infrared Burner Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n176901",
+                    "fix_rate": 38.0,
+                    "list_price": "$ 614.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DUK/DUK175536.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Duke 175536 Ignitor, Spark PSE-DK4",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n175536",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 50.50"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DUK/DUK175535.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Duke 175535 Flame Sensor, IR Burner",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n175535",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 91.22"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DUK/DUK600250.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Duke 600250 Blower Motor and Switch Replacement Kit, 120V, 60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n600250",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 568.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DUK/DUK175534.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Duke 175534 Flame Sensor, Lower Burner",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n175534",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 87.34"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DUK/DUK600222.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Duke 600222 Flame Arrestor Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n600222",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 814.00"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Not Reaching Set Temperature",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/duke/fbb-5c-230/unit-is-not-reaching-set-temperature",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DUK/DUK175536.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Duke 175536 Ignitor, Spark PSE-DK4",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n175536",
+                    "fix_rate": 32.0,
+                    "list_price": "$ 50.50"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DUK/DUK176901.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Duke 176901 Infrared Burner Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n176901",
+                    "fix_rate": 32.0,
+                    "list_price": "$ 614.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DUK/DUK175535.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Duke 175535 Flame Sensor, IR Burner",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n175535",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 91.22"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DUK/DUK175534.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Duke 175534 Flame Sensor, Lower Burner",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n175534",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 87.34"
+                }
+            ]
+        },
+        {
+            "name": "Heating Element Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/duke/fbb-5c-230/heating-element-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DUK/DUK176901.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Duke 176901 Infrared Burner Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n176901",
+                    "fix_rate": 77.0,
+                    "list_price": "$ 614.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DUK/DUK175536.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Duke 175536 Ignitor, Spark PSE-DK4",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n175536",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 50.50"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DUK/DUK175535.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Duke 175535 Flame Sensor, IR Burner",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n175535",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 91.22"
+                }
+            ]
+        },
+        {
+            "name": "Pilot Is Malfunctioning",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/duke/fbb-5c-230/pilot-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DUK/DUK175536.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Duke 175536 Ignitor, Spark PSE-DK4",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n175536",
+                    "fix_rate": 66.0,
+                    "list_price": "$ 50.50"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DUK/DUK176901.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Duke 176901 Infrared Burner Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n176901",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 614.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DUK/DUK175535.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Duke 175535 Flame Sensor, IR Burner",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n175535",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 91.22"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DUK/DUK175537.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Duke 175537 Ignition Suppression Cable, IR",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n175537",
+                    "fix_rate": 20.0,
+                    "list_price": "$ 19.28"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DUK/DUK600250.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Duke 600250 Blower Motor and Switch Replacement Kit, 120V, 60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n600250",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 568.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DUK/DUK175534.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Duke 175534 Flame Sensor, Lower Burner",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n175534",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 87.34"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Not Lighting",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/duke/fbb-5c-230/unit-is-not-lighting",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DUK/DUK175536.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Duke 175536 Ignitor, Spark PSE-DK4",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n175536",
+                    "fix_rate": 45.0,
+                    "list_price": "$ 50.50"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DUK/DUK176901.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Duke 176901 Infrared Burner Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n176901",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 614.00"
+                }
+            ]
+        },
+        {
+            "name": "Blower Motor Is Malfunctioning",
+            "idx": 7,
+            "url": "https://www.partstown.com/part-predictor/duke/fbb-5c-230/blower-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DUK/DUK600250.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Duke 600250 Blower Motor and Switch Replacement Kit, 120V, 60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n600250",
+                    "fix_rate": 73.0,
+                    "list_price": "$ 568.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DUK/DUK175535.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Duke 175535 Flame Sensor, IR Burner",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n175535",
+                    "fix_rate": 30.0,
+                    "list_price": "$ 91.22"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DUK/DUK175536.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Duke 175536 Ignitor, Spark PSE-DK4",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n175536",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 50.50"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DUK/DUK176901.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Duke 176901 Infrared Burner Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n176901",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 614.00"
+                }
+            ]
+        },
+        {
+            "name": "Flame Sensor Is Malfunctioning",
+            "idx": 8,
+            "url": "https://www.partstown.com/part-predictor/duke/fbb-5c-230/flame-sensor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DUK/DUK175534.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Duke 175534 Flame Sensor, Lower Burner",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n175534",
+                    "fix_rate": 52.0,
+                    "list_price": "$ 87.34"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DUK/DUK175536.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Duke 175536 Ignitor, Spark PSE-DK4",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n175536",
+                    "fix_rate": 48.0,
+                    "list_price": "$ 50.50"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DUK/DUK175535.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Duke 175535 Flame Sensor, IR Burner",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n175535",
+                    "fix_rate": 30.0,
+                    "list_price": "$ 91.22"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DUK/DUK176901.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Duke 176901 Infrared Burner Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n176901",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 614.00"
+                }
+            ]
+        },
+        {
+            "name": "Gas Valve Is Malfunctioning",
+            "idx": 9,
+            "url": "https://www.partstown.com/part-predictor/duke/fbb-5c-230/gas-valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DUK/DUK175531.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Duke 175531 Gas Valve, Natural Gas, 24V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n175531",
+                    "fix_rate": 61.0,
+                    "list_price": "$ 190.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DUK/DUK175536.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Duke 175536 Ignitor, Spark PSE-DK4",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n175536",
+                    "fix_rate": 33.0,
+                    "list_price": "$ 50.50"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DUK/DUK175534.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Duke 175534 Flame Sensor, Lower Burner",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n175534",
+                    "fix_rate": 33.0,
+                    "list_price": "$ 87.34"
+                }
+            ]
+        },
+        {
+            "name": "Ignition Module Is Malfunctioning",
+            "idx": 10,
+            "url": "https://www.partstown.com/part-predictor/duke/fbb-5c-230/ignition-module-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DUK/DUK175536.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Duke 175536 Ignitor, Spark PSE-DK4",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n175536",
+                    "fix_rate": 33.0,
+                    "list_price": "$ 50.50"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DUK/DUK175877K.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Duke 175877K Ignition Module Service Assembly, 24-5-3",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n175877K",
+                    "fix_rate": 33.0,
+                    "list_price": "$ 302.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DUK/DUK177830K.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Duke 177830K Module Ignition, Upper Burners",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n177830K",
+                    "fix_rate": 28.0,
+                    "list_price": "$ 376.00"
+                }
+            ]
+        },
+        {
+            "name": "Burner Wont Light",
+            "idx": 11,
+            "url": "https://www.partstown.com/part-predictor/duke/fbb-5c-230/burner-wont-light",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DUK/DUK175536.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Duke 175536 Ignitor, Spark PSE-DK4",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n175536",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 50.50"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DUK/DUK600250.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Duke 600250 Blower Motor and Switch Replacement Kit, 120V, 60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n600250",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 568.00"
+                }
+            ]
+        },
+        {
+            "name": "Controller Is Malfunctioning",
+            "idx": 12,
+            "url": "https://www.partstown.com/part-predictor/duke/fbb-5c-230/controller-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DUK/DUK175873K.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Duke 175873K Control Assembly with Water Detection Label, 120V, International Units",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n175873K",
+                    "fix_rate": 57.0,
+                    "list_price": "$ 1,294.00"
+                }
+            ]
+        },
+        {
+            "name": "Sensor Is Malfunctioning",
+            "idx": 13,
+            "url": "https://www.partstown.com/part-predictor/duke/fbb-5c-230/sensor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DUK/DUK175536.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Duke 175536 Ignitor, Spark PSE-DK4",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n175536",
+                    "fix_rate": 71.0,
+                    "list_price": "$ 50.50"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DUK/DUK176901.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Duke 176901 Infrared Burner Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n176901",
+                    "fix_rate": 57.0,
+                    "list_price": "$ 614.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DUK/DUK175534.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Duke 175534 Flame Sensor, Lower Burner",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n175534",
+                    "fix_rate": 43.0,
+                    "list_price": "$ 87.34"
+                }
+            ]
+        },
+        {
+            "name": "Fire Coming Out Of Unit",
+            "idx": 14,
+            "url": "https://www.partstown.com/part-predictor/duke/fbb-5c-230/fire-coming-out-of-unit",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DUK/DUK175534.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Duke 175534 Flame Sensor, Lower Burner",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n175534",
+                    "fix_rate": 38.0,
+                    "list_price": "$ 87.34"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DUK/DUK175531.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Duke 175531 Gas Valve, Natural Gas, 24V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n175531",
+                    "fix_rate": 38.0,
+                    "list_price": "$ 190.00"
+                }
+            ]
+        },
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 15,
+            "url": "https://www.partstown.com/part-predictor/duke/fbb-5c-230/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DUK/DUK600250.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Duke 600250 Blower Motor and Switch Replacement Kit, 120V, 60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n600250",
+                    "fix_rate": 77.0,
+                    "list_price": "$ 568.00"
+                }
+            ]
+        },
+        {
+            "name": "Wiring Issue",
+            "idx": 16,
+            "url": "https://www.partstown.com/part-predictor/duke/fbb-5c-230/wiring-issue",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DUK/DUK175534.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Duke 175534 Flame Sensor, Lower Burner",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n175534",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 87.34"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DUK/DUK175536.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Duke 175536 Ignitor, Spark PSE-DK4",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n175536",
+                    "fix_rate": 42.0,
+                    "list_price": "$ 50.50"
+                }
+            ]
+        },
+        {
+            "name": "Probe Is Malfunctioning",
+            "idx": 17,
+            "url": "https://www.partstown.com/part-predictor/duke/fbb-5c-230/probe-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DUK/DUK175977K.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Duke 175977K Temperature Probe Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n175977K",
+                    "fix_rate": 60.0,
+                    "list_price": "$ 224.00"
+                }
+            ]
+        },
+        {
+            "name": "Unit Making Noise",
+            "idx": 18,
+            "url": "https://www.partstown.com/part-predictor/duke/fbb-5c-230/unit-making-noise",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DUK/DUK176901.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Duke 176901 Infrared Burner Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n176901",
+                    "fix_rate": 60.0,
+                    "list_price": "$ 614.00"
+                }
+            ]
+        },
+        {
+            "name": "Insulation Is Damaged",
+            "idx": 19,
+            "url": "https://www.partstown.com/part-predictor/duke/fbb-5c-230/insulation-is-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DUK/DUK176901.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Duke 176901 Infrared Burner Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n176901",
+                    "fix_rate": 56.0,
+                    "list_price": "$ 614.00"
+                }
+            ]
+        },
+        {
+            "name": "Relay Is Malfunctioning",
+            "idx": 20,
+            "url": "https://www.partstown.com/part-predictor/duke/fbb-5c-230/relay-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DUK/DUK175870K.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Duke 175870K Relay, Solid State with Water Detection Label, FBB Series",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n175870K",
+                    "fix_rate": 67.0,
+                    "list_price": "$ 90.14"
+                }
+            ]
+        },
+        {
+            "name": "Ingition Module Is Malfunctioning",
+            "idx": 21,
+            "url": "https://www.partstown.com/part-predictor/duke/fbb-5c-230/ingition-module-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DUK/DUK175536.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Duke 175536 Ignitor, Spark PSE-DK4",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n175536",
+                    "fix_rate": 75.0,
+                    "list_price": "$ 50.50"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Making Noise",
+            "idx": 22,
+            "url": "https://www.partstown.com/part-predictor/duke/fbb-5c-230/unit-is-making-noise",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DUK/DUK176901.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Duke 176901 Infrared Burner Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n176901",
+                    "fix_rate": 71.0,
+                    "list_price": "$ 614.00"
+                }
+            ]
+        }
+    ]
+}

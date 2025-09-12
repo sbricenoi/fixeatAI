@@ -1,0 +1,1121 @@
+{
+    "brand": "delfield",
+    "model": "4427n-9m",
+    "issues": [
+        {
+            "name": "Unit Is Not Reaching Set Temperature",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/delfield/4427n-9m/unit-is-not-reaching-set-temperature",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL3516321.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 3516321 Filter Drier, .250",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3516321",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 51.88"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL000-282-00HB-S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 000-282-00HB-S ASSY2194763BOXCTLKIT4400 (W/PROBES)",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n000-282-00HB-S",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 678.83"
+                }
+            ]
+        },
+        {
+            "name": "Compressor Is Not Running",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/delfield/4427n-9m/compressor-is-not-running",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL3516321.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 3516321 Filter Drier, .250",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3516321",
+                    "fix_rate": 31.0,
+                    "list_price": "$ 51.88"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL3527126.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 3527126 Compressor, 120V, R-404A, AE4430Z-AA1A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3527126",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 975.16"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL3527135.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 3527135 J-Box, Compressor Wire Left/Right AE44770",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3527135",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 317.66"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL3527134.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 3527134 Compressor, Tecumseh, 115V, AE4470Z-AA3C",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3527134",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 1,072.80"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Leaking",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/delfield/4427n-9m/unit-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL3516321.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 3516321 Filter Drier, .250",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3516321",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 51.88"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/delfield/4427n-9m/unit-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL000-282-00HB-S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 000-282-00HB-S ASSY2194763BOXCTLKIT4400 (W/PROBES)",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n000-282-00HB-S",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 678.83"
+                }
+            ]
+        },
+        {
+            "name": "Door Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/delfield/4427n-9m/door-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DELRF000066-S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield RF000066-S Hinge Kit, Full Door, 6000",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF000066-S",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 161.44"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL3230010.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 3230010 Concealed Cartridge Hinge, 25INLBS",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3230010",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 55.74"
+                }
+            ]
+        },
+        {
+            "name": "Controller Is Malfunctioning",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/delfield/4427n-9m/controller-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL000-282-00HB-S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 000-282-00HB-S ASSY2194763BOXCTLKIT4400 (W/PROBES)",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n000-282-00HB-S",
+                    "fix_rate": 54.0,
+                    "list_price": "$ 678.83"
+                }
+            ]
+        },
+        {
+            "name": "Hinge Is Defective Or Damaged",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/delfield/4427n-9m/hinge-is-defective-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DELRF000066-S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield RF000066-S Hinge Kit, Full Door, 6000",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nRF000066-S",
+                    "fix_rate": 43.0,
+                    "list_price": "$ 161.44"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL3230010.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 3230010 Concealed Cartridge Hinge, 25INLBS",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3230010",
+                    "fix_rate": 30.0,
+                    "list_price": "$ 55.74"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Overheating",
+            "idx": 7,
+            "url": "https://www.partstown.com/part-predictor/delfield/4427n-9m/unit-is-overheating",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL3516321.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 3516321 Filter Drier, .250",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3516321",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 51.88"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL3527135.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 3527135 J-Box, Compressor Wire Left/Right AE44770",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3527135",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 317.66"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL000-282-00HB-S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 000-282-00HB-S ASSY2194763BOXCTLKIT4400 (W/PROBES)",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n000-282-00HB-S",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 678.83"
+                }
+            ]
+        },
+        {
+            "name": "Fan Motor Is Malfunctioning",
+            "idx": 8,
+            "url": "https://www.partstown.com/part-predictor/delfield/4427n-9m/fan-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2162691.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2162691 Fan Motor, Condenser, 115/120V, 60Hz, 0.5A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2162691",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 78.47"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Not Maintaining Set Temperature",
+            "idx": 9,
+            "url": "https://www.partstown.com/part-predictor/delfield/4427n-9m/unit-is-not-maintaining-set-temperature",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL000-282-00HB-S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 000-282-00HB-S ASSY2194763BOXCTLKIT4400 (W/PROBES)",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n000-282-00HB-S",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 678.83"
+                }
+            ]
+        },
+        {
+            "name": "Breaker Is Tripping Or Wont Reset",
+            "idx": 10,
+            "url": "https://www.partstown.com/part-predictor/delfield/4427n-9m/breaker-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL000-282-00HB-S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 000-282-00HB-S ASSY2194763BOXCTLKIT4400 (W/PROBES)",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n000-282-00HB-S",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 678.83"
+                }
+            ]
+        },
+        {
+            "name": "Refrigerant Is Leaking",
+            "idx": 11,
+            "url": "https://www.partstown.com/part-predictor/delfield/4427n-9m/refrigerant-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL3516321.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 3516321 Filter Drier, .250",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3516321",
+                    "fix_rate": 24.0,
+                    "list_price": "$ 51.88"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL033-B6P-0078-S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 033-B6P-0078-S TUBECONDENSATE LOOP 4400 OT 4427-4448",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n033-B6P-0078-S",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 226.89"
+                }
+            ]
+        },
+        {
+            "name": "Unit Won't Turn On",
+            "idx": 12,
+            "url": "https://www.partstown.com/part-predictor/delfield/4427n-9m/unit-wont-turn-on",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL3516321.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 3516321 Filter Drier, .250",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3516321",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 51.88"
+                }
+            ]
+        },
+        {
+            "name": "Gasket Is Defective Or Leaking",
+            "idx": 13,
+            "url": "https://www.partstown.com/part-predictor/delfield/4427n-9m/gasket-is-defective-or-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL1702473.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 1702473 Door Gasket, 22.34 x 25.57, 4400",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1702473",
+                    "fix_rate": 28.0,
+                    "list_price": "$ 126.04"
+                }
+            ]
+        },
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 14,
+            "url": "https://www.partstown.com/part-predictor/delfield/4427n-9m/thermostat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL000-282-00HB-S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 000-282-00HB-S ASSY2194763BOXCTLKIT4400 (W/PROBES)",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n000-282-00HB-S",
+                    "fix_rate": 40.0,
+                    "list_price": "$ 678.83"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2194802.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2194802 Temperature Control Thermostat, In37D, Danfoss",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2194802",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 71.68"
+                }
+            ]
+        },
+        {
+            "name": "Power Cord Is Malfunctioning",
+            "idx": 15,
+            "url": "https://www.partstown.com/part-predictor/delfield/4427n-9m/power-cord-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2187272.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2187272 Cord, Lead, 18/3, Nema 5-15P",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2187272",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 25.46"
+                }
+            ]
+        },
+        {
+            "name": "Relay Is Malfunctioning",
+            "idx": 16,
+            "url": "https://www.partstown.com/part-predictor/delfield/4427n-9m/relay-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL3516321.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 3516321 Filter Drier, .250",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3516321",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 51.88"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL3527126.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 3527126 Compressor, 120V, R-404A, AE4430Z-AA1A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3527126",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 975.16"
+                }
+            ]
+        },
+        {
+            "name": "Motor Is Malfunctioning",
+            "idx": 17,
+            "url": "https://www.partstown.com/part-predictor/delfield/4427n-9m/motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2162717.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2162717 Motor, Fan, 115V, 9W",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2162717",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 163.15"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2162667.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2162667 Motor, Fan, 115V, 60Hz, 1450 Rpm, Clockwise",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2162667",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 238.23"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2162681.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2162681 Blade, Fan, 7\", 40 Degree Pitch",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2162681",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 41.51"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL3516432.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 3516432 Fan Blade, 25 Deg, 8.75",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3516432",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 36.34"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2162691.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2162691 Fan Motor, Condenser, 115/120V, 60Hz, 0.5A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2162691",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 78.47"
+                }
+            ]
+        },
+        {
+            "name": "Probe Is Malfunctioning",
+            "idx": 18,
+            "url": "https://www.partstown.com/part-predictor/delfield/4427n-9m/probe-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL000-282-00HB-S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 000-282-00HB-S ASSY2194763BOXCTLKIT4400 (W/PROBES)",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n000-282-00HB-S",
+                    "fix_rate": 37.0,
+                    "list_price": "$ 678.83"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2194836.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2194836 Probe, Temp, 59\" Length",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2194836",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 13.67"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2194835.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2194835 Probe, Defrost, 59\" Length",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2194835",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 13.67"
+                }
+            ]
+        },
+        {
+            "name": "Compressor Is Getting Hot",
+            "idx": 19,
+            "url": "https://www.partstown.com/part-predictor/delfield/4427n-9m/compressor-is-getting-hot",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL3516321.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 3516321 Filter Drier, .250",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3516321",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 51.88"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL3527135.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 3527135 J-Box, Compressor Wire Left/Right AE44770",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3527135",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 317.66"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL3527134.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 3527134 Compressor, Tecumseh, 115V, AE4470Z-AA3C",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3527134",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 1,072.80"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2194787.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2194787 Start Capacitor, 280 MFD",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2194787",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 33.72"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL3516352.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 3516352 Filter Drier, 2 Inlet, .25, 1.5\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3516352",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 55.47"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL3516446.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 3516446 Compressor Relay/Overload Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3516446",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 29.78"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Not Maintaining Temperature",
+            "idx": 20,
+            "url": "https://www.partstown.com/part-predictor/delfield/4427n-9m/unit-is-not-maintaining-temperature",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL000-282-00HB-S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 000-282-00HB-S ASSY2194763BOXCTLKIT4400 (W/PROBES)",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n000-282-00HB-S",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 678.83"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL3516321.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 3516321 Filter Drier, .250",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3516321",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 51.88"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Making Noise",
+            "idx": 21,
+            "url": "https://www.partstown.com/part-predictor/delfield/4427n-9m/unit-is-making-noise",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2162667.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2162667 Motor, Fan, 115V, 60Hz, 1450 Rpm, Clockwise",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2162667",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 238.23"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2162681.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2162681 Blade, Fan, 7\", 40 Degree Pitch",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2162681",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 41.51"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL3516321.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 3516321 Filter Drier, .250",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3516321",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 51.88"
+                }
+            ]
+        },
+        {
+            "name": "Wiring Issue",
+            "idx": 22,
+            "url": "https://www.partstown.com/part-predictor/delfield/4427n-9m/wiring-issue",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL000-282-00HB-S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 000-282-00HB-S ASSY2194763BOXCTLKIT4400 (W/PROBES)",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n000-282-00HB-S",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 678.83"
+                }
+            ]
+        },
+        {
+            "name": "Unit Wont Turn On",
+            "idx": 23,
+            "url": "https://www.partstown.com/part-predictor/delfield/4427n-9m/unit-wont-turn-on",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL3516321.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 3516321 Filter Drier, .250",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3516321",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 51.88"
+                }
+            ]
+        },
+        {
+            "name": "Capacitor Is Malfunctioning",
+            "idx": 24,
+            "url": "https://www.partstown.com/part-predictor/delfield/4427n-9m/capacitor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL3527126.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 3527126 Compressor, 120V, R-404A, AE4430Z-AA1A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3527126",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 975.16"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL3516321.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 3516321 Filter Drier, .250",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3516321",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 51.88"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Shutting Down",
+            "idx": 25,
+            "url": "https://www.partstown.com/part-predictor/delfield/4427n-9m/unit-is-shutting-down",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL000-282-00HB-S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 000-282-00HB-S ASSY2194763BOXCTLKIT4400 (W/PROBES)",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n000-282-00HB-S",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 678.83"
+                }
+            ]
+        },
+        {
+            "name": "Condenser Coil Is Malfunctioning",
+            "idx": 26,
+            "url": "https://www.partstown.com/part-predictor/delfield/4427n-9m/condenser-coil-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL3516321.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 3516321 Filter Drier, .250",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3516321",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 51.88"
+                }
+            ]
+        },
+        {
+            "name": "Fan Blade Is Damaged Or Not Spinning",
+            "idx": 27,
+            "url": "https://www.partstown.com/part-predictor/delfield/4427n-9m/fan-blade-is-damaged-or-not-spinning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2162717.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2162717 Motor, Fan, 115V, 9W",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2162717",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 163.15"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL3516432.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 3516432 Fan Blade, 25 Deg, 8.75",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3516432",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 36.34"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL3517356.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 3517356 Condenser Fan Blade, Black, 5.56\", CW, 5 Blade",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3517356",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 14.95"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2162681.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2162681 Blade, Fan, 7\", 40 Degree Pitch",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2162681",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 41.51"
+                }
+            ]
+        },
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 28,
+            "url": "https://www.partstown.com/part-predictor/delfield/4427n-9m/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2190154.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2190154 Switch, Rocker, SPST, 15A, 250V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2190154",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 31.45"
+                }
+            ]
+        },
+        {
+            "name": "Drain Pan Is Leaking",
+            "idx": 29,
+            "url": "https://www.partstown.com/part-predictor/delfield/4427n-9m/drain-pan-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL3516321.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 3516321 Filter Drier, .250",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3516321",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 51.88"
+                }
+            ]
+        },
+        {
+            "name": "Freon Charge Issue",
+            "idx": 30,
+            "url": "https://www.partstown.com/part-predictor/delfield/4427n-9m/freon-charge-issue",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL3516321.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 3516321 Filter Drier, .250",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3516321",
+                    "fix_rate": 30.0,
+                    "list_price": "$ 51.88"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL3527134.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 3527134 Compressor, Tecumseh, 115V, AE4470Z-AA3C",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3527134",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 1,072.80"
+                }
+            ]
+        },
+        {
+            "name": "Unit Making Noise",
+            "idx": 31,
+            "url": "https://www.partstown.com/part-predictor/delfield/4427n-9m/unit-making-noise",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL3516321.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 3516321 Filter Drier, .250",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3516321",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 51.88"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2162667.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2162667 Motor, Fan, 115V, 60Hz, 1450 Rpm, Clockwise",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2162667",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 238.23"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2162681.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2162681 Blade, Fan, 7\", 40 Degree Pitch",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2162681",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 41.51"
+                }
+            ]
+        },
+        {
+            "name": "Condenser Fan Motor Is Malfunctioning",
+            "idx": 32,
+            "url": "https://www.partstown.com/part-predictor/delfield/4427n-9m/condenser-fan-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2162667.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2162667 Motor, Fan, 115V, 60Hz, 1450 Rpm, Clockwise",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2162667",
+                    "fix_rate": 24.0,
+                    "list_price": "$ 238.23"
+                }
+            ]
+        },
+        {
+            "name": "Fan Motor Is Making Noise",
+            "idx": 33,
+            "url": "https://www.partstown.com/part-predictor/delfield/4427n-9m/fan-motor-is-making-noise",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2162667.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2162667 Motor, Fan, 115V, 60Hz, 1450 Rpm, Clockwise",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2162667",
+                    "fix_rate": 38.0,
+                    "list_price": "$ 238.23"
+                }
+            ]
+        },
+        {
+            "name": "Compressor Is Not Cycling Properly",
+            "idx": 34,
+            "url": "https://www.partstown.com/part-predictor/delfield/4427n-9m/compressor-is-not-cycling-properly",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL000-282-00HB-S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 000-282-00HB-S ASSY2194763BOXCTLKIT4400 (W/PROBES)",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n000-282-00HB-S",
+                    "fix_rate": 36.0,
+                    "list_price": "$ 678.83"
+                }
+            ]
+        },
+        {
+            "name": "Filter Is Leaking Oil",
+            "idx": 35,
+            "url": "https://www.partstown.com/part-predictor/delfield/4427n-9m/filter-is-leaking-oil",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL3516321.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 3516321 Filter Drier, .250",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3516321",
+                    "fix_rate": 52.0,
+                    "list_price": "$ 51.88"
+                }
+            ]
+        },
+        {
+            "name": "Compressor Is Making Noise",
+            "idx": 36,
+            "url": "https://www.partstown.com/part-predictor/delfield/4427n-9m/compressor-is-making-noise",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL3516321.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 3516321 Filter Drier, .250",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3516321",
+                    "fix_rate": 37.0,
+                    "list_price": "$ 51.88"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL3527134.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 3527134 Compressor, Tecumseh, 115V, AE4470Z-AA3C",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3527134",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 1,072.80"
+                }
+            ]
+        },
+        {
+            "name": "Door Gasket Is Defective",
+            "idx": 37,
+            "url": "https://www.partstown.com/part-predictor/delfield/4427n-9m/door-gasket-is-defective",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL1702473.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 1702473 Door Gasket, 22.34 x 25.57, 4400",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1702473",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 126.04"
+                }
+            ]
+        },
+        {
+            "name": "Blade Is Malfunctioning",
+            "idx": 38,
+            "url": "https://www.partstown.com/part-predictor/delfield/4427n-9m/blade-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2162681.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2162681 Blade, Fan, 7\", 40 Degree Pitch",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2162681",
+                    "fix_rate": 39.0,
+                    "list_price": "$ 41.51"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2162717.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2162717 Motor, Fan, 115V, 9W",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2162717",
+                    "fix_rate": 28.0,
+                    "list_price": "$ 163.15"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL3516432.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 3516432 Fan Blade, 25 Deg, 8.75",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3516432",
+                    "fix_rate": 28.0,
+                    "list_price": "$ 36.34"
+                }
+            ]
+        },
+        {
+            "name": "Filter Is Malfunctioning",
+            "idx": 39,
+            "url": "https://www.partstown.com/part-predictor/delfield/4427n-9m/filter-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL3516321.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 3516321 Filter Drier, .250",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3516321",
+                    "fix_rate": 47.0,
+                    "list_price": "$ 51.88"
+                }
+            ]
+        },
+        {
+            "name": "Evaporator Fan Motor Is Malfunctioning",
+            "idx": 40,
+            "url": "https://www.partstown.com/part-predictor/delfield/4427n-9m/evaporator-fan-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL2162691.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 2162691 Fan Motor, Condenser, 115/120V, 60Hz, 0.5A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2162691",
+                    "fix_rate": 47.0,
+                    "list_price": "$ 78.47"
+                }
+            ]
+        },
+        {
+            "name": "Pressure Switch Is Defective Or Leaking",
+            "idx": 41,
+            "url": "https://www.partstown.com/part-predictor/delfield/4427n-9m/pressure-switch-is-defective-or-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL3516331.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 3516331 High Pressure Switch, 1/4\" Tube",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3516331",
+                    "fix_rate": 53.0,
+                    "list_price": "$ 177.11"
+                }
+            ]
+        },
+        {
+            "name": "Pressure Switch Is Malfunctioning",
+            "idx": 42,
+            "url": "https://www.partstown.com/part-predictor/delfield/4427n-9m/pressure-switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL3516331.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 3516331 High Pressure Switch, 1/4\" Tube",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n3516331",
+                    "fix_rate": 67.0,
+                    "list_price": "$ 177.11"
+                }
+            ]
+        },
+        {
+            "name": "Drain Pan Is Damaged",
+            "idx": 43,
+            "url": "https://www.partstown.com/part-predictor/delfield/4427n-9m/drain-pan-is-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL1708896.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 1708896 Drain Pan, Condensate",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1708896",
+                    "fix_rate": 38.0,
+                    "list_price": "$ 70.18"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Not Cycling Properly",
+            "idx": 44,
+            "url": "https://www.partstown.com/part-predictor/delfield/4427n-9m/unit-is-not-cycling-properly",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/DEL/DEL000-282-00HB-S.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Delfield 000-282-00HB-S ASSY2194763BOXCTLKIT4400 (W/PROBES)",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n000-282-00HB-S",
+                    "fix_rate": 73.0,
+                    "list_price": "$ 678.83"
+                }
+            ]
+        }
+    ]
+}

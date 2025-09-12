@@ -1,43 +1,363 @@
 {
   "brands": {
-    "ACME": [
-      "acme",
-      "Acme Incorporated"
+    "SINMAG": [
+      "sinmag",
+      "sin-mag",
+      "sin mag"
     ],
-    "THERMO": [
-      "thermo",
-      "thermo inc"
+    "RATIONAL": [
+      "rational",
+      "rational ag"
     ],
-    "GENERIC": [
-      "generic"
+    "UNOX": [
+      "unox",
+      "unox spa"
     ],
-    "acme inc": []
+    "ZUCCHELLI": [
+      "zucchelli",
+      "zuchelli"
+    ],
+    "UNIQUE": [
+      "unique",
+      "unique equipment"
+    ],
+    "LAGUNA": [
+      "laguna",
+      "laguna kolb"
+    ],
+    "KOLB": [
+      "kolb",
+      "laguna kolb"
+    ],
+    "MINIFANTON": [
+      "minifanton",
+      "mini fanton",
+      "mini-fanton"
+    ],
+    "FANTON": [
+      "fanton"
+    ],
+    "ROTOR": [
+      "rotor",
+      "rototherm"
+    ],
+    "HUDSON": [
+      "hudson"
+    ],
+    "STARMIX": [
+      "starmix"
+    ],
+    "FORMEX": [
+      "formex"
+    ],
+    "FUTURE": [
+      "future",
+      "future trima"
+    ],
+    "TRIMA": [
+      "trima",
+      "future trima"
+    ],
+    "JAC": [
+      "jac"
+    ],
+    "RONDO": [
+      "rondo"
+    ],
+    "FERNETO": [
+      "ferneto"
+    ],
+    "IRIS": [
+      "iris"
+    ],
+    "MELITTA": [
+      "melitta"
+    ],
+    "PIZZAMASTER": [
+      "pizzamaster",
+      "pizza master"
+    ],
+    "ITALI FORNI": [
+      "itali forni",
+      "italforni"
+    ],
+    "MERRYCHEF": [
+      "merrychef",
+      "merry chef"
+    ],
+    "HENKELMAN": [
+      "henkelman"
+    ],
+    "HOBART": [
+      "hobart"
+    ],
+    "ANGELO PO": [
+      "angelo po",
+      "angelopo"
+    ],
+    "COLIP": [
+      "colip"
+    ],
+    "IZO": [
+      "izo"
+    ],
+    "KALBAC": [
+      "kalbac"
+    ],
+    "CONT": [
+      "cont"
+    ],
+    "UVR": [
+      "uvr"
+    ],
+    "KRUPPS": [
+      "krupps"
+    ],
+    "MIJAR": [
+      "mijar"
+    ],
+    "PALLAS": [
+      "pallas"
+    ],
+    "PANIFICADORA": []
   },
   "models": {
-    "T900": [
-      "t900",
-      "t-900"
+    "SM-520": [
+      "sm-520",
+      "sm520"
     ],
-    "HORN-500": [
-      "horn-500",
-      "horn500"
+    "UHP3": [
+      "uhp3",
+      "u-hp3",
+      "uhp-3"
     ],
-    "GEN": [
-      "gen",
-      "generic-model"
-    ]
+    "UHP12": [
+      "uhp12",
+      "u-hp12",
+      "uhp-12"
+    ],
+    "UHP2": [
+      "uhp2",
+      "u-hp2",
+      "uhp-2"
+    ],
+    "UHP9": [
+      "uhp9",
+      "u-hp9",
+      "uhp-9"
+    ],
+    "PRIMA EVO KE 4": [
+      "prima evo ke 4",
+      "prima-evo-ke-4",
+      "primaevo"
+    ],
+    "60X40": [
+      "60x40",
+      "60 x 40"
+    ],
+    "60X80": [
+      "60x80",
+      "60 x 80"
+    ],
+    "MINIFANTON 60X40G": [
+      "minifanton 60x40g",
+      "mini fanton 60x40g"
+    ],
+    "ROTOR 60X80G": [
+      "rotor 60x80g",
+      "rotor-60x80g"
+    ],
+    "XEBC-10EUEPRM": [
+      "xebc-10eueprm",
+      "xebc10eueprm"
+    ],
+    "XEFR-04EU-ELDV": [
+      "xefr-04eu-eldv",
+      "xefr04euelds"
+    ],
+    "EGB/I": [
+      "egb/i",
+      "egbi"
+    ],
+    "UIAS5": [
+      "uias5",
+      "uias-5"
+    ],
+    "SWL8407LA0": [
+      "swl8407la0",
+      "swl-8407la0"
+    ],
+    "PM733ED": [
+      "pm733ed",
+      "pm-733ed"
+    ],
+    "PL100NVAF": [
+      "pl100nvaf",
+      "pl-100nvaf"
+    ],
+    "PL120NVAPG": [
+      "pl120nvapg",
+      "pl-120nvapg"
+    ],
+    "UBTN1520": [
+      "ubtn1520",
+      "ubtn-1520"
+    ],
+    "B201304180": [
+      "b201304180",
+      "b-201304180"
+    ],
+    "AMX-10": [
+      "amx-10",
+      "amx10"
+    ],
+    "SM-430": [
+      "sm-430",
+      "sm430"
+    ],
+    "U-A50": [
+      "u-a50",
+      "ua50"
+    ],
+    "UDC18": [
+      "udc18",
+      "udc-18"
+    ],
+    "UVR1500": [
+      "uvr1500",
+      "uvr-1500"
+    ],
+    "UVR900": [
+      "uvr900",
+      "uvr-900"
+    ],
+    "RBS120": [
+      "rbs120",
+      "rbs-120"
+    ],
+    "CB-40X60": [
+      "cb-40x60",
+      "cb40x60"
+    ],
+    "EL991E": [
+      "el991e",
+      "el-991e"
+    ],
+    "KING B65": [
+      "king b65",
+      "kingb65"
+    ],
+    "PRIMA": []
   },
   "categories": {
-    "bomba": [
-      "bomba",
-      "pump"
-    ],
-    "sensor": [
-      "sensor"
+    "laminadora": [
+      "laminadora",
+      "rolling machine",
+      "laminator"
     ],
     "horno": [
       "horno",
-      "oven"
+      "oven",
+      "forno"
+    ],
+    "divisora": [
+      "divisora",
+      "divider"
+    ],
+    "ovilladora": [
+      "ovilladora",
+      "rounder"
+    ],
+    "amasadora": [
+      "amasadora",
+      "mixer",
+      "batidora"
+    ],
+    "batidora": [
+      "batidora",
+      "mixer",
+      "amasadora planetaria"
+    ],
+    "refrigerador": [
+      "refrigerador",
+      "armario refrigerado",
+      "congelador",
+      "freezer"
+    ],
+    "camara": [
+      "camara",
+      "cámara",
+      "chamber",
+      "camara de fermentacion",
+      "fermentadora"
+    ],
+    "vitrina": [
+      "vitrina",
+      "display case",
+      "showcase"
+    ],
+    "freidora": [
+      "freidora",
+      "fryer"
+    ],
+    "plancha": [
+      "plancha",
+      "griddle",
+      "sarten basculante"
+    ],
+    "lavavajillas": [
+      "lavavajillas",
+      "lavavajilas",
+      "dishwasher"
+    ],
+    "cocina": [
+      "cocina",
+      "stove",
+      "anafe"
+    ],
+    "bomba": [
+      "bomba",
+      "pump",
+      "bomba de transferencia"
+    ],
+    "abatidor": [
+      "abatidor",
+      "blast chiller"
+    ],
+    "rostizador": [
+      "rostizador",
+      "rotisserie",
+      "roller"
+    ],
+    "rebanadora": [
+      "rebanadora",
+      "slicer"
+    ],
+    "formadora": [
+      "formadora",
+      "moulder"
+    ],
+    "envasadora": [
+      "envasadora",
+      "vacuum packer"
+    ],
+    "inyectadora": [
+      "inyectadora",
+      "injector"
+    ],
+    "secadora": [
+      "secadora",
+      "dryer"
+    ],
+    "balanza": [
+      "balanza",
+      "scale",
+      "báscula"
+    ],
+    "osmosis": [
+      "osmosis",
+      "ósmosis",
+      "sistema osmosis"
     ]
   },
   "synonyms": {
@@ -47,7 +367,177 @@
     ],
     "junta": [
       "junta",
-      "gasket"
+      "gasket",
+      "burlete"
+    ],
+    "sensor": [
+      "sensor",
+      "sonda",
+      "termocupla"
+    ],
+    "resistencia": [
+      "resistencia",
+      "heating element",
+      "elemento calefactor"
+    ],
+    "quemador": [
+      "quemador",
+      "burner",
+      "inyector"
+    ],
+    "motor": [
+      "motor",
+      "engine",
+      "ventilador"
+    ],
+    "valvula": [
+      "válvula",
+      "valvula",
+      "valve"
+    ],
+    "bomba": [
+      "bomba",
+      "pump"
+    ],
+    "correa": [
+      "correa",
+      "belt",
+      "banda"
+    ],
+    "cadena": [
+      "cadena",
+      "chain"
+    ],
+    "piñon": [
+      "piñón",
+      "piñon",
+      "gear",
+      "engranaje"
+    ],
+    "rodamiento": [
+      "rodamiento",
+      "bearing",
+      "cojinete"
+    ],
+    "termostato": [
+      "termostato",
+      "thermostat"
+    ],
+    "electrodo": [
+      "electrodo",
+      "electrode",
+      "chispero"
+    ],
+    "manguera": [
+      "manguera",
+      "hose",
+      "tubo"
+    ],
+    "pantalla": [
+      "pantalla",
+      "display",
+      "panel"
+    ],
+    "puerta": [
+      "puerta",
+      "door",
+      "tapa"
+    ],
+    "carro": [
+      "carro",
+      "cart",
+      "bandeja"
+    ],
+    "gozne": [
+      "gozne",
+      "hinge",
+      "bisagra"
+    ],
+    "pivote": [
+      "pivote",
+      "pivot"
+    ],
+    "rele": [
+      "relé",
+      "rele",
+      "relay"
+    ],
+    "fusible": [
+      "fusible",
+      "fuse"
+    ],
+    "contactor": [
+      "contactor",
+      "relay"
+    ],
+    "manilla": [
+      "manilla",
+      "handle",
+      "manija"
+    ],
+    "vidrio": [
+      "vidrio",
+      "glass",
+      "cristal"
+    ],
+    "resorte": [
+      "resorte",
+      "spring"
+    ],
+    "kit": [
+      "kit",
+      "conjunto",
+      "set"
+    ],
+    "desague": [
+      "desagüe",
+      "desague",
+      "drain"
+    ],
+    "flotador": [
+      "flotador",
+      "float"
+    ],
+    "condensador": [
+      "condensador",
+      "condenser"
+    ],
+    "evaporador": [
+      "evaporador",
+      "evaporator"
+    ],
+    "compresor": [
+      "compresor",
+      "compressor"
+    ],
+    "tarjeta": [
+      "tarjeta",
+      "card",
+      "pcb",
+      "placa"
+    ],
+    "bobina": [
+      "bobina",
+      "coil"
+    ],
+    "estructura": [
+      "estructura",
+      "structure",
+      "soporte"
+    ],
+    "tuerca": [
+      "tuerca",
+      "nut"
+    ],
+    "perno": [
+      "perno",
+      "bolt",
+      "tornillo"
+    ],
+    "cable": [
+      "cable",
+      "wire",
+      "conexión"
     ]
   }
 }

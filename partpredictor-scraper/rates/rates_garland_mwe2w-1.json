@@ -1,0 +1,234 @@
+{
+    "brand": "garland",
+    "model": "mwe2w-1",
+    "issues": [
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/garland/mwe2w-1/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4603115.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4603115 REFERENCE SWITCH KIT",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4603115",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 54.30"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GLCK4530036.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland CK4530036 Linear Actuator with Dual Sensors, Micronas",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nCK4530036",
+                    "fix_rate": 20.0,
+                    "list_price": "$ 665.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL080000036.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 080000036 Shaft Seal Kit, 2 Platen, Split Viton, 0505100210845-C",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n080000036",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 107.60"
+                }
+            ]
+        },
+        {
+            "name": "Actuator Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/garland/mwe2w-1/actuator-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GLCK4530036.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland CK4530036 Linear Actuator with Dual Sensors, Micronas",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nCK4530036",
+                    "fix_rate": 79.0,
+                    "list_price": "$ 665.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4603115.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4603115 REFERENCE SWITCH KIT",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4603115",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 54.30"
+                }
+            ]
+        },
+        {
+            "name": "Motor Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/garland/mwe2w-1/motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GLCK4530036.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland CK4530036 Linear Actuator with Dual Sensors, Micronas",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nCK4530036",
+                    "fix_rate": 73.0,
+                    "list_price": "$ 665.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4603115.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4603115 REFERENCE SWITCH KIT",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4603115",
+                    "fix_rate": 27.0,
+                    "list_price": "$ 54.30"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GLCK4530944.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland CK4530944 Motor Speed Board Kit, Common",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nCK4530944",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 1,190.00"
+                }
+            ]
+        },
+        {
+            "name": "Controller Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/garland/mwe2w-1/controller-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4530203.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4530203 Digital Control, 2 Platen , McDonalds",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4530203",
+                    "fix_rate": 38.0,
+                    "list_price": "$ 2,440.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4530319.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4530319 Electric Control with PTFE, 2 Platen",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4530319",
+                    "fix_rate": 19.0
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4603115.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4603115 REFERENCE SWITCH KIT",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4603115",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 54.30"
+                }
+            ]
+        },
+        {
+            "name": "Wiring Issue",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/garland/mwe2w-1/wiring-issue",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4603115.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4603115 REFERENCE SWITCH KIT",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4603115",
+                    "fix_rate": 31.0,
+                    "list_price": "$ 54.30"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GLCK4530036.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland CK4530036 Linear Actuator with Dual Sensors, Micronas",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nCK4530036",
+                    "fix_rate": 27.0,
+                    "list_price": "$ 665.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL080000036.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 080000036 Shaft Seal Kit, 2 Platen, Split Viton, 0505100210845-C",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n080000036",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 107.60"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL1859807.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 1859807 Wire Harness, Platen, Standard",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1859807",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 64.50"
+                }
+            ]
+        },
+        {
+            "name": "Caster Is Damaged",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/garland/mwe2w-1/caster-is-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL1792003.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 1792003 Poly Core Caster with Threaded Rod/Stem",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1792003",
+                    "fix_rate": 53.0,
+                    "list_price": "$ 135.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL080000036.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 080000036 Shaft Seal Kit, 2 Platen, Split Viton, 0505100210845-C",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n080000036",
+                    "fix_rate": 33.0,
+                    "list_price": "$ 107.60"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Malfunctioning",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/garland/mwe2w-1/unit-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4603115.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4603115 REFERENCE SWITCH KIT",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4603115",
+                    "fix_rate": 83.0,
+                    "list_price": "$ 54.30"
+                }
+            ]
+        }
+    ]
+}

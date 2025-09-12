@@ -1,0 +1,384 @@
+{
+    "brand": "frymaster",
+    "model": "ph155csd",
+    "issues": [
+        {
+            "name": "Unit Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/frymaster/ph155csd/unit-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8076084.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8076084 Relay, Latch/Valve, DPDT, 7A, 12V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8076084",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 43.57"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8260981.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8260981 Ignitor and Gasket Kit, Natural Gas",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8260981",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 164.27"
+                }
+            ]
+        },
+        {
+            "name": "Burner Is Malfunctioning Or Damaged",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/frymaster/ph155csd/burner-is-malfunctioning-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8261072.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8261072 Universal Burner Kit, Infrared, Natural Gas and Propane",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8261072",
+                    "fix_rate": 48.0,
+                    "list_price": "$ 653.63"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8260931.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8260931 Burner Insulation Kit, Full Vat HE Gas",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8260931",
+                    "fix_rate": 40.0,
+                    "list_price": "$ 161.68"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8076084.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8076084 Relay, Latch/Valve, DPDT, 7A, 12V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8076084",
+                    "fix_rate": 35.0,
+                    "list_price": "$ 43.57"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8260981.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8260981 Ignitor and Gasket Kit, Natural Gas",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8260981",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 164.27"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8263668.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8263668 Time Delay Kit, Full Vat, Fenwal",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8263668",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 442.25"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8260929.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8260929 Insulation Frypot Kit, Full Vat",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8260929",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 344.46"
+                }
+            ]
+        },
+        {
+            "name": "Ignition Module Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/frymaster/ph155csd/ignition-module-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8076084.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8076084 Relay, Latch/Valve, DPDT, 7A, 12V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8076084",
+                    "fix_rate": 54.0,
+                    "list_price": "$ 43.57"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8260981.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8260981 Ignitor and Gasket Kit, Natural Gas",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8260981",
+                    "fix_rate": 33.0,
+                    "list_price": "$ 164.27"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8261177.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8261177 Hi Limit Thermostat Kit, 425F/218C",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8261177",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 213.25"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8263668.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8263668 Time Delay Kit, Full Vat, Fenwal",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8263668",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 442.25"
+                }
+            ]
+        },
+        {
+            "name": "Relay Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/frymaster/ph155csd/relay-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8076084.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8076084 Relay, Latch/Valve, DPDT, 7A, 12V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8076084",
+                    "fix_rate": 93.0,
+                    "list_price": "$ 43.57"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8260981.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8260981 Ignitor and Gasket Kit, Natural Gas",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8260981",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 164.27"
+                }
+            ]
+        },
+        {
+            "name": "Blower Motor Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/frymaster/ph155csd/blower-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8076084.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8076084 Relay, Latch/Valve, DPDT, 7A, 12V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8076084",
+                    "fix_rate": 70.0,
+                    "list_price": "$ 43.57"
+                }
+            ]
+        },
+        {
+            "name": "Unit Will Not Pump Oil",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/frymaster/ph155csd/unit-will-not-pump-oil",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8263191.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8263191 Filter Pump Kit, 4GPM CCW",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8263191",
+                    "fix_rate": 32.0,
+                    "list_price": "$ 571.12"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8261392.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8261392 O-Ring, Pack of 6, 8160596",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8261392",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 18.97"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8261712.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8261712 Pump Motor Assembly, 115V, 60HZ, 1PH",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8261712",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 785.93"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Making Noise",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/frymaster/ph155csd/unit-is-making-noise",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8076084.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8076084 Relay, Latch/Valve, DPDT, 7A, 12V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8076084",
+                    "fix_rate": 44.0,
+                    "list_price": "$ 43.57"
+                }
+            ]
+        },
+        {
+            "name": "Latch Is Damaged Or Not Latching",
+            "idx": 7,
+            "url": "https://www.partstown.com/part-predictor/frymaster/ph155csd/latch-is-damaged-or-not-latching",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8076084.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8076084 Relay, Latch/Valve, DPDT, 7A, 12V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8076084",
+                    "fix_rate": 80.0,
+                    "list_price": "$ 43.57"
+                }
+            ]
+        },
+        {
+            "name": "Insulation Is Damaged",
+            "idx": 8,
+            "url": "https://www.partstown.com/part-predictor/frymaster/ph155csd/insulation-is-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8260931.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8260931 Burner Insulation Kit, Full Vat HE Gas",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8260931",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 161.68"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8261072.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8261072 Universal Burner Kit, Infrared, Natural Gas and Propane",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8261072",
+                    "fix_rate": 43.0,
+                    "list_price": "$ 653.63"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Shutting Down",
+            "idx": 9,
+            "url": "https://www.partstown.com/part-predictor/frymaster/ph155csd/unit-is-shutting-down",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8076084.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8076084 Relay, Latch/Valve, DPDT, 7A, 12V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8076084",
+                    "fix_rate": 54.0,
+                    "list_price": "$ 43.57"
+                }
+            ]
+        },
+        {
+            "name": "Ignitor Is Malfunctioning Or Damaged",
+            "idx": 10,
+            "url": "https://www.partstown.com/part-predictor/frymaster/ph155csd/ignitor-is-malfunctioning-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8076084.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8076084 Relay, Latch/Valve, DPDT, 7A, 12V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8076084",
+                    "fix_rate": 67.0,
+                    "list_price": "$ 43.57"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8260981.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8260981 Ignitor and Gasket Kit, Natural Gas",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8260981",
+                    "fix_rate": 67.0,
+                    "list_price": "$ 164.27"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Not Reaching Set Temperature",
+            "idx": 11,
+            "url": "https://www.partstown.com/part-predictor/frymaster/ph155csd/unit-is-not-reaching-set-temperature",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8076084.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8076084 Relay, Latch/Valve, DPDT, 7A, 12V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8076084",
+                    "fix_rate": 55.0,
+                    "list_price": "$ 43.57"
+                }
+            ]
+        },
+        {
+            "name": "Vat Is Malfunctioning",
+            "idx": 12,
+            "url": "https://www.partstown.com/part-predictor/frymaster/ph155csd/vat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8076084.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8076084 Relay, Latch/Valve, DPDT, 7A, 12V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8076084",
+                    "fix_rate": 67.0,
+                    "list_price": "$ 43.57"
+                }
+            ]
+        },
+        {
+            "name": "Ingition Module Is Malfunctioning",
+            "idx": 13,
+            "url": "https://www.partstown.com/part-predictor/frymaster/ph155csd/ingition-module-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8076084.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8076084 Relay, Latch/Valve, DPDT, 7A, 12V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8076084",
+                    "fix_rate": 62.0,
+                    "list_price": "$ 43.57"
+                }
+            ]
+        }
+    ]
+}

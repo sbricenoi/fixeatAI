@@ -1,0 +1,84 @@
+{
+    "brand": "wells",
+    "model": "m4200-3s",
+    "issues": [
+        {
+            "name": "Probe Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/wells/m4200-3s/probe-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/WEL/WEL2J-304580.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Wells 2J-304580 Temperature Probe/Thermocouple, M4200",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2J-304580",
+                    "fix_rate": 48.0,
+                    "list_price": "$ 189.39"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/WEL/WELWS-63927.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Wells WS-63927 Thermocouple Probe, 208/240V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nWS-63927",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 293.76"
+                }
+            ]
+        },
+        {
+            "name": "Latch Is Damaged Or Not Latching",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/wells/m4200-3s/latch-is-damaged-or-not-latching",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/WEL/WEL2C-305615.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Wells 2C-305615 Door Latch/Roller Assembly, M4200-3S",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2C-305615",
+                    "fix_rate": 43.0,
+                    "list_price": "$ 172.65"
+                }
+            ]
+        },
+        {
+            "name": "Blower Motor Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/wells/m4200-3s/blower-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/WEL/WELWS-63932.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Wells WS-63932 Blower Motor, 1/4 HP, 208/230V, 50/60HZ, 1PH",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nWS-63932",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 1,686.55"
+                }
+            ]
+        },
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/wells/m4200-3s/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/WEL/WEL2E-43918.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Wells 2E-43918 Rocker Switch, On/Off/Fan, 4Pdt",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2E-43918",
+                    "fix_rate": 86.0,
+                    "list_price": "$ 162.86"
+                }
+            ]
+        }
+    ]
+}

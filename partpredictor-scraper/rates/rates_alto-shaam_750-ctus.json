@@ -1,0 +1,23 @@
+{
+    "brand": "alto-shaam",
+    "model": "750-ctus",
+    "issues": [
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/alto-shaam/750-ctus/thermostat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/ALT/ALTTT-3057.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Alto Shaam TT-3057 Thermostat, Slow, 200F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nTT-3057",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 174.00"
+                }
+            ]
+        }
+    ]
+}

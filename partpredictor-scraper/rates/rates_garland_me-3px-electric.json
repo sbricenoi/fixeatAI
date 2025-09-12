@@ -1,0 +1,614 @@
+{
+    "brand": "garland",
+    "model": "me-3px-electric",
+    "issues": [
+        {
+            "name": "Actuator Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/garland/me-3px-electric/actuator-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GLCK4603129.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland CK4603129 Actuator Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nCK4603129",
+                    "fix_rate": 92.0,
+                    "list_price": "$ 1,070.00"
+                }
+            ]
+        },
+        {
+            "name": "Motor Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/garland/me-3px-electric/motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GLCK4603129.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland CK4603129 Actuator Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nCK4603129",
+                    "fix_rate": 74.0,
+                    "list_price": "$ 1,070.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4600128.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4600128 Motor, Leveling, 24VDC, Platen Arm, ME-1P/2P/3PX",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4600128",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 44.95"
+                }
+            ]
+        },
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/garland/me-3px-electric/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GLCK4603129.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland CK4603129 Actuator Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nCK4603129",
+                    "fix_rate": 37.0,
+                    "list_price": "$ 1,070.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4603115.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4603115 REFERENCE SWITCH KIT",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4603115",
+                    "fix_rate": 37.0,
+                    "list_price": "$ 54.30"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4600638.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4600638 Fuse, 250V, 10A, Slow Blow",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4600638",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 21.92"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4600614.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4600614 Rocker Switch, Main Power, Green Lighted",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4600614",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 76.67"
+                }
+            ]
+        },
+        {
+            "name": "Fuse Is Blown",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/garland/me-3px-electric/fuse-is-blown",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4600638.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4600638 Fuse, 250V, 10A, Slow Blow",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4600638",
+                    "fix_rate": 52.0,
+                    "list_price": "$ 21.92"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4610005.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4610005 Service Kit, High Limit Switch",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4610005",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 46.75"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4600614.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4600614 Rocker Switch, Main Power, Green Lighted",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4600614",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 76.67"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GLCK4603129.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland CK4603129 Actuator Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nCK4603129",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 1,070.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4531775-E.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4531775-E Solid State Relay Board/Heat Sink Assembly, Rev. 9",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4531775-E",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 1,045.50"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4610329.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4610329 SERVICE KIT - CONDUIT ASSY MCD",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4610329",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 740.00"
+                }
+            ]
+        },
+        {
+            "name": "Breaker Is Tripping Or Wont Reset",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/garland/me-3px-electric/breaker-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GLCK4603129.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland CK4603129 Actuator Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nCK4603129",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 1,070.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4610005.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4610005 Service Kit, High Limit Switch",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4610005",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 46.75"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4531775-E.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4531775-E Solid State Relay Board/Heat Sink Assembly, Rev. 9",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4531775-E",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 1,045.50"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4600638.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4600638 Fuse, 250V, 10A, Slow Blow",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4600638",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 21.92"
+                }
+            ]
+        },
+        {
+            "name": "Hi-limit Is Tripping Or Wont Reset",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/garland/me-3px-electric/hi-limit-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4610005.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4610005 Service Kit, High Limit Switch",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4610005",
+                    "fix_rate": 84.0,
+                    "list_price": "$ 46.75"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4531775-E.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4531775-E Solid State Relay Board/Heat Sink Assembly, Rev. 9",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4531775-E",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 1,045.50"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4610329.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4610329 SERVICE KIT - CONDUIT ASSY MCD",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4610329",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 740.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GLCK4603129.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland CK4603129 Actuator Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nCK4603129",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 1,070.00"
+                }
+            ]
+        },
+        {
+            "name": "Contactor Is Malfunctioning",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/garland/me-3px-electric/contactor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4610005.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4610005 Service Kit, High Limit Switch",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4610005",
+                    "fix_rate": 72.0,
+                    "list_price": "$ 46.75"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4531775-E.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4531775-E Solid State Relay Board/Heat Sink Assembly, Rev. 9",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4531775-E",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 1,045.50"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL1637001.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 1637001 Contactor, Main, 3 Pole, 50 Amp, 120V Coil",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n1637001",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 99.40"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GLCK4603129.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland CK4603129 Actuator Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nCK4603129",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 1,070.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4600584.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4600584 Seal/O-Ring, Cowl to Lid",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4600584",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 10.32"
+                }
+            ]
+        },
+        {
+            "name": "Wiring Issue",
+            "idx": 7,
+            "url": "https://www.partstown.com/part-predictor/garland/me-3px-electric/wiring-issue",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4610005.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4610005 Service Kit, High Limit Switch",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4610005",
+                    "fix_rate": 30.0,
+                    "list_price": "$ 46.75"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GLCK4603129.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland CK4603129 Actuator Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nCK4603129",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 1,070.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4531775-E.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4531775-E Solid State Relay Board/Heat Sink Assembly, Rev. 9",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4531775-E",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 1,045.50"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4610329.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4610329 SERVICE KIT - CONDUIT ASSY MCD",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4610329",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 740.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4600638.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4600638 Fuse, 250V, 10A, Slow Blow",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4600638",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 21.92"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GLCK4603291.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland CK4603291 Service Kit, Platen Harness",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nCK4603291",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 740.00"
+                }
+            ]
+        },
+        {
+            "name": "Controller Is Malfunctioning",
+            "idx": 8,
+            "url": "https://www.partstown.com/part-predictor/garland/me-3px-electric/controller-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4608185.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4608185 Control Service Kit, User Interface, HRCB to JABIL 03 GP-1",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4608185",
+                    "fix_rate": 36.0,
+                    "list_price": "$ 1,540.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GLCK4603129.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland CK4603129 Actuator Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nCK4603129",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 1,070.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4603678.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4603678 SIB Board and Mounting Plate",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4603678",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 1,099.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4531775-E.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4531775-E Solid State Relay Board/Heat Sink Assembly, Rev. 9",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4531775-E",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 1,045.50"
+                }
+            ]
+        },
+        {
+            "name": "Sensor Is Malfunctioning",
+            "idx": 9,
+            "url": "https://www.partstown.com/part-predictor/garland/me-3px-electric/sensor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4600127.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4600127 Sensor, Inductive Proximity Pwm",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4600127",
+                    "fix_rate": 74.0,
+                    "list_price": "$ 166.25"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GLCK4603129.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland CK4603129 Actuator Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nCK4603129",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 1,070.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4600128.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4600128 Motor, Leveling, 24VDC, Platen Arm, ME-1P/2P/3PX",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4600128",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 44.95"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Overheating",
+            "idx": 10,
+            "url": "https://www.partstown.com/part-predictor/garland/me-3px-electric/unit-is-overheating",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4610005.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4610005 Service Kit, High Limit Switch",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4610005",
+                    "fix_rate": 30.0,
+                    "list_price": "$ 46.75"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GLCK4603129.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland CK4603129 Actuator Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nCK4603129",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 1,070.00"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Shutting Down",
+            "idx": 11,
+            "url": "https://www.partstown.com/part-predictor/garland/me-3px-electric/unit-is-shutting-down",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GLCK4603129.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland CK4603129 Actuator Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nCK4603129",
+                    "fix_rate": 37.0,
+                    "list_price": "$ 1,070.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4610075.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4610075 SERVICE KIT PM ME/G-3PX GRILLS",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4610075",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 280.50"
+                }
+            ]
+        },
+        {
+            "name": "Display Is Malfunctioning",
+            "idx": 12,
+            "url": "https://www.partstown.com/part-predictor/garland/me-3px-electric/display-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4608185.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4608185 Control Service Kit, User Interface, HRCB to JABIL 03 GP-1",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4608185",
+                    "fix_rate": 38.0,
+                    "list_price": "$ 1,540.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4531775-E.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4531775-E Solid State Relay Board/Heat Sink Assembly, Rev. 9",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4531775-E",
+                    "fix_rate": 23.0,
+                    "list_price": "$ 1,045.50"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4603678.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4603678 SIB Board and Mounting Plate",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4603678",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 1,099.00"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Malfunctioning",
+            "idx": 13,
+            "url": "https://www.partstown.com/part-predictor/garland/me-3px-electric/unit-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GLCK4603129.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland CK4603129 Actuator Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nCK4603129",
+                    "fix_rate": 47.0,
+                    "list_price": "$ 1,070.00"
+                }
+            ]
+        },
+        {
+            "name": "Unit Won't Turn On",
+            "idx": 14,
+            "url": "https://www.partstown.com/part-predictor/garland/me-3px-electric/unit-wont-turn-on",
+            "results": []
+        },
+        {
+            "name": "Relay Board Is Malfunctioning",
+            "idx": 15,
+            "url": "https://www.partstown.com/part-predictor/garland/me-3px-electric/relay-board-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GL4531775-E.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland 4531775-E Solid State Relay Board/Heat Sink Assembly, Rev. 9",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n4531775-E",
+                    "fix_rate": 79.0,
+                    "list_price": "$ 1,045.50"
+                }
+            ]
+        },
+        {
+            "name": "Unit Making Noise",
+            "idx": 16,
+            "url": "https://www.partstown.com/part-predictor/garland/me-3px-electric/unit-making-noise",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/GL/GLCK4603129.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Garland CK4603129 Actuator Service Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nCK4603129",
+                    "fix_rate": 70.0,
+                    "list_price": "$ 1,070.00"
+                }
+            ]
+        }
+    ]
+}

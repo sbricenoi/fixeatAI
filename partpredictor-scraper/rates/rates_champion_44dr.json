@@ -1,0 +1,479 @@
+{
+    "brand": "champion",
+    "model": "44dr",
+    "issues": [
+        {
+            "name": "Unit Is Leaking",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/champion/44dr/unit-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA109985.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 109985 Seal, O-Ring, Electric Heater",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n109985",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 8.43"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA104429.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 104429 Vacuum Breaker, Brass, 3/4\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n104429",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 141.54"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA109886.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 109886 Solenoid Valve, 120V, 1/2\", Hot Water",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n109886",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 375.37"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA113538.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 113538 Gasket, Pump Suction, EPDM-02",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n113538",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 11.53"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA414331.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 414331 Booster Tank Weldment, 3 Element",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n414331",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 1,500.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA109069.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 109069 Thermostat with Capillary, 110-195F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n109069",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 342.90"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA107550.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 107550 Pressure Reducing Valve, 3/4\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n107550",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 368.19"
+                }
+            ]
+        },
+        {
+            "name": "Gasket Is Defective Or Leaking",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/champion/44dr/gasket-is-defective-or-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA113538.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 113538 Gasket, Pump Suction, EPDM-02",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n113538",
+                    "fix_rate": 42.0,
+                    "list_price": "$ 11.53"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA109985.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 109985 Seal, O-Ring, Electric Heater",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n109985",
+                    "fix_rate": 20.0,
+                    "list_price": "$ 8.43"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA900737.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 900737 Gasket Kit, Set of 4, Jet Pump",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n900737",
+                    "fix_rate": 20.0,
+                    "list_price": "$ 30.77"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA108345.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 108345 Gasket, Element, 3\" x3\" x 1/8\", 2\" Hole",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n108345",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 7.18"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA111111.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 111111 Seal, Pump, Pac Type 16",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n111111",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 102.34"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA206303.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 206303 Gasket, Bearing Housing",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n206303",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 14.66"
+                }
+            ]
+        },
+        {
+            "name": "Motor Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/champion/44dr/motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA113538.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 113538 Gasket, Pump Suction, EPDM-02",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n113538",
+                    "fix_rate": 40.0,
+                    "list_price": "$ 11.53"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA111111.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 111111 Seal, Pump, Pac Type 16",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n111111",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 102.34"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA414373.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 414373 Pump And Motor Assembly, Left Hand, 208-480V, 3PH, 2HP",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n414373",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 1,954.04"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA108122.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 108122 Contactor, 12A, 3 Pole",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n108122",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 154.04"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA900737.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 900737 Gasket Kit, Set of 4, Jet Pump",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n900737",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 30.77"
+                }
+            ]
+        },
+        {
+            "name": "Vat Is Leaking",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/champion/44dr/vat-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA109985.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 109985 Seal, O-Ring, Electric Heater",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n109985",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 8.43"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA414331.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 414331 Booster Tank Weldment, 3 Element",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n414331",
+                    "fix_rate": 39.0,
+                    "list_price": "$ 1,500.00"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA113538.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 113538 Gasket, Pump Suction, EPDM-02",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n113538",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 11.53"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA108345.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 108345 Gasket, Element, 3\" x3\" x 1/8\", 2\" Hole",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n108345",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 7.18"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA110561.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 110561 Hi-Limit Thermostat, Fixed 240F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n110561",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 344.06"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA111232.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 111232 Element, Booster, 208, 10Kw, 3Ph",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n111232",
+                    "fix_rate": 18.0,
+                    "list_price": "$ 665.19"
+                }
+            ]
+        },
+        {
+            "name": "Contactor Is Malfunctioning",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/champion/44dr/contactor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA116166.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 116166 Contactor, 60A, 3 Pole",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n116166",
+                    "fix_rate": 37.0,
+                    "list_price": "$ 371.75"
+                }
+            ]
+        },
+        {
+            "name": "Breaker Is Tripping Or Wont Reset",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/champion/44dr/breaker-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA104429.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 104429 Vacuum Breaker, Brass, 3/4\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n104429",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 141.54"
+                }
+            ]
+        },
+        {
+            "name": "Valve Is Leaking",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/champion/44dr/valve-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA109886.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 109886 Solenoid Valve, 120V, 1/2\", Hot Water",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n109886",
+                    "fix_rate": 56.0,
+                    "list_price": "$ 375.37"
+                }
+            ]
+        },
+        {
+            "name": "Valve Is Malfunctioning",
+            "idx": 7,
+            "url": "https://www.partstown.com/part-predictor/champion/44dr/valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA109886.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 109886 Solenoid Valve, 120V, 1/2\", Hot Water",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n109886",
+                    "fix_rate": 31.0,
+                    "list_price": "$ 375.37"
+                }
+            ]
+        },
+        {
+            "name": "Leaking At Heating Element",
+            "idx": 8,
+            "url": "https://www.partstown.com/part-predictor/champion/44dr/leaking-at-heating-element",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA109985.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 109985 Seal, O-Ring, Electric Heater",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n109985",
+                    "fix_rate": 73.0,
+                    "list_price": "$ 8.43"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA414331.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 414331 Booster Tank Weldment, 3 Element",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n414331",
+                    "fix_rate": 33.0,
+                    "list_price": "$ 1,500.00"
+                }
+            ]
+        },
+        {
+            "name": "Filter Pump Is Tripping",
+            "idx": 9,
+            "url": "https://www.partstown.com/part-predictor/champion/44dr/filter-pump-is-tripping",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA108122.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 108122 Contactor, 12A, 3 Pole",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n108122",
+                    "fix_rate": 36.0,
+                    "list_price": "$ 154.04"
+                }
+            ]
+        },
+        {
+            "name": "Hi-limit Is Tripping Or Wont Reset",
+            "idx": 10,
+            "url": "https://www.partstown.com/part-predictor/champion/44dr/hi-limit-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA109069.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 109069 Thermostat with Capillary, 110-195F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n109069",
+                    "fix_rate": 67.0,
+                    "list_price": "$ 342.90"
+                }
+            ]
+        },
+        {
+            "name": "Unit Won't Turn On",
+            "idx": 11,
+            "url": "https://www.partstown.com/part-predictor/champion/44dr/unit-wont-turn-on",
+            "results": []
+        },
+        {
+            "name": "Vat Is Damaged",
+            "idx": 12,
+            "url": "https://www.partstown.com/part-predictor/champion/44dr/vat-is-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA109985.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 109985 Seal, O-Ring, Electric Heater",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n109985",
+                    "fix_rate": 60.0,
+                    "list_price": "$ 8.43"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA414331.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 414331 Booster Tank Weldment, 3 Element",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n414331",
+                    "fix_rate": 60.0,
+                    "list_price": "$ 1,500.00"
+                }
+            ]
+        },
+        {
+            "name": "Display Is Malfunctioning",
+            "idx": 13,
+            "url": "https://www.partstown.com/part-predictor/champion/44dr/display-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA114489.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 114489 Digital Temperature Display Gauge",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n114489",
+                    "fix_rate": 56.0
+                }
+            ]
+        },
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 14,
+            "url": "https://www.partstown.com/part-predictor/champion/44dr/thermostat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA109985.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 109985 Seal, O-Ring, Electric Heater",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n109985",
+                    "fix_rate": 56.0,
+                    "list_price": "$ 8.43"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CHA/CHA109069.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Champion - Moyer Diebel 109069 Thermostat with Capillary, 110-195F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n109069",
+                    "fix_rate": 56.0,
+                    "list_price": "$ 342.90"
+                }
+            ]
+        }
+    ]
+}

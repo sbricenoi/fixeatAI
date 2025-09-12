@@ -1,0 +1,57 @@
+{
+    "brand": "apw-wyott",
+    "model": "rtr-4",
+    "issues": [
+        {
+            "name": "Unit Is Not Reaching Set Temperature",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/apw-wyott/rtr-4/unit-is-not-reaching-set-temperature",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/APW/APW2T-1489400.view?thumb&image.rules=G0&w=200",
+                    "product_name": "APW Wyott 2T-1489400 Thermostat, 25-50F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2T-1489400",
+                    "fix_rate": 30.0,
+                    "list_price": "$ 186.82"
+                }
+            ]
+        },
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/apw-wyott/rtr-4/thermostat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/APW/APW2T-1489400.view?thumb&image.rules=G0&w=200",
+                    "product_name": "APW Wyott 2T-1489400 Thermostat, 25-50F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2T-1489400",
+                    "fix_rate": 77.0,
+                    "list_price": "$ 186.82"
+                }
+            ]
+        },
+        {
+            "name": "Compressor Is Not Running",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/apw-wyott/rtr-4/compressor-is-not-running",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/APW/APW2T-1489400.view?thumb&image.rules=G0&w=200",
+                    "product_name": "APW Wyott 2T-1489400 Thermostat, 25-50F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2T-1489400",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 186.82"
+                }
+            ]
+        }
+    ]
+}

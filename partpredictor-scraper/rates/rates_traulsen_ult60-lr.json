@@ -1,0 +1,40 @@
+{
+    "brand": "traulsen",
+    "model": "ult60-lr",
+    "issues": [
+        {
+            "name": "Controller Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/traulsen/ult60-lr/controller-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TR/TRSK-950-60553-01.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Traulsen SK-950-60553-01 Controller Conversion Kit with Probes, Danfoss to LAE TRL, ULT27",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nSK-950-60553-01",
+                    "fix_rate": 36.0,
+                    "list_price": "$ 591.35"
+                }
+            ]
+        },
+        {
+            "name": "Fan Motor Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/traulsen/ult60-lr/fan-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/TR/TR338-60062-10.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Traulsen 338-60062-10 Energy Saving Axial Fan Blade, 240VAC",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n338-60062-10",
+                    "fix_rate": 45.0,
+                    "list_price": "$ 154.98"
+                }
+            ]
+        }
+    ]
+}

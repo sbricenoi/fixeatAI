@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Probe Is Malfunctioning",
+        "parsed_name": "probe-is-malfunctioning"
+    },
+    {
+        "name": "Filter Is Malfunctioning",
+        "parsed_name": "filter-is-malfunctioning"
+    },
+    {
+        "name": "Valve Is Malfunctioning",
+        "parsed_name": "valve-is-malfunctioning"
+    },
+    {
+        "name": "Condenser Fan Motor Is Malfunctioning",
+        "parsed_name": "condenser-fan-motor-is-malfunctioning"
+    },
+    {
+        "name": "Water Inlet Valve Is Malfunctioning",
+        "parsed_name": "water-inlet-valve-is-malfunctioning"
+    }
+]

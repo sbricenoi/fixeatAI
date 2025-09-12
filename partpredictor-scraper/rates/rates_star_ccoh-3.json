@@ -1,0 +1,60 @@
+{
+    "brand": "star",
+    "model": "ccoh-3",
+    "issues": [
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/star/ccoh-3/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2E-Z21098.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2E-Z21098 Rocker Switch, DPST, Non-Lighted",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2E-Z21098",
+                    "fix_rate": 55.0,
+                    "list_price": "$ 22.04"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2E-Z21097.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2E-Z21097 Rocker Switch, DPST, Non-Lighted",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2E-Z21097",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 27.53"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2T-Z10733.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2T-Z10733 Thermostat, Oven, Cco",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2T-Z10733",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 162.87"
+                }
+            ]
+        },
+        {
+            "name": "Fan Motor Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/star/ccoh-3/fan-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/STA/STA2U-Z10736.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Star 2U-Z10736 Motor And Fan Assembly, 120V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n2U-Z10736",
+                    "fix_rate": 71.0,
+                    "list_price": "$ 188.75"
+                }
+            ]
+        }
+    ]
+}

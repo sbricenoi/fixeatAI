@@ -1,0 +1,74 @@
+{
+    "brand": "frymaster",
+    "model": "bimh-series",
+    "issues": [
+        {
+            "name": "Ignition Module Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/frymaster/bimh-series/ignition-module-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8076084.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8076084 Relay, Latch/Valve, DPDT, 7A, 12V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8076084",
+                    "fix_rate": 31.0,
+                    "list_price": "$ 43.57"
+                }
+            ]
+        },
+        {
+            "name": "Vat Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/frymaster/bimh-series/vat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8064206.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8064206 Temperature Probe Assembly, Minco",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8064206",
+                    "fix_rate": 42.0,
+                    "list_price": "$ 242.58"
+                }
+            ]
+        },
+        {
+            "name": "Probe Is Malfunctioning",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/frymaster/bimh-series/probe-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8064206.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8064206 Temperature Probe Assembly, Minco",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8064206",
+                    "fix_rate": 71.0,
+                    "list_price": "$ 242.58"
+                }
+            ]
+        },
+        {
+            "name": "Contactor Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/frymaster/bimh-series/contactor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/FM/FM8263417.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Frymaster 8263417 Contactor Kit, 3 Pole, 50A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n8263417",
+                    "fix_rate": 98.0,
+                    "list_price": "$ 154.67"
+                }
+            ]
+        }
+    ]
+}

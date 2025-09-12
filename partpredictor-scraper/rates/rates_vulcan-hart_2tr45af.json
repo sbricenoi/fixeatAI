@@ -1,0 +1,40 @@
+{
+    "brand": "vulcan-hart",
+    "model": "2tr45af",
+    "issues": [
+        {
+            "name": "Unit Is Malfunctioning",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/vulcan-hart/2tr45af/unit-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-417792-00008.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-417792-00008 Pump/Motor Assembly, 115/230V, 50/60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-417792-00008",
+                    "fix_rate": 23.0,
+                    "list_price": "$ 1,488.00"
+                }
+            ]
+        },
+        {
+            "name": "Filter Pump Is Tripping",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/vulcan-hart/2tr45af/filter-pump-is-tripping",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/VH/VH00-417792-00008.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Vulcan Hart 00-417792-00008 Pump/Motor Assembly, 115/230V, 50/60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n00-417792-00008",
+                    "fix_rate": 62.0,
+                    "list_price": "$ 1,488.00"
+                }
+            ]
+        }
+    ]
+}

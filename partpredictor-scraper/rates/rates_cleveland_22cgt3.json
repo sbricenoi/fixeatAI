@@ -1,0 +1,1064 @@
+{
+    "brand": "cleveland",
+    "model": "22cgt3",
+    "issues": [
+        {
+            "name": "Unit Is Leaking",
+            "idx": 0,
+            "url": "https://www.partstown.com/part-predictor/cleveland/22cgt3/unit-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEFK110683.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland FK110683 Blower Motor Kit, 115V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nFK110683",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 286.95"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/COV/COVFK300872.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Convotherm FK300872 Solenoid Valve Assembly, 1-Way, 0.5 GPM, 120V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nFK300872",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 110.81"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE111272.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 111272 Seal, 1/4\" x 3/4\" x 1/4\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n111272",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 9.51"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE110830.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 110830 Door Gasket, Steamchef 6",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n110830",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 204.48"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE108171.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 108171 Blower Wheel",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n108171",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 152.18"
+                }
+            ]
+        },
+        {
+            "name": "Contactor Is Malfunctioning",
+            "idx": 1,
+            "url": "https://www.partstown.com/part-predictor/cleveland/22cgt3/contactor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE03509.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 03509 Contactor, 120V, 50A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n03509",
+                    "fix_rate": 40.0,
+                    "list_price": "$ 161.22"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE107241.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 107241 Water Level Control Board, Atmospheric Steamers",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n107241",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 280.85"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE300762.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 300762 Hi Limit Thermostat with Capillary, 320F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n300762",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 77.99"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE03506.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 03506 Contactor, 3 Pole, 75A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n03506",
+                    "fix_rate": 10.0,
+                    "list_price": "$ 347.10"
+                }
+            ]
+        },
+        {
+            "name": "Door Gasket Is Defective",
+            "idx": 2,
+            "url": "https://www.partstown.com/part-predictor/cleveland/22cgt3/door-gasket-is-defective",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE110830.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 110830 Door Gasket, Steamchef 6",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n110830",
+                    "fix_rate": 49.0,
+                    "list_price": "$ 204.48"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE07138.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 07138 Door Gasket, Convection Steamer, SC II,SC3.1, 15-3/4\" x 11-1/2\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n07138",
+                    "fix_rate": 19.0,
+                    "list_price": "$ 165.92"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEFK110683.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland FK110683 Blower Motor Kit, 115V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nFK110683",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 286.95"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/COV/COVFK300872.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Convotherm FK300872 Solenoid Valve Assembly, 1-Way, 0.5 GPM, 120V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nFK300872",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 110.81"
+                }
+            ]
+        },
+        {
+            "name": "Door Is Malfunctioning",
+            "idx": 3,
+            "url": "https://www.partstown.com/part-predictor/cleveland/22cgt3/door-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLES103643.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland S103643 Latch, Door, Paddle Type",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nS103643",
+                    "fix_rate": 39.0,
+                    "list_price": "$ 273.44"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE07138.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 07138 Door Gasket, Convection Steamer, SC II,SC3.1, 15-3/4\" x 11-1/2\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n07138",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 165.92"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE003955.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE003955 Switch Kit, Door Steam Cutoff Switch and Magnet",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE003955",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 375.16"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE110830.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 110830 Door Gasket, Steamchef 6",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n110830",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 204.48"
+                }
+            ]
+        },
+        {
+            "name": "Hi-limit Is Tripping Or Wont Reset",
+            "idx": 4,
+            "url": "https://www.partstown.com/part-predictor/cleveland/22cgt3/hi-limit-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE300701.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 300701 Hi-Limit Thermostat, 350F, Capillary Type",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n300701",
+                    "fix_rate": 49.0,
+                    "list_price": "$ 68.62"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE300762.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 300762 Hi Limit Thermostat with Capillary, 320F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n300762",
+                    "fix_rate": 24.0,
+                    "list_price": "$ 77.99"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE110198.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 110198 Timer, Mechanical, Motor Driven, 120V, 60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n110198",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 212.20"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE109617.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 109617 Thermostat, Screw-In 205F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n109617",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 261.20"
+                }
+            ]
+        },
+        {
+            "name": "Probe Is Malfunctioning",
+            "idx": 5,
+            "url": "https://www.partstown.com/part-predictor/cleveland/22cgt3/probe-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLES3003231.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland S3003231 Probe Assembly, Dual Level",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nS3003231",
+                    "fix_rate": 32.0,
+                    "list_price": "$ 432.62"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE107241.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 107241 Water Level Control Board, Atmospheric Steamers",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n107241",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 280.85"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEFK300688.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland FK300688 Probe Field Replacement Kit, Molded",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nFK300688",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 513.09"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/COV/COVFK300872.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Convotherm FK300872 Solenoid Valve Assembly, 1-Way, 0.5 GPM, 120V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nFK300872",
+                    "fix_rate": 11.0,
+                    "list_price": "$ 110.81"
+                }
+            ]
+        },
+        {
+            "name": "Fan Motor Is Malfunctioning",
+            "idx": 6,
+            "url": "https://www.partstown.com/part-predictor/cleveland/22cgt3/fan-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEFK110683.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland FK110683 Blower Motor Kit, 115V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nFK110683",
+                    "fix_rate": 67.0,
+                    "list_price": "$ 286.95"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE108171.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 108171 Blower Wheel",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n108171",
+                    "fix_rate": 40.0,
+                    "list_price": "$ 152.18"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/COV/COVFK300872.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Convotherm FK300872 Solenoid Valve Assembly, 1-Way, 0.5 GPM, 120V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nFK300872",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 110.81"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE111272.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 111272 Seal, 1/4\" x 3/4\" x 1/4\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n111272",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 9.51"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE110830.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 110830 Door Gasket, Steamchef 6",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n110830",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 204.48"
+                }
+            ]
+        },
+        {
+            "name": "Motor Is Malfunctioning",
+            "idx": 7,
+            "url": "https://www.partstown.com/part-predictor/cleveland/22cgt3/motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEFK110683.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland FK110683 Blower Motor Kit, 115V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nFK110683",
+                    "fix_rate": 76.0,
+                    "list_price": "$ 286.95"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE108171.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 108171 Blower Wheel",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n108171",
+                    "fix_rate": 58.0,
+                    "list_price": "$ 152.18"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE111272.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 111272 Seal, 1/4\" x 3/4\" x 1/4\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n111272",
+                    "fix_rate": 31.0,
+                    "list_price": "$ 9.51"
+                }
+            ]
+        },
+        {
+            "name": "Gasket Is Defective Or Leaking",
+            "idx": 8,
+            "url": "https://www.partstown.com/part-predictor/cleveland/22cgt3/gasket-is-defective-or-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE110830.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 110830 Door Gasket, Steamchef 6",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n110830",
+                    "fix_rate": 41.0,
+                    "list_price": "$ 204.48"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE07138.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 07138 Door Gasket, Convection Steamer, SC II,SC3.1, 15-3/4\" x 11-1/2\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n07138",
+                    "fix_rate": 27.0,
+                    "list_price": "$ 165.92"
+                }
+            ]
+        },
+        {
+            "name": "Breaker Is Tripping Or Wont Reset",
+            "idx": 9,
+            "url": "https://www.partstown.com/part-predictor/cleveland/22cgt3/breaker-is-tripping-or-wont-reset",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE300255.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 300255 CIRCUIT BREAKER, 1.5A, 240V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n300255",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 143.06"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE107241.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 107241 Water Level Control Board, Atmospheric Steamers",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n107241",
+                    "fix_rate": 12.0,
+                    "list_price": "$ 280.85"
+                }
+            ]
+        },
+        {
+            "name": "Hose Is Broken Or Leaking",
+            "idx": 10,
+            "url": "https://www.partstown.com/part-predictor/cleveland/22cgt3/hose-is-broken-or-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE113847.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 113847 Hose, 1.25\", Reinforced, NSF",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n113847",
+                    "fix_rate": 24.0,
+                    "list_price": "$ 43.13"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE102018.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 102018 Clamp, Hose, Worm Drive 1.5\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n102018",
+                    "fix_rate": 22.0,
+                    "list_price": "$ 5.96"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE108171.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 108171 Blower Wheel",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n108171",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 152.18"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEFK110683.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland FK110683 Blower Motor Kit, 115V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nFK110683",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 286.95"
+                }
+            ]
+        },
+        {
+            "name": "Door Is Leaking",
+            "idx": 11,
+            "url": "https://www.partstown.com/part-predictor/cleveland/22cgt3/door-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE07138.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 07138 Door Gasket, Convection Steamer, SC II,SC3.1, 15-3/4\" x 11-1/2\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n07138",
+                    "fix_rate": 38.0,
+                    "list_price": "$ 165.92"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE110830.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 110830 Door Gasket, Steamchef 6",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n110830",
+                    "fix_rate": 33.0,
+                    "list_price": "$ 204.48"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEFK104077.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland FK104077 Door Pin/Bushing Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nFK104077",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 25.29"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEFK110683.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland FK110683 Blower Motor Kit, 115V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nFK110683",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 286.95"
+                }
+            ]
+        },
+        {
+            "name": "Blower Motor Is Malfunctioning",
+            "idx": 12,
+            "url": "https://www.partstown.com/part-predictor/cleveland/22cgt3/blower-motor-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEFK110683.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland FK110683 Blower Motor Kit, 115V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nFK110683",
+                    "fix_rate": 66.0,
+                    "list_price": "$ 286.95"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE108171.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 108171 Blower Wheel",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n108171",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 152.18"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE111272.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 111272 Seal, 1/4\" x 3/4\" x 1/4\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n111272",
+                    "fix_rate": 26.0,
+                    "list_price": "$ 9.51"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE107241.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 107241 Water Level Control Board, Atmospheric Steamers",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n107241",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 280.85"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE110198.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 110198 Timer, Mechanical, Motor Driven, 120V, 60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n110198",
+                    "fix_rate": 13.0,
+                    "list_price": "$ 212.20"
+                }
+            ]
+        },
+        {
+            "name": "Valve Is Malfunctioning",
+            "idx": 13,
+            "url": "https://www.partstown.com/part-predictor/cleveland/22cgt3/valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/COV/COVFK300872.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Convotherm FK300872 Solenoid Valve Assembly, 1-Way, 0.5 GPM, 120V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nFK300872",
+                    "fix_rate": 50.0,
+                    "list_price": "$ 110.81"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE22218.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 22218 Solenoid Valve 1/4\" Normally Close, Mini 120V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n22218",
+                    "fix_rate": 25.0,
+                    "list_price": "$ 139.25"
+                }
+            ]
+        },
+        {
+            "name": "Switch Is Malfunctioning",
+            "idx": 14,
+            "url": "https://www.partstown.com/part-predictor/cleveland/22cgt3/switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE110198.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 110198 Timer, Mechanical, Motor Driven, 120V, 60HZ",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n110198",
+                    "fix_rate": 20.0,
+                    "list_price": "$ 212.20"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE104224.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 104224 Rocker Switch, Dpdt",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n104224",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 35.10"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEFK110613.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland FK110613 Double Switch Ball Kit Drain Valve Assembly",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nFK110613",
+                    "fix_rate": 14.0,
+                    "list_price": "$ 360.66"
+                }
+            ]
+        },
+        {
+            "name": "Thermostat Is Malfunctioning",
+            "idx": 15,
+            "url": "https://www.partstown.com/part-predictor/cleveland/22cgt3/thermostat-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE109617.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 109617 Thermostat, Screw-In 205F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n109617",
+                    "fix_rate": 45.0,
+                    "list_price": "$ 261.20"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE300762.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 300762 Hi Limit Thermostat with Capillary, 320F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n300762",
+                    "fix_rate": 27.0,
+                    "list_price": "$ 77.99"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE300701.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 300701 Hi-Limit Thermostat, 350F, Capillary Type",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n300701",
+                    "fix_rate": 24.0,
+                    "list_price": "$ 68.62"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE106288.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 106288 Switch, Thermostat, 130F",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n106288",
+                    "fix_rate": 15.0,
+                    "list_price": "$ 384.77"
+                }
+            ]
+        },
+        {
+            "name": "Latch Is Damaged Or Not Latching",
+            "idx": 16,
+            "url": "https://www.partstown.com/part-predictor/cleveland/22cgt3/latch-is-damaged-or-not-latching",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLES103643.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland S103643 Latch, Door, Paddle Type",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nS103643",
+                    "fix_rate": 81.0,
+                    "list_price": "$ 273.44"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE110830.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 110830 Door Gasket, Steamchef 6",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n110830",
+                    "fix_rate": 16.0,
+                    "list_price": "$ 204.48"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Making Noise",
+            "idx": 17,
+            "url": "https://www.partstown.com/part-predictor/cleveland/22cgt3/unit-is-making-noise",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEFK110683.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland FK110683 Blower Motor Kit, 115V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nFK110683",
+                    "fix_rate": 21.0,
+                    "list_price": "$ 286.95"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Overheating",
+            "idx": 18,
+            "url": "https://www.partstown.com/part-predictor/cleveland/22cgt3/unit-is-overheating",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE300701.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 300701 Hi-Limit Thermostat, 350F, Capillary Type",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n300701",
+                    "fix_rate": 17.0,
+                    "list_price": "$ 68.62"
+                }
+            ]
+        },
+        {
+            "name": "Unit Is Malfunctioning",
+            "idx": 19,
+            "url": "https://www.partstown.com/part-predictor/cleveland/22cgt3/unit-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/COV/COVFK300872.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Convotherm FK300872 Solenoid Valve Assembly, 1-Way, 0.5 GPM, 120V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nFK300872",
+                    "fix_rate": 23.0,
+                    "list_price": "$ 110.81"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE03509.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 03509 Contactor, 120V, 50A",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n03509",
+                    "fix_rate": 23.0,
+                    "list_price": "$ 161.22"
+                }
+            ]
+        },
+        {
+            "name": "Door Switch Is Malfunctioning",
+            "idx": 20,
+            "url": "https://www.partstown.com/part-predictor/cleveland/22cgt3/door-switch-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEKE003955.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland KE003955 Switch Kit, Door Steam Cutoff Switch and Magnet",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nKE003955",
+                    "fix_rate": 83.0,
+                    "list_price": "$ 375.16"
+                }
+            ]
+        },
+        {
+            "name": "Blower Wheel Is Malfunctioning",
+            "idx": 21,
+            "url": "https://www.partstown.com/part-predictor/cleveland/22cgt3/blower-wheel-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE108171.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 108171 Blower Wheel",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n108171",
+                    "fix_rate": 73.0,
+                    "list_price": "$ 152.18"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEFK110683.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland FK110683 Blower Motor Kit, 115V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nFK110683",
+                    "fix_rate": 68.0,
+                    "list_price": "$ 286.95"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE111272.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 111272 Seal, 1/4\" x 3/4\" x 1/4\"",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n111272",
+                    "fix_rate": 27.0,
+                    "list_price": "$ 9.51"
+                }
+            ]
+        },
+        {
+            "name": "Buzzer Is Malfunctioning",
+            "idx": 22,
+            "url": "https://www.partstown.com/part-predictor/cleveland/22cgt3/buzzer-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE300701.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 300701 Hi-Limit Thermostat, 350F, Capillary Type",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n300701",
+                    "fix_rate": 29.0,
+                    "list_price": "$ 68.62"
+                }
+            ]
+        },
+        {
+            "name": "Handle Is Defective",
+            "idx": 23,
+            "url": "https://www.partstown.com/part-predictor/cleveland/22cgt3/handle-is-defective",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLES103643.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland S103643 Latch, Door, Paddle Type",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nS103643",
+                    "fix_rate": 52.0,
+                    "list_price": "$ 273.44"
+                }
+            ]
+        },
+        {
+            "name": "Relay Is Malfunctioning",
+            "idx": 24,
+            "url": "https://www.partstown.com/part-predictor/cleveland/22cgt3/relay-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE105966.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 105966 Relay, Ice Cube, 120V, 50/60Hz",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n105966",
+                    "fix_rate": 48.0,
+                    "list_price": "$ 40.35"
+                },
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE107241.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 107241 Water Level Control Board, Atmospheric Steamers",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n107241",
+                    "fix_rate": 24.0,
+                    "list_price": "$ 280.85"
+                }
+            ]
+        },
+        {
+            "name": "Valve Is Leaking",
+            "idx": 25,
+            "url": "https://www.partstown.com/part-predictor/cleveland/22cgt3/valve-is-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/COV/COVFK300872.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Convotherm FK300872 Solenoid Valve Assembly, 1-Way, 0.5 GPM, 120V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nFK300872",
+                    "fix_rate": 63.0,
+                    "list_price": "$ 110.81"
+                }
+            ]
+        },
+        {
+            "name": "Water Board Is Malfunctioning",
+            "idx": 26,
+            "url": "https://www.partstown.com/part-predictor/cleveland/22cgt3/water-board-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE107241.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 107241 Water Level Control Board, Atmospheric Steamers",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n107241",
+                    "fix_rate": 75.0,
+                    "list_price": "$ 280.85"
+                }
+            ]
+        },
+        {
+            "name": "Controller Is Malfunctioning",
+            "idx": 27,
+            "url": "https://www.partstown.com/part-predictor/cleveland/22cgt3/controller-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE107241.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 107241 Water Level Control Board, Atmospheric Steamers",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n107241",
+                    "fix_rate": 54.0,
+                    "list_price": "$ 280.85"
+                }
+            ]
+        },
+        {
+            "name": "Solenoid Valve Is Malfunctioning",
+            "idx": 28,
+            "url": "https://www.partstown.com/part-predictor/cleveland/22cgt3/solenoid-valve-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/COV/COVFK300872.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Convotherm FK300872 Solenoid Valve Assembly, 1-Way, 0.5 GPM, 120V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nFK300872",
+                    "fix_rate": 67.0,
+                    "list_price": "$ 110.81"
+                }
+            ]
+        },
+        {
+            "name": "Not Filling Properly",
+            "idx": 29,
+            "url": "https://www.partstown.com/part-predictor/cleveland/22cgt3/not-filling-properly",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/COV/COVFK300872.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Convotherm FK300872 Solenoid Valve Assembly, 1-Way, 0.5 GPM, 120V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nFK300872",
+                    "fix_rate": 55.0,
+                    "list_price": "$ 110.81"
+                }
+            ]
+        },
+        {
+            "name": "Hinge Is Defective Or Damaged",
+            "idx": 30,
+            "url": "https://www.partstown.com/part-predictor/cleveland/22cgt3/hinge-is-defective-or-damaged",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEFK104077.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland FK104077 Door Pin/Bushing Kit",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nFK104077",
+                    "fix_rate": 62.0,
+                    "list_price": "$ 25.29"
+                }
+            ]
+        },
+        {
+            "name": "Shaft Seal Is Damaged Or Leaking",
+            "idx": 31,
+            "url": "https://www.partstown.com/part-predictor/cleveland/22cgt3/shaft-seal-is-damaged-or-leaking",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLEFK110683.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland FK110683 Blower Motor Kit, 115V",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nFK110683",
+                    "fix_rate": 62.0,
+                    "list_price": "$ 286.95"
+                }
+            ]
+        },
+        {
+            "name": "Spring Is Malfunctioning",
+            "idx": 32,
+            "url": "https://www.partstown.com/part-predictor/cleveland/22cgt3/spring-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLES103643.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland S103643 Latch, Door, Paddle Type",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\nS103643",
+                    "fix_rate": 86.0,
+                    "list_price": "$ 273.44"
+                }
+            ]
+        },
+        {
+            "name": "Transformer Is Malfunctioning",
+            "idx": 33,
+            "url": "https://www.partstown.com/part-predictor/cleveland/22cgt3/transformer-is-malfunctioning",
+            "results": [
+                {
+                    "image_src": "https://partstown.sirv.com/products/CLE/CLE300254-CLE.view?thumb&image.rules=G0&w=200",
+                    "product_name": "Cleveland 300254-CLE Transformer, 208/240V to 120V, 50/60HZ, 200VA",
+                    "manufacturer_info": "",
+                    "info_item_1": "",
+                    "info_item_2": "",
+                    "info_item_3": "Mfr Part #:\n300254-CLE",
+                    "fix_rate": 71.0,
+                    "list_price": "$ 456.83"
+                }
+            ]
+        }
+    ]
+}
