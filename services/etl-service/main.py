@@ -153,6 +153,8 @@ async def health_check():
 async def get_service_status():
     """Estado detallado del servicio ETL"""
     return ServiceStatusResponse(
+        status="success",
+        message="ETL Service status retrieved successfully",
         service_info={
             "name": "etl-service",
             "version": "1.0.0",
@@ -238,16 +240,44 @@ async def discover_database_schema(
             for result in discovery_results.values()
         )
         
+        # Convertir discovery_results al formato correcto de DatabaseAnalysis
+        formatted_results = {}
+        for db_name, result in discovery_results.items():
+            formatted_results[db_name] = DatabaseAnalysis(
+                database_name=db_name,
+                total_tables=len(result.get("schema", {}).get("tables", {})),
+                analyzed_tables=len(result.get("table_analysis", {})),
+                business_context=result.get("business_context", {}),
+                table_analyses={
+                    table_name: TableAnalysis(
+                        table_name=table_name,
+                        business_purpose=analysis.get("business_purpose"),
+                        ai_relevance=analysis.get("ai_relevance", 0),
+                        data_quality=analysis.get("data_quality", 0),
+                        estimated_rows=analysis.get("estimated_rows", 0),
+                        text_columns=analysis.get("text_columns", []),
+                        key_fields=analysis.get("key_fields", []),
+                        relationships=analysis.get("relationships", []),
+                        recommended_strategy=analysis.get("recommended_strategy")
+                    )
+                    for table_name, analysis in result.get("table_analysis", {}).items()
+                },
+                recommendations=result.get("recommendations", []),
+                summary=result.get("summary", {})
+            )
+        
         return SchemaDiscoveryResponse(
+            status="success",
+            message=f"Schema discovery completed for {len(databases)} database(s)",
             job_id=job_id,
             databases_analyzed=list(databases),
             total_tables=total_tables,
             relevant_tables=relevant_tables,
-            discovery_results=discovery_results,
+            discovery_results=formatted_results,
             summary={
                 "high_priority_tables": relevant_tables,
                 "business_domains_detected": list(set(
-                    result["business_context"].get("business_type", "unknown")
+                    result.get("business_context", {}).get("business_type", "unknown")
                     for result in discovery_results.values()
                 )),
                 "recommended_strategies": list(set(

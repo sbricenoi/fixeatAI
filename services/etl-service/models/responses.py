@@ -48,12 +48,15 @@ class HealthResponse(BaseModel):
     timestamp: datetime = Field(default_factory=datetime.utcnow)
 
 
-class ServiceStatusResponse(BaseResponse):
+class ServiceStatusResponse(BaseModel):
     """Estado detallado del servicio"""
+    status: str = "success"
+    message: str = "Service status retrieved"
     service_info: Dict[str, Any]
     active_jobs: Dict[str, Any]
     statistics: Dict[str, Any]
     scheduler_status: Dict[str, Any]
+    timestamp: datetime = Field(default_factory=datetime.utcnow)
 
 
 # ================================================================
@@ -85,14 +88,17 @@ class DatabaseAnalysis(BaseModel):
     summary: Dict[str, Any]
 
 
-class SchemaDiscoveryResponse(BaseResponse):
+class SchemaDiscoveryResponse(BaseModel):
     """Respuesta de descubrimiento de esquema"""
+    status: str = "success"
+    message: str = "Schema discovery completed"
     job_id: str
     databases_analyzed: List[str]
     total_tables: int
     relevant_tables: int
     discovery_results: Dict[str, DatabaseAnalysis]
     summary: Dict[str, Any]
+    timestamp: datetime = Field(default_factory=datetime.utcnow)
 
 
 class SchemaAnalysisResponse(BaseResponse):
