@@ -569,9 +569,13 @@ Crea una descripción técnica de 2-3 oraciones que capture la información esen
                 
                 if response.status_code == 200:
                     result = response.json()
-                    ingested_count = result.get("ingested_count", len(documents))
-                    logger.info(f"✅ KB ingestión exitosa: {ingested_count} documentos")
-                    return ingested_count
+                    actual_ingested = result.get("ingested", 0)
+                    if actual_ingested > 0:
+                        logger.info(f"✅ KB ingestión exitosa: {actual_ingested} documentos")
+                        return actual_ingested
+                    else:
+                        logger.error(f"❌ MCP rechazó ingestión: {result}")
+                        return 0
                 else:
                     logger.error(f"❌ Error en KB ingestión: {response.status_code} - {response.text}")
                     return 0
