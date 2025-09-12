@@ -81,7 +81,13 @@ class DatabaseManager:
             # Configurar SSL si está habilitado
             ssl_config = None
             if db_config.ssl_enabled:
-                ssl_config = {"ca": db_config.ssl_ca_path} if db_config.ssl_ca_path else True
+                ssl_config = {
+                    "check_hostname": False,
+                    "verify_mode": 0  # ssl.CERT_NONE equivalent
+                }
+                # Solo agregar CA si está especificado
+                if db_config.ssl_ca_path:
+                    ssl_config["ca"] = db_config.ssl_ca_path
             
             connection = pymysql.connect(
                 host=db_config.host,

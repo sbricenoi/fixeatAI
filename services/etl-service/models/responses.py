@@ -37,13 +37,15 @@ class BaseResponse(BaseModel):
     trace_id: Optional[str] = None
 
 
-class HealthResponse(BaseResponse):
+class HealthResponse(BaseModel):
     """Respuesta de health check"""
     status: HealthStatus
+    message: str = "Service health check"
     service: str = "etl-service"
     version: str = "1.0.0"
     uptime_seconds: int
     checks: Dict[str, bool] = Field(description="Estado de componentes individuales")
+    timestamp: datetime = Field(default_factory=datetime.utcnow)
 
 
 class ServiceStatusResponse(BaseResponse):

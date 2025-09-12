@@ -134,13 +134,15 @@ async def shutdown_event():
 @app.get("/health", response_model=HealthResponse)
 async def health_check():
     """Health check independiente del servicio ETL"""
+    db_health = await db_manager.health_check()
     return HealthResponse(
         status="healthy" if service_state["status"] == "running" else "unhealthy",
+        message="ETL Service health check completed",
         service="etl-service",
         version="1.0.0",
         uptime_seconds=int((datetime.utcnow() - service_state["started_at"]).total_seconds()),
         checks={
-            "database": await db_manager.health_check(),
+            "database": any(db_health.values()) if isinstance(db_health, dict) else bool(db_health),
             "ai_analyzer": ai_analyzer.health_check(),
             "scheduler": scheduler.is_running(),
             "pipeline": etl_pipeline.is_healthy()
