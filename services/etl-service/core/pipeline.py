@@ -544,18 +544,25 @@ Crea una descripción técnica de 2-3 oraciones que capture la información esen
                 doc_id = f"{db_name}_{table_name}_{record.get('id', i)}"
                 content = record.get('technical_narrative', str(record))
                 
+                # Limpiar metadatos para ChromaDB (solo acepta str, int, float, bool)
+                clean_metadata = {
+                    "source_type": "database",
+                    "source": f"{db_name}.{table_name}",
+                    "table_name": table_name,
+                    "database_name": db_name,
+                    "extraction_date": "2025-09-12",
+                    "record_id": str(record.get('id', i)),
+                }
+                
+                # Agregar metadatos del config solo si son tipos válidos
+                for key, value in metadata_config.items():
+                    if value is not None and not isinstance(value, (list, dict, tuple, set)):
+                        clean_metadata[key] = str(value) if not isinstance(value, (str, int, float, bool)) else value
+                
                 document = {
                     "id": doc_id,
                     "text": content,
-                    "metadata": {
-                        "source_type": "database",
-                        "source": f"{db_name}.{table_name}",
-                        "table_name": table_name,
-                        "database_name": db_name,
-                        "extraction_date": "2025-09-12",
-                        "record_id": record.get('id', i),
-                        **metadata_config
-                    }
+                    "metadata": clean_metadata
                 }
                 docs.append(document)
             
