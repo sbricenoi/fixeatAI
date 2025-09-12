@@ -426,9 +426,12 @@ class ETLPipeline:
                     db_name, table_name, extraction_config, limit=effective_batch_size
                 )
             else:
-                extracted_data = await self.db_manager.extract_table_data(
-                    db_name, table_name, limit=effective_batch_size
-                )
+                # extract_table_data es un async generator, necesitamos iterar
+                extracted_data = []
+                async for batch in self.db_manager.extract_table_data(
+                    db_name, table_name, batch_size=effective_batch_size, limit=effective_batch_size
+                ):
+                    extracted_data.extend(batch)
             
             extracted_count = len(extracted_data)
             logger.info(f"📦 Extraídos {extracted_count} registros de '{table_name}'")
