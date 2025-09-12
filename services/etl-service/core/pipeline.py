@@ -87,7 +87,26 @@ class ETLPipeline:
                 generated_config["databases"][db_name] = db_config
         
         logger.info(f"✅ Configuración generada para {len(generated_config['databases'])} bases de datos")
-        return generated_config
+        
+        # Limpiar el config para asegurar serialización JSON
+        clean_config = self._clean_for_json_serialization(generated_config)
+        return clean_config
+    
+    def _clean_for_json_serialization(self, obj: Any) -> Any:
+        """Limpiar objeto para asegurar serialización JSON"""
+        if isinstance(obj, dict):
+            return {k: self._clean_for_json_serialization(v) for k, v in obj.items()}
+        elif isinstance(obj, list):
+            return [self._clean_for_json_serialization(item) for item in obj]
+        elif isinstance(obj, (dict_keys, dict_values)):
+            return list(obj)
+        elif isinstance(obj, set):
+            return list(obj)
+        elif hasattr(obj, '__dict__'):
+            # Objeto personalizado, convertir a dict
+            return self._clean_for_json_serialization(obj.__dict__)
+        else:
+            return obj
     
     def _generate_table_config(self, table_name: str, analysis: Dict[str, Any], 
                               custom_rules: Optional[Dict[str, Any]] = None) -> Optional[Dict[str, Any]]:
@@ -141,14 +160,22 @@ class ETLPipeline:
             if relationships:
                 # Construir JOIN automáticamente
                 joins = []
+                # Convertir relationships a dict si no lo es
+                if not isinstance(relationships, dict):
+                    relationships = {}
+                
                 for local_field, foreign_ref in relationships.items():
-                    if "." in foreign_ref:
-                        foreign_table, foreign_field = foreign_ref.split(".", 1)
-                        joins.append({
-                            "table": foreign_table,
-                            "on": f"{table_name}.{local_field.split('.')[-1]} = {foreign_table}.{foreign_field}",
-                            "type": "INNER"
-                        })
+                    if isinstance(foreign_ref, str) and "." in foreign_ref:
+                        try:
+                            foreign_table, foreign_field = foreign_ref.split(".", 1)
+                            joins.append({
+                                "table": foreign_table,
+                                "on": f"{table_name}.{local_field.split('.')[-1]} = {foreign_table}.{foreign_field}",
+                                "type": "INNER"
+                            })
+                        except Exception as e:
+                            logger.warning(f"⚠️ Error procesando relación {local_field}->{foreign_ref}: {e}")
+                            continue
                 
                 config["joins"] = joins
         
