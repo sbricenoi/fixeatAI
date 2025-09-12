@@ -364,14 +364,33 @@ async def generate_etl_config(request: GenerateConfigRequest):
         else:
             config_id = None
         
+        # Calcular resumen desde la estructura correcta
+        all_tables = {}
+        for db_name, db_config in generated_config.get("databases", {}).items():
+            all_tables.update(db_config.get("tables", {}))
+        
+        strategies = []
+        enabled_count = 0
+        estimated_docs_total = 0
+        
+        for table_name, table_config in all_tables.items():
+            if table_config.get("enabled", False):
+                enabled_count += 1
+            strategy = table_config.get("strategy", "unknown")
+            if strategy not in strategies:
+                strategies.append(strategy)
+            estimated_docs_total += table_config.get("estimated_docs", 0)
+        
         return ETLConfigResponse(
+            status="success",
+            message="ETL configuration generated successfully",
             config_id=config_id,
-            generated_config=generated_config,
+            generated_config=all_tables,  # Solo las tablas para simplificar
             summary={
-                "total_tables": len(generated_config.get("tables", {})),
-                "enabled_tables": len([t for t, cfg in generated_config.get("tables", {}).items() if cfg.get("enabled", False)]),
-                "strategies": list(set(cfg.get("strategy", "unknown") for cfg in generated_config.get("tables", {}).values())),
-                "estimated_docs": sum(cfg.get("estimated_docs", 0) for cfg in generated_config.get("tables", {}).values())
+                "total_tables": len(all_tables),
+                "enabled_tables": enabled_count,
+                "strategies": strategies,
+                "estimated_docs": estimated_docs_total
             }
         )
         
