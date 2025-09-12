@@ -98,10 +98,16 @@ class ETLPipeline:
             return {k: self._clean_for_json_serialization(v) for k, v in obj.items()}
         elif isinstance(obj, list):
             return [self._clean_for_json_serialization(item) for item in obj]
-        elif isinstance(obj, (dict_keys, dict_values)):
-            return list(obj)
         elif isinstance(obj, set):
             return list(obj)
+        elif str(type(obj)) in ["<class 'dict_keys'>", "<class 'dict_values'>", "<class 'dict_items'>"]:
+            return list(obj)
+        elif hasattr(obj, '__iter__') and not isinstance(obj, (str, bytes)):
+            # Cualquier iterable que no sea string/bytes, convertir a lista
+            try:
+                return [self._clean_for_json_serialization(item) for item in obj]
+            except:
+                return str(obj)
         elif hasattr(obj, '__dict__'):
             # Objeto personalizado, convertir a dict
             return self._clean_for_json_serialization(obj.__dict__)
