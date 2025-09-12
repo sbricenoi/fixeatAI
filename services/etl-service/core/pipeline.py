@@ -536,7 +536,7 @@ Crea una descripción técnica de 2-3 oraciones que capture la información esen
         
         try:
             import httpx
-            kb_url = f"{self.config.kb_url}/tools/kb_ingest"
+            kb_url = f"{self.config.kb_config.url}/tools/kb_ingest"
             
             # Preparar documentos para ingestión
             documents = []
