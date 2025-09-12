@@ -24,7 +24,6 @@ WORKDIR /app
 
 # Copiar archivos de dependencias
 COPY requirements.txt .
-COPY pyproject.toml .
 
 # Instalar dependencias Python
 RUN pip install --no-cache-dir --upgrade pip && \
@@ -54,4 +53,4 @@ HEALTHCHECK --interval=30s --timeout=10s --start-period=40s --retries=3 \
 EXPOSE ${ETL_SERVICE_PORT}
 
 # Comando por defecto
-CMD ["python", "-m", "main"]
+CMD ["python", "main.py"]
