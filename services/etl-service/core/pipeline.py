@@ -126,14 +126,16 @@ class ETLPipeline:
             if ai_relevance < 5.0:
                 return None
             
-            # Configuración base
+            # Configuración base - compatible con TableConfig Pydantic model
+            extraction_config = self._build_extraction_config(table_name, analysis)
             table_config = {
                 "enabled": True,
                 "priority": priority,
-                "ai_relevance": ai_relevance,
-                "extraction": self._build_extraction_config(table_name, analysis),
-                "transformation": self._build_transformation_config(table_name, analysis),
-                "quality": self._build_quality_config(table_name, analysis)
+                "strategy": extraction_config.get("strategy", "full_table"),  # Campo requerido
+                "extraction_config": extraction_config,                       # Campo requerido
+                "transformation_config": self._build_transformation_config(table_name, analysis),  # Campo requerido
+                "metadata_config": self._build_quality_config(table_name, analysis),  # Campo requerido (renombrado)
+                "estimated_docs": analysis.get("estimated_docs", 0)
             }
             
             # Aplicar reglas personalizadas si existen
