@@ -411,8 +411,9 @@ class ETLPipeline:
         # TODO: Implementar lógica de extracción, transformación e ingesta real
         # Por ahora, simulamos el proceso
         
-        extraction_config = table_config.get("extraction", {})
-        transformation_config = table_config.get("transformation", {})
+        extraction_config = table_config.get("extraction_config", {})
+        transformation_config = table_config.get("transformation_config", {})
+        metadata_config = table_config.get("metadata_config", {})
         
         # Simular extracción
         extracted_count = 0
