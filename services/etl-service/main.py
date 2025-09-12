@@ -185,6 +185,17 @@ async def get_service_status():
 # ENDPOINTS DE DESCUBRIMIENTO Y ANÁLISIS
 # ================================================================
 
+def _convert_relationships(relationships_dict: Dict[str, str]) -> List[Dict[str, str]]:
+    """Convertir diccionario de relationships a lista para el modelo Pydantic"""
+    if not relationships_dict:
+        return []
+    
+    return [
+        {"from": key, "to": value}
+        for key, value in relationships_dict.items()
+    ]
+
+
 @app.post("/api/v1/discover-schema", response_model=SchemaDiscoveryResponse)
 async def discover_database_schema(
     request: SchemaDiscoveryRequest = None,
@@ -257,7 +268,7 @@ async def discover_database_schema(
                         estimated_rows=analysis.get("estimated_rows", 0),
                         text_columns=analysis.get("text_columns", []),
                         key_fields=analysis.get("key_fields", []),
-                        relationships=analysis.get("relationships", []),
+                        relationships=_convert_relationships(analysis.get("relationships", {})),
                         recommended_strategy=analysis.get("recommended_strategy")
                     )
                     for table_name, analysis in result.get("table_analysis", {}).items()
