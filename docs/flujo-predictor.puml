@@ -1,0 +1,117 @@
+@startuml Flujo Predictor de Fallas
+
+skinparam backgroundColor #FFFFFF
+skinparam handwritten false
+skinparam defaultFontName Arial
+skinparam defaultFontSize 11
+
+' Colores personalizados
+skinparam activity {
+  BackgroundColor<<input>> #E1F5FF
+  BorderColor<<input>> #01579B
+  BackgroundColor<<process>> #FFF3E0
+  BorderColor<<process>> #E65100
+  BackgroundColor<<llm>> #F3E5F5
+  BorderColor<<llm>> #4A148C
+  BackgroundColor<<search>> #E8F5E9
+  BorderColor<<search>> #1B5E20
+  BackgroundColor<<output>> #C8E6C9
+  BorderColor<<output>> #2E7D32
+}
+
+start
+
+:👤 **Usuario**
+Por qué service 25?;
+<<input>>
+
+:📥 **API /predict-fallas**
+Detecta: modelo + código error;
+<<process>>
+
+note right
+  modelo: "iCombi Classic"
+  código: "25"
+end note
+
+:🔍 **BÚSQUEDA HÍBRIDA**
+====
+• Semántica 40%: embeddings
+• Keywords 60%: "service", "25"
+• Boost 1.5x: docs iCombi Classic
+====
+➜ 18 documentos candidatos;
+<<search>>
+
+note right: ⏱️ 1-2 segundos
+
+:🤖 **LLM RE-RANKER**
+====
+Analiza CADA documento:
+• ¿Responde a la query?
+• ¿Qué tan relevante? (0-100)
+• ¿Por qué es relevante?
+====
+➜ Top 10 ordenados por LLM;
+<<llm>>
+
+note right: ⏱️ 5-8 segundos
+
+:📝 **CONSTRUCCIÓN CONTEXTO**
+====
+• Expande cada doc a 2000+ chars
+• Total: ~15,000 caracteres
+====;
+<<process>>
+
+note right: ⏱️ 200 ms
+
+:🤖 **GENERACIÓN LLM**
+====
+GPT-4o-mini genera:
+• Fallas probables
+• Repuestos necesarios
+• Pasos de reparación
+• Referencias citadas;
+<<llm>>
+
+note right: ⏱️ 2-3 segundos
+
+:📚 **ENRIQUECIMIENTO**
+====
+Agregar a cada documento:
+• Relevancia LLM: 95%
+• Explicación del LLM
+• URL navegable: pdf#page=28
+• Metadata completa;
+<<process>>
+
+note right: ⏱️ 100 ms
+
+:✅ **RESPUESTA JSON**
+====
+• Diagnóstico detallado
+• 10 docs ordenados
+• Links a páginas PDFs
+• Signals de calidad;
+<<output>>
+
+stop
+
+legend right
+  |<#E1F5FF> Input/Output |
+  |<#FFF3E0> Procesamiento |
+  |<#F3E5F5> LLM |
+  |<#E8F5E9> Búsqueda |
+  |<#C8E6C9> Respuesta |
+  
+  **Tiempo Total: 8-14 segundos**
+  
+  **Componentes Clave:**
+  • services/kb/demo_kb.py
+  • services/orch/llm_reranker.py
+  • services/orch/rag.py
+  • app/main.py
+endlegend
+
+@enduml

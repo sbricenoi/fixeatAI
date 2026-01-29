@@ -24,6 +24,8 @@ from services.validation.formulario import validar_formulario as validar_formula
 from services.orch.validate import validate_with_llm
 from services.orch.ops_analyst import analyze_ops, analyze_ops_from_kb
 from services.orch.agents import RouterAgent, KBAgent, DBAgent, WriterAgent
+from services.kb.relevance_scorer import rank_documents_by_relevance
+from services.orch.llm_reranker import rerank_with_llm
 
 
 APP_TITLE = "FixeatAI Microservicio IA"
@@ -83,33 +85,144 @@ def predict_fallas(
     req: PredictRequest,
     x_trace_id: Optional[str] = Header(default=None, alias=TRACE_HEADER),
 ) -> dict[str, Any]:
-    """Retorna diagnóstico y repuestos sugeridos (mock).
+    """Retorna diagnóstico y repuestos sugeridos con contextos ampliados.
 
-    Integra con el servidor MCP para recuperar contexto de KB (si está disponible).
+    Integra con el servidor MCP para recuperar contexto de KB con información extendida.
+    Usa kb_search_extended para obtener contextos de 2000+ caracteres y metadata enriquecida.
     """
 
-    try:
-        response = requests.post(
-            f"{MCP_SERVER_URL}/tools/kb_search",
-            json={"query": req.descripcion_problema, "top_k": 3},
-            timeout=5,
-        )
-        hits = response.json().get("hits", [])
-    except Exception:
-        hits = []
-
     if USE_LLM:
-        data = predict_with_llm(MCP_SERVER_URL, req.descripcion_problema, req.equipo, top_k=5)
+        data = predict_with_llm(MCP_SERVER_URL, req.descripcion_problema, req.equipo, top_k=10)
+        
+        # Usar los hits que ya recuperó predict_with_llm (más confiables que una búsqueda separada)
+        hits = data.pop("_raw_hits", [])
+        
+        # GARANTIZAR que SIEMPRE haya contextos en la respuesta
+        # Si predict_with_llm no los generó o no hay hits, hacer búsqueda directa
+        if not hits or "contextos" not in data or not data.get("contextos"):
+            print(f"⚠️  No hay hits disponibles, haciendo búsqueda directa de contextos...")
+            try:
+                response = requests.post(
+                    f"{MCP_SERVER_URL}/tools/kb_search_hybrid",
+                    json={
+                        "query": req.descripcion_problema,
+                        "top_k": 10,
+                        "semantic_weight": 0.3,
+                        "keyword_weight": 0.7,
+                        "context_chars": 2000
+                    },
+                    timeout=15,
+                )
+                hits = response.json().get("hits", [])
+                print(f"✅ Búsqueda directa: {len(hits)} hits encontrados")
+            except Exception as e:
+                print(f"❌ Error en búsqueda directa de contextos: {e}")
+                hits = []
+
+        # APLICAR LLM RE-RANKER: El LLM analiza los documentos y determina cuál es MÁS relevante
+        # Este es el flujo que el usuario solicitó:
+        # 1. KB Search retorna candidatos (15-20 docs)
+        # 2. LLM analiza TODOS los documentos con contexto semántico completo
+        # 3. LLM determina relevancia REAL de cada documento (0-100)
+        # 4. LLM explica POR QUÉ cada documento es relevante
+        # 5. Retornamos ordenado por análisis del LLM
+        if hits:
+            # Extraer marca y modelo para contexto
+            marca = req.equipo.get("marca") or req.equipo.get("brand") if req.equipo else None
+            modelo = req.equipo.get("modelo") or req.equipo.get("model") if req.equipo else None
+            
+            print(f"🤖 Aplicando LLM Re-Ranker (query: '{req.descripcion_problema[:50]}...')")
+            print(f"   Equipo: {marca or 'N/A'} {modelo or 'N/A'}")
+            print(f"   Candidatos: {len(hits)} documentos")
+            
+            # LLM analiza y ordena por relevancia REAL
+            ranked_hits = rerank_with_llm(
+                query=req.descripcion_problema,
+                candidates=hits,
+                marca=marca,
+                modelo=modelo,
+                top_k=10  # Retornar top 10 después del análisis del LLM
+            )
+            
+            # Construir contextos con información del LLM re-ranker
+            data["contextos"] = [
+                {
+                    "fuente": hit["doc_id"],
+                    "score": hit["score"],  # Score original de búsqueda
+                    "relevance_score": hit.get("llm_relevance_score", 0),  # Score del LLM (0-100)
+                    "confidence_label": hit.get("llm_confidence", "Media"),  # Del LLM
+                    "llm_explanation": hit.get("llm_explanation", ""),  # Por qué es relevante (del LLM)
+                    "contexto": hit.get("context", hit.get("snippet", ""))[:1500],
+                    "document_url": hit.get("document_url"),
+                    "metadata": {
+                        "page": hit.get("metadata", {}).get("page"),
+                        "source": hit.get("metadata", {}).get("source"),
+                        "brand": hit.get("metadata", {}).get("brand"),
+                        "model": hit.get("metadata", {}).get("model"),
+                    },
+                }
+                for hit in ranked_hits  # Ya viene ordenado del LLM
+            ]
+            
+            # Log de top 3 para debugging
+            print(f"📊 Top 3 documentos según LLM:")
+            for i, ctx in enumerate(data["contextos"][:3], 1):
+                relevance = ctx.get('relevance_score', 0)
+                emoji = "🎯" if relevance >= 80 else "⭐" if relevance >= 60 else "📄"
+                print(f"  {emoji} {i}. {ctx['fuente'][:60]}")
+                print(f"     Relevancia LLM: {relevance}% ({ctx['confidence_label']})")
+                if ctx.get('llm_explanation'):
+                    print(f"     Razón: {ctx['llm_explanation'][:80]}...")
+            
+            # Actualizar también las fuentes para que coincidan con los contextos
+            if "fuentes" not in data or not data["fuentes"]:
+                data["fuentes"] = [hit["doc_id"] for hit in ranked_hits[:10]]
+        else:
+            # Fallback: lista vacía pero con estructura válida
+            print(f"⚠️  ADVERTENCIA: No se encontraron documentos para '{req.descripcion_problema}'")
+            data["contextos"] = []
+            if "fuentes" not in data:
+                data["fuentes"] = []
     else:
+        # Modo sin LLM: hacer búsqueda directa
+        hits = []
+        try:
+            response = requests.post(
+                f"{MCP_SERVER_URL}/tools/kb_search_extended",
+                json={
+                    "query": req.descripcion_problema, 
+                    "top_k": 10,
+                    "context_chars": 2000
+                },
+                timeout=5,
+            )
+            hits = response.json().get("hits", [])
+        except Exception as e:
+            print(f"Warning: No se pudo obtener hits de KB: {e}")
+            hits = []
+        
         # Heurística basada en hits de la KB (MVP no-LLM)
-        preds = infer_from_hits(hits)
-        sugg = suggest_parts_and_tools(preds)
+        preds = infer_from_hits(hits, req.descripcion_problema)
         data = {
             "fallas_probables": preds,
-            **sugg,
             "fuentes": [h.get("doc_id") for h in hits],
+            "feedback_coherencia": "Respuesta basada en análisis heurístico",
+            "contextos": [
+                {
+                    "fuente": hit["doc_id"],
+                    "score": hit["score"],
+                    "contexto": hit.get("context", hit.get("snippet", ""))[:1500],
+                    "document_url": hit.get("document_url"),  # URL navegable (NUEVO en Fase 2)
+                    "metadata": {
+                        "page": hit.get("metadata", {}).get("page"),
+                        "source": hit.get("metadata", {}).get("source"),
+                    }
+                }
+                for hit in hits[:10]
+            ]
         }
-    log_event(logging.INFO, x_trace_id, "predict_fallas", num_hits=len(hits))
+    
+    log_event(logging.INFO, x_trace_id, "predict_fallas", num_hits=len(hits), llm_used=USE_LLM)
     return build_response(data=data, message="Predicción generada", code="OK", trace_id=x_trace_id)
 
 
@@ -131,9 +244,72 @@ def soporte_tecnico(
     """
 
     if USE_LLM:
-        data_llm = predict_with_llm(MCP_SERVER_URL, req.descripcion_problema, req.equipo, top_k=5)
+        data_llm = predict_with_llm(MCP_SERVER_URL, req.descripcion_problema, req.equipo, top_k=10)
+        
+        # Extraer hits para construir contextos
+        hits = data_llm.pop("_raw_hits", [])
+        
+        # GARANTIZAR que siempre haya contextos
+        if not hits:
+            try:
+                response = requests.post(
+                    f"{MCP_SERVER_URL}/tools/kb_search_hybrid",
+                    json={
+                        "query": req.descripcion_problema,
+                        "top_k": 10,
+                        "semantic_weight": 0.3,
+                        "keyword_weight": 0.7,
+                        "context_chars": 2000
+                    },
+                    timeout=15,
+                )
+                hits = response.json().get("hits", [])
+            except Exception as e:
+                print(f"❌ Error obteniendo contextos para soporte: {e}")
+                hits = []
+        
+        # Aplicar LLM Re-Ranker para soporte técnico también
+        contextos = []
+        if hits:
+            # Extraer marca y modelo
+            marca = req.equipo.get("marca") or req.equipo.get("brand") if req.equipo else None
+            modelo = req.equipo.get("modelo") or req.equipo.get("model") if req.equipo else None
+            
+            # LLM re-ranking
+            ranked_hits = rerank_with_llm(
+                query=req.descripcion_problema,
+                candidates=hits,
+                marca=marca,
+                modelo=modelo,
+                top_k=10
+            )
+            
+            contextos = [
+                {
+                    "fuente": hit["doc_id"],
+                    "score": hit["score"],
+                    "relevance_score": hit.get("llm_relevance_score", 0),
+                    "confidence_label": hit.get("llm_confidence", "Media"),
+                    "llm_explanation": hit.get("llm_explanation", ""),
+                    "contexto": hit.get("context", hit.get("snippet", ""))[:1500],
+                    "document_url": hit.get("document_url"),
+                    "metadata": {
+                        "page": hit.get("metadata", {}).get("page"),
+                        "source": hit.get("metadata", {}).get("source"),
+                        "brand": hit.get("metadata", {}).get("brand"),
+                        "model": hit.get("metadata", {}).get("model"),
+                    },
+                }
+                for hit in ranked_hits
+            ]
+        
         pasos = data_llm.get("pasos", [])
-        payload = {"pasos": pasos, "fuentes": data_llm.get("fuentes", []), "signals": data_llm.get("signals", {})}
+        payload = {
+            "pasos": pasos,
+            "fuentes": data_llm.get("fuentes", []),
+            "signals": data_llm.get("signals", {}),
+            "contextos": contextos  # SIEMPRE incluir contextos
+        }
         log_event(logging.INFO, x_trace_id, "soporte_tecnico_llm", pasos=len(pasos))
         return build_response(
             data=payload, message="Secuencia generada (LLM)", code="OK", trace_id=x_trace_id

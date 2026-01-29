@@ -18,7 +18,13 @@ import base64
 import io
 import mimetypes
 
-from services.kb.demo_kb import kb_search, ingest_docs, get_all_documents
+from services.kb.demo_kb import (
+    kb_search, 
+    kb_search_extended, 
+    kb_search_hybrid,
+    ingest_docs, 
+    get_all_documents
+)
 from services.taxonomy.auto_learner import TaxonomyAutoLearner
 from services.llm.client import LLMClient
 
@@ -49,6 +55,16 @@ class KBSearchRequest(BaseModel):
     where: Optional[dict[str, Any]] = None
 
 
+class KBSearchExtendedRequest(BaseModel):
+    """Request para búsqueda con contexto ampliado."""
+    query: str
+    top_k: int = 5
+    where: Optional[dict[str, Any]] = None
+    context_chars: int = 2000
+    include_full_text: bool = False
+    highlight_terms: bool = True  # NUEVO: Fase 3 - highlighting de términos
+
+
 @app.on_event("startup")
 def _seed_data() -> None:
     # Solo para desarrollo - deshabilitar en producción
@@ -62,8 +78,115 @@ def _seed_data() -> None:
 
 @app.post("/tools/kb_search")
 def tool_kb_search(req: KBSearchRequest) -> dict:
+    """Búsqueda semántica en KB (versión original)."""
     hits = kb_search(req.query, req.top_k, req.where)
     return {"hits": hits}
+
+
+@app.post("/tools/kb_search_extended")
+def tool_kb_search_extended(req: KBSearchExtendedRequest) -> dict:
+    """Búsqueda semántica con contexto ampliado y metadata enriquecida.
+    
+    Esta versión extendida proporciona:
+    - Contexto ampliado configurable (vs 500 chars fijos)
+    - Ventana de contexto centrada en el match
+    - Metadata enriquecida con posiciones
+    - Opción de incluir texto completo
+    
+    Returns:
+        Dict con hits que incluyen:
+        - doc_id, score, snippet (compatibilidad)
+        - context: Ventana de contexto ampliada
+        - metadata: Metadata enriquecida con posiciones
+        - full_text: Texto completo (si include_full_text=True)
+    """
+    try:
+        hits = kb_search_extended(
+            query=req.query,
+            top_k=req.top_k,
+            where=req.where,
+            context_chars=req.context_chars,
+            include_full_text=req.include_full_text,
+            highlight_terms=req.highlight_terms
+        )
+        return {
+            "hits": hits,
+            "query": req.query,
+            "context_chars": req.context_chars,
+            "total_hits": len(hits),
+            "highlighting_enabled": req.highlight_terms
+        }
+    except Exception as e:
+        # Log error y retornar respuesta con error pero sin romper
+        print(f"Error en kb_search_extended: {e}")
+        return {
+            "hits": [],
+            "error": str(e),
+            "query": req.query
+        }
+
+
+class KBSearchHybridRequest(BaseModel):
+    """Request para búsqueda híbrida (semántica + keyword)."""
+    query: str
+    top_k: int = 10
+    where: Optional[dict[str, Any]] = None
+    semantic_weight: float = 0.5
+    keyword_weight: float = 0.5
+    context_chars: int = 2000
+
+
+@app.post("/tools/kb_search_hybrid")
+def tool_kb_search_hybrid(req: KBSearchHybridRequest) -> dict:
+    """Búsqueda híbrida: combina búsqueda semántica con keyword matching.
+    
+    Especialmente útil para códigos de error técnicos (Service XX, Error XX)
+    donde la búsqueda semántica pura puede fallar en encontrar matches exactos.
+    
+    Args:
+        query: Consulta de búsqueda (detecta automáticamente códigos de error)
+        top_k: Número de resultados a retornar
+        where: Filtros de metadata opcionales
+        semantic_weight: Peso para score semántico (default 0.5)
+        keyword_weight: Peso para score de keywords (default 0.5)
+        context_chars: Caracteres de contexto ampliado
+        
+    Returns:
+        Dict con hits híbridos que incluyen:
+        - score: Score híbrido combinado
+        - semantic_score: Score de búsqueda semántica
+        - keyword_score: Score de keyword matching
+        - error_codes_found: Códigos de error detectados en la query
+        - context, metadata, document_url, etc.
+    """
+    try:
+        hits = kb_search_hybrid(
+            query=req.query,
+            top_k=req.top_k,
+            where=req.where,
+            semantic_weight=req.semantic_weight,
+            keyword_weight=req.keyword_weight,
+            context_chars=req.context_chars
+        )
+        return {
+            "hits": hits,
+            "query": req.query,
+            "total_hits": len(hits),
+            "search_type": "hybrid",
+            "weights": {
+                "semantic": req.semantic_weight,
+                "keyword": req.keyword_weight
+            }
+        }
+    except Exception as e:
+        print(f"Error en kb_search_hybrid: {e}")
+        import traceback
+        traceback.print_exc()
+        return {
+            "hits": [],
+            "error": str(e),
+            "query": req.query
+        }
 
 
 class DBQueryRequest(BaseModel):
@@ -818,6 +941,103 @@ def test_taxonomy_system() -> dict:
             "test_completed": False,
             "error": str(e),
             "message": "Error en el sistema"
+        }
+
+
+@app.get("/view-document/{doc_id}")
+def view_document(doc_id: str, page: Optional[int] = None) -> dict:
+    """Endpoint para visualizar documentos con opción de página específica.
+    
+    Devuelve información del documento incluyendo:
+    - Metadata completa
+    - Texto del documento/chunk
+    - URL de la fuente original (si está disponible)
+    - Página solicitada (si aplica)
+    
+    Args:
+        doc_id: ID del documento o chunk
+        page: Número de página específico (opcional)
+        
+    Returns:
+        Dict con información del documento:
+        {
+            "doc_id": str,
+            "text": str,
+            "metadata": dict,
+            "source_url": str (si disponible),
+            "page": int (si aplica),
+            "available": bool
+        }
+        
+    Ejemplos:
+        GET /view-document/manual_sinmag_page_23
+        GET /view-document/manual_sinmag_page_23?page=25
+        GET /view-document/80.51.332_ET_es-ES.pdf#c17
+    """
+    try:
+        # Buscar documento en el KB por doc_id
+        # Usar get directo de ChromaDB
+        from services.kb.demo_kb import _collection, generate_document_url
+        
+        try:
+            result = _collection.get(ids=[doc_id], include=["documents", "metadatas"])
+            
+            if not result["ids"]:
+                return {
+                    "available": False,
+                    "error": f"Documento '{doc_id}' no encontrado en KB",
+                    "doc_id": doc_id
+                }
+            
+            # Extraer datos
+            text = result["documents"][0] if result["documents"] else ""
+            metadata = result["metadatas"][0] if result["metadatas"] else {}
+            
+            # Si se especificó página, intentar ajustar
+            # (útil si el documento fue ingresado por páginas)
+            if page is not None:
+                # Intentar encontrar el chunk específico de esa página
+                base_id = doc_id.split("_page_")[0] if "_page_" in doc_id else doc_id.split("#")[0]
+                page_doc_id = f"{base_id}_page_{page}"
+                
+                try:
+                    page_result = _collection.get(ids=[page_doc_id], include=["documents", "metadatas"])
+                    if page_result["ids"]:
+                        text = page_result["documents"][0]
+                        metadata = page_result["metadatas"][0]
+                        doc_id = page_doc_id
+                except Exception:
+                    # Si no se encuentra página específica, usar el original
+                    pass
+            
+            # Generar URL navegable
+            document_url = generate_document_url(doc_id, metadata)
+            
+            # Extraer página de metadata si existe
+            page_num = metadata.get("page", page)
+            
+            return {
+                "available": True,
+                "doc_id": doc_id,
+                "text": text,
+                "metadata": metadata,
+                "source_url": document_url,
+                "page": page_num,
+                "text_length": len(text)
+            }
+            
+        except Exception as e:
+            return {
+                "available": False,
+                "error": f"Error accediendo al documento: {str(e)}",
+                "doc_id": doc_id
+            }
+            
+    except Exception as e:
+        return {
+            "available": False,
+            "error": f"Error procesando solicitud: {str(e)}",
+            "doc_id": doc_id
         }
 
 

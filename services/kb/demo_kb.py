@@ -7,6 +7,7 @@ from __future__ import annotations
 
 from typing import Any
 import os
+import re
 
 import chromadb
 from sentence_transformers import SentenceTransformer
@@ -56,7 +57,8 @@ def ingest_docs(docs: list[dict[str, Any]]) -> None:
             md = {"source": "unspecified"}
         metadatas.append(md)
 
-    _collection.add(
+    # Usar upsert para permitir actualizar documentos existentes
+    _collection.upsert(
         ids=[d["id"] for d in docs],
         embeddings=embeddings,
         documents=texts,
@@ -64,7 +66,117 @@ def ingest_docs(docs: list[dict[str, Any]]) -> None:
     )
 
 
+def _find_best_match_position(query: str, full_text: str, window_size: int = 100) -> int:
+    """Encuentra la mejor posición del match usando similitud de embeddings.
+    
+    Args:
+        query: Consulta de búsqueda
+        full_text: Texto completo del documento
+        window_size: Tamaño de ventana para buscar matches
+        
+    Returns:
+        Posición aproximada del mejor match en el texto
+    """
+    if not full_text:
+        return 0
+    
+    # Para documentos cortos, retornar inicio
+    if len(full_text) <= window_size * 2:
+        return 0
+    
+    # Dividir texto en ventanas solapadas
+    step = window_size // 2
+    windows = []
+    positions = []
+    
+    for i in range(0, len(full_text) - window_size, step):
+        windows.append(full_text[i:i + window_size])
+        positions.append(i)
+    
+    if not windows:
+        return 0
+    
+    # Encontrar ventana más similar a la query
+    try:
+        query_emb = _model.encode([query], normalize_embeddings=True)[0]
+        windows_emb = _model.encode(windows, normalize_embeddings=True)
+        
+        # Calcular similitud coseno
+        import numpy as np
+        similarities = np.dot(windows_emb, query_emb)
+        best_idx = int(np.argmax(similarities))
+        
+        return positions[best_idx]
+    except Exception:
+        # Fallback: buscar primer término de query en texto
+        query_terms = query.lower().split()[:3]  # Primeros 3 términos
+        for term in query_terms:
+            pos = full_text.lower().find(term)
+            if pos != -1:
+                return max(0, pos - window_size // 2)
+        return 0
+
+
+def _extract_context_window(
+    text: str, 
+    center_pos: int, 
+    context_chars: int
+) -> tuple[str, int, int]:
+    """Extrae ventana de contexto alrededor de una posición.
+    
+    Args:
+        text: Texto completo
+        center_pos: Posición central del contexto
+        context_chars: Número de caracteres de contexto deseados
+        
+    Returns:
+        Tupla de (contexto, start_pos, end_pos)
+    """
+    if not text:
+        return ("", 0, 0)
+    
+    # Calcular límites de la ventana
+    half_window = context_chars // 2
+    start = max(0, center_pos - half_window)
+    end = min(len(text), center_pos + half_window)
+    
+    # Ajustar para no cortar palabras (buscar espacios cercanos)
+    if start > 0:
+        # Buscar espacio hacia atrás (máximo 50 chars)
+        for i in range(start, max(0, start - 50), -1):
+            if text[i].isspace():
+                start = i + 1
+                break
+    
+    if end < len(text):
+        # Buscar espacio hacia adelante (máximo 50 chars)
+        for i in range(end, min(len(text), end + 50)):
+            if text[i].isspace():
+                end = i
+                break
+    
+    context = text[start:end].strip()
+    
+    # Agregar indicadores si hay texto antes/después
+    if start > 0:
+        context = "..." + context
+    if end < len(text):
+        context = context + "..."
+    
+    return (context, start, end)
+
+
 def kb_search(query: str, top_k: int = 5, where: dict[str, Any] | None = None) -> list[dict[str, Any]]:
+    """Búsqueda semántica en KB (versión original, mantiene compatibilidad).
+    
+    Args:
+        query: Consulta de búsqueda
+        top_k: Número de resultados a retornar
+        where: Filtros de metadata opcionales
+        
+    Returns:
+        Lista de hits con doc_id, score, snippet (500 chars) y metadata
+    """
     q_emb = _model.encode([query], normalize_embeddings=True).tolist()[0]
     # Filtro por metadatos (opcional)
     kwargs: dict[str, Any] = {"query_embeddings": [q_emb], "n_results": top_k}
@@ -82,6 +194,468 @@ def kb_search(query: str, top_k: int = 5, where: dict[str, Any] | None = None) -
             }
         )
     return hits
+
+
+def extract_key_terms(query: str) -> list[str]:
+    """Extrae términos clave de una consulta para highlighting.
+    
+    Args:
+        query: Consulta de búsqueda
+        
+    Returns:
+        Lista de términos clave (normalizados a minúsculas)
+    """
+    import re
+    
+    # Remover palabras comunes (stop words en español)
+    stop_words = {
+        'el', 'la', 'los', 'las', 'un', 'una', 'unos', 'unas',
+        'de', 'del', 'en', 'con', 'por', 'para', 'sin', 'sobre',
+        'y', 'o', 'pero', 'que', 'si', 'como', 'cuando', 'donde',
+        'este', 'esta', 'ese', 'esa', 'aquel', 'aquella',
+        'no', 'es', 'son', 'está', 'están', 'ser', 'estar'
+    }
+    
+    # Tokenizar y limpiar
+    tokens = re.findall(r'\b\w+\b', query.lower())
+    
+    # Filtrar stop words y tokens muy cortos
+    key_terms = [t for t in tokens if t not in stop_words and len(t) >= 3]
+    
+    return key_terms
+
+
+def highlight_text(text: str, terms: list[str], marker: str = "**") -> str:
+    """Resalta términos clave en un texto.
+    
+    Args:
+        text: Texto donde resaltar
+        terms: Lista de términos a resaltar
+        marker: Marcador para el highlighting (default: ** para markdown bold)
+        
+    Returns:
+        Texto con términos resaltados
+    """
+    import re
+    
+    if not terms:
+        return text
+    
+    highlighted = text
+    
+    # Resaltar cada término (case-insensitive)
+    for term in terms:
+        # Usar word boundary para evitar matches parciales
+        pattern = rf'\b({re.escape(term)})\b'
+        highlighted = re.sub(
+            pattern,
+            f'{marker}\\1{marker}',
+            highlighted,
+            flags=re.IGNORECASE
+        )
+    
+    return highlighted
+
+
+def generate_document_url(doc_id: str, metadata: dict[str, Any] | None = None) -> str:
+    """Genera URL navegable para un documento con soporte multi-formato.
+    
+    Construye URLs navegables basadas en:
+    - doc_id: identificador del documento/chunk
+    - metadata.source: ruta o URL del documento original
+    - metadata.page: número de página (si existe)
+    
+    Formatos soportados para PDFs:
+    1. URLs S3/HTTP con #page=N (Adobe Reader, Chrome)
+    2. URLs S3/HTTP con #p=N (alternativa)
+    3. Google Docs Viewer: https://docs.google.com/viewer?url=...&page=N
+    4. Rutas locales: endpoint /view-document/ con ?page=N
+    
+    Args:
+        doc_id: ID del documento o chunk
+        metadata: Metadata del documento (debe incluir 'source' y opcionalmente 'page')
+        
+    Returns:
+        URL navegable al documento (con página si está disponible)
+    """
+    if metadata is None:
+        metadata = {}
+    
+    source = metadata.get("source", "")
+    page = metadata.get("page")
+    
+    # Caso 1: Source es URL (HTTP/HTTPS/S3)
+    if source.startswith(("http://", "https://", "s3://")):
+        base_url = source
+        
+        # Limpiar fragmento existente si hay
+        if "#" in base_url:
+            base_url = base_url.split("#")[0]
+        if "?" in base_url:
+            base_url = base_url.split("?")[0]
+        
+        # Agregar página si existe - usar múltiples formatos para compatibilidad
+        if page is not None:
+            # Formato 1: Estándar #page=N (funciona en Chrome, Firefox, Adobe Reader)
+            url_standard = f"{base_url}#page={page}"
+            
+            # Formato 2: Alternativo con query param (algunos visores)
+            # url_query = f"{base_url}?page={page}"
+            
+            # Formato 3: Google Docs Viewer (más compatible pero requiere URL pública)
+            # url_google = f"https://docs.google.com/viewer?url={urllib.parse.quote(base_url)}&embedded=true#page={page}"
+            
+            # Por defecto usar formato estándar
+            # El cliente puede modificar según su visor
+            return url_standard
+        else:
+            return base_url
+    
+    # Caso 2: doc_id tiene formato legacy con #c (chunk)
+    if "#c" in doc_id:
+        base_id = doc_id.split("#")[0]
+        
+        # Si source está disponible, usarlo
+        if source:
+            if page is not None:
+                return f"{source}#page={page}"
+            else:
+                return source
+        
+        # Si hay página pero no source, usar formato legacy mejorado
+        if page is not None:
+            return f"{base_id}#page={page}"
+        else:
+            return doc_id
+    
+    # Caso 3: Ruta local o sin source específico
+    # Usar endpoint de visualización del servidor MCP
+    if page is not None:
+        return f"/view-document/{doc_id}?page={page}"
+    else:
+        return f"/view-document/{doc_id}"
+
+
+def kb_search_extended(
+    query: str,
+    top_k: int = 5,
+    where: dict[str, Any] | None = None,
+    context_chars: int = 2000,
+    include_full_text: bool = False,
+    highlight_terms: bool = True
+) -> list[dict[str, Any]]:
+    """Búsqueda semántica con contexto ampliado y metadata enriquecida.
+    
+    Esta versión extendida proporciona:
+    - Contexto ampliado configurable (vs 500 chars fijos)
+    - Ventana de contexto centrada en el match
+    - Metadata enriquecida con posiciones
+    - Opción de incluir texto completo
+    - URLs navegables a documentos (Fase 2)
+    - Highlighting de términos clave (Fase 3)
+    
+    Args:
+        query: Consulta de búsqueda
+        top_k: Número de resultados a retornar
+        where: Filtros de metadata opcionales
+        context_chars: Número de caracteres de contexto (default: 2000)
+        include_full_text: Si incluir texto completo en respuesta (default: False)
+        highlight_terms: Si resaltar términos clave en contexto (default: True)
+        
+    Returns:
+        Lista de hits con:
+        - doc_id: ID del documento
+        - score: Score de relevancia (distancia)
+        - snippet: Primeros 500 chars (compatibilidad)
+        - context: Ventana de contexto ampliada
+        - context_highlighted: Contexto con términos resaltados (si highlight_terms=True)
+        - full_text: Texto completo (si include_full_text=True)
+        - metadata: Metadata enriquecida con:
+            - match_position: Posición del match en el texto
+            - context_start: Inicio de la ventana de contexto
+            - context_end: Fin de la ventana de contexto
+            - [metadata original del documento]
+        - document_url: URL navegable al documento
+        - highlighted_terms: Lista de términos resaltados (si highlight_terms=True)
+    """
+    # Realizar búsqueda semántica base
+    q_emb = _model.encode([query], normalize_embeddings=True).tolist()[0]
+    kwargs: dict[str, Any] = {"query_embeddings": [q_emb], "n_results": top_k}
+    if where and isinstance(where, dict) and len(where) > 0:
+        kwargs["where"] = where
+    
+    res = _collection.query(**kwargs)
+    
+    # Extraer términos clave para highlighting
+    key_terms = extract_key_terms(query) if highlight_terms else []
+    
+    hits: list[dict[str, Any]] = []
+    for i in range(len(res["ids"][0])):
+        doc_id = res["ids"][0][i]
+        full_text = res["documents"][0][i]
+        metadata = res["metadatas"][0][i] or {}
+        score = float(res["distances"][0][i])
+        
+        # Encontrar mejor posición del match en el texto
+        match_pos = _find_best_match_position(query, full_text)
+        
+        # Extraer ventana de contexto ampliada
+        context, context_start, context_end = _extract_context_window(
+            full_text, match_pos, context_chars
+        )
+        
+        # Construir metadata enriquecida
+        enriched_metadata = {
+            **metadata,  # Metadata original
+            "match_position": match_pos,
+            "context_start": context_start,
+            "context_end": context_end,
+            "text_length": len(full_text),
+        }
+        
+        # Generar URL navegable al documento
+        document_url = generate_document_url(doc_id, metadata)
+        
+        # Construir hit con información extendida
+        hit = {
+            "doc_id": doc_id,
+            "score": score,
+            "snippet": full_text[:500],  # Mantener para compatibilidad
+            "context": context,  # Contexto ampliado
+            "metadata": enriched_metadata,
+            "document_url": document_url,  # URL navegable (NUEVO en Fase 2)
+        }
+        
+        # Agregar highlighting si está habilitado
+        if highlight_terms and key_terms:
+            hit["context_highlighted"] = highlight_text(context, key_terms, marker="**")
+            hit["highlighted_terms"] = key_terms
+        
+        # Incluir texto completo si se solicita
+        if include_full_text:
+            hit["full_text"] = full_text
+        
+        hits.append(hit)
+    
+    return hits
+
+
+def _detect_error_codes(query: str) -> list[str]:
+    """Detecta códigos de error en la query.
+    
+    Busca patrones como:
+    - service 25, servicio 25
+    - error 25
+    - S_25, S25
+    - código 25
+    
+    Returns:
+        Lista de códigos detectados (e.g., ["25"])
+    """
+    patterns = [
+        r'\bservice\s+(\d+)',
+        r'\bservicio\s+(\d+)',
+        r'\berror\s+(\d+)',
+        r'\bS_?(\d+)',
+        r'\bcódigo\s+(\d+)',
+        r'\bcode\s+(\d+)',
+    ]
+    
+    codes = set()
+    query_lower = query.lower()
+    
+    for pattern in patterns:
+        matches = re.findall(pattern, query_lower, re.IGNORECASE)
+        codes.update(matches)
+    
+    return sorted(list(codes))
+
+
+def _keyword_boost_search(
+    query: str, 
+    error_codes: list[str],
+    top_k: int = 20,
+    where: dict[str, Any] | None = None
+) -> dict[str, float]:
+    """Búsqueda por keyword con scoring para códigos de error.
+    
+    Args:
+        query: Query original
+        error_codes: Códigos de error detectados
+        top_k: Número de resultados
+        where: Filtros de metadata
+        
+    Returns:
+        Dict de {doc_id: keyword_score}
+    """
+    if not error_codes:
+        return {}
+    
+    # Construir patrones de búsqueda para cada código
+    search_patterns = []
+    for code in error_codes:
+        search_patterns.extend([
+            f"service {code}",
+            f"servicio {code}",
+            f"service{code}",
+            f"s_{code}",
+            f"s{code}",
+            f"error {code}",
+        ])
+    
+    # Obtener todos los documentos (o filtrados)
+    try:
+        if where:
+            results = _collection.get(where=where, include=["documents", "metadatas"])
+        else:
+            results = _collection.get(include=["documents", "metadatas"])
+    except Exception:
+        return {}
+    
+    # Scoring por matches de keywords
+    keyword_scores = {}
+    for i, doc_id in enumerate(results["ids"]):
+        text = results["documents"][i].lower() if i < len(results["documents"]) else ""
+        score = 0.0
+        
+        for pattern in search_patterns:
+            # Contar ocurrencias del patrón
+            count = text.count(pattern.lower())
+            if count > 0:
+                # Boost score basado en:
+                # - Número de ocurrencias
+                # - Qué tan específico es el patrón
+                pattern_weight = 2.0 if "_" in pattern or pattern.startswith("service ") else 1.0
+                score += count * pattern_weight
+        
+        if score > 0:
+            keyword_scores[doc_id] = score
+    
+    return keyword_scores
+
+
+def kb_search_hybrid(
+    query: str, 
+    top_k: int = 10, 
+    where: dict[str, Any] | None = None,
+    semantic_weight: float = 0.5,
+    keyword_weight: float = 0.5,
+    context_chars: int = 2000,
+) -> list[dict[str, Any]]:
+    """Búsqueda híbrida: combina búsqueda semántica con keyword matching.
+    
+    Especialmente útil para códigos de error técnicos donde la búsqueda semántica
+    puede fallar en encontrar matches exactos.
+    
+    Args:
+        query: Consulta de búsqueda
+        top_k: Número de resultados finales
+        where: Filtros de metadata opcionales
+        semantic_weight: Peso para score semántico (0-1)
+        keyword_weight: Peso para score de keywords (0-1)
+        context_chars: Caracteres de contexto
+        
+    Returns:
+        Lista de hits con scores híbridos, ordenados por relevancia
+    """
+    # 1. Detectar códigos de error en la query
+    error_codes = _detect_error_codes(query)
+    
+    # 2. Si no hay códigos de error, usar búsqueda semántica normal
+    if not error_codes:
+        return kb_search_extended(
+            query=query,
+            top_k=top_k,
+            where=where,
+            context_chars=context_chars,
+            highlight_terms=False
+        )
+    
+    # 3. Búsqueda semántica (top_k * 2 para tener más candidatos)
+    semantic_results = kb_search_extended(
+        query=query,
+        top_k=top_k * 3,  # Obtener más candidatos
+        where=where,
+        context_chars=context_chars,
+        highlight_terms=False
+    )
+    
+    # 4. Búsqueda por keywords
+    keyword_scores = _keyword_boost_search(
+        query=query,
+        error_codes=error_codes,
+        top_k=top_k * 3,
+        where=where
+    )
+    
+    # 5. Normalizar scores semánticos a [0-1]
+    semantic_scores = {}
+    if semantic_results:
+        max_sem_score = max(r["score"] for r in semantic_results)
+        min_sem_score = min(r["score"] for r in semantic_results)
+        score_range = max_sem_score - min_sem_score if max_sem_score > min_sem_score else 1.0
+        
+        for r in semantic_results:
+            normalized = (r["score"] - min_sem_score) / score_range
+            semantic_scores[r["doc_id"]] = normalized
+    
+    # 6. Normalizar keyword scores a [0-1]
+    if keyword_scores:
+        max_kw_score = max(keyword_scores.values())
+        if max_kw_score > 0:
+            keyword_scores = {k: v/max_kw_score for k, v in keyword_scores.items()}
+    
+    # 7. Combinar scores híbridos
+    combined_scores = {}
+    all_doc_ids = set(semantic_scores.keys()) | set(keyword_scores.keys())
+    
+    for doc_id in all_doc_ids:
+        sem_score = semantic_scores.get(doc_id, 0.0)
+        kw_score = keyword_scores.get(doc_id, 0.0)
+        
+        # Score híbrido: dar más peso a keyword matches para códigos de error
+        combined_scores[doc_id] = (
+            semantic_weight * sem_score + 
+            keyword_weight * kw_score
+        )
+    
+    # 8. Reordenar resultados por score híbrido
+    semantic_results_dict = {r["doc_id"]: r for r in semantic_results}
+    
+    # Obtener documentos adicionales que solo aparecieron en keyword search
+    for doc_id in keyword_scores:
+        if doc_id not in semantic_results_dict:
+            # Recuperar el documento completo
+            try:
+                doc_result = _collection.get(ids=[doc_id], include=["documents", "metadatas"])
+                if doc_result and doc_result["ids"]:
+                    semantic_results_dict[doc_id] = {
+                        "doc_id": doc_id,
+                        "score": 0.0,  # No tuvo score semántico
+                        "snippet": doc_result["documents"][0][:500] if doc_result["documents"] else "",
+                        "context": doc_result["documents"][0][:context_chars] if doc_result["documents"] else "",
+                        "metadata": doc_result["metadatas"][0] if doc_result["metadatas"] else {},
+                        "document_url": generate_document_url(
+                            doc_result["metadatas"][0].get("source", "") if doc_result["metadatas"] else "",
+                            page=doc_result["metadatas"][0].get("page") if doc_result["metadatas"] else None,
+                            doc_id=doc_id
+                        )
+                    }
+            except Exception:
+                continue
+    
+    # Crear lista final con scores híbridos
+    hybrid_results = []
+    for doc_id, hybrid_score in sorted(combined_scores.items(), key=lambda x: -x[1])[:top_k]:
+        if doc_id in semantic_results_dict:
+            result = semantic_results_dict[doc_id].copy()
+            result["score"] = hybrid_score
+            result["semantic_score"] = semantic_scores.get(doc_id, 0.0)
+            result["keyword_score"] = keyword_scores.get(doc_id, 0.0)
+            result["error_codes_found"] = error_codes
+            hybrid_results.append(result)
+    
+    return hybrid_results
 
 
 if __name__ == "__main__":

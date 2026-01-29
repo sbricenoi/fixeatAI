@@ -1,0 +1,1054 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fixeat Widget - Ejemplos de Integración</title>
+    <style>
+        /* Estilos básicos para la demo */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: #f8f9fa;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        
+        .demo-section {
+            background: white;
+            margin: 30px 0;
+            padding: 30px;
+            border-radius: 12px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+        
+        .demo-header {
+            margin-bottom: 20px;
+        }
+        
+        .demo-title {
+            font-size: 24px;
+            font-weight: 600;
+            color: #2c3e50;
+            margin-bottom: 8px;
+        }
+        
+        .demo-description {
+            color: #6c757d;
+            font-size: 16px;
+        }
+        
+        .code-block {
+            background: #1e1e1e;
+            color: #d4d4d4;
+            padding: 20px;
+            border-radius: 8px;
+            overflow-x: auto;
+            margin: 15px 0;
+            font-family: 'Courier New', monospace;
+            font-size: 14px;
+        }
+        
+        .demo-controls {
+            display: flex;
+            gap: 15px;
+            margin: 20px 0;
+            flex-wrap: wrap;
+        }
+        
+        .btn {
+            padding: 10px 20px;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 14px;
+            font-weight: 500;
+            transition: all 0.3s ease;
+            text-decoration: none;
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+        }
+        
+        .btn-primary {
+            background: #007bff;
+            color: white;
+        }
+        
+        .btn-primary:hover {
+            background: #0056b3;
+            transform: translateY(-1px);
+        }
+        
+        .btn-secondary {
+            background: transparent;
+            color: #007bff;
+            border: 1px solid #007bff;
+        }
+        
+        .btn-secondary:hover {
+            background: #007bff;
+            color: white;
+        }
+        
+        .btn-success {
+            background: #28a745;
+            color: white;
+        }
+        
+        .btn-success:hover {
+            background: #1e7e34;
+        }
+        
+        .btn-warning {
+            background: #ffc107;
+            color: #212529;
+        }
+        
+        .btn-warning:hover {
+            background: #e0a800;
+        }
+        
+        .demo-status {
+            padding: 12px 16px;
+            border-radius: 6px;
+            margin: 15px 0;
+            font-size: 14px;
+            font-weight: 500;
+        }
+        
+        .status-success {
+            background: #d4edda;
+            color: #155724;
+            border: 1px solid #c3e6cb;
+        }
+        
+        .status-warning {
+            background: #fff3cd;
+            color: #856404;
+            border: 1px solid #ffeaa7;
+        }
+        
+        .status-info {
+            background: #d1ecf1;
+            color: #0c5460;
+            border: 1px solid #bee5eb;
+        }
+        
+        .business-demo {
+            padding: 20px;
+            border: 1px solid #dee2e6;
+            border-radius: 8px;
+            margin: 15px 0;
+        }
+        
+        .business-header {
+            font-size: 20px;
+            font-weight: 600;
+            margin-bottom: 10px;
+        }
+        
+        .business-meta {
+            color: #6c757d;
+            margin-bottom: 15px;
+        }
+        
+        .business-content {
+            margin: 15px 0;
+        }
+        
+        .business-menu {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+            margin: 20px 0;
+        }
+        
+        .menu-item {
+            padding: 15px;
+            background: #f8f9fa;
+            border-radius: 6px;
+            border-left: 4px solid #007bff;
+        }
+        
+        .menu-item h4 {
+            margin-bottom: 5px;
+            color: #2c3e50;
+        }
+        
+        .menu-item p {
+            color: #6c757d;
+            font-size: 14px;
+        }
+        
+        /* Responsive */
+        @media (max-width: 768px) {
+            .container {
+                padding: 10px;
+            }
+            
+            .demo-section {
+                padding: 20px;
+            }
+            
+            .demo-controls {
+                flex-direction: column;
+            }
+            
+            .btn {
+                width: 100%;
+                justify-content: center;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <div class="demo-section">
+            <div class="demo-header">
+                <h1 class="demo-title">🎯 Fixeat Widget - Ejemplos de Integración</h1>
+                <p class="demo-description">
+                    Ejemplos prácticos de cómo integrar el widget inteligente de recomendaciones de equipamiento en diferentes tipos de sitios web. 
+                    El widget detecta automáticamente el tipo de negocio y adapta sus preguntas y recomendaciones.
+                </p>
+            </div>
+            
+            <div id="main-status" class="demo-status status-info">
+                <strong>Estado:</strong> Listo para testing. Selecciona un ejemplo para probar el widget.
+            </div>
+            
+            <div class="demo-controls">
+                <button class="btn btn-primary" onclick="showWidgetInfo()">
+                    📋 Información del Widget
+                </button>
+                <button class="btn btn-secondary" onclick="toggleDebugMode()">
+                    🐛 Modo Debug
+                </button>
+                <button class="btn btn-warning" onclick="resetAllWidgets()">
+                    🔄 Reset Widgets
+                </button>
+            </div>
+        </div>
+
+        <!-- Ejemplo 1: Panadería Artesanal -->
+        <div class="demo-section">
+            <div class="demo-header">
+                <h2 class="demo-title">🥖 Panadería Artesanal San Miguel</h2>
+                <p class="demo-description">
+                    Ejemplo de integración en una panadería artesanal. El widget debería detectar automáticamente que es una panadería 
+                    basándose en las palabras clave como "pan", "masa madre", "horno", etc.
+                </p>
+            </div>
+            
+            <div class="business-demo" id="bakery-demo">
+                <div class="business-header">Panadería Artesanal San Miguel</div>
+                <div class="business-meta">🍞 Especialistas en pan artesanal y masa madre desde 1985</div>
+                
+                <div class="business-content">
+                    <p>Somos una panadería tradicional especializada en la elaboración de pan artesanal con masa madre natural. 
+                    Nuestro horno de leña funciona desde hace más de 30 años, creando los mejores panes de la región.</p>
+                    
+                    <div class="business-menu">
+                        <div class="menu-item">
+                            <h4>Pan de Masa Madre</h4>
+                            <p>Fermentación natural de 24 horas para un sabor único</p>
+                        </div>
+                        <div class="menu-item">
+                            <h4>Baguette Francesa</h4>
+                            <p>Crujiente por fuera, esponjosa por dentro</p>
+                        </div>
+                        <div class="menu-item">
+                            <h4>Pan Integral</h4>
+                            <p>Con granos y semillas, rico en fibra</p>
+                        </div>
+                        <div class="menu-item">
+                            <h4>Croissants</h4>
+                            <p>Hojaldre artesanal con mantequilla francesa</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="demo-controls">
+                <button class="btn btn-primary" onclick="initBakeryWidget()">
+                    🚀 Activar Widget Panadería
+                </button>
+                <button class="btn btn-secondary" onclick="showDetectionResults('bakery')">
+                    🔍 Ver Detección
+                </button>
+            </div>
+            
+            <div class="code-block">
+&lt;!-- Integración para Panadería --&gt;
+&lt;script&gt;
+  window.FixeatConfig = {
+    apiKey: 'pk_demo_bakery_12345',
+    theme: {
+      primaryColor: '#8B4513', // Color chocolate
+      fontFamily: 'Georgia, serif'
+    },
+    position: 'bottom-right',
+    autoDetect: true,
+    language: 'es',
+    customPrompts: {
+      welcome: '¡Hola! Veo que tienes una panadería. ¿Te ayudo a encontrar equipos para optimizar tu producción?'
+    }
+  };
+&lt;/script&gt;
+&lt;script src="./src/fixeat-widget.js" async&gt;&lt;/script&gt;
+            </div>
+        </div>
+
+        <!-- Ejemplo 2: Pizzería Napolitana -->
+        <div class="demo-section">
+            <div class="demo-header">
+                <h2 class="demo-title">🍕 Pizzería Napolitana Roma</h2>
+                <p class="demo-description">
+                    Pizzería auténtica con horno de leña. El widget detectará palabras como "pizza", "italiana", "mozzarella", 
+                    "horno de leña" para identificar el tipo de negocio.
+                </p>
+            </div>
+            
+            <div class="business-demo" id="pizzeria-demo">
+                <div class="business-header">Pizzería Napolitana Roma</div>
+                <div class="business-meta">🇮🇹 Auténtica pizza italiana con horno de leña tradicional</div>
+                
+                <div class="business-content">
+                    <p>Pizzería auténtica napolitana con horno de leña importado de Italia. Utilizamos ingredientes tradicionales: 
+                    mozzarella di bufala, tomate San Marzano y albahaca fresca. Especialistas en pizza con masa fermentada 72 horas.</p>
+                    
+                    <div class="business-menu">
+                        <div class="menu-item">
+                            <h4>Pizza Margherita</h4>
+                            <p>Mozzarella di bufala, tomate San Marzano, albahaca</p>
+                        </div>
+                        <div class="menu-item">
+                            <h4>Pizza Quattro Stagioni</h4>
+                            <p>Cuatro estaciones en una pizza tradicional</p>
+                        </div>
+                        <div class="menu-item">
+                            <h4>Pizza Marinara</h4>
+                            <p>Tomate, ajo, orégano y aceite de oliva extra virgen</p>
+                        </div>
+                        <div class="menu-item">
+                            <h4>Calzone Ripieno</h4>
+                            <p>Pizza cerrada rellena de ricotta y mozzarella</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="demo-controls">
+                <button class="btn btn-primary" onclick="initPizzeriaWidget()">
+                    🚀 Activar Widget Pizzería
+                </button>
+                <button class="btn btn-secondary" onclick="showDetectionResults('pizzeria')">
+                    🔍 Ver Detección
+                </button>
+            </div>
+            
+            <div class="code-block">
+&lt;!-- Integración para Pizzería --&gt;
+&lt;script&gt;
+  window.FixeatConfig = {
+    apiKey: 'pk_demo_pizzeria_67890',
+    theme: {
+      primaryColor: '#C8102E', // Rojo italiano
+      fontFamily: 'Arial, sans-serif'
+    },
+    position: 'bottom-left',
+    autoDetect: true,
+    language: 'es',
+    detectionConfig: {
+      contentWeight: 0.5, // Más peso al contenido
+      structureWeight: 0.3,
+      imageWeight: 0.1,
+      urlWeight: 0.1
+    }
+  };
+&lt;/script&gt;
+&lt;script src="./src/fixeat-widget.js" async&gt;&lt;/script&gt;
+            </div>
+        </div>
+
+        <!-- Ejemplo 3: Cafetería Moderna -->
+        <div class="demo-section">
+            <div class="demo-header">
+                <h2 class="demo-title">☕ Cafetería Central Coffee</h2>
+                <p class="demo-description">
+                    Cafetería especializada en café de especialidad. El widget detectará términos como "café", "espresso", 
+                    "cappuccino", "barista" para identificar el negocio.
+                </p>
+            </div>
+            
+            <div class="business-demo" id="cafe-demo">
+                <div class="business-header">Central Coffee</div>
+                <div class="business-meta">☕ Café de especialidad y métodos de extracción artesanales</div>
+                
+                <div class="business-content">
+                    <p>Cafetería especializada en café de origen único y métodos de extracción alternativos. 
+                    Nuestros baristas certificados preparan el mejor espresso, cappuccino y latte art de la ciudad. 
+                    También ofrecemos desayunos gourmet y repostería artesanal.</p>
+                    
+                    <div class="business-menu">
+                        <div class="menu-item">
+                            <h4>Espresso de Origen</h4>
+                            <p>Café colombiano, brasileño y etíope</p>
+                        </div>
+                        <div class="menu-item">
+                            <h4>Cappuccino Artesanal</h4>
+                            <p>Con latte art personalizado</p>
+                        </div>
+                        <div class="menu-item">
+                            <h4>Cold Brew</h4>
+                            <p>Extracción en frío de 12 horas</p>
+                        </div>
+                        <div class="menu-item">
+                            <h4>Desayunos Gourmet</h4>
+                            <p>Acompañados de nuestro café especial</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="demo-controls">
+                <button class="btn btn-primary" onclick="initCafeWidget()">
+                    🚀 Activar Widget Cafetería
+                </button>
+                <button class="btn btn-secondary" onclick="showDetectionResults('cafe')">
+                    🔍 Ver Detección
+                </button>
+            </div>
+            
+            <div class="code-block">
+&lt;!-- Integración para Cafetería --&gt;
+&lt;script&gt;
+  window.FixeatConfig = {
+    apiKey: 'pk_demo_cafe_54321',
+    theme: {
+      primaryColor: '#6F4E37', // Color café
+      fontFamily: 'Roboto, sans-serif'
+    },
+    position: 'bottom-right',
+    autoDetect: true,
+    language: 'es',
+    welcomeDelay: 2000,
+    customPrompts: {
+      welcome: '¡Hola! Detecté que tienes una cafetería. ¿Te ayudo a encontrar equipos para mejorar tu servicio de café?'
+    }
+  };
+&lt;/script&gt;
+&lt;script src="./src/fixeat-widget.js" async&gt;&lt;/script&gt;
+            </div>
+        </div>
+
+        <!-- Ejemplo 4: Negocio Genérico -->
+        <div class="demo-section">
+            <div class="demo-header">
+                <h2 class="demo-title">🏢 Sitio Web Genérico</h2>
+                <p class="demo-description">
+                    Ejemplo sin palabras clave específicas. El widget no podrá detectar automáticamente el tipo de negocio 
+                    y mostrará opciones para que el usuario seleccione.
+                </p>
+            </div>
+            
+            <div class="business-demo" id="generic-demo">
+                <div class="business-header">Empresa de Servicios ABC</div>
+                <div class="business-meta">🏢 Soluciones empresariales y consultoría</div>
+                
+                <div class="business-content">
+                    <p>Somos una empresa de servicios que ofrece soluciones integrales para el sector empresarial. 
+                    Nuestro equipo de consultores especializados ayuda a las organizaciones a optimizar sus procesos 
+                    y alcanzar sus objetivos de negocio.</p>
+                    
+                    <div class="business-menu">
+                        <div class="menu-item">
+                            <h4>Consultoría Estratégica</h4>
+                            <p>Planificación y desarrollo empresarial</p>
+                        </div>
+                        <div class="menu-item">
+                            <h4>Optimización de Procesos</h4>
+                            <p>Mejora de eficiencia operativa</p>
+                        </div>
+                        <div class="menu-item">
+                            <h4>Tecnología</h4>
+                            <p>Implementación de soluciones digitales</p>
+                        </div>
+                        <div class="menu-item">
+                            <h4>Capacitación</h4>
+                            <p>Formación de equipos de trabajo</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="demo-controls">
+                <button class="btn btn-primary" onclick="initGenericWidget()">
+                    🚀 Activar Widget Genérico
+                </button>
+                <button class="btn btn-secondary" onclick="showDetectionResults('generic')">
+                    🔍 Ver Detección
+                </button>
+            </div>
+            
+            <div class="code-block">
+&lt;!-- Integración Genérica (sin detección automática) --&gt;
+&lt;script&gt;
+  window.FixeatConfig = {
+    apiKey: 'pk_demo_generic_99999',
+    theme: {
+      primaryColor: '#6c757d', // Gris neutro
+      fontFamily: 'system-ui, sans-serif'
+    },
+    position: 'bottom-right',
+    autoDetect: false, // Desactivar detección automática
+    language: 'es',
+    customPrompts: {
+      welcome: '¡Hola! Soy tu asistente de equipamiento. ¿En qué tipo de negocio trabajas?'
+    }
+  };
+&lt;/script&gt;
+&lt;script src="./src/fixeat-widget.js" async&gt;&lt;/script&gt;
+            </div>
+        </div>
+
+        <!-- Panel de Control -->
+        <div class="demo-section">
+            <div class="demo-header">
+                <h2 class="demo-title">🎛️ Panel de Control</h2>
+                <p class="demo-description">
+                    Controles para probar diferentes configuraciones y funcionalidades del widget.
+                </p>
+            </div>
+            
+            <div class="demo-controls">
+                <button class="btn btn-primary" onclick="testAllDetections()">
+                    🧪 Probar Todas las Detecciones
+                </button>
+                <button class="btn btn-secondary" onclick="simulateConversation()">
+                    💬 Simular Conversación
+                </button>
+                <button class="btn btn-success" onclick="showAnalytics()">
+                    📊 Ver Analytics
+                </button>
+                <button class="btn btn-warning" onclick="exportConfig()">
+                    📥 Exportar Configuración
+                </button>
+            </div>
+            
+            <div id="control-results" class="demo-status" style="display: none;">
+                <!-- Resultados del panel de control se mostrarán aquí -->
+            </div>
+        </div>
+    </div>
+
+    <!-- Widget Script (Simulado para demo) -->
+    <script>
+        // Variables globales para el demo
+        let currentWidget = null;
+        let debugMode = false;
+        let detectionResults = {};
+
+        // Simular clase FixeatWidget para el demo
+        class FixeatWidgetDemo {
+            constructor(config) {
+                this.config = config;
+                this.isOpen = false;
+                this.detectedBusiness = null;
+            }
+
+            async init() {
+                console.log('Inicializando widget con configuración:', this.config);
+                
+                // Simular detección de negocio
+                if (this.config.autoDetect) {
+                    this.detectedBusiness = await this.simulateBusinessDetection();
+                }
+                
+                this.createWidget();
+                this.showWelcomeMessage();
+                
+                return this;
+            }
+
+            async simulateBusinessDetection() {
+                // Simular análisis del contenido de la página
+                const pageText = document.body.textContent.toLowerCase();
+                
+                const businessScores = {
+                    bakery: this.calculateScore(pageText, ['pan', 'panadería', 'horno', 'masa', 'levadura', 'artesanal']),
+                    pizzeria: this.calculateScore(pageText, ['pizza', 'pizzería', 'italiana', 'mozzarella', 'horno de leña']),
+                    cafe: this.calculateScore(pageText, ['café', 'espresso', 'cappuccino', 'barista', 'cafetería']),
+                    restaurant: this.calculateScore(pageText, ['restaurante', 'menú', 'cocina', 'chef', 'comida'])
+                };
+
+                const topBusiness = Object.entries(businessScores)
+                    .sort(([,a], [,b]) => b - a)[0];
+
+                const result = {
+                    type: topBusiness[1] > 30 ? topBusiness[0] : 'unknown',
+                    confidence: Math.round(topBusiness[1]),
+                    detectionTime: Math.random() * 500 + 100,
+                    indicators: [
+                        {
+                            source: 'content',
+                            evidence: `Keywords found in page content`,
+                            confidence: Math.round(topBusiness[1])
+                        }
+                    ]
+                };
+
+                console.log('Detección simulada:', result);
+                return result;
+            }
+
+            calculateScore(text, keywords) {
+                let score = 0;
+                keywords.forEach(keyword => {
+                    const matches = (text.match(new RegExp(keyword, 'gi')) || []).length;
+                    score += matches * 20;
+                });
+                return Math.min(score, 100);
+            }
+
+            createWidget() {
+                // Crear botón flotante del widget
+                const existingWidget = document.getElementById('demo-widget');
+                if (existingWidget) {
+                    existingWidget.remove();
+                }
+
+                const widget = document.createElement('div');
+                widget.id = 'demo-widget';
+                widget.style.cssText = `
+                    position: fixed;
+                    ${this.config.position === 'bottom-left' ? 'left: 20px;' : 'right: 20px;'}
+                    bottom: 20px;
+                    width: 60px;
+                    height: 60px;
+                    background: ${this.config.theme?.primaryColor || '#007bff'};
+                    border-radius: 50%;
+                    cursor: pointer;
+                    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    z-index: 10000;
+                    transition: all 0.3s ease;
+                    color: white;
+                    font-size: 24px;
+                `;
+                
+                widget.innerHTML = '💬';
+                widget.onclick = () => this.toggle();
+                
+                // Hover effect
+                widget.onmouseenter = () => {
+                    widget.style.transform = 'scale(1.05)';
+                };
+                widget.onmouseleave = () => {
+                    widget.style.transform = 'scale(1)';
+                };
+
+                document.body.appendChild(widget);
+            }
+
+            showWelcomeMessage() {
+                setTimeout(() => {
+                    let message = this.config.customPrompts?.welcome;
+                    
+                    if (!message) {
+                        if (this.detectedBusiness && this.detectedBusiness.confidence > 60) {
+                            const businessName = this.getBusinessTypeName(this.detectedBusiness.type);
+                            message = `¡Hola! Detecté que tienes ${businessName}. ¿Te ayudo a encontrar el equipo perfecto?`;
+                        } else {
+                            message = '¡Hola! Soy tu asistente de equipamiento. ¿En qué tipo de negocio trabajas?';
+                        }
+                    }
+                    
+                    this.showNotification(message);
+                }, this.config.welcomeDelay || 3000);
+            }
+
+            showNotification(message) {
+                const notification = document.createElement('div');
+                notification.style.cssText = `
+                    position: fixed;
+                    ${this.config.position === 'bottom-left' ? 'left: 90px;' : 'right: 90px;'}
+                    bottom: 30px;
+                    background: white;
+                    padding: 15px 20px;
+                    border-radius: 12px;
+                    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+                    max-width: 300px;
+                    z-index: 10001;
+                    border: 1px solid #e0e0e0;
+                    animation: slideIn 0.3s ease;
+                `;
+                
+                notification.innerHTML = `
+                    <div style="font-size: 14px; color: #333; margin-bottom: 10px;">${message}</div>
+                    <button onclick="this.parentElement.remove()" style="
+                        background: ${this.config.theme?.primaryColor || '#007bff'};
+                        color: white;
+                        border: none;
+                        padding: 8px 16px;
+                        border-radius: 6px;
+                        cursor: pointer;
+                        font-size: 12px;
+                    ">¡Sí, ayúdame!</button>
+                    <button onclick="this.parentElement.remove()" style="
+                        background: transparent;
+                        color: #666;
+                        border: 1px solid #ddd;
+                        padding: 8px 16px;
+                        border-radius: 6px;
+                        cursor: pointer;
+                        font-size: 12px;
+                        margin-left: 8px;
+                    ">No ahora</button>
+                `;
+
+                document.body.appendChild(notification);
+
+                // Auto-remove después de 10 segundos
+                setTimeout(() => {
+                    if (notification.parentElement) {
+                        notification.remove();
+                    }
+                }, 10000);
+            }
+
+            toggle() {
+                alert(`Widget activado!\n\nTipo detectado: ${this.detectedBusiness?.type || 'desconocido'}\nConfianza: ${this.detectedBusiness?.confidence || 0}%\n\nEn una implementación real, aquí se abriría el chat completo.`);
+            }
+
+            getBusinessTypeName(type) {
+                const names = {
+                    bakery: 'una panadería',
+                    restaurant: 'un restaurante',
+                    cafe: 'una cafetería',
+                    pizzeria: 'una pizzería'
+                };
+                return names[type] || 'un negocio gastronómico';
+            }
+
+            destroy() {
+                const widget = document.getElementById('demo-widget');
+                if (widget) {
+                    widget.remove();
+                }
+                currentWidget = null;
+            }
+        }
+
+        // Función para agregar estilos de animación
+        function addAnimationStyles() {
+            if (!document.getElementById('demo-animations')) {
+                const style = document.createElement('style');
+                style.id = 'demo-animations';
+                style.textContent = `
+                    @keyframes slideIn {
+                        from {
+                            opacity: 0;
+                            transform: translateY(10px);
+                        }
+                        to {
+                            opacity: 1;
+                            transform: translateY(0);
+                        }
+                    }
+                `;
+                document.head.appendChild(style);
+            }
+        }
+
+        // Funciones de demostración
+        async function initBakeryWidget() {
+            if (currentWidget) {
+                currentWidget.destroy();
+            }
+            
+            addAnimationStyles();
+            
+            const config = {
+                apiKey: 'pk_demo_bakery_12345',
+                theme: {
+                    primaryColor: '#8B4513',
+                    fontFamily: 'Georgia, serif'
+                },
+                position: 'bottom-right',
+                autoDetect: true,
+                language: 'es',
+                customPrompts: {
+                    welcome: '¡Hola! Veo que tienes una panadería. ¿Te ayudo a encontrar equipos para optimizar tu producción?'
+                }
+            };
+
+            currentWidget = new FixeatWidgetDemo(config);
+            await currentWidget.init();
+            
+            updateStatus('Widget de panadería activado correctamente', 'success');
+        }
+
+        async function initPizzeriaWidget() {
+            if (currentWidget) {
+                currentWidget.destroy();
+            }
+            
+            addAnimationStyles();
+            
+            const config = {
+                apiKey: 'pk_demo_pizzeria_67890',
+                theme: {
+                    primaryColor: '#C8102E',
+                    fontFamily: 'Arial, sans-serif'
+                },
+                position: 'bottom-left',
+                autoDetect: true,
+                language: 'es'
+            };
+
+            currentWidget = new FixeatWidgetDemo(config);
+            await currentWidget.init();
+            
+            updateStatus('Widget de pizzería activado correctamente', 'success');
+        }
+
+        async function initCafeWidget() {
+            if (currentWidget) {
+                currentWidget.destroy();
+            }
+            
+            addAnimationStyles();
+            
+            const config = {
+                apiKey: 'pk_demo_cafe_54321',
+                theme: {
+                    primaryColor: '#6F4E37',
+                    fontFamily: 'Roboto, sans-serif'
+                },
+                position: 'bottom-right',
+                autoDetect: true,
+                language: 'es',
+                welcomeDelay: 2000
+            };
+
+            currentWidget = new FixeatWidgetDemo(config);
+            await currentWidget.init();
+            
+            updateStatus('Widget de cafetería activado correctamente', 'success');
+        }
+
+        async function initGenericWidget() {
+            if (currentWidget) {
+                currentWidget.destroy();
+            }
+            
+            addAnimationStyles();
+            
+            const config = {
+                apiKey: 'pk_demo_generic_99999',
+                theme: {
+                    primaryColor: '#6c757d',
+                    fontFamily: 'system-ui, sans-serif'
+                },
+                position: 'bottom-right',
+                autoDetect: false,
+                language: 'es'
+            };
+
+            currentWidget = new FixeatWidgetDemo(config);
+            await currentWidget.init();
+            
+            updateStatus('Widget genérico activado (sin detección automática)', 'warning');
+        }
+
+        function showDetectionResults(businessType) {
+            if (!currentWidget || !currentWidget.detectedBusiness) {
+                alert('Primero activa un widget para ver los resultados de detección.');
+                return;
+            }
+
+            const result = currentWidget.detectedBusiness;
+            const resultText = `
+Resultados de Detección Automática:
+
+Tipo detectado: ${result.type}
+Confianza: ${result.confidence}%
+Tiempo de detección: ${Math.round(result.detectionTime)}ms
+
+Indicadores encontrados:
+${result.indicators.map(ind => `• ${ind.source}: ${ind.evidence} (${ind.confidence}%)`).join('\n')}
+
+${result.confidence > 70 ? '✅ Detección exitosa' : '⚠️ Baja confianza, se mostrará selector manual'}
+            `;
+
+            alert(resultText);
+        }
+
+        function updateStatus(message, type = 'info') {
+            const statusEl = document.getElementById('main-status');
+            statusEl.className = `demo-status status-${type}`;
+            statusEl.innerHTML = `<strong>Estado:</strong> ${message}`;
+        }
+
+        function showWidgetInfo() {
+            const info = `
+Información del Widget Fixeat:
+
+📋 Características principales:
+• Detección automática de tipo de negocio
+• Conversación inteligente con IA
+• Recomendaciones personalizadas
+• Integración ultra-simple (1 línea de código)
+• Diseño responsive y accesible
+• Personalizable con temas
+
+🔧 Configuración:
+• API Key requerida para producción
+• Múltiples posiciones disponibles
+• Temas personalizables
+• Soporte multiidioma
+• Modo debug para desarrollo
+
+💡 Tipos de negocio soportados:
+• Panaderías y pastelerías
+• Restaurantes y cocinas
+• Cafeterías y bares
+• Pizzerías
+• Food trucks
+• Hoteles y catering
+            `;
+            
+            alert(info);
+        }
+
+        function toggleDebugMode() {
+            debugMode = !debugMode;
+            const btn = event.target;
+            
+            if (debugMode) {
+                btn.textContent = '🐛 Debug: ON';
+                btn.classList.remove('btn-secondary');
+                btn.classList.add('btn-success');
+                updateStatus('Modo debug activado - se mostrarán logs detallados', 'info');
+            } else {
+                btn.textContent = '🐛 Modo Debug';
+                btn.classList.remove('btn-success');
+                btn.classList.add('btn-secondary');
+                updateStatus('Modo debug desactivado', 'info');
+            }
+        }
+
+        function resetAllWidgets() {
+            if (currentWidget) {
+                currentWidget.destroy();
+            }
+            
+            // Remover notificaciones
+            document.querySelectorAll('[style*="position: fixed"][style*="z-index: 10001"]').forEach(el => {
+                el.remove();
+            });
+            
+            updateStatus('Todos los widgets han sido reseteados', 'info');
+        }
+
+        function testAllDetections() {
+            updateStatus('Probando detección en todas las secciones...', 'info');
+            
+            setTimeout(() => {
+                const results = [
+                    { section: 'Panadería', type: 'bakery', confidence: 89 },
+                    { section: 'Pizzería', type: 'pizzeria', confidence: 92 },
+                    { section: 'Cafetería', type: 'cafe', confidence: 85 },
+                    { section: 'Genérico', type: 'unknown', confidence: 15 }
+                ];
+                
+                let resultText = 'Resultados de detección:\n\n';
+                results.forEach(r => {
+                    resultText += `${r.section}: ${r.type} (${r.confidence}%)\n`;
+                });
+                
+                alert(resultText);
+                updateStatus('Prueba de detección completada', 'success');
+            }, 2000);
+        }
+
+        function simulateConversation() {
+            const conversations = [
+                'Usuario: Necesito equipos para mi panadería',
+                'IA: ¿Cuántos kg de pan produces diariamente?',
+                'Usuario: Aproximadamente 50 kg',
+                'IA: Perfecto. ¿Qué tipos de pan produces?',
+                'Usuario: Pan artesanal y baguettes',
+                'IA: Te recomiendo una amasadora espiral...'
+            ];
+            
+            alert('Conversación simulada:\n\n' + conversations.join('\n\n'));
+        }
+
+        function showAnalytics() {
+            const analytics = `
+📊 Analytics del Widget (Demo):
+
+Sesiones totales: 1,247
+Detecciones exitosas: 89%
+Conversiones: 23%
+Tiempo promedio: 4.2 min
+
+Por tipo de negocio:
+• Panaderías: 35% (mayor conversión)
+• Restaurantes: 28%
+• Cafeterías: 22%
+• Pizzerías: 15%
+
+Dispositivos:
+• Desktop: 62%
+• Mobile: 35%
+• Tablet: 3%
+            `;
+            
+            alert(analytics);
+        }
+
+        function exportConfig() {
+            if (!currentWidget) {
+                alert('No hay widget activo para exportar configuración.');
+                return;
+            }
+            
+            const config = JSON.stringify(currentWidget.config, null, 2);
+            const blob = new Blob([config], { type: 'application/json' });
+            const url = URL.createObjectURL(blob);
+            
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = 'fixeat-widget-config.json';
+            a.click();
+            
+            URL.revokeObjectURL(url);
+            updateStatus('Configuración exportada correctamente', 'success');
+        }
+
+        // Inicializar demo
+        document.addEventListener('DOMContentLoaded', function() {
+            updateStatus('Demo cargado. Selecciona un ejemplo para probar el widget.', 'info');
+        });
+    </script>
+</body>
+</html>
+
+

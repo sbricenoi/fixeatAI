@@ -1,0 +1,451 @@
+from __future__ import annotations
+
+import re
+from typing import Any, Dict, List, Set, Tuple
+from collections import Counter
+
+
+def _extract_technical_patterns(text: str) -> Dict[str, List[str]]:
+    """Extrae patrones técnicos del texto usando análisis contextual."""
+    if not text:
+        return {"symptoms": [], "parts": [], "actions": []}
+    
+    text_lower = text.lower()
+    
+    # Patrones de síntomas (más específicos)
+    symptom_patterns = {
+        r"no\s+(enciende|prende|funciona)": "No enciende",
+        r"(ruido|sonido)\s+(mecánico|extraño|anormal)": "Ruido mecánico anormal",
+        r"(falla|problema|error)\s+(temperatura|temp)": "Problema de temperatura",
+        r"(filtración|fuga|goteo)": "Filtración detectada",
+        r"(trabado|bloqueado|atascado)": "Mecanismo trabado",
+        r"(descompensado|desbalanceado|disparejo)": "Funcionamiento irregular",
+        r"(cortocircuito|corto\s+circuito)": "Cortocircuito eléctrico",
+        r"(sobrecalentamiento|muy\s+caliente)": "Sobrecalentamiento",
+        r"(vibracion|vibración)\s+(excesiva|anormal)": "Vibración excesiva",
+        r"(pantalla|display)\s+(negra|apagada|error)": "Falla en display",
+        r"(presión|presion)\s+(baja|alta|incorrecta)": "Problema de presión",
+        r"(conexión|contacto)\s+(suelta|mala|defectuosa)": "Conexión defectuosa"
+    }
+    
+    # Patrones de componentes
+    component_patterns = {
+        r"\b(bomba|pump)\b": "bomba",
+        r"\b(sensor|sonda|termocupla)\b": "sensor",
+        r"\b(válvula|valvula|valve)\b": "válvula",
+        r"\b(motor|engine)\b": "motor",
+        r"\b(correa|belt|banda)\b": "correa",
+        r"\b(cadena|chain)\b": "cadena",
+        r"\b(piñón|piñon|engranaje|gear)\b": "piñón",
+        r"\b(resistencia|heating element)\b": "resistencia",
+        r"\b(fusible|fuse)\b": "fusible",
+        r"\b(filtro|filter)\b": "filtro",
+        r"\b(quemador|burner|inyector)\b": "quemador",
+        r"\b(ventilador|fan)\b": "ventilador",
+        r"\b(termostato|thermostat)\b": "termostato",
+        r"\b(contactor|relay|relé)\b": "contactor",
+        r"\b(junta|gasket|burlete)\b": "junta",
+        r"\b(manguera|hose|tubo)\b": "manguera",
+        r"\b(electrodo|electrode|chispero)\b": "electrodo",
+        r"\b(rodamiento|bearing|cojinete)\b": "rodamiento",
+        r"\b(tarjeta|pcb|placa|card)\b": "tarjeta",
+        r"\b(pantalla|display|panel)\b": "pantalla",
+        r"\b(manilla|handle|manija)\b": "manilla",
+        r"\b(puerta|door|tapa)\b": "puerta",
+        r"\b(gozne|hinge|bisagra)\b": "gozne",
+        r"\b(desagüe|desague|drain)\b": "desagüe"
+    }
+    
+    # Patrones de acciones técnicas
+    action_patterns = {
+        r"(cambiar|cambio|reemplazar|reemplazo)": "cambio",
+        r"(reparar|reparación|arreglar)": "reparación",
+        r"(limpiar|limpieza)": "limpieza",
+        r"(regular|regulación|ajustar|ajuste)": "regulación",
+        r"(lubricar|lubricación|engrasar)": "lubricación",
+        r"(revisar|revisión|inspeccionar)": "revisión",
+        r"(calibrar|calibración)": "calibración",
+        r"(soldar|soldadura)": "soldadura",
+        r"(apretar|reaprete|tensar)": "reaprete",
+        r"(medir|medición)": "medición"
+    }
+    
+    results = {"symptoms": [], "parts": [], "actions": []}
+    
+    # Extraer síntomas
+    for pattern, symptom in symptom_patterns.items():
+        if re.search(pattern, text_lower):
+            results["symptoms"].append(symptom)
+    
+    # Extraer componentes
+    for pattern, component in component_patterns.items():
+        if re.search(pattern, text_lower):
+            results["parts"].append(component)
+    
+    # Extraer acciones
+    for pattern, action in action_patterns.items():
+        if re.search(pattern, text_lower):
+            results["actions"].append(action)
+    
+    return results
+
+
+def _analyze_failure_context(hits: List[Dict[str, Any]], description: str = "") -> Dict[str, Any]:
+    """Analiza el contexto de fallas combinando KB hits y descripción."""
+    all_text = description + " " + " ".join(h.get("snippet", "") for h in hits)
+    patterns = _extract_technical_patterns(all_text)
+    
+    # Contar frecuencias para determinar patrones dominantes
+    symptom_freq = Counter(patterns["symptoms"])
+    part_freq = Counter(patterns["parts"])
+    action_freq = Counter(patterns["actions"])
+    
+    # Calcular contexto de falla basado en evidencia
+    context = {
+        "primary_symptoms": [s for s, c in symptom_freq.most_common(3)],
+        "affected_parts": [p for p, c in part_freq.most_common(5)],
+        "recommended_actions": [a for a, c in action_freq.most_common(3)],
+        "evidence_strength": len(hits),
+        "text_length": len(all_text)
+    }
+    
+    return context
+
+
+def _generate_intelligent_failure_predictions(context: Dict[str, Any], hits: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+    """Genera predicciones inteligentes basadas en análisis contextual."""
+    predictions = []
+    
+    symptoms = context.get("primary_symptoms", [])
+    parts = context.get("affected_parts", [])
+    evidence_strength = context.get("evidence_strength", 0)
+    
+    # Mapeo de síntomas a fallas específicas con lógica mejorada
+    failure_mapping = {
+        "No enciende": {
+            "electrical": ["fusible", "contactor", "tarjeta", "resistencia"],
+            "mechanical": ["motor", "sensor"],
+            "base_confidence": 0.8
+        },
+        "Ruido mecánico anormal": {
+            "mechanical": ["rodamiento", "piñón", "cadena", "correa", "motor"],
+            "base_confidence": 0.85
+        },
+        "Problema de temperatura": {
+            "thermal": ["sensor", "termostato", "resistencia", "quemador"],
+            "base_confidence": 0.9
+        },
+        "Filtración detectada": {
+            "sealing": ["junta", "manguera", "válvula", "desagüe"],
+            "base_confidence": 0.75
+        },
+        "Mecanismo trabado": {
+            "mechanical": ["cadena", "piñón", "rodamiento", "correa"],
+            "base_confidence": 0.8
+        },
+        "Funcionamiento irregular": {
+            "control": ["sensor", "tarjeta", "termostato"],
+            "mechanical": ["motor", "rodamiento"],
+            "base_confidence": 0.7
+        },
+        "Cortocircuito eléctrico": {
+            "electrical": ["fusible", "tarjeta", "contactor", "resistencia"],
+            "base_confidence": 0.95
+        },
+        "Falla en display": {
+            "electronic": ["pantalla", "tarjeta"],
+            "base_confidence": 0.9
+        }
+    }
+    
+    # Generar predicciones basadas en síntomas y partes encontradas
+    for symptom in symptoms:
+        if symptom in failure_mapping:
+            mapping = failure_mapping[symptom]
+            base_conf = mapping["base_confidence"]
+            
+            # Encontrar intersección entre partes mencionadas y partes relevantes
+            relevant_parts = []
+            for category, category_parts in mapping.items():
+                if category != "base_confidence":
+                    relevant_parts.extend(category_parts)
+            
+            intersect_parts = [p for p in parts if p in relevant_parts]
+            
+            if intersect_parts:
+                # Falla específica con partes identificadas
+                part_list = ", ".join(intersect_parts)
+                confidence = min(base_conf + 0.1, 0.95)
+                failure_desc = f"{symptom} - posible falla en {part_list}"
+                main_component = intersect_parts[0]
+            else:
+                # Falla general sin partes específicas
+                confidence = base_conf * 0.8
+                failure_desc = symptom
+                main_component = relevant_parts[0] if relevant_parts else "sensor"
+            
+            # Ajustar confianza basada en evidencia
+            if evidence_strength > 3:
+                confidence = min(confidence + 0.05, 0.95)
+            elif evidence_strength < 2:
+                confidence = max(confidence - 0.15, 0.3)
+            
+            # Buscar rationale específico en los hits
+            rationale_sources = []
+            for i, hit in enumerate(hits[:3]):
+                if intersect_parts and any(part in hit.get("snippet", "").lower() for part in intersect_parts):
+                    rationale_sources.append(hit.get("doc_id", f"source_{i}"))
+            
+            if not rationale_sources:
+                rationale_sources = [h.get("doc_id", "unknown") for h in hits[:2]]
+            
+            rationale = f"Basado en análisis contextual. Fuentes: {', '.join(rationale_sources[:2])}"
+            
+            # Obtener repuestos, herramientas y pasos específicos para esta falla
+            component_data = _suggest_parts_and_tools_for_component(main_component)
+            
+            # Construir pasos con protocolos de seguridad
+            safety_start = _get_safety_protocols()
+            safety_end = _get_final_safety_step()
+            pasos_diagnostico = component_data["pasos_base"]
+            
+            # Combinar y renumerar pasos
+            all_steps = safety_start + pasos_diagnostico
+            final_order = len(all_steps) + 1
+            safety_end["orden"] = final_order
+            all_steps.append(safety_end)
+            
+            # Renumerar todos los pasos
+            for idx, step in enumerate(all_steps, start=1):
+                step["orden"] = idx
+            
+            predictions.append({
+                "falla": failure_desc,
+                "confidence": round(confidence, 2),
+                "rationale": rationale,
+                "repuestos_sugeridos": component_data["repuestos_sugeridos"],
+                "herramientas_sugeridas": component_data["herramientas_sugeridas"],
+                "pasos": all_steps
+            })
+    
+    # Si no hay síntomas específicos, usar análisis de partes directamente
+    if not predictions and parts:
+        common_parts = parts[:3]
+        confidence = 0.6 if evidence_strength > 2 else 0.4
+        
+        failure_desc = f"Posible problema en componentes: {', '.join(common_parts)}"
+        rationale = f"Basado en análisis de componentes mencionados. Fuentes: {len(hits)} documentos"
+        
+        # Usar primer componente para sugerencias
+        main_component = common_parts[0] if common_parts else "sensor"
+        component_data = _suggest_parts_and_tools_for_component(main_component)
+        
+        # Construir pasos con protocolos de seguridad
+        safety_start = _get_safety_protocols()
+        safety_end = _get_final_safety_step()
+        pasos_diagnostico = component_data["pasos_base"]
+        
+        all_steps = safety_start + pasos_diagnostico
+        final_order = len(all_steps) + 1
+        safety_end["orden"] = final_order
+        all_steps.append(safety_end)
+        
+        for idx, step in enumerate(all_steps, start=1):
+            step["orden"] = idx
+        
+        predictions.append({
+            "falla": failure_desc,
+            "confidence": round(confidence, 2),
+            "rationale": rationale,
+            "repuestos_sugeridos": component_data["repuestos_sugeridos"],
+            "herramientas_sugeridas": component_data["herramientas_sugeridas"],
+            "pasos": all_steps
+        })
+    
+    # Limitar a top 4 predicciones y ordenar por confianza
+    predictions = sorted(predictions, key=lambda x: x["confidence"], reverse=True)[:4]
+    
+    return predictions
+
+
+def _get_safety_protocols() -> List[Dict[str, Any]]:
+    """Retorna protocolos de seguridad estándar."""
+    return [
+        {
+            "orden": 1,
+            "descripcion": "Verificar que el equipo esté completamente apagado y desconectado de la fuente de alimentación eléctrica",
+            "tipo": "seguridad"
+        },
+        {
+            "orden": 2,
+            "descripcion": "Usar equipo de protección personal (EPP): guantes, gafas de seguridad y calzado adecuado",
+            "tipo": "seguridad"
+        },
+        {
+            "orden": 3,
+            "descripcion": "Verificar que no haya presión residual en el sistema (si aplica)",
+            "tipo": "seguridad"
+        }
+    ]
+
+
+def _get_final_safety_step() -> Dict[str, Any]:
+    """Retorna paso final de seguridad."""
+    return {
+        "descripcion": "Verificar que todas las conexiones estén seguras y realizar prueba de funcionamiento supervisada",
+        "tipo": "seguridad"
+    }
+
+
+def _suggest_parts_and_tools_for_component(component: str) -> Dict[str, Any]:
+    """Sugiere repuestos y herramientas para un componente específico."""
+    
+    # Mapeo de componentes a repuestos específicos
+    parts_mapping = {
+        "bomba": ["Kit de reparación de bomba", "Bomba de repuesto", "Sellos de bomba"],
+        "sensor": ["Sensor de temperatura", "Termocupla", "Cable sensor"],
+        "válvula": ["Válvula solenoide", "Kit de válvula", "Junta de válvula"],
+        "motor": ["Motor de repuesto", "Escobillas de motor", "Capacitor de arranque"],
+        "correa": ["Correa de transmisión", "Tensor de correa"],
+        "cadena": ["Cadena de transmisión", "Eslabones de cadena"],
+        "piñón": ["Piñón de repuesto", "Kit de engranajes"],
+        "resistencia": ["Resistencia calefactora", "Elemento calefactor", "Termostato de seguridad"],
+        "fusible": ["Fusibles de repuesto", "Portafusibles"],
+        "filtro": ["Filtro de repuesto", "Kit de filtros", "O-rings"],
+        "quemador": ["Quemador completo", "Inyectores", "Electrodo de encendido"],
+        "ventilador": ["Motor de ventilador", "Aspas de ventilador", "Capacitor"],
+        "termostato": ["Termostato de repuesto", "Bulbo termostático"],
+        "contactor": ["Contactor eléctrico", "Relé de control"],
+        "junta": ["Junta de repuesto", "Kit de juntas", "Sellador de alta temperatura"],
+        "manguera": ["Manguera de repuesto", "Abrazaderas", "Acoples"],
+        "electrodo": ["Electrodo de encendido", "Cable de electrodo"],
+        "rodamiento": ["Rodamiento de bolas", "Kit de rodamientos", "Grasa para rodamientos"],
+        "tarjeta": ["Tarjeta electrónica", "PCB de control"],
+        "pantalla": ["Display LCD", "Panel de control", "Cable flex"],
+        "manilla": ["Manilla de puerta", "Kit de manilla"],
+        "puerta": ["Junta de puerta", "Bisagras de puerta"],
+        "gozne": ["Gozne de puerta", "Kit de bisagras"],
+        "desagüe": ["Kit de desagüe", "Manguera de desagüe", "Trampa de desagüe"]
+    }
+    
+    # Mapeo de componentes a herramientas necesarias
+    tools_mapping = {
+        "bomba": ["Multímetro", "Llaves Allen", "Destornilladores", "Llave inglesa"],
+        "sensor": ["Multímetro", "Tester de temperatura", "Destornilladores"],
+        "válvula": ["Llave inglesa", "Destornilladores", "Llave ajustable"],
+        "motor": ["Multímetro", "Llaves mixtas", "Destornilladores", "Alicate"],
+        "correa": ["Llaves Allen", "Tensor de correa", "Calibrador de tensión"],
+        "cadena": ["Llaves Allen", "Lubricante", "Limpiador", "Calibrador"],
+        "piñón": ["Llaves Allen", "Extractor de piñones", "Prensa"],
+        "resistencia": ["Multímetro", "Destornilladores", "Tester de continuidad", "Pinza amperimétrica"],
+        "fusible": ["Multímetro", "Alicate", "Destornilladores"],
+        "filtro": ["Destornilladores", "Llaves", "Llave de filtro"],
+        "quemador": ["Llaves mixtas", "Destornilladores", "Manómetro", "Detector de fugas"],
+        "ventilador": ["Destornilladores", "Multímetro", "Llaves Allen"],
+        "termostato": ["Multímetro", "Destornilladores", "Tester de temperatura"],
+        "contactor": ["Multímetro", "Destornilladores", "Alicate"],
+        "junta": ["Raspador de juntas", "Sellador", "Espátula"],
+        "manguera": ["Cortador de manguera", "Abrazaderas", "Llave ajustable"],
+        "electrodo": ["Multímetro", "Destornilladores", "Calibrador de bujías"],
+        "rodamiento": ["Extractor de rodamientos", "Prensa", "Martillo de goma"],
+        "tarjeta": ["Destornilladores", "Multímetro", "Pulsera antiestática"],
+        "pantalla": ["Destornilladores", "Espátula plástica"],
+        "manilla": ["Destornilladores", "Llaves Allen"],
+        "puerta": ["Destornilladores", "Llaves Allen", "Nivel"],
+        "gozne": ["Destornilladores", "Lubricante", "Llaves Allen"],
+        "desagüe": ["Destornilladores", "Sellador", "Llave ajustable"]
+    }
+    
+    # Mapeo de componentes a pasos de diagnóstico y reparación
+    steps_mapping = {
+        "bomba": [
+            {"descripcion": "Verificar alimentación eléctrica de la bomba con multímetro", "tipo": "diagnostico"},
+            {"descripcion": "Inspeccionar visualmente la bomba en busca de fugas o daños", "tipo": "diagnostico"},
+            {"descripcion": "Medir resistencia del motor de la bomba", "tipo": "diagnostico"},
+            {"descripcion": "Desmontar bomba y reemplazar sellos o unidad completa según diagnóstico", "tipo": "reparacion"},
+            {"descripcion": "Purgar sistema y verificar caudal de agua", "tipo": "reparacion"}
+        ],
+        "sensor": [
+            {"descripcion": "Medir resistencia del sensor con multímetro", "tipo": "diagnostico"},
+            {"descripcion": "Verificar continuidad del cable del sensor", "tipo": "diagnostico"},
+            {"descripcion": "Comparar lectura del sensor con temperatura real", "tipo": "diagnostico"},
+            {"descripcion": "Reemplazar sensor defectuoso", "tipo": "reparacion"},
+            {"descripcion": "Calibrar sensor y verificar lecturas", "tipo": "reparacion"}
+        ],
+        "resistencia": [
+            {"descripcion": "Desconectar resistencia y medir continuidad", "tipo": "diagnostico"},
+            {"descripcion": "Medir resistencia óhmica según especificaciones del fabricante", "tipo": "diagnostico"},
+            {"descripcion": "Verificar termostato de seguridad asociado", "tipo": "diagnostico"},
+            {"descripcion": "Reemplazar resistencia calefactora", "tipo": "reparacion"},
+            {"descripcion": "Verificar corriente de operación con pinza amperimétrica", "tipo": "reparacion"}
+        ],
+        "motor": [
+            {"descripcion": "Verificar alimentación eléctrica del motor", "tipo": "diagnostico"},
+            {"descripcion": "Medir resistencia de bobinados del motor", "tipo": "diagnostico"},
+            {"descripcion": "Inspeccionar escobillas y colector (si aplica)", "tipo": "diagnostico"},
+            {"descripcion": "Verificar capacitor de arranque", "tipo": "diagnostico"},
+            {"descripcion": "Reemplazar motor o componentes defectuosos", "tipo": "reparacion"}
+        ],
+        "termostato": [
+            {"descripcion": "Verificar continuidad del termostato en diferentes temperaturas", "tipo": "diagnostico"},
+            {"descripcion": "Medir temperatura de activación del termostato", "tipo": "diagnostico"},
+            {"descripcion": "Reemplazar termostato defectuoso", "tipo": "reparacion"},
+            {"descripcion": "Calibrar y verificar puntos de apertura/cierre", "tipo": "reparacion"}
+        ]
+    }
+    
+    parts = parts_mapping.get(component, [])
+    tools = tools_mapping.get(component, ["Multímetro", "Destornilladores", "Llaves mixtas"])
+    steps = steps_mapping.get(component, [
+        {"descripcion": f"Inspeccionar {component} visualmente en busca de daños", "tipo": "diagnostico"},
+        {"descripcion": f"Verificar conexiones y continuidad del {component}", "tipo": "diagnostico"},
+        {"descripcion": f"Reemplazar {component} si está defectuoso", "tipo": "reparacion"}
+    ])
+    
+    return {
+        "repuestos_sugeridos": parts[:4],  # Máximo 4 repuestos por falla
+        "herramientas_sugeridas": tools[:6],  # Máximo 6 herramientas por falla
+        "pasos_base": steps[:5]  # Máximo 5 pasos base
+    }
+
+
+def infer_from_hits(hits: List[Dict[str, Any]], description: str = "") -> List[Dict[str, Any]]:
+    """Genera predicciones inteligentes a partir de los hits de la KB y descripción del problema.
+    
+    Reemplaza la lógica simplista anterior con análisis contextual profundo.
+    """
+    if not hits and not description:
+        return []
+    
+    # Análisis contextual
+    context = _analyze_failure_context(hits, description)
+    
+    # Generar predicciones inteligentes
+    predictions = _generate_intelligent_failure_predictions(context, hits)
+    
+    return predictions
+
+
+def suggest_parts_and_tools(preds: List[Dict[str, Any]], context: Dict[str, Any] = None) -> Dict[str, List[str]]:
+    """Función de compatibilidad. La nueva estructura ya incluye repuestos, herramientas y pasos dentro de cada falla.
+    
+    Esta función ahora retorna la estructura antigua para compatibilidad hacia atrás si es necesario.
+    """
+    # Extraer todos los repuestos y herramientas de todas las fallas
+    all_parts = []
+    all_tools = []
+    
+    for pred in preds:
+        all_parts.extend(pred.get("repuestos_sugeridos", []))
+        all_tools.extend(pred.get("herramientas_sugeridas", []))
+    
+    # Remover duplicados manteniendo orden
+    unique_parts = list(dict.fromkeys(all_parts))
+    unique_tools = list(dict.fromkeys(all_tools))
+    
+    return {
+        "repuestos_sugeridos": unique_parts[:6],
+        "herramientas_sugeridas": unique_tools[:8]
+    }
+
+

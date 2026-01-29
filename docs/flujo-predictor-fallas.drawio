@@ -1,0 +1,88 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Flujo Predictor Fallas">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        
+        <!-- Usuario -->
+        <mxCell id="usuario" value="👤 USUARIO&lt;br&gt;Por qué service 25?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1f5ff;strokeColor=#01579b;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="400" y="40" width="200" height="60" as="geometry"/>
+        </mxCell>
+        
+        <!-- API -->
+        <mxCell id="api" value="📥 API: /predict-fallas&lt;br&gt;Detecta: modelo + error" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff3e0;strokeColor=#e65100;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="400" y="140" width="200" height="60" as="geometry"/>
+        </mxCell>
+        
+        <!-- Búsqueda Híbrida -->
+        <mxCell id="search" value="🔍 BÚSQUEDA HÍBRIDA&lt;br&gt;Semántica 40% + Keywords 60%&lt;br&gt;Boost 1.5x iCombi Classic&lt;br&gt;➜ 18 candidatos" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8f5e9;strokeColor=#1b5e20;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="360" y="240" width="280" height="80" as="geometry"/>
+        </mxCell>
+        
+        <!-- LLM Re-Ranker -->
+        <mxCell id="reranker" value="🤖 LLM RE-RANKER&lt;br&gt;Analiza CADA documento:&lt;br&gt;• ¿Responde a la query?&lt;br&gt;• ¿Qué tan relevante?&lt;br&gt;• ¿Por qué es relevante?&lt;br&gt;➜ Top 10 ordenados" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f3e5f5;strokeColor=#4a148c;fontSize=11;align=left;" vertex="1" parent="1">
+          <mxGeometry x="340" y="360" width="320" height="100" as="geometry"/>
+        </mxCell>
+        
+        <!-- Construcción Contexto -->
+        <mxCell id="context" value="📝 CONSTRUCCIÓN CONTEXTO&lt;br&gt;Expande a 2000+ chars/doc&lt;br&gt;Total: ~15,000 caracteres" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff3e0;strokeColor=#e65100;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="360" y="500" width="280" height="70" as="geometry"/>
+        </mxCell>
+        
+        <!-- Generación LLM -->
+        <mxCell id="generation" value="🤖 GENERACIÓN LLM&lt;br&gt;GPT-4o-mini genera:&lt;br&gt;• Fallas probables&lt;br&gt;• Repuestos&lt;br&gt;• Pasos reparación&lt;br&gt;• Referencias citadas" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f3e5f5;strokeColor=#4a148c;fontSize=11;align=left;" vertex="1" parent="1">
+          <mxGeometry x="360" y="610" width="280" height="100" as="geometry"/>
+        </mxCell>
+        
+        <!-- Enriquecimiento -->
+        <mxCell id="enrich" value="📚 ENRIQUECIMIENTO&lt;br&gt;• Relevancia LLM: 95%&lt;br&gt;• Explicación LLM&lt;br&gt;• URL navegable: pdf#page=28&lt;br&gt;• Metadata completa" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff3e0;strokeColor=#e65100;fontSize=11;align=left;" vertex="1" parent="1">
+          <mxGeometry x="360" y="750" width="280" height="90" as="geometry"/>
+        </mxCell>
+        
+        <!-- Respuesta Final -->
+        <mxCell id="response" value="✅ RESPUESTA JSON&lt;br&gt;• Diagnóstico detallado&lt;br&gt;• 10 docs ordenados&lt;br&gt;• Links a PDFs&lt;br&gt;• Signals calidad" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#c8e6c9;strokeColor=#2e7d32;fontStyle=1;fontSize=12;align=left;" vertex="1" parent="1">
+          <mxGeometry x="360" y="880" width="280" height="90" as="geometry"/>
+        </mxCell>
+        
+        <!-- Flechas -->
+        <mxCell edge="1" parent="1" source="usuario" target="api">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell edge="1" parent="1" source="api" target="search">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell edge="1" parent="1" source="search" target="reranker">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell edge="1" parent="1" source="reranker" target="context">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell edge="1" parent="1" source="context" target="generation">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell edge="1" parent="1" source="generation" target="enrich">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell edge="1" parent="1" source="enrich" target="response">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        
+        <!-- Anotaciones de tiempo -->
+        <mxCell id="time1" value="⏱️ 1-2 seg" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=10;fontColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="660" y="260" width="80" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="time2" value="⏱️ 5-8 seg" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=10;fontColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="660" y="400" width="80" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="time3" value="⏱️ 200 ms" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=10;fontColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="660" y="530" width="80" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="time4" value="⏱️ 2-3 seg" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=10;fontColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="660" y="650" width="80" height="20" as="geometry"/>
+        </mxCell>
+        
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

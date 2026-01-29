@@ -1,0 +1,95 @@
+# Animal-AI Service - Dependencias independientes
+# Framework web
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+websockets==12.0
+
+# Modelos de datos y validación
+pydantic==2.5.0
+pydantic-settings==2.1.0
+
+# Computer Vision y análisis de movimiento
+opencv-python==4.8.1.78
+ultralytics==8.0.206  # YOLO v8
+mediapipe==0.10.8
+numpy==1.24.3
+scipy==1.11.4
+scikit-image==0.22.0
+pillow==10.1.0
+
+# Tracking y detección
+deep-sort-realtime==1.3.2
+filterpy==1.4.5
+
+# Inteligencia Artificial
+openai==1.3.7
+anthropic==0.7.8
+transformers==4.35.2
+torch==2.1.1
+torchvision==0.16.1
+
+# Base de datos y almacenamiento
+sqlalchemy==2.0.23
+alembic==1.12.1
+sqlite3  # Incluido en Python
+aiosqlite==0.19.0
+
+# Knowledge Base integration
+chromadb==0.4.18
+sentence-transformers==2.2.2
+httpx==0.25.2
+aiohttp==3.9.1
+
+# Procesamiento de video y streams
+imageio==2.31.6
+imageio-ffmpeg==0.4.9
+av==10.0.0
+
+# Utilidades
+python-multipart==0.0.6
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+python-dotenv==1.0.0
+pyyaml==6.0.1
+
+# Logging y monitoreo
+structlog==23.2.0
+prometheus-client==0.19.0
+psutil==5.9.6
+
+# Procesamiento asíncrono
+asyncio
+aiofiles==23.2.1
+celery==5.3.4
+redis==5.0.1
+
+# Análisis de datos
+pandas==2.1.3
+matplotlib==3.8.2
+seaborn==0.13.0
+
+# Utilidades de fecha y tiempo
+python-dateutil==2.8.2
+pytz==2023.3
+
+# Validación y testing (desarrollo)
+pytest==7.4.3
+pytest-asyncio==0.21.1
+pytest-cov==4.1.0
+httpx==0.25.2  # Para testing de APIs
+
+# Seguridad
+cryptography==41.0.7
+bcrypt==4.1.2
+
+# Configuración
+click==8.1.7
+typer==0.9.0
+
+# Formato y calidad de código
+black==23.11.0
+isort==5.12.0
+flake8==6.1.0
+mypy==1.7.1
+
+
