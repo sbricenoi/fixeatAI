@@ -1,0 +1,257 @@
+{
+    "traceId": "e2aa2682-29d6-47ac-8eb9-9c164a1b2bb0",
+    "code": "OK",
+    "message": "Predicci\u00f3n generada",
+    "data": {
+        "fallas_probables": [
+            {
+                "falla": "El horno de convecci\u00f3n Hobart no enciende.",
+                "confidence": 0.5,
+                "rationale": "La falta de encendido puede deberse a problemas el\u00e9ctricos o de alimentaci\u00f3n, pero no se proporciona informaci\u00f3n espec\u00edfica sobre el estado del equipo o las condiciones de operaci\u00f3n [source:default_equipments_9cf6a026-38ba-46a3-bced-a34b2a745783].",
+                "repuestos_sugeridos": [
+                    "fusible",
+                    "rel\u00e9 de encendido"
+                ],
+                "herramientas_sugeridas": [
+                    "mult\u00edmetro",
+                    "destornillador"
+                ],
+                "pasos": [
+                    {
+                        "orden": 1,
+                        "descripcion": "Desconectar el horno de la fuente de alimentaci\u00f3n el\u00e9ctrica.",
+                        "tipo": "seguridad"
+                    },
+                    {
+                        "orden": 2,
+                        "descripcion": "Usar equipo de protecci\u00f3n personal (EPP) adecuado.",
+                        "tipo": "seguridad"
+                    },
+                    {
+                        "orden": 3,
+                        "descripcion": "Verificar que no haya presi\u00f3n en el sistema antes de realizar cualquier diagn\u00f3stico.",
+                        "tipo": "seguridad"
+                    },
+                    {
+                        "orden": 4,
+                        "descripcion": "Comprobar la conexi\u00f3n el\u00e9ctrica del horno y asegurarse de que est\u00e9 correctamente enchufado.",
+                        "tipo": "diagnostico"
+                    },
+                    {
+                        "orden": 5,
+                        "descripcion": "Medir la tensi\u00f3n en la entrada del horno con un mult\u00edmetro para verificar si hay alimentaci\u00f3n.",
+                        "tipo": "diagnostico"
+                    },
+                    {
+                        "orden": 6,
+                        "descripcion": "Revisar el estado de los fusibles y reemplazarlos si est\u00e1n quemados.",
+                        "tipo": "diagnostico"
+                    },
+                    {
+                        "orden": 7,
+                        "descripcion": "Inspeccionar el rel\u00e9 de encendido y reemplazarlo si no funciona correctamente.",
+                        "tipo": "diagnostico"
+                    },
+                    {
+                        "orden": 8,
+                        "descripcion": "Reensamblar el horno y conectar nuevamente a la fuente de alimentaci\u00f3n.",
+                        "tipo": "reparacion"
+                    },
+                    {
+                        "orden": 9,
+                        "descripcion": "Realizar una prueba supervisada para verificar que el horno encienda correctamente.",
+                        "tipo": "seguridad"
+                    }
+                ]
+            }
+        ],
+        "feedback_coherencia": "El problema reportado es coherente con la falta de encendido, pero se requiere m\u00e1s informaci\u00f3n para un diagn\u00f3stico preciso.",
+        "fuentes": [
+            "default_equipment_brands_9cf6a369-637b-404e-8016-c91ee2858139",
+            "default_equipment_brands_9bf492db-1ce4-48af-964d-3d2b4f2f8d25",
+            "default_equipment_brands_9bfefb15-0f9c-4e70-8052-eb89cb86c69f",
+            "default_equipment_brands_9cf6a191-4ebf-4674-be8a-5a20308fc3c7",
+            "default_equipments_9cf6a026-38ba-46a3-bced-a34b2a745783",
+            "default_equipments_9cf6a021-9ec7-427d-9c90-b59d8274206b",
+            "default_equipment_brands_9d411923-8fc6-4c01-8f65-6fe3297ba3af",
+            "default_equipments_9cf6a026-3793-4453-9b1d-bbd714def9bc",
+            "default_equipments_9cf6a021-a38b-4237-b72b-35da0da3610f",
+            "default_equipments_9cf6a01c-ef6b-4b5e-839c-517622cdab3c",
+            "default_equipments_9cf6a01c-f501-4e43-a199-e1313def9fe1",
+            "default_equipment_brands_9d41191f-acb9-4a88-ac4f-62d1888c1aca",
+            "default_equipments_9cf6a01c-ee62-4b8e-be18-7d76d8bb8c01",
+            "default_equipments_9cf6a01c-f1e1-45ab-a97c-1b42a57dcb80",
+            "default_equipments_9cf6a01c-e92f-44d5-a8c1-04df83b56405",
+            "default_equipments_9c291f66-5928-4f93-bf14-0648b233123a",
+            "default_equipments_9cf6a01c-ed58-468b-8ac5-ea49aaa0d1e9",
+            "default_equipments_9cf6a021-9fe0-4c7d-8fba-8ffd60daa3af",
+            "default_equipments_9cf6a026-310d-430c-8dc8-d1831b400276",
+            "default_equipments_9cf6a026-3668-400e-81c1-29a37381988c"
+        ],
+        "signals": {
+            "kb_hits": 20,
+            "context_length": 3984,
+            "low_evidence": false,
+            "fallback_used": false,
+            "llm_used": true,
+            "validation_passed": true
+        },
+        "quality_metrics": {
+            "context_relevance": 1.0,
+            "source_diversity": 1.0,
+            "prediction_confidence": 0.5
+        },
+        "contextos": [
+            {
+                "fuente": "default_quote_states_9f744a95-ac82-4bf1-990a-1cb54d1482fa",
+                "score": 1.1212574243545532,
+                "relevance_score": 0,
+                "confidence_label": "Baja",
+                "llm_explanation": "Este documento no contiene informaci\u00f3n relevante sobre el problema de encendido del horno, ya que se trata de un registro de estados de cotizaci\u00f3n.",
+                "contexto": "Registro de quote_states: id=9f744a95-ac82-4bf1-990a-1cb54d1482fa, name=enviado, slug=enviado",
+                "document_url": "/view-document/default_quote_states_9f744a95-ac82-4bf1-990a-1cb54d1482fa",
+                "metadata": {
+                    "page": null,
+                    "source": "default.quote_states",
+                    "brand": null,
+                    "model": null
+                }
+            },
+            {
+                "fuente": "default_companies_9c8d88fb-326c-4ad4-ae3f-be55979f111e",
+                "score": 1.235814094543457,
+                "relevance_score": 0,
+                "confidence_label": "Baja",
+                "llm_explanation": "Este documento es un registro de empresas y no tiene relaci\u00f3n con el problema del horno que no enciende.",
+                "contexto": "Registro de companies: id=9c8d88fb-326c-4ad4-ae3f-be55979f111e, name=INGENIERIA Y CONSTRUCCION FERNANDO ANDRES ALLENDES ARANDA EIRL, rut=76474962-6",
+                "document_url": "/view-document/default_companies_9c8d88fb-326c-4ad4-ae3f-be55979f111e",
+                "metadata": {
+                    "page": null,
+                    "source": "default.companies",
+                    "brand": null,
+                    "model": null
+                }
+            },
+            {
+                "fuente": "default_equipment_parts_9bf95f54-3a7a-4376-bf75-e6233ebacb6f",
+                "score": 1.238609790802002,
+                "relevance_score": 0,
+                "confidence_label": "Baja",
+                "llm_explanation": "Este documento menciona un repuesto espec\u00edfico, pero no proporciona informaci\u00f3n sobre el problema de encendido del horno.",
+                "contexto": "Repuesto DISCO CORTADOR JULIENNE 3 x 3 MM para equipo None. C\u00f3digo: N/A. Stock: N/A.",
+                "document_url": "/view-document/default_equipment_parts_9bf95f54-3a7a-4376-bf75-e6233ebacb6f",
+                "metadata": {
+                    "page": null,
+                    "source": "default.equipment_parts",
+                    "brand": null,
+                    "model": null
+                }
+            },
+            {
+                "fuente": "default_companies_9c8d88f9-464b-4210-ac90-9f1212dcdded",
+                "score": 1.2692711353302002,
+                "relevance_score": 0,
+                "confidence_label": "Baja",
+                "llm_explanation": "Este documento es otro registro de empresas y no aborda el problema del horno que no enciende.",
+                "contexto": "Registro de companies: id=9c8d88f9-464b-4210-ac90-9f1212dcdded, name=ENNIO GIGLIO RIQUELME PANADERIA Y PASTELERIA E.I. R.L, rut=76247295-3",
+                "document_url": "/view-document/default_companies_9c8d88f9-464b-4210-ac90-9f1212dcdded",
+                "metadata": {
+                    "page": null,
+                    "source": "default.companies",
+                    "brand": null,
+                    "model": null
+                }
+            },
+            {
+                "fuente": "default_companies_9c8d88f3-76a0-42d3-88eb-ab9cf77a01d7",
+                "score": 1.305406093597412,
+                "relevance_score": 0,
+                "confidence_label": "Baja",
+                "llm_explanation": "Este documento tambi\u00e9n es un registro de empresas y no tiene relaci\u00f3n con el problema del horno.",
+                "contexto": "Registro de companies: id=9c8d88f3-76a0-42d3-88eb-ab9cf77a01d7, name=HOTELERA E INMOBILIARIA NUEVA LTDA., rut=76153144-1",
+                "document_url": "/view-document/default_companies_9c8d88f3-76a0-42d3-88eb-ab9cf77a01d7",
+                "metadata": {
+                    "page": null,
+                    "source": "default.companies",
+                    "brand": null,
+                    "model": null
+                }
+            },
+            {
+                "fuente": "default_equipment_parts_9bf95f56-17d5-409b-bbf5-f332ee07dead",
+                "score": 1.3081755638122559,
+                "relevance_score": 0,
+                "confidence_label": "Baja",
+                "llm_explanation": "Este documento menciona un repuesto, pero no proporciona informaci\u00f3n \u00fatil sobre el problema de encendido del horno.",
+                "contexto": "Repuesto PORTAMOTOR C/PASADOR para equipo None. C\u00f3digo: N/A. Stock: N/A.",
+                "document_url": "/view-document/default_equipment_parts_9bf95f56-17d5-409b-bbf5-f332ee07dead",
+                "metadata": {
+                    "page": null,
+                    "source": "default.equipment_parts",
+                    "brand": null,
+                    "model": null
+                }
+            },
+            {
+                "fuente": "default_cities_2f4d471e-c913-4ef6-b539-ed409fe948b7",
+                "score": 1.3115296363830566,
+                "relevance_score": 0,
+                "confidence_label": "Baja",
+                "llm_explanation": "Este documento es un registro de ciudades y no tiene relaci\u00f3n con el problema del horno que no enciende.",
+                "contexto": "Registro de cities: id=2f4d471e-c913-4ef6-b539-ed409fe948b7, name=Alto Hospicio, state_id=1d5d6076-94d8-4417-a5d0-419ad152afcf",
+                "document_url": "/view-document/default_cities_2f4d471e-c913-4ef6-b539-ed409fe948b7",
+                "metadata": {
+                    "page": null,
+                    "source": "default.cities",
+                    "brand": null,
+                    "model": null
+                }
+            },
+            {
+                "fuente": "default_companies_9c8d88fc-36ff-4162-9e78-7e7411b1be25",
+                "score": 1.3145594596862793,
+                "relevance_score": 0,
+                "confidence_label": "Baja",
+                "llm_explanation": "Este documento es un registro de empresas y no aborda el problema del horno.",
+                "contexto": "Registro de companies: id=9c8d88fc-36ff-4162-9e78-7e7411b1be25, name=INGENIERIA ELECTRICA Y CONSTRUCCIONES SPA, rut=79783120-4",
+                "document_url": "/view-document/default_companies_9c8d88fc-36ff-4162-9e78-7e7411b1be25",
+                "metadata": {
+                    "page": null,
+                    "source": "default.companies",
+                    "brand": null,
+                    "model": null
+                }
+            },
+            {
+                "fuente": "default_contacts_9c8d88f6-7530-4f7e-9781-dc2622754f58",
+                "score": 1.3199784755706787,
+                "relevance_score": 0,
+                "confidence_label": "Baja",
+                "llm_explanation": "Este documento es un registro de contactos y no tiene relaci\u00f3n con el problema del horno que no enciende.",
+                "contexto": "Registro de contacts: id=9c8d88f6-7530-4f7e-9781-dc2622754f58, name=JORGE ALLIENDE, email=jorge.alliende@gmail.com",
+                "document_url": "/view-document/default_contacts_9c8d88f6-7530-4f7e-9781-dc2622754f58",
+                "metadata": {
+                    "page": null,
+                    "source": "default.contacts",
+                    "brand": null,
+                    "model": null
+                }
+            },
+            {
+                "fuente": "default_companies_9c8d88f8-0644-44d5-b180-5ee17ba3169f",
+                "score": 1.3200830221176147,
+                "relevance_score": 0,
+                "confidence_label": "Baja",
+                "llm_explanation": "Este documento es un registro de empresas y no proporciona informaci\u00f3n sobre el problema del horno.",
+                "contexto": "Registro de companies: id=9c8d88f8-0644-44d5-b180-5ee17ba3169f, name=INMOBILIARIA CARRETA S.A., rut=76115842-2",
+                "document_url": "/view-document/default_companies_9c8d88f8-0644-44d5-b180-5ee17ba3169f",
+                "metadata": {
+                    "page": null,
+                    "source": "default.companies",
+                    "brand": null,
+                    "model": null
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,257 @@
+{
+    "traceId": "621438c4-80b2-43a7-afe3-d66867d04b52",
+    "code": "OK",
+    "message": "Predicci\u00f3n generada",
+    "data": {
+        "fallas_probables": [
+            {
+                "falla": "Fuga de vapor por la puerta del horno debido a un sello da\u00f1ado.",
+                "confidence": 0.65,
+                "rationale": "El problema reportado indica que el sello parece da\u00f1ado, lo que puede causar la fuga de vapor [source:default_form_responses_0623a6e7-a035-4ddc-818f-f322a32ecb6c].",
+                "repuestos_sugeridos": [
+                    "sello de puerta",
+                    "junta de estanqueidad"
+                ],
+                "herramientas_sugeridas": [
+                    "destornillador",
+                    "c\u00fater"
+                ],
+                "pasos": [
+                    {
+                        "orden": 1,
+                        "descripcion": "Desconectar el horno de la fuente de alimentaci\u00f3n el\u00e9ctrica.",
+                        "tipo": "seguridad"
+                    },
+                    {
+                        "orden": 2,
+                        "descripcion": "Usar equipo de protecci\u00f3n personal (EPP) adecuado, como guantes y gafas de seguridad.",
+                        "tipo": "seguridad"
+                    },
+                    {
+                        "orden": 3,
+                        "descripcion": "Verificar que no haya presi\u00f3n de vapor en el horno antes de proceder.",
+                        "tipo": "seguridad"
+                    },
+                    {
+                        "orden": 4,
+                        "descripcion": "Inspeccionar visualmente el sello de la puerta para identificar da\u00f1os.",
+                        "tipo": "diagnostico"
+                    },
+                    {
+                        "orden": 5,
+                        "descripcion": "Realizar una prueba de presi\u00f3n para confirmar la fuga de vapor.",
+                        "tipo": "diagnostico"
+                    },
+                    {
+                        "orden": 6,
+                        "descripcion": "Retirar el sello da\u00f1ado de la puerta.",
+                        "tipo": "reparacion"
+                    },
+                    {
+                        "orden": 7,
+                        "descripcion": "Instalar el nuevo sello de puerta asegur\u00e1ndose de que est\u00e9 bien ajustado.",
+                        "tipo": "reparacion"
+                    },
+                    {
+                        "orden": 8,
+                        "descripcion": "Realizar una prueba de funcionamiento del horno para verificar que no haya fugas.",
+                        "tipo": "diagnostico"
+                    },
+                    {
+                        "orden": 9,
+                        "descripcion": "Conectar nuevamente el horno a la fuente de alimentaci\u00f3n y supervisar su funcionamiento.",
+                        "tipo": "seguridad"
+                    }
+                ]
+            }
+        ],
+        "feedback_coherencia": "El problema reportado es coherente con la descripci\u00f3n de la falla, ya que un sello da\u00f1ado puede causar la fuga de vapor.",
+        "fuentes": [
+            "default_equipments_9cf6a01c-d805-49a7-9362-575937a49919",
+            "default_equipments_9cf6a01c-d38e-41b7-bfd0-32c314947af1",
+            "default_equipments_9cf6a021-96c2-438e-aa8a-41b4c6e74735",
+            "default_equipments_9cf6a01c-de5d-4796-8276-ad8686d59b49",
+            "default_equipments_9cf6a01c-d993-41e7-8d34-36f3bcfe5f80",
+            "default_equipments_9c36beda-4555-4c41-9e0e-d6dd5809c2d4",
+            "default_equipments_9c1ea1c3-247a-4a25-9020-a649eb548155",
+            "default_equipments_9cf6a01c-d5e6-4051-a7db-f8aa94384327",
+            "default_activity_subtasks_9c1eac95-86a6-48a7-ba7c-ce732b72b414",
+            "default_equipments_9cf6a01c-dc3e-4a64-a27f-4bb7da745ce2",
+            "default_form_responses_0623a6e7-a035-4ddc-818f-f322a32ecb6c",
+            "default_activity_subtasks_9c1eabfa-2e1f-4e26-9bd8-9086d0223270",
+            "default_activity_subtasks_9c1eabfa-4080-44a9-9d0c-be7332b58cf2",
+            "default_activity_subtasks_9c1eabfa-27c6-4cd3-8f67-5d4f26fea087",
+            "default_activity_subtasks_9c1eabfa-3a63-4833-8015-fbb47d8b5cd4",
+            "default_activity_subtasks_84964085-8d82-11f0-aae7-02af7a30d17f",
+            "default_activity_subtasks_84992790-8d82-11f0-aae7-02af7a30d17f",
+            "default_activity_subtasks_849b19d5-8d82-11f0-aae7-02af7a30d17f",
+            "default_activity_subtasks_849b1c7e-8d82-11f0-aae7-02af7a30d17f",
+            "default_activity_subtasks_84968752-8d82-11f0-aae7-02af7a30d17f"
+        ],
+        "signals": {
+            "kb_hits": 20,
+            "context_length": 5449,
+            "low_evidence": false,
+            "fallback_used": false,
+            "llm_used": true,
+            "validation_passed": true
+        },
+        "quality_metrics": {
+            "context_relevance": 1.0,
+            "source_diversity": 1.0,
+            "prediction_confidence": 0.65
+        },
+        "contextos": [
+            {
+                "fuente": "default_activities_9d4777ca-18ed-4e1d-a1a6-215795cabd37",
+                "score": 1.1439423561096191,
+                "relevance_score": 10,
+                "confidence_label": "Baja",
+                "llm_explanation": "Este documento no contiene informaci\u00f3n relevante sobre el problema del sello da\u00f1ado o la fuga de vapor.",
+                "contexto": "Actividad t\u00e9cnica realizada por 9d4777ad-2a64-47b8-a616-567a466d79ad en equipo N/A. Estado: 591d9d00-45b8-4f0f-a652-eabd33478b4d. Tiempo: 2023-12-14 14:00:00 - 2023-12-14 17:00:00.",
+                "document_url": "/view-document/default_activities_9d4777ca-18ed-4e1d-a1a6-215795cabd37",
+                "metadata": {
+                    "page": null,
+                    "source": "default.activities",
+                    "brand": null,
+                    "model": null
+                }
+            },
+            {
+                "fuente": "default_activities_9d4777b2-455c-495a-929a-4f4d6e54259b",
+                "score": 1.1448407173156738,
+                "relevance_score": 10,
+                "confidence_label": "Baja",
+                "llm_explanation": "Este documento no aborda el problema del sello o la fuga de vapor, solo menciona una actividad t\u00e9cnica sin detalles espec\u00edficos.",
+                "contexto": "Actividad t\u00e9cnica realizada por 9d4777ad-2a64-47b8-a616-567a466d79ad en equipo N/A. Estado: 591d9d00-45b8-4f0f-a652-eabd33478b4d. Tiempo: 2023-11-23 21:00:00 - 2023-11-23 22:00:00.",
+                "document_url": "/view-document/default_activities_9d4777b2-455c-495a-929a-4f4d6e54259b",
+                "metadata": {
+                    "page": null,
+                    "source": "default.activities",
+                    "brand": null,
+                    "model": null
+                }
+            },
+            {
+                "fuente": "default_activities_9d4777ad-2ad3-4201-9a80-25dbe686ea24",
+                "score": 1.1458302736282349,
+                "relevance_score": 10,
+                "confidence_label": "Baja",
+                "llm_explanation": "Este documento no proporciona informaci\u00f3n \u00fatil sobre el problema del sello da\u00f1ado o la fuga de vapor.",
+                "contexto": "Actividad t\u00e9cnica realizada por 9d4777ad-2a64-47b8-a616-567a466d79ad en equipo N/A. Estado: 591d9d00-45b8-4f0f-a652-eabd33478b4d. Tiempo: 2023-11-10 11:00:00 - 2023-11-10 13:00:00.",
+                "document_url": "/view-document/default_activities_9d4777ad-2ad3-4201-9a80-25dbe686ea24",
+                "metadata": {
+                    "page": null,
+                    "source": "default.activities",
+                    "brand": null,
+                    "model": null
+                }
+            },
+            {
+                "fuente": "default_activities_9d4777b5-1957-4593-bc86-603a8cb9bedc",
+                "score": 1.1463087797164917,
+                "relevance_score": 10,
+                "confidence_label": "Baja",
+                "llm_explanation": "Este documento no menciona el problema del sello o la fuga de vapor, solo detalla una actividad t\u00e9cnica.",
+                "contexto": "Actividad t\u00e9cnica realizada por 9d4777ad-2a64-47b8-a616-567a466d79ad en equipo N/A. Estado: 591d9d00-45b8-4f0f-a652-eabd33478b4d. Tiempo: 2023-11-23 17:00:00 - 2023-11-23 19:00:00.",
+                "document_url": "/view-document/default_activities_9d4777b5-1957-4593-bc86-603a8cb9bedc",
+                "metadata": {
+                    "page": null,
+                    "source": "default.activities",
+                    "brand": null,
+                    "model": null
+                }
+            },
+            {
+                "fuente": "default_activities_9d4777c8-57e4-40ed-aa20-8e6525ca44dd",
+                "score": 1.1468802690505981,
+                "relevance_score": 10,
+                "confidence_label": "Baja",
+                "llm_explanation": "Este documento no es relevante para el problema del sello da\u00f1ado o la fuga de vapor.",
+                "contexto": "Actividad t\u00e9cnica realizada por 9d4777c8-5784-4986-b2e0-a0ec8f67ea18 en equipo N/A. Estado: 591d9d00-45b8-4f0f-a652-eabd33478b4d. Tiempo: 2024-01-03 12:00:00 - 2024-01-03 21:00:00.",
+                "document_url": "/view-document/default_activities_9d4777c8-57e4-40ed-aa20-8e6525ca44dd",
+                "metadata": {
+                    "page": null,
+                    "source": "default.activities",
+                    "brand": null,
+                    "model": null
+                }
+            },
+            {
+                "fuente": "default_activities_9d4777c4-260a-447c-aed7-c3a588500153",
+                "score": 1.1473782062530518,
+                "relevance_score": 10,
+                "confidence_label": "Baja",
+                "llm_explanation": "Este documento no aborda el problema del sello o la fuga de vapor, solo menciona una actividad t\u00e9cnica.",
+                "contexto": "Actividad t\u00e9cnica realizada por 9d4777a5-8483-4e37-b772-17395a63ad3f en equipo N/A. Estado: 591d9d00-45b8-4f0f-a652-eabd33478b4d. Tiempo: 2024-01-03 11:30:00 - 2024-01-03 14:00:00.",
+                "document_url": "/view-document/default_activities_9d4777c4-260a-447c-aed7-c3a588500153",
+                "metadata": {
+                    "page": null,
+                    "source": "default.activities",
+                    "brand": null,
+                    "model": null
+                }
+            },
+            {
+                "fuente": "default_activities_9d4777c7-74b1-43cc-9dd7-5e288ef4a981",
+                "score": 1.1474499702453613,
+                "relevance_score": 10,
+                "confidence_label": "Baja",
+                "llm_explanation": "Este documento no proporciona informaci\u00f3n \u00fatil sobre el problema del sello da\u00f1ado o la fuga de vapor.",
+                "contexto": "Actividad t\u00e9cnica realizada por 9d4777c7-00a7-499a-846a-a986ab8b4df4 en equipo N/A. Estado: 591d9d00-45b8-4f0f-a652-eabd33478b4d. Tiempo: 2023-12-14 18:00:00 - 2023-12-14 20:00:00.",
+                "document_url": "/view-document/default_activities_9d4777c7-74b1-43cc-9dd7-5e288ef4a981",
+                "metadata": {
+                    "page": null,
+                    "source": "default.activities",
+                    "brand": null,
+                    "model": null
+                }
+            },
+            {
+                "fuente": "default_activities_9d4777ae-887b-4709-ba43-81187e33052e",
+                "score": 1.151695728302002,
+                "relevance_score": 10,
+                "confidence_label": "Baja",
+                "llm_explanation": "Este documento no menciona el problema del sello o la fuga de vapor, solo detalla una actividad t\u00e9cnica.",
+                "contexto": "Actividad t\u00e9cnica realizada por 9d4777ad-2a64-47b8-a616-567a466d79ad en equipo N/A. Estado: 591d9d00-45b8-4f0f-a652-eabd33478b4d. Tiempo: 2023-11-14 15:30:00 - 2023-11-14 17:00:00.",
+                "document_url": "/view-document/default_activities_9d4777ae-887b-4709-ba43-81187e33052e",
+                "metadata": {
+                    "page": null,
+                    "source": "default.activities",
+                    "brand": null,
+                    "model": null
+                }
+            },
+            {
+                "fuente": "default_activities_9d4777b9-5f47-4a55-88ca-aedc6f83b5f6",
+                "score": 1.1521925926208496,
+                "relevance_score": 10,
+                "confidence_label": "Baja",
+                "llm_explanation": "Este documento no es relevante para el problema del sello da\u00f1ado o la fuga de vapor.",
+                "contexto": "Actividad t\u00e9cnica realizada por 9d4777a5-8483-4e37-b772-17395a63ad3f en equipo N/A. Estado: 591d9d00-45b8-4f0f-a652-eabd33478b4d. Tiempo: 2023-12-06 19:00:00 - 2023-12-06 21:00:00.",
+                "document_url": "/view-document/default_activities_9d4777b9-5f47-4a55-88ca-aedc6f83b5f6",
+                "metadata": {
+                    "page": null,
+                    "source": "default.activities",
+                    "brand": null,
+                    "model": null
+                }
+            },
+            {
+                "fuente": "default_activities_9d4777b4-a644-47b5-8549-65702ff62309",
+                "score": 1.1532831192016602,
+                "relevance_score": 10,
+                "confidence_label": "Baja",
+                "llm_explanation": "Este documento no aborda el problema del sello o la fuga de vapor, solo menciona una actividad t\u00e9cnica.",
+                "contexto": "Actividad t\u00e9cnica realizada por 9d4777b4-a5e4-4016-8351-71769b56dbe9 en equipo N/A. Estado: 591d9d00-45b8-4f0f-a652-eabd33478b4d. Tiempo: 2023-11-23 16:00:00 - 2023-11-23 18:00:00.",
+                "document_url": "/view-document/default_activities_9d4777b4-a644-47b5-8549-65702ff62309",
+                "metadata": {
+                    "page": null,
+                    "source": "default.activities",
+                    "brand": null,
+                    "model": null
+                }
+            }
+        ]
+    }
+}

@@ -1,8 +1,13 @@
 version: "3.9"
+
 services:
+  # ============================================================
+  # MCP SERVICE - Knowledge Base Server
+  # ============================================================
   mcp:
     build: .
     image: fixeatai:latest
+    container_name: fixeatai-mcp
     environment:
       - ROLE=mcp
       - CHROMA_PATH=/data/chroma
@@ -11,99 +16,44 @@ services:
     volumes:
       - chroma_data:/data/chroma
     restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:7000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 20s
 
+  # ============================================================
+  # API SERVICE - Predictor de Fallas
+  # ============================================================
   api:
     build: .
     image: fixeatai:latest
+    container_name: fixeatai-api
     env_file:
       - .env
     environment:
       - ROLE=api
       - MCP_SERVER_URL=http://mcp:7000
       - X_TRACE_ID_HEADER=X-Trace-Id
-      # Variables inyectadas desde .env (sin hardcodear secretos en el YAML)
+      # Variables inyectadas desde .env
       - OPENAI_API_KEY=${OPENAI_API_KEY}
       - USE_LLM=${USE_LLM:-true}
       - LLM_MODEL=${LLM_MODEL:-gpt-4o-mini}
+      - LLM_BASE_URL=${LLM_BASE_URL}
       - CORS_ALLOW_ORIGINS=${CORS_ALLOW_ORIGINS:-*}
     ports:
       - "8000:8000"
     depends_on:
       - mcp
     restart: unless-stopped
-
-  # ============================================================
-  # ETL SERVICE - Nuevo servicio independiente
-  # ============================================================
-  etl-service:
-    build:
-      context: ./services/etl-service
-      dockerfile: Dockerfile
-    image: fixeatai-etl:latest
-    container_name: fixeatai-etl-service
-    env_file:
-      - .env
-    environment:
-      # ETL Service específico
-      - ETL_SERVICE_NAME=etl-production
-      - ETL_SERVICE_PORT=9000
-      - ETL_ENV=production
-      - ETL_LOG_LEVEL=INFO
-      
-      # Base de datos (desde .env principal)
-      - ETL_DB_HOST=${ETL_DB_HOST}
-      - ETL_DB_PORT=${ETL_DB_PORT:-3306}
-      - ETL_DB_USER=${ETL_DB_USER}
-      - ETL_DB_PASSWORD=${ETL_DB_PASSWORD}
-      - ETL_DB_DATABASE=${ETL_DB_DATABASE}
-      - ETL_DB_SSL=${ETL_DB_SSL:-true}
-      
-      # LLM (reutilizar del proyecto principal)
-      - ETL_LLM_PROVIDER=${LLM_PROVIDER:-openai}
-      - ETL_LLM_API_KEY=${OPENAI_API_KEY}
-      - ETL_LLM_MODEL=${LLM_MODEL:-gpt-4o-mini}
-      - ETL_LLM_BASE_URL=${LLM_BASE_URL}
-      
-      # KB (opcional - puede apuntar al MCP del proyecto)
-      - ETL_KB_URL=http://mcp:7000
-      
-      # ETL específico
-      - ETL_ENABLED=true
-      - ETL_BATCH_SIZE=${ETL_BATCH_SIZE:-500}
-      - ETL_QUALITY_THRESHOLD=${ETL_QUALITY_THRESHOLD:-0.7}
-      - ETL_INCREMENTAL_HOURS=${ETL_INCREMENTAL_HOURS:-6}
-      - ETL_FULL_SYNC_TIME=${ETL_FULL_SYNC_TIME:-02:00}
-      - ETL_CORS_ORIGINS=${CORS_ALLOW_ORIGINS:-*}
-      - ETL_METRICS_ENABLED=true
-    
-    ports:
-      - "9000:9000"  # Puerto único para ETL Service
-    
-    volumes:
-      # Persistir logs del ETL
-      - etl_logs:/app/logs
-      # Persistir configuraciones ETL generadas
-      - etl_configs:/app/configs
-      # Compartir datos de chroma si es necesario
-      - chroma_data:/app/data/chroma:ro
-    
-    depends_on:
-      - mcp
-    
-    restart: unless-stopped
-    
     healthcheck:
-      test: ["CMD", "curl", "-f", "http://localhost:9000/health"]
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
       interval: 30s
       timeout: 10s
       retries: 3
-      start_period: 40s
+      start_period: 20s
 
 volumes:
   chroma_data:
-    driver: local
-  # Nuevos volúmenes para ETL Service
-  etl_logs:
-    driver: local
-  etl_configs:
     driver: local

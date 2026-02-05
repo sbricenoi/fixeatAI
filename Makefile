@@ -1,65 +1,148 @@
-.PHONY: help run mcp test clean install lint kb etl
+.PHONY: help install dev-mcp run test clean docker-up docker-down docker-rebuild
 
-help: ## Mostrar esta ayuda
+help:
+	@echo "🔧 FIXEAT AI - Predictor de Fallas"
+	@echo "=================================="
+	@echo ""
 	@echo "Comandos disponibles:"
-	@grep -E '^[a-zA-Z_-]+:.*?## .*$$' $(MAKEFILE_LIST) | sort | awk 'BEGIN {FS = ":.*?## "}; {printf "\033[36m%-15s\033[0m %s\n", $$1, $$2}'
+	@echo ""
+	@echo "  📦 install          - Instalar dependencias del proyecto"
+	@echo "  🚀 dev-mcp          - Levantar MCP Server (KB) en desarrollo"
+	@echo "  🚀 run              - Levantar API Server en desarrollo"
+	@echo "  🧪 test             - Ejecutar tests"
+	@echo "  🧹 clean            - Limpiar archivos temporales"
+	@echo ""
+	@echo "  🐳 docker-up        - Levantar servicios con Docker Compose"
+	@echo "  🐳 docker-down      - Detener servicios Docker"
+	@echo "  🐳 docker-rebuild   - Rebuild completo de imágenes Docker"
+	@echo "  🐳 docker-logs      - Ver logs de servicios Docker"
+	@echo ""
+	@echo "  📚 ingest-kb        - Ingestar documentos en KB (requiere urls.txt)"
+	@echo "  🔍 search-kb        - Buscar en KB (requiere QUERY='...')"
+	@echo ""
 
-install: ## Instalar dependencias
+install:
+	@echo "📦 Instalando dependencias..."
+	pip install --upgrade pip
 	pip install -e .
+	@echo "✅ Dependencias instaladas"
 
-run: ## Ejecutar el servicio principal (API)
-	@echo "🚀 Iniciando servicio principal en puerto 8000..."
-	docker-compose up --build
+dev-mcp:
+	@echo "🚀 Levantando MCP Server (Knowledge Base)..."
+	@echo "   Puerto: 7000"
+	@echo "   Ctrl+C para detener"
+	cd mcp && uvicorn server_demo:app --reload --port 7000
 
-mcp: ## Ejecutar solo el servidor MCP
-	@echo "🔧 Iniciando servidor MCP en puerto 7070..."
-	docker-compose up mcp --build
+run:
+	@echo "🚀 Levantando API Server (Predictor de Fallas)..."
+	@echo "   Puerto: 8000"
+	@echo "   Ctrl+C para detener"
+	@echo "   Docs: http://localhost:8000/docs"
+	uvicorn app.main:app --reload --host 0.0.0.0 --port 8000
 
-etl: ## Ejecutar ETL Service independiente
-	@echo "⚙️ Iniciando ETL Service en puerto 9000..."
-	docker-compose up etl-service --build
+test:
+	@echo "🧪 Ejecutando tests..."
+	pytest tests/ -v
 
-all: ## Ejecutar todos los servicios (API + MCP + ETL)
-	@echo "🌟 Iniciando todos los servicios..."
-	docker-compose up --build
+clean:
+	@echo "🧹 Limpiando archivos temporales..."
+	find . -type d -name "__pycache__" -exec rm -rf {} + 2>/dev/null || true
+	find . -type f -name "*.pyc" -delete 2>/dev/null || true
+	find . -type d -name ".pytest_cache" -exec rm -rf {} + 2>/dev/null || true
+	@echo "✅ Limpieza completada"
 
-logs: ## Ver logs de todos los servicios
-	docker-compose logs -f
+# ============================================================
+# Docker Commands
+# ============================================================
 
-logs-api: ## Ver logs del servicio API
-	docker-compose logs -f api
+docker-up:
+	@echo "🐳 Levantando servicios con Docker Compose..."
+	docker-compose up -d
+	@echo "✅ Servicios levantados"
+	@echo ""
+	@echo "Para ver logs: make docker-logs"
+	@echo "Para detener: make docker-down"
 
-logs-mcp: ## Ver logs del servicio MCP
-	docker-compose logs -f mcp
-
-logs-etl: ## Ver logs del ETL Service
-	docker-compose logs -f etl-service
-
-stop: ## Detener todos los servicios
+docker-down:
+	@echo "🐳 Deteniendo servicios Docker..."
 	docker-compose down
+	@echo "✅ Servicios detenidos"
 
-clean: ## Limpiar contenedores e imágenes
-	docker-compose down --rmi all --volumes --remove-orphans
+docker-rebuild:
+	@echo "🐳 Rebuilding servicios Docker (sin caché)..."
+	docker-compose build --no-cache
+	docker-compose up -d
+	@echo "✅ Rebuild completado"
 
-test: ## Ejecutar pruebas
-	python -m pytest tests/ -v
+docker-logs:
+	@echo "📋 Logs de servicios Docker (Ctrl+C para salir)..."
+	docker-compose logs -f --tail=100
 
-lint: ## Ejecutar linting
-	python -m pylint app/ services/ mcp/
+docker-ps:
+	@echo "📊 Estado de servicios Docker:"
+	docker-compose ps
 
-# Comandos de desarrollo
-dev-api: ## Ejecutar API en modo desarrollo
-	cd app && python -m uvicorn main:app --reload --port 8000
+# ============================================================
+# Knowledge Base Commands
+# ============================================================
 
-dev-mcp: ## Ejecutar MCP en modo desarrollo
-	cd mcp && python server_demo.py
+ingest-kb:
+	@echo "📚 Ingesta de documentos en Knowledge Base..."
+	@if [ -f urls.txt ]; then \
+		python ingestar_via_api.py --urls urls.txt; \
+	else \
+		echo "❌ Archivo urls.txt no encontrado"; \
+		echo "   Crear urls.txt con una URL por línea"; \
+	fi
 
-dev-etl: ## Ejecutar ETL Service en modo desarrollo
-	cd services/etl-service && python main.py
+search-kb:
+	@echo "🔍 Búsqueda en Knowledge Base..."
+	@if [ -z "$(QUERY)" ]; then \
+		echo "❌ Falta parámetro QUERY"; \
+		echo "   Uso: make search-kb QUERY='problema bomba'"; \
+	else \
+		curl -X POST http://localhost:7070/tools/kb_search \
+			-H 'Content-Type: application/json' \
+			-d '{"query": "$(QUERY)", "top_k": 5}' | python3 -m json.tool; \
+	fi
 
-# Health checks
-health: ## Verificar salud de todos los servicios
-	@echo "🔍 Verificando servicios..."
-	@curl -s http://localhost:8000/health | jq . || echo "❌ API no disponible"
-	@curl -s http://localhost:7070/health | jq . || echo "❌ MCP no disponible"
-	@curl -s http://localhost:9000/health | jq . || echo "❌ ETL Service no disponible"
+# ============================================================
+# Deployment Commands
+# ============================================================
+
+deploy-prod:
+	@echo "🚀 Desplegando a producción..."
+	@echo "⚠️  ADVERTENCIA: Esto actualizará el servidor productivo"
+	@echo ""
+	@read -p "¿Continuar? [y/N]: " confirm && [ "$$confirm" = "y" ] || exit 1
+	@echo ""
+	ssh -i fixeatIA.pem ec2-user@18.220.79.28 '\
+		cd fixeatAI && \
+		git pull origin main && \
+		docker-compose build --no-cache && \
+		docker-compose up -d && \
+		docker-compose ps'
+	@echo "✅ Deployment completado"
+	@echo "   Verificar: curl http://18.220.79.28:8000/health"
+
+# ============================================================
+# Health Checks
+# ============================================================
+
+health-local:
+	@echo "🏥 Health Check Local..."
+	@echo ""
+	@echo "API:"
+	@curl -s http://localhost:8000/health | python3 -m json.tool || echo "❌ API no responde"
+	@echo ""
+	@echo "MCP:"
+	@curl -s http://localhost:7070/health | python3 -m json.tool || echo "❌ MCP no responde"
+
+health-prod:
+	@echo "🏥 Health Check Producción..."
+	@echo ""
+	@echo "API:"
+	@curl -s http://18.220.79.28:8000/health | python3 -m json.tool || echo "❌ API no responde"
+	@echo ""
+	@echo "MCP:"
+	@curl -s http://18.220.79.28:7070/health | python3 -m json.tool || echo "❌ MCP no responde"

@@ -1,0 +1,257 @@
+{
+    "traceId": "40eec7b8-56e5-4303-abd0-e704b91afdcf",
+    "code": "OK",
+    "message": "Predicci\u00f3n generada",
+    "data": {
+        "fallas_probables": [
+            {
+                "falla": "Error F3 en pantalla, lo que indica un problema de comunicaci\u00f3n o fallo en el sistema de control del equipo.",
+                "confidence": 0.75,
+                "rationale": "El error F3 generalmente se relaciona con fallos en la comunicaci\u00f3n interna del equipo, lo que puede ser causado por problemas el\u00e9ctricos o de software [source:default_activity_subtasks_9c0090cf-57b3-4e14-bb5c-2d5f0517b9df].",
+                "repuestos_sugeridos": [
+                    "m\u00f3dulo de control",
+                    "cableado el\u00e9ctrico"
+                ],
+                "herramientas_sugeridas": [
+                    "mult\u00edmetro",
+                    "destornillador"
+                ],
+                "pasos": [
+                    {
+                        "orden": 1,
+                        "descripcion": "Desconectar el equipo de la fuente de alimentaci\u00f3n el\u00e9ctrica.",
+                        "tipo": "seguridad"
+                    },
+                    {
+                        "orden": 2,
+                        "descripcion": "Usar equipo de protecci\u00f3n personal (EPP) adecuado.",
+                        "tipo": "seguridad"
+                    },
+                    {
+                        "orden": 3,
+                        "descripcion": "Verificar que no haya presi\u00f3n en el sistema antes de proceder.",
+                        "tipo": "seguridad"
+                    },
+                    {
+                        "orden": 4,
+                        "descripcion": "Revisar el cableado el\u00e9ctrico en busca de conexiones sueltas o da\u00f1adas.",
+                        "tipo": "diagnostico"
+                    },
+                    {
+                        "orden": 5,
+                        "descripcion": "Comprobar el estado del m\u00f3dulo de control con un mult\u00edmetro.",
+                        "tipo": "diagnostico"
+                    },
+                    {
+                        "orden": 6,
+                        "descripcion": "Reiniciar el equipo para verificar si el error persiste.",
+                        "tipo": "diagnostico"
+                    },
+                    {
+                        "orden": 7,
+                        "descripcion": "Reemplazar el m\u00f3dulo de control si se determina que est\u00e1 defectuoso.",
+                        "tipo": "reparacion"
+                    },
+                    {
+                        "orden": 8,
+                        "descripcion": "Revisar y asegurar todas las conexiones el\u00e9ctricas despu\u00e9s de la reparaci\u00f3n.",
+                        "tipo": "reparacion"
+                    },
+                    {
+                        "orden": 9,
+                        "descripcion": "Conectar el equipo nuevamente a la fuente de alimentaci\u00f3n y realizar una prueba supervisada.",
+                        "tipo": "seguridad"
+                    }
+                ]
+            }
+        ],
+        "feedback_coherencia": "El problema reportado es coherente con el error F3, que se relaciona con fallos en el sistema de control del equipo.",
+        "fuentes": [
+            "default_activity_subtasks_9c0090cf-57b3-4e14-bb5c-2d5f0517b9df",
+            "default_activity_subtasks_8495e08f-8d82-11f0-aae7-02af7a30d17f",
+            "default_activity_subtasks_849999f3-8d82-11f0-aae7-02af7a30d17f",
+            "default_activity_subtasks_849995e1-8d82-11f0-aae7-02af7a30d17f",
+            "default_activity_subtasks_8495dbcb-8d82-11f0-aae7-02af7a30d17f",
+            "default_activity_subtasks_849b1752-8d82-11f0-aae7-02af7a30d17f",
+            "default_activity_subtasks_9bfef7e3-e103-4f52-a59e-0532ea0eca08",
+            "default_activity_subtasks_849b14a1-8d82-11f0-aae7-02af7a30d17f",
+            "default_activity_subtasks_9c3271ed-a4cb-4410-88f4-be27b5a87ee3",
+            "default_activity_subtasks_9c1eabfa-469a-447d-bac4-04f1a19eca79",
+            "default_activity_subtasks_84965905-8d82-11f0-aae7-02af7a30d17f",
+            "default_activity_subtasks_84992cbe-8d82-11f0-aae7-02af7a30d17f",
+            "default_activity_subtasks_9c28ad7c-260c-4ae3-9bfb-bd2dfc12768a",
+            "default_activity_subtasks_84968825-8d82-11f0-aae7-02af7a30d17f",
+            "default_activity_subtasks_84992865-8d82-11f0-aae7-02af7a30d17f",
+            "default_activity_subtasks_849b2326-8d82-11f0-aae7-02af7a30d17f",
+            "default_activity_subtasks_849b1a32-8d82-11f0-aae7-02af7a30d17f",
+            "default_activity_subtasks_849af3c3-8d82-11f0-aae7-02af7a30d17f",
+            "default_activity_subtasks_849b1cb3-8d82-11f0-aae7-02af7a30d17f",
+            "default_activity_subtasks_849af897-8d82-11f0-aae7-02af7a30d17f"
+        ],
+        "signals": {
+            "kb_hits": 20,
+            "context_length": 5210,
+            "low_evidence": false,
+            "fallback_used": false,
+            "llm_used": true,
+            "validation_passed": true
+        },
+        "quality_metrics": {
+            "context_relevance": 1.0,
+            "source_diversity": 1.0,
+            "prediction_confidence": 0.75
+        },
+        "contextos": [
+            {
+                "fuente": "default_equipment_parts_9be669dc-6be4-494e-9e58-fb0b79fd7a20",
+                "score": 1.154590368270874,
+                "relevance_score": 0,
+                "confidence_label": "Baja",
+                "llm_explanation": "Este documento menciona un repuesto espec\u00edfico, pero no proporciona informaci\u00f3n sobre el error F3 ni sobre el funcionamiento del equipo.",
+                "contexto": "Repuesto AGUJA ALIMENTACION para equipo 9be66888-d23a-453e-934b-401e54f55f54. C\u00f3digo: N/A. Stock: N/A.",
+                "document_url": "/view-document/default_equipment_parts_9be669dc-6be4-494e-9e58-fb0b79fd7a20",
+                "metadata": {
+                    "page": null,
+                    "source": "default.equipment_parts",
+                    "brand": null,
+                    "model": null
+                }
+            },
+            {
+                "fuente": "default_equipment_parts_9bf95f56-0555-46af-926d-c7b56c331303",
+                "score": 1.1597414016723633,
+                "relevance_score": 0,
+                "confidence_label": "Baja",
+                "llm_explanation": "Al igual que el documento anterior, este menciona un repuesto sin relaci\u00f3n con el error F3 o el arranque del equipo.",
+                "contexto": "Repuesto HUINCHA DE ACERO, RESORTE DE PUERTA para equipo None. C\u00f3digo: N/A. Stock: N/A.",
+                "document_url": "/view-document/default_equipment_parts_9bf95f56-0555-46af-926d-c7b56c331303",
+                "metadata": {
+                    "page": null,
+                    "source": "default.equipment_parts",
+                    "brand": null,
+                    "model": null
+                }
+            },
+            {
+                "fuente": "default_equipment_parts_9bf95f56-0604-43a3-852e-9306a63f392a",
+                "score": 1.1597414016723633,
+                "relevance_score": 0,
+                "confidence_label": "Baja",
+                "llm_explanation": "Este documento tambi\u00e9n se centra en un repuesto espec\u00edfico y no aborda el error F3 ni el problema de arranque.",
+                "contexto": "Repuesto HUINCHA DE ACERO, RESORTE DE PUERTA para equipo None. C\u00f3digo: N/A. Stock: N/A.",
+                "document_url": "/view-document/default_equipment_parts_9bf95f56-0604-43a3-852e-9306a63f392a",
+                "metadata": {
+                    "page": null,
+                    "source": "default.equipment_parts",
+                    "brand": null,
+                    "model": null
+                }
+            },
+            {
+                "fuente": "default_equipment_parts_9bf95f54-cf48-4444-a94d-12e2e7899b07",
+                "score": 1.1670491695404053,
+                "relevance_score": 0,
+                "confidence_label": "Baja",
+                "llm_explanation": "No proporciona informaci\u00f3n relevante sobre el error F3 o el funcionamiento del equipo, solo menciona un repuesto.",
+                "contexto": "Repuesto TORNILLO CABEZA GRAFILADA AUTOBLOCANTE M5X16 para equipo None. C\u00f3digo: N/A. Stock: N/A.",
+                "document_url": "/view-document/default_equipment_parts_9bf95f54-cf48-4444-a94d-12e2e7899b07",
+                "metadata": {
+                    "page": null,
+                    "source": "default.equipment_parts",
+                    "brand": null,
+                    "model": null
+                }
+            },
+            {
+                "fuente": "default_equipment_parts_9bf95f54-d36c-45f3-83b6-29770d08f09b",
+                "score": 1.1688189506530762,
+                "relevance_score": 0,
+                "confidence_label": "Baja",
+                "llm_explanation": "Este documento menciona un repuesto sin relaci\u00f3n con el error F3 o el problema de arranque del equipo.",
+                "contexto": "Repuesto FILTRO ESCAPE DE LA BOMBA, 21M3/HORA para equipo None. C\u00f3digo: N/A. Stock: N/A.",
+                "document_url": "/view-document/default_equipment_parts_9bf95f54-d36c-45f3-83b6-29770d08f09b",
+                "metadata": {
+                    "page": null,
+                    "source": "default.equipment_parts",
+                    "brand": null,
+                    "model": null
+                }
+            },
+            {
+                "fuente": "default_equipment_parts_9bf95f54-cc13-4d5c-8e13-11589747d082",
+                "score": 1.1739306449890137,
+                "relevance_score": 0,
+                "confidence_label": "Baja",
+                "llm_explanation": "No aborda el error F3 ni proporciona informaci\u00f3n \u00fatil para resolver el problema de arranque.",
+                "contexto": "Repuesto ELECTROVALVULA DE AGUA MATURPAN COLIP para equipo None. C\u00f3digo: N/A. Stock: N/A.",
+                "document_url": "/view-document/default_equipment_parts_9bf95f54-cc13-4d5c-8e13-11589747d082",
+                "metadata": {
+                    "page": null,
+                    "source": "default.equipment_parts",
+                    "brand": null,
+                    "model": null
+                }
+            },
+            {
+                "fuente": "default_equipment_parts_9bf95f56-496b-48de-b6f1-df0d884e8b6b",
+                "score": 1.174654245376587,
+                "relevance_score": 0,
+                "confidence_label": "Baja",
+                "llm_explanation": "Este documento menciona un repuesto sin conexi\u00f3n con el error F3 o el arranque del equipo.",
+                "contexto": "Repuesto FILTRO SECADOR DCL-033 3/8 ROSCAR para equipo None. C\u00f3digo: N/A. Stock: N/A.",
+                "document_url": "/view-document/default_equipment_parts_9bf95f56-496b-48de-b6f1-df0d884e8b6b",
+                "metadata": {
+                    "page": null,
+                    "source": "default.equipment_parts",
+                    "brand": null,
+                    "model": null
+                }
+            },
+            {
+                "fuente": "default_equipment_parts_9bf95f56-3c02-4809-886e-088840c31eb8",
+                "score": 1.1797682046890259,
+                "relevance_score": 0,
+                "confidence_label": "Baja",
+                "llm_explanation": "No proporciona informaci\u00f3n relevante sobre el error F3 ni sobre el funcionamiento del equipo.",
+                "contexto": "Repuesto BANDEJA EVAPORADOR VV-19 COMPLETA, 1007596 para equipo None. C\u00f3digo: N/A. Stock: N/A.",
+                "document_url": "/view-document/default_equipment_parts_9bf95f56-3c02-4809-886e-088840c31eb8",
+                "metadata": {
+                    "page": null,
+                    "source": "default.equipment_parts",
+                    "brand": null,
+                    "model": null
+                }
+            },
+            {
+                "fuente": "default_equipment_parts_9bf95f56-0362-4f75-9294-b94f61e4537c",
+                "score": 1.1848487854003906,
+                "relevance_score": 0,
+                "confidence_label": "Baja",
+                "llm_explanation": "Este documento se centra en un repuesto espec\u00edfico y no aborda el error F3 ni el problema de arranque.",
+                "contexto": "Repuesto RESORTE DE PUERTA, ROLLO DE ACERO para equipo None. C\u00f3digo: N/A. Stock: N/A.",
+                "document_url": "/view-document/default_equipment_parts_9bf95f56-0362-4f75-9294-b94f61e4537c",
+                "metadata": {
+                    "page": null,
+                    "source": "default.equipment_parts",
+                    "brand": null,
+                    "model": null
+                }
+            },
+            {
+                "fuente": "default_equipment_parts_9bf95f56-04b1-4536-a726-528728603247",
+                "score": 1.1848487854003906,
+                "relevance_score": 0,
+                "confidence_label": "Baja",
+                "llm_explanation": "No proporciona informaci\u00f3n \u00fatil sobre el error F3 o el arranque del equipo, solo menciona un repuesto.",
+                "contexto": "Repuesto RESORTE DE PUERTA, ROLLO DE ACERO para equipo None. C\u00f3digo: N/A. Stock: N/A.",
+                "document_url": "/view-document/default_equipment_parts_9bf95f56-04b1-4536-a726-528728603247",
+                "metadata": {
+                    "page": null,
+                    "source": "default.equipment_parts",
+                    "brand": null,
+                    "model": null
+                }
+            }
+        ]
+    }
+}

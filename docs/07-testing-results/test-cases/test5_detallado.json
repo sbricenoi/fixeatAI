@@ -1,0 +1,257 @@
+{
+    "traceId": "4effac94-417b-476a-a8b6-ecbf74e4d348",
+    "code": "OK",
+    "message": "Predicci\u00f3n generada",
+    "data": {
+        "fallas_probables": [
+            {
+                "falla": "Fallo en el ventilador y posible sobrecalentamiento del motor",
+                "confidence": 0.85,
+                "rationale": "El c\u00f3digo de error E004 indica un problema relacionado con el ventilador, y el olor a quemado sugiere un posible sobrecalentamiento del motor, lo cual es cr\u00edtico para el funcionamiento del equipo [source:default_comments_9dce19b5-0336-47af-af0c-3f179e8ceea4].",
+                "repuestos_sugeridos": [
+                    "ventilador",
+                    "motor"
+                ],
+                "herramientas_sugeridas": [
+                    "destornillador",
+                    "mult\u00edmetro"
+                ],
+                "pasos": [
+                    {
+                        "orden": 1,
+                        "descripcion": "Desconectar el equipo de la fuente de alimentaci\u00f3n el\u00e9ctrica.",
+                        "tipo": "seguridad"
+                    },
+                    {
+                        "orden": 2,
+                        "descripcion": "Usar equipo de protecci\u00f3n personal (EPP) adecuado.",
+                        "tipo": "seguridad"
+                    },
+                    {
+                        "orden": 3,
+                        "descripcion": "Verificar que no haya presi\u00f3n residual en el sistema.",
+                        "tipo": "seguridad"
+                    },
+                    {
+                        "orden": 4,
+                        "descripcion": "Inspeccionar visualmente el ventilador y el motor en busca de da\u00f1os visibles.",
+                        "tipo": "diagnostico"
+                    },
+                    {
+                        "orden": 5,
+                        "descripcion": "Medir la continuidad del motor con un mult\u00edmetro para verificar su estado.",
+                        "tipo": "diagnostico"
+                    },
+                    {
+                        "orden": 6,
+                        "descripcion": "Comprobar el funcionamiento del ventilador al conectarlo directamente a la corriente.",
+                        "tipo": "diagnostico"
+                    },
+                    {
+                        "orden": 7,
+                        "descripcion": "Reemplazar el ventilador y/o motor si se determina que est\u00e1n defectuosos.",
+                        "tipo": "reparacion"
+                    },
+                    {
+                        "orden": 8,
+                        "descripcion": "Reensamblar el equipo y asegurarse de que todas las conexiones est\u00e9n firmes.",
+                        "tipo": "reparacion"
+                    },
+                    {
+                        "orden": 9,
+                        "descripcion": "Realizar una prueba supervisada del equipo para asegurar su correcto funcionamiento.",
+                        "tipo": "seguridad"
+                    }
+                ]
+            }
+        ],
+        "feedback_coherencia": "El problema reportado es coherente con los s\u00edntomas descritos y el c\u00f3digo de error indicado.",
+        "fuentes": [
+            "default_comments_9decd33e-dde5-4d6b-84df-07c483d1799c",
+            "https://fixeat-dev.s3.us-east-2.amazonaws.com/kb/data.txt#c4",
+            "default_comments_9decd23f-4f8f-4c72-a81f-82f3963d0b38",
+            "default_form_responses_07c3d9cf-c012-4b7a-af46-fd7e4d2f3db2",
+            "default_comments_9decd2fa-f6e1-4908-9b43-128c63c6a39d",
+            "default_comments_9decd31a-e8a7-413c-b6f6-37e901d44f45",
+            "default_comments_9decd31a-ee72-4a97-a005-1e35efdced07",
+            "default_comments_9bff3d65-9274-4363-8688-b0389c121a37",
+            "default_comments_9decd30b-140b-4060-b41b-8ab7aa60b625",
+            "default_comments_9decd2b2-cbd1-4270-bbc8-924d24f011ce",
+            "https://fixeat-dev.s3.us-east-2.amazonaws.com/kb/data.txt#c3",
+            "default_comments_9decd28c-0ad7-49ec-9c29-0d1283e75f7c",
+            "default_comments_9decd33c-8249-4983-b640-851761f39712",
+            "default_comments_9decd2e3-3285-42f2-97e5-ca525ccbf9a9",
+            "default_comments_9bfefc02-f6f7-4691-82c7-24b9755f214e",
+            "default_comments_9decd2b9-7e86-4c50-b880-e10aaca64f1d",
+            "default_comments_9decd2dd-6823-49f3-b6b2-dc6e6ce6ba34",
+            "default_comments_9decd2a9-f620-4b2d-8955-400f267cd799",
+            "default_comments_9decd27a-c3b0-4c1b-b39a-0227156d29e9",
+            "default_comments_9decd271-ea7c-4675-be62-ebecbfab40ff"
+        ],
+        "signals": {
+            "kb_hits": 20,
+            "context_length": 16653,
+            "low_evidence": false,
+            "fallback_used": false,
+            "llm_used": true,
+            "validation_passed": true
+        },
+        "quality_metrics": {
+            "context_relevance": 1.0,
+            "source_diversity": 1.0,
+            "prediction_confidence": 0.85
+        },
+        "contextos": [
+            {
+                "fuente": "default_form_responses_07c3d9cf-c012-4b7a-af46-fd7e4d2f3db2",
+                "score": 0.9205875992774963,
+                "relevance_score": 0,
+                "confidence_label": "Baja",
+                "llm_explanation": "Este documento no contiene informaci\u00f3n relevante sobre el error E004 ni sobre problemas relacionados con el ventilador o el motor.",
+                "contexto": "Registro de form_responses: id=07c3d9cf-c012-4b7a-af46-fd7e4d2f3db2, value=Se realiza mantenimiento preventivo a visicooler el cual se realiza limpieza a unidad condensadora , limpieza al interior de la c\u00e1mara , revisi\u00f3n de funcionamiento de ventiladores  , y medici\u00f3n de consumo general a equipo.\nSe realizan pruebas de funcionamiento quedando el equipo operativo, form_id=9d67b355-dd54-42a8-b484-75b52dfe9278",
+                "document_url": "/view-document/default_form_responses_07c3d9cf-c012-4b7a-af46-fd7e4d2f3db2",
+                "metadata": {
+                    "page": null,
+                    "source": "default.form_responses",
+                    "brand": null,
+                    "model": null
+                }
+            },
+            {
+                "fuente": "default_comments_9decd33e-dde5-4d6b-84df-07c483d1799c",
+                "score": 0.9317007660865784,
+                "relevance_score": 0,
+                "confidence_label": "Baja",
+                "llm_explanation": "Este documento es un registro de comentarios que no aborda el error E004 ni proporciona informaci\u00f3n \u00fatil sobre el problema descrito.",
+                "contexto": "Registro de comments: commentable_type=App\\Models\\Service, commentable_id=9dce1ae0-6e31-4a4a-9edf-d58d54d005f3, comment=[SAP] 07/01 klahr_ (seguimiento)se renvia cotizacion johanna.torres@walmart.com\r\r05-11-24 AALMENDRO SE ENVIA A ignacioignacio.diaz@walmart.com\rignacio.diaz@walmart.com\r.diaz@walmart.com\r\r\r\r04-11-24 AALMENDRO SE SOLICITA INFORME A JET ERIK ISLA \r\r\r\r\rIncidente\rINC44674673\r\rNombre: Lilibeth Pi\u00f1a\rUsuario: l0p05n2\rUbicaci\u00f3n/local: 188\rTel\u00e9fono: 958779024\rDescripci\u00f3n: Usuaria se comunica por falla en la balanza de panader\u00eda ,  la pantalla prende pero tiene un golpe , presenta da\u00f1o f\u00edsico en la pantalla , por lo cual no permite realizar las ventas  , la balanza esta en linea en eplumb pero no se puede vender con esta .  \rMarca: Hobart\rserial : 451243705",
+                "document_url": "/view-document/default_comments_9decd33e-dde5-4d6b-84df-07c483d1799c",
+                "metadata": {
+                    "page": null,
+                    "source": "default.comments",
+                    "brand": null,
+                    "model": null
+                }
+            },
+            {
+                "fuente": "default_comments_9decd23f-4f8f-4c72-a81f-82f3963d0b38",
+                "score": 0.9450467228889465,
+                "relevance_score": 0,
+                "confidence_label": "Baja",
+                "llm_explanation": "Este documento no menciona el error E004 ni proporciona informaci\u00f3n relevante sobre el funcionamiento del ventilador o el motor.",
+                "contexto": "Registro de comments: commentable_type=App\\Models\\Service, commentable_id=9d457786-f1c6-41cb-b09f-c82557c58727, comment=[SAP] CONTRATO BAJO RENTING\r\rDuracion_ 48 meses\rNV_230146\rCoti_Q-06525\r\r\rLAVANDERIA ESTRELLA INDUSTRIAL SPA\rRUT: 76310174-6\r\rLAVADORA INDUSTRIAL CARGA FRONTAL AGUA CALIENTE Y FRIA 220[V] 18[kg] MOD: DHS-18 TOUCH II HW            8,33 UF\r\r\rSECADORA INDUSTRIAL GAS 23[kg] 220[V] MOD: DTT-23 G        4,87 UF\r\r13,2 UF\r\r\r\r1-4 mantenimientos preventivos al a\u00f1o (Sujeto a intensidad de uso por parte del cliente)\r2- Visita de diagn\u00f3stico costo $0 en Regi\u00f3n Metropolitana\r3-20% descuento en hora de Mantenimiento Correctivo y 10% descuento en repuestos\r4-Opci\u00f3n de compra al finalizar el contrato pagando una cuota adicional\r5-Equipo de backup en caso de que equipo se deba traer a taller (Sujeto a disponibilidad del equipo o similar)",
+                "document_url": "/view-document/default_comments_9decd23f-4f8f-4c72-a81f-82f3963d0b38",
+                "metadata": {
+                    "page": null,
+                    "source": "default.comments",
+                    "brand": null,
+                    "model": null
+                }
+            },
+            {
+                "fuente": "https://fixeat-dev.s3.us-east-2.amazonaws.com/kb/data.txt#c4",
+                "score": 0.9708825945854187,
+                "relevance_score": 0,
+                "confidence_label": "Baja",
+                "llm_explanation": "Este documento no aborda el error E004 ni proporciona informaci\u00f3n sobre el ventilador o el motor del equipo.",
+                "contexto": "c\u00e1mara y tapa el sensor qu\u00e9 que provoca que no entre masa ala c\u00e1mara Equipo\nmec\u00e1nicamente no presenta problema. Equipo se encuentra sin puesta en marcha se solicita visita de\ntecnologo\n\n\n[ ] Presupuesto Equipo\n[ ] Detenido\n[ ] Requiere Taller \n[ ] Gu\u00eda de Despacho\n[ ] Pauta Pendiente\n\n\nTareas Realizadas\nPANIFICADORA PENAFLOR LIMITADA / Maip\u00fa / POST VENTA - DIVISORA OVILLADORA 4 SALIDAS 30-150[gr]\n6000 PIEZAS-HORA FUTURE TRIMA, MOD. PRIMA EVO KE 4 - FGenerico\nEquipo: Ovilladora\nSerie: 23.246\nEstado estructural exterior \u00f3ptimo: S\u00ed\nFuncionamiento l\u00f3gico circuito de encendido: S\u00ed",
+                "document_url": "https://fixeat-dev.s3.us-east-2.amazonaws.com/kb/data.txt",
+                "metadata": {
+                    "page": null,
+                    "source": "https://fixeat-dev.s3.us-east-2.amazonaws.com/kb/data.txt",
+                    "brand": null,
+                    "model": null
+                }
+            },
+            {
+                "fuente": "default_comments_9decd2fa-f6e1-4908-9b43-128c63c6a39d",
+                "score": 1.0340336561203003,
+                "relevance_score": 0,
+                "confidence_label": "Baja",
+                "llm_explanation": "Este documento no contiene informaci\u00f3n relevante sobre el error E004 ni sobre el problema del ventilador o el motor.",
+                "contexto": "Registro de comments: commentable_type=App\\Models\\Service, commentable_id=9d462acb-a17a-418f-8ec8-7db090c9615e, comment=[SAP] MANTENCIONES PREVENTIVAS INCLUIDAS EN LA VENTA DEL EQUIPO.\r\rID: 1180730-16-LE23\rOC: 1180730-19-SE23\rN/V: 233884\rGARANT\u00cdA: 24 meses \rMANTENCIONES: 06 cuatrimestrales durante la gt\u00eda\r\rCONTACTO:\rSra. Andrea Ly Lobos\rEncargada de Compras\rFONO: 61-2291151\rE-MAIL: andrealy@redsalud.gov.cl\r\r\rSaludos cordiales, \r\rL o r e t o  G a r c \u00ed a  B.\rAsistente Comercial \r\rAv. Ej\u00e9rcito Libertador n\u00b0733\rSantiago - Chile\r\rCentral:+56 2 2729 20 00\rDirecto:+56 2 2729 20 79\rlgarcia@marsol.cl\rwww.marsol.cl",
+                "document_url": "/view-document/default_comments_9decd2fa-f6e1-4908-9b43-128c63c6a39d",
+                "metadata": {
+                    "page": null,
+                    "source": "default.comments",
+                    "brand": null,
+                    "model": null
+                }
+            },
+            {
+                "fuente": "default_comments_9decd271-ea7c-4675-be62-ebecbfab40ff",
+                "score": 1.0664328336715698,
+                "relevance_score": 0,
+                "confidence_label": "Baja",
+                "llm_explanation": "Este documento no menciona el error E004 ni proporciona informaci\u00f3n \u00fatil sobre el ventilador o el motor.",
+                "contexto": "Registro de comments: commentable_type=App\\Models\\Service, commentable_id=9dce0471-df35-4364-a3b0-d18698948c24, comment=[SAP] Equipo Env. Al vac\u00edo multivac qued\u00f3 pendiente de su Mantencion debido a que no se contaba con herramienta necesaria para su desarme\r\r\rServicio de Mantenci\u00f3n Preventiva considera:\r*Atenci\u00f3n Call Center las 24 horas del d\u00eda, 7 d\u00edas a la semana.\r*Atenci\u00f3n desde las  08:30 a 18:00 horas, \r* Costo de las visitas incluidos en el Valor del Contrato Preventivo, excepto feriados irrenunciables.\r* Descuento de 15% en el valor de los repuestos.\r* HH no se debe cobrar en reparaciones\r* Traslados de equipos a nuestro taller tiene cobro.",
+                "document_url": "/view-document/default_comments_9decd271-ea7c-4675-be62-ebecbfab40ff",
+                "metadata": {
+                    "page": null,
+                    "source": "default.comments",
+                    "brand": null,
+                    "model": null
+                }
+            },
+            {
+                "fuente": "default_comments_9decd2e3-3285-42f2-97e5-ca525ccbf9a9",
+                "score": 1.070415735244751,
+                "relevance_score": 0,
+                "confidence_label": "Baja",
+                "llm_explanation": "Este documento no aborda el error E004 ni proporciona informaci\u00f3n relevante sobre el funcionamiento del ventilador o el motor.",
+                "contexto": "Registro de comments: commentable_type=App\\Models\\Service, commentable_id=9d4616a7-5ba1-47d1-bebb-aa2a7a381659, comment=[SAP] MANTENIMIENTO PREVENTIVO INCLUIDO EN LA VENTA DE LOS EQUIPOS.\r\rLICITACION: 1057448-2-LQ21\rOC 1057448-590-SE21\rN/VENTA: 224614\rGUIA DESPACHO: 581051\rGARANTIA: 61 MESES\rMANTENCIONES: 20 TRIMESTRALES\r\rCONTACTO\rSr. Manuel Varas R.\rEncargado de Equipos Medicos\rFono: 57-2406975\rMail: manuel.varas@hah.gob.cl\r\rSaludos, \r\rL o r e t o  G a r c \u00ed a  B.\rAsistente Operacional / Adm. P\u00fablica\r\rAv. Ej\u00e9rcito Libertador n\u00b0733\rSantiago - Chile\rCentral:+56 2 2729 20 00\rDirecto:+56 2 2729 20 79\rCelular: +56 9 8199 56 14\rlgarcia@marsol.cl\rwww.marsol.cl",
+                "document_url": "/view-document/default_comments_9decd2e3-3285-42f2-97e5-ca525ccbf9a9",
+                "metadata": {
+                    "page": null,
+                    "source": "default.comments",
+                    "brand": null,
+                    "model": null
+                }
+            },
+            {
+                "fuente": "default_comments_9decd31a-e8a7-413c-b6f6-37e901d44f45",
+                "score": 1.0799312591552734,
+                "relevance_score": 0,
+                "confidence_label": "Baja",
+                "llm_explanation": "Este documento no menciona el error E004 ni proporciona informaci\u00f3n \u00fatil sobre el ventilador o el motor.",
+                "contexto": "...1015, \u00d1u\u00f1oa, frente al Unimarc.\rHorario para retiro/desconexi\u00f3n: Lunes a S\u00e1bado 11:00 a 14:00 hrs\rContacto: Ana Karina De La Torre\rkaridlt91@gmail.com\r\rEquipo: LAMINADORA DE MASAS SOBREMESA 8 [kg] Y 20 VELOCIDADES MOD: LSA516\rArt\u00edculo: ARRI-LSA516.1.230.50\rN\u00b0 Serie: V42360X1\rPerteneciente al contrato 49672. \r\r \r\rQuedo atento por confirmar la informaci\u00f3n,\rSaludos, \r\rSebasti\u00e1n Escuti N.\rAnalista de Desarrollo ST\r\rM\u00f3vil: +56958227416\rsescuti@marsol.cl \r\rAv. Ej\u00e9rcito Libertador N\u00b0733\rSantiago - Chile\rwww.marsol.cl\r\r \r\r\r\rDe: Jose Tom\u00e1s Bravo N. <jtbravo@marsol.cl> \rEnviado el: jueves, 9 de mayo de 2024 12:46\rPara: Sebastian Escuti N. <sescuti@marsol.cl>; Sebastian Vera M. <svera@marsol.cl>; Johana Guajardo R. <jguajardo@marsol.cl>\rCC: karidlt91@gmail.com\rAsunto: Retiro equipo DLT\r\rHola Seba E., \r\r\u00bfC\u00f3mo est\u00e1s?\r\rPor favor coordinemos el retiro de la Laminadora en Renting del Cliente Inversiones DLT Ltda.\r\rEquipo no se ocup\u00f3 por lo que deber\u00eda estar semi nuevo.\r\rDirecci\u00f3n de retiro:\r\rObispo Orrego 1015, \u00d1u\u00f1oa\rLa panader\u00eda esta frente al Unimark\r\rHola Seba V, Tu ibas a ver lo de dar de baja el contrato en nuestro sistema.\r\rHola Karina, nos puedes indicar un par de alternativas de d\u00eda y horario para coordinar el retiro.\r\rSaludos y gracias!\r\r\rJos\u00e9 Tom\u00e1s Bravo N. \rSubgerente Desarrollo de Negocios de Servicio.\rMarsol S.A.\rCel: +56995094681\rMail: jtbravo@marsol.cl",
+                "document_url": "/view-document/default_comments_9decd31a-e8a7-413c-b6f6-37e901d44f45",
+                "metadata": {
+                    "page": null,
+                    "source": "default.comments",
+                    "brand": null,
+                    "model": null
+                }
+            },
+            {
+                "fuente": "default_comments_9decd309-bfb6-4bb5-afd9-65b0d41f2432",
+                "score": 1.0801807641983032,
+                "relevance_score": 0,
+                "confidence_label": "Baja",
+                "llm_explanation": "Este documento no aborda el error E004 ni proporciona informaci\u00f3n relevante sobre el ventilador o el motor.",
+                "contexto": "Registro de comments: commentable_type=App\\Models\\Service, commentable_id=9d463585-d5da-4d01-81e1-00dead68c4a2, comment=[SAP] 10-07 mcajas, se cierra llamada por antiguedad, adem\u00e1s que OC ya no se encuentra activa seg\u00fan mail>:O sea, no s\u00f3lo est\u00e1 caducada Mari; es de 2024. Con CENCOSUD se cerraron todos los temas pendientes de a\u00f1os anteriores y hay cero posibilidad de pedir una OC nueva con cargo a esa. Aparte que me imagino que el equipo en cuesti\u00f3n y dado el tiempo que ha pasado quiz\u00e1s sea conveniente revisarlo nuevamente y ver si tiene otros problemas.\r\rSugiero asistir nuevamente y revisar el equipo para tener un diagn\u00f3stico m\u00e1s actualizado, si as\u00ed lo estiman pertinente; pero la OC de 20234 no se puede ocupar.\r\rAtte., \r\rFabiola Jara Luna\rAsistente Comercial\r\u00c1rea Retail Servicio T\u00e9cnico\r****************************************************\r\r15-01 mcajas, en espera de informaci\u00f3n de t\u00e9cnico por devoiluci\u00f3n de repuestos, en paralelo se solicita ayuda a JET por n\u00b0 de parte correcto seg\u00fan reprte.\r\r06-01 mcajas, repuestos en stock,llamada en asignaci\u00f3n\r\r28-10-24 AALMENDRO SE REALIZA SOLICITUD DE COMPRA \r\r\r\rKATHERINE LAHR_02_OCTUBRE_2024 (MESA DE AYUDA): Se env\u00eda ppto a nelson.lazcano@cencosud.cl\r\r01/10 klahr_ se soliicta ayuda a kopos con codigo inactivo\r29/05/24 mbahamondes se consulta a tecnico por NP\r\rQueda pendiente reparaci\u00f3n de manguera con fuga, porque el trabajo debi\u00f3 haberse asignado para 2 tecnicos, equipo queda detenido, porfavor asignar 2 tecnicos para la continuaci\u00f3n ",
+                "document_url": "/view-document/default_comments_9decd309-bfb6-4bb5-afd9-65b0d41f2432",
+                "metadata": {
+                    "page": null,
+                    "source": "default.comments",
+                    "brand": null,
+                    "model": null
+                }
+            },
+            {
+                "fuente": "default_comments_9decd2dd-6823-49f3-b6b2-dc6e6ce6ba34",
+                "score": 1.0851242542266846,
+                "relevance_score": 0,
+                "confidence_label": "Baja",
+                "llm_explanation": "Este documento no menciona el error E004 ni proporciona informaci\u00f3n \u00fatil sobre el ventilador o el motor.",
+                "contexto": "Registro de comments: commentable_type=App\\Models\\Service, commentable_id=9dce1239-7e3b-4a20-9df2-2d88dbe47bd0, comment=[SAP] 21/07/23 - mcordero: Mantencion preventiva. Quitar equipos de pauta. Ll/708325\r\r\rSE AGREGA VALOR DE HORNO ELECTROLUX A ESTAS NV\r\rEl Servicio de Mantenci\u00f3n Preventiva considera:\r*Atenci\u00f3n Call Center las 24 horas del d\u00eda, 7 d\u00edas a la semana.\r*Atenci\u00f3n desde las  08:30 a 18:00 horas, \r* Costo de las visitas incluidos en el Valor del Contrato Preventivo, excepto feriados irrenunciables.\r* Descuento de 25% en el valor de los repuestos.\r* HH no se debe cobrar en reparaciones\r* Traslados de equipos a nuestro taller tiene cobro.",
+                "document_url": "/view-document/default_comments_9decd2dd-6823-49f3-b6b2-dc6e6ce6ba34",
+                "metadata": {
+                    "page": null,
+                    "source": "default.comments",
+                    "brand": null,
+                    "model": null
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,247 @@
+{
+    "traceId": "baab2085-1347-49c1-a361-baea96be9733",
+    "code": "OK",
+    "message": "Predicci\u00f3n generada",
+    "data": {
+        "fallas_probables": [
+            {
+                "falla": "El horno no calienta correctamente, la temperatura no sube de 150 grados.",
+                "confidence": 0.45,
+                "rationale": "La informaci\u00f3n proporcionada no incluye detalles espec\u00edficos sobre el sistema de calefacci\u00f3n del horno ni sobre las actividades t\u00e9cnicas realizadas que puedan estar relacionadas con el problema reportado. Esto sugiere que la causa del problema podr\u00eda ser variada y no se puede determinar con certeza [source:default_activities_9d4777ad-2ad3-4201-9a80-25dbe686ea24].",
+                "repuestos_sugeridos": [
+                    "termopar",
+                    "resistencia de calefacci\u00f3n"
+                ],
+                "herramientas_sugeridas": [
+                    "mult\u00edmetro",
+                    "destornillador"
+                ],
+                "pasos": [
+                    {
+                        "orden": 1,
+                        "descripcion": "Desconectar el horno de la fuente de alimentaci\u00f3n el\u00e9ctrica.",
+                        "tipo": "seguridad"
+                    },
+                    {
+                        "orden": 2,
+                        "descripcion": "Utilizar equipo de protecci\u00f3n personal (EPP) adecuado.",
+                        "tipo": "seguridad"
+                    },
+                    {
+                        "orden": 3,
+                        "descripcion": "Verificar que no haya presi\u00f3n en el sistema antes de realizar cualquier trabajo.",
+                        "tipo": "seguridad"
+                    },
+                    {
+                        "orden": 4,
+                        "descripcion": "Comprobar el estado del termopar y su conexi\u00f3n.",
+                        "tipo": "diagnostico"
+                    },
+                    {
+                        "orden": 5,
+                        "descripcion": "Medir la resistencia de calefacci\u00f3n con un mult\u00edmetro.",
+                        "tipo": "diagnostico"
+                    },
+                    {
+                        "orden": 6,
+                        "descripcion": "Revisar los ajustes del controlador de temperatura.",
+                        "tipo": "diagnostico"
+                    },
+                    {
+                        "orden": 7,
+                        "descripcion": "Reemplazar el termopar si est\u00e1 defectuoso.",
+                        "tipo": "reparacion"
+                    },
+                    {
+                        "orden": 8,
+                        "descripcion": "Reemplazar la resistencia de calefacci\u00f3n si no est\u00e1 funcionando correctamente.",
+                        "tipo": "reparacion"
+                    },
+                    {
+                        "orden": 9,
+                        "descripcion": "Realizar una prueba de funcionamiento del horno despu\u00e9s de las reparaciones.",
+                        "tipo": "seguridad"
+                    }
+                ]
+            }
+        ],
+        "feedback_coherencia": "El problema reportado es coherente, pero la falta de informaci\u00f3n espec\u00edfica limita la capacidad de diagn\u00f3stico preciso.",
+        "fuentes": [
+            "default_activities_9d4777ad-2ad3-4201-9a80-25dbe686ea24",
+            "default_activities_9d4777a5-84f1-4d62-a5c4-753f5e402e38",
+            "default_activities_9d4777b9-5f47-4a55-88ca-aedc6f83b5f6",
+            "default_activities_9d4777ba-1710-42e4-9346-7984475ffb24",
+            "default_activities_9d4777c4-7a65-46f5-996f-85960d4fbc10",
+            "default_activities_9d4777cd-a8ac-4848-9d57-d6965d47304e",
+            "default_activities_9d4777be-bd5b-41ef-9a8b-690dcba2ca1e",
+            "default_activities_9d4777bb-4b78-4da2-bd00-6dc9e5756de1",
+            "default_activities_9d4777c7-0100-48b5-ba1e-d6bc3e1f8791",
+            "default_activities_9d4777ae-14d1-4593-ab9b-2ef95fdb779c"
+        ],
+        "signals": {
+            "kb_hits": 10,
+            "context_length": 2459,
+            "low_evidence": false,
+            "fallback_used": false,
+            "llm_used": true,
+            "validation_passed": true
+        },
+        "quality_metrics": {
+            "context_relevance": 1.0,
+            "source_diversity": 1.0,
+            "prediction_confidence": 0.45
+        },
+        "contextos": [
+            {
+                "fuente": "default_form_responses_0623a6e7-a035-4ddc-818f-f322a32ecb6c",
+                "score": 0.9951987266540527,
+                "relevance_score": 70,
+                "confidence_label": "Media",
+                "llm_explanation": "Este documento menciona la necesidad de aumentar la capacidad de la red el\u00e9ctrica, lo cual podr\u00eda estar relacionado con el problema de calentamiento del horno, pero no aborda directamente la temperatura que no sube de 150 grados.",
+                "contexto": "Registro de form_responses: id=0623a6e7-a035-4ddc-818f-f322a32ecb6c, value=Se realiza visita de pre montaje para horno Unox en el cual se le indica a cliente, que debe Aumentar la capacidad de la red el\u00e9ctrica ya que tiene disyuntor de 40amper para todo el local y solo el horno necesita uno de 32amper. En cuanto a las condiciones el horno entra sin problema por la mampara \nEn cuanto a las condiciones cliente debe instalar lo siguiente \n\n* enchufe industrial trifasico de 32 amper\n* conexi\u00f3n de agua con salida3/4 HE\n* desag\u00fce 2\u201d \n* enchufe monofasico domiciliario \n\nSe le explica a cliente que es importante el uso de la campana por los vapores del horno, form_id=9d322877-1702-4468-8031-85e2f5085003",
+                "document_url": "/view-document/default_form_responses_0623a6e7-a035-4ddc-818f-f322a32ecb6c",
+                "metadata": {
+                    "page": null,
+                    "source": "default.form_responses",
+                    "brand": null,
+                    "model": null
+                }
+            },
+            {
+                "fuente": "default_activity_subtasks_6a66476f-84e5-11f0-9dc1-028eb50f0405",
+                "score": 1.1296281814575195,
+                "relevance_score": 30,
+                "confidence_label": "Baja",
+                "llm_explanation": "Este documento es un registro de subtareas de mantenimiento, pero no proporciona informaci\u00f3n relevante sobre el problema de calentamiento del horno.",
+                "contexto": "Registro de activity_subtasks: id=6a66476f-84e5-11f0-9dc1-028eb50f0405, name=PM: HORNO COMBINADO AUTOMATICO A GAS DE 10 BANDEJAS, company_branch_equipment_id=9fc01ba2-599d-4227-8bea-43b43ea6a65d",
+                "document_url": "/view-document/default_activity_subtasks_6a66476f-84e5-11f0-9dc1-028eb50f0405",
+                "metadata": {
+                    "page": null,
+                    "source": "default.activity_subtasks",
+                    "brand": null,
+                    "model": null
+                }
+            },
+            {
+                "fuente": "default_activity_subtasks_13668761-8d9c-11f0-aae7-02af7a30d17f",
+                "score": 1.1335161924362183,
+                "relevance_score": 30,
+                "confidence_label": "Baja",
+                "llm_explanation": "Similar al documento 2, este registro no ofrece informaci\u00f3n \u00fatil para resolver el problema de temperatura del horno.",
+                "contexto": "Registro de activity_subtasks: id=13668761-8d9c-11f0-aae7-02af7a30d17f, name=PM: HORNO COMBINADO AUTOMATICO A GAS DE 10 BANDEJAS, company_branch_equipment_id=9fc01ba2-599d-4227-8bea-43b43ea6a65d",
+                "document_url": "/view-document/default_activity_subtasks_13668761-8d9c-11f0-aae7-02af7a30d17f",
+                "metadata": {
+                    "page": null,
+                    "source": "default.activity_subtasks",
+                    "brand": null,
+                    "model": null
+                }
+            },
+            {
+                "fuente": "default_equipments_9cf6a01c-dd4b-486a-837a-a1616a5e2530",
+                "score": 1.1361616849899292,
+                "relevance_score": 30,
+                "confidence_label": "Baja",
+                "llm_explanation": "Este documento describe un horno espec\u00edfico, pero no aborda el problema de calentamiento ni proporciona informaci\u00f3n de troubleshooting.",
+                "contexto": "Registro de equipments: id=9cf6a01c-dd4b-486a-837a-a1616a5e2530, name=HORNO VAPORIZADOR COMBINADO RATIONAL, MOD. CM62, 12 BANDEJAS GN 1/1 - 6 GN 2/1, ELECTRICO, 380/50/3, sku=0629100.01.202",
+                "document_url": "/view-document/default_equipments_9cf6a01c-dd4b-486a-837a-a1616a5e2530",
+                "metadata": {
+                    "page": null,
+                    "source": "default.equipments",
+                    "brand": null,
+                    "model": null
+                }
+            },
+            {
+                "fuente": "default_activity_subtasks_133a467f-8d9c-11f0-aae7-02af7a30d17f",
+                "score": 1.1370911598205566,
+                "relevance_score": 30,
+                "confidence_label": "Baja",
+                "llm_explanation": "Al igual que los documentos 2 y 3, este registro no es relevante para el problema de temperatura del horno.",
+                "contexto": "Registro de activity_subtasks: id=133a467f-8d9c-11f0-aae7-02af7a30d17f, name=PM: HORNO COMBINADO AUTOMATICO A GAS DE 10 BANDEJAS, company_branch_equipment_id=9fc01ba2-599d-4227-8bea-43b43ea6a65d",
+                "document_url": "/view-document/default_activity_subtasks_133a467f-8d9c-11f0-aae7-02af7a30d17f",
+                "metadata": {
+                    "page": null,
+                    "source": "default.activity_subtasks",
+                    "brand": null,
+                    "model": null
+                }
+            },
+            {
+                "fuente": "default_activity_subtasks_12fa2567-8d9c-11f0-aae7-02af7a30d17f",
+                "score": 1.1373142004013062,
+                "relevance_score": 30,
+                "confidence_label": "Baja",
+                "llm_explanation": "Este documento es un registro de subtareas de mantenimiento sin informaci\u00f3n \u00fatil para el problema de calentamiento.",
+                "contexto": "Registro de activity_subtasks: id=12fa2567-8d9c-11f0-aae7-02af7a30d17f, name=PM: HORNO COMBINADO AUTOMATICO A GAS DE 10 BANDEJAS, company_branch_equipment_id=9fc01ba2-599d-4227-8bea-43b43ea6a65d",
+                "document_url": "/view-document/default_activity_subtasks_12fa2567-8d9c-11f0-aae7-02af7a30d17f",
+                "metadata": {
+                    "page": null,
+                    "source": "default.activity_subtasks",
+                    "brand": null,
+                    "model": null
+                }
+            },
+            {
+                "fuente": "default_activity_subtasks_6505e783-8d93-11f0-aae7-02af7a30d17f",
+                "score": 1.1388028860092163,
+                "relevance_score": 30,
+                "confidence_label": "Baja",
+                "llm_explanation": "No proporciona informaci\u00f3n relevante sobre el problema de temperatura del horno.",
+                "contexto": "Registro de activity_subtasks: id=6505e783-8d93-11f0-aae7-02af7a30d17f, name=PM: HORNO COMBINADO AUTOMATICO A GAS DE 10 BANDEJAS, company_branch_equipment_id=9fc01ba2-599d-4227-8bea-43b43ea6a65d",
+                "document_url": "/view-document/default_activity_subtasks_6505e783-8d93-11f0-aae7-02af7a30d17f",
+                "metadata": {
+                    "page": null,
+                    "source": "default.activity_subtasks",
+                    "brand": null,
+                    "model": null
+                }
+            },
+            {
+                "fuente": "default_activity_subtasks_6438a473-8d93-11f0-aae7-02af7a30d17f",
+                "score": 1.1388723850250244,
+                "relevance_score": 30,
+                "confidence_label": "Baja",
+                "llm_explanation": "Este documento tampoco aborda el problema de calentamiento del horno.",
+                "contexto": "Registro de activity_subtasks: id=6438a473-8d93-11f0-aae7-02af7a30d17f, name=PM: HORNO COMBINADO AUTOMATICO A GAS DE 10 BANDEJAS, company_branch_equipment_id=9fc01ba2-599d-4227-8bea-43b43ea6a65d",
+                "document_url": "/view-document/default_activity_subtasks_6438a473-8d93-11f0-aae7-02af7a30d17f",
+                "metadata": {
+                    "page": null,
+                    "source": "default.activity_subtasks",
+                    "brand": null,
+                    "model": null
+                }
+            },
+            {
+                "fuente": "default_activity_subtasks_64195285-8d93-11f0-aae7-02af7a30d17f",
+                "score": 1.1394767761230469,
+                "relevance_score": 30,
+                "confidence_label": "Baja",
+                "llm_explanation": "No es relevante para el problema de temperatura del horno.",
+                "contexto": "Registro de activity_subtasks: id=64195285-8d93-11f0-aae7-02af7a30d17f, name=PM: HORNO COMBINADO AUTOMATICO A GAS DE 10 BANDEJAS, company_branch_equipment_id=9fc01ba2-599d-4227-8bea-43b43ea6a65d",
+                "document_url": "/view-document/default_activity_subtasks_64195285-8d93-11f0-aae7-02af7a30d17f",
+                "metadata": {
+                    "page": null,
+                    "source": "default.activity_subtasks",
+                    "brand": null,
+                    "model": null
+                }
+            },
+            {
+                "fuente": "default_equipments_9cf6a01c-db34-463a-90ec-a498b6b99209",
+                "score": 1.13953697681427,
+                "relevance_score": 30,
+                "confidence_label": "Baja",
+                "llm_explanation": "Este documento describe otro modelo de horno y no aborda el problema espec\u00edfico de calentamiento.",
+                "contexto": "Registro de equipments: id=9cf6a01c-db34-463a-90ec-a498b6b99209, name=HORNO VAPORIZADOR COMBINADO RATIONAL, MOD. CM61, 6 BANDEJAS GN 1/1, ELECTRICO, 380/50/3, sku=0619100.01.202",
+                "document_url": "/view-document/default_equipments_9cf6a01c-db34-463a-90ec-a498b6b99209",
+                "metadata": {
+                    "page": null,
+                    "source": "default.equipments",
+                    "brand": null,
+                    "model": null
+                }
+            }
+        ]
+    }
+}

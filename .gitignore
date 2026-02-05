@@ -179,3 +179,15 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+# SSH Keys and certificates
+*.pem
+*.key
+*.crt
+
+# ChromaDB local data
+chroma_local/
+
+# Temporary scripts
+limpiar_docs_antiguos.py
+test_manual.json

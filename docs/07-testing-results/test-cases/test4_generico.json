@@ -1,0 +1,256 @@
+{
+    "traceId": "0d5f15ff-b856-45f5-8359-c52f9c5b7e17",
+    "code": "OK",
+    "message": "Predicci\u00f3n generada",
+    "data": {
+        "fallas_probables": [
+            {
+                "falla": "Ruidos extra\u00f1os debido a un posible desgaste o da\u00f1o en el rodamiento del tambor.",
+                "confidence": 0.65,
+                "rationale": "El ruido puede ser causado por un rodamiento defectuoso, como el rodamiento de tambor insertado mencionado en [source:default_equipment_parts_9bf95f55-a936-4b79-a649-3c5fb2b73fd4].",
+                "repuestos_sugeridos": [
+                    "RODAMIENTO DE TAMBOR INSERTADO (REEMPLAZA 102188)"
+                ],
+                "herramientas_sugeridas": [
+                    "destornillador",
+                    "llave inglesa"
+                ],
+                "pasos": [
+                    {
+                        "orden": 1,
+                        "descripcion": "Desconectar la alimentaci\u00f3n el\u00e9ctrica del equipo.",
+                        "tipo": "seguridad"
+                    },
+                    {
+                        "orden": 2,
+                        "descripcion": "Usar equipo de protecci\u00f3n personal (EPP) adecuado.",
+                        "tipo": "seguridad"
+                    },
+                    {
+                        "orden": 3,
+                        "descripcion": "Verificar que no haya presi\u00f3n en el sistema antes de proceder.",
+                        "tipo": "seguridad"
+                    },
+                    {
+                        "orden": 4,
+                        "descripcion": "Escuchar el ruido y localizar su origen en el equipo.",
+                        "tipo": "diagnostico"
+                    },
+                    {
+                        "orden": 5,
+                        "descripcion": "Inspeccionar visualmente el rodamiento del tambor para detectar desgaste o da\u00f1o.",
+                        "tipo": "diagnostico"
+                    },
+                    {
+                        "orden": 6,
+                        "descripcion": "Realizar una prueba de funcionamiento para confirmar el ruido.",
+                        "tipo": "diagnostico"
+                    },
+                    {
+                        "orden": 7,
+                        "descripcion": "Retirar el rodamiento defectuoso si se confirma el da\u00f1o.",
+                        "tipo": "reparacion"
+                    },
+                    {
+                        "orden": 8,
+                        "descripcion": "Instalar el nuevo rodamiento de tambor insertado.",
+                        "tipo": "reparacion"
+                    },
+                    {
+                        "orden": 9,
+                        "descripcion": "Verificar que todas las conexiones est\u00e9n seguras y realizar una prueba supervisada del equipo.",
+                        "tipo": "seguridad"
+                    }
+                ]
+            }
+        ],
+        "feedback_coherencia": "El problema reportado es coherente con la posible falla del rodamiento, aunque se requiere m\u00e1s informaci\u00f3n para un diagn\u00f3stico definitivo.",
+        "fuentes": [
+            "default_equipment_parts_9bf95f55-df14-41ca-94fe-30cf041fecc5",
+            "default_equipment_parts_9bf95f55-e067-4f47-8650-3b57f2d59c41",
+            "default_equipment_parts_9bf95f54-d36c-45f3-83b6-29770d08f09b",
+            "default_equipment_parts_9bf95f56-3c02-4809-886e-088840c31eb8",
+            "default_equipment_parts_9bf95f56-74f3-47d8-a497-4d0b3feb2296",
+            "default_equipment_parts_9bf95f56-0018-462b-ada4-7d59d98f4d47",
+            "default_equipment_parts_9bf95f54-dfb0-49b3-a1a6-fa129e01a5cb",
+            "default_equipment_parts_9bf95f54-e055-477b-b0d5-f357f4e1cb4e",
+            "default_equipment_parts_9bf95f55-e10b-4e03-a66f-dda3131ebd39",
+            "default_equipment_parts_9bf95f54-c9a2-4658-8a65-6dcce9583a05",
+            "default_equipment_parts_9bf95f56-675b-46c8-8e95-7e53effdcc53",
+            "default_equipment_parts_9bf95f55-dfbc-43eb-9812-55d8e56ab26c",
+            "default_equipment_parts_9bf95f54-cdec-48e7-a26a-612a323b9e53",
+            "default_equipment_parts_9bf95f56-8fdb-45fd-bca9-7defa495c481",
+            "default_equipment_parts_9bf95f56-744b-496a-b8d3-0a2a1880e13c",
+            "default_equipment_parts_9bf95f56-781b-4a19-bd61-58d926843368",
+            "default_equipment_parts_9bf95f55-6923-4837-924d-974ce19404d3",
+            "default_equipment_parts_9bf95f56-8f38-4bba-ae97-a116a712e281",
+            "default_equipment_parts_9bf95f54-7440-4247-af15-f5a53582b1b0",
+            "default_equipment_parts_9bf95f55-a936-4b79-a649-3c5fb2b73fd4"
+        ],
+        "signals": {
+            "kb_hits": 20,
+            "context_length": 3235,
+            "low_evidence": false,
+            "fallback_used": false,
+            "llm_used": true,
+            "validation_passed": true
+        },
+        "quality_metrics": {
+            "context_relevance": 1.0,
+            "source_diversity": 1.0,
+            "prediction_confidence": 0.65
+        },
+        "contextos": [
+            {
+                "fuente": "default_activities_9d4777c8-c831-4f4d-b14a-9b5b439137d9",
+                "score": 1.1269043684005737,
+                "relevance_score": 10,
+                "confidence_label": "Baja",
+                "llm_explanation": "Este documento no proporciona informaci\u00f3n espec\u00edfica sobre el ruido extra\u00f1o del equipo. Solo menciona una actividad t\u00e9cnica sin detalles relevantes.",
+                "contexto": "Actividad t\u00e9cnica realizada por 9d4777a1-0504-4829-9a34-78a7748ad64b en equipo N/A. Estado: 591d9d00-45b8-4f0f-a652-eabd33478b4d. Tiempo: 2023-12-27 19:15:00 - 2023-12-27 19:45:00.",
+                "document_url": "/view-document/default_activities_9d4777c8-c831-4f4d-b14a-9b5b439137d9",
+                "metadata": {
+                    "page": null,
+                    "source": "default.activities",
+                    "brand": null,
+                    "model": null
+                }
+            },
+            {
+                "fuente": "default_activities_9d4777bb-b8f3-401c-a7ac-7a25ee70e17d",
+                "score": 1.1275960206985474,
+                "relevance_score": 10,
+                "confidence_label": "Baja",
+                "llm_explanation": "Al igual que el documento anterior, este documento no ofrece informaci\u00f3n \u00fatil sobre el problema del ruido extra\u00f1o. Solo se refiere a una actividad t\u00e9cnica sin detalles espec\u00edficos.",
+                "contexto": "Actividad t\u00e9cnica realizada por 9d4777a1-0504-4829-9a34-78a7748ad64b en equipo N/A. Estado: 591d9d00-45b8-4f0f-a652-eabd33478b4d. Tiempo: 2023-12-27 21:00:00 - 2023-12-27 21:30:00.",
+                "document_url": "/view-document/default_activities_9d4777bb-b8f3-401c-a7ac-7a25ee70e17d",
+                "metadata": {
+                    "page": null,
+                    "source": "default.activities",
+                    "brand": null,
+                    "model": null
+                }
+            },
+            {
+                "fuente": "default_activities_9d4777bb-4b78-4da2-bd00-6dc9e5756de1",
+                "score": 1.1277309656143188,
+                "relevance_score": 10,
+                "confidence_label": "Baja",
+                "llm_explanation": "Este documento tambi\u00e9n carece de informaci\u00f3n relevante sobre el ruido extra\u00f1o. Se limita a mencionar una actividad t\u00e9cnica sin contexto \u00fatil.",
+                "contexto": "Actividad t\u00e9cnica realizada por 9d4777a1-0504-4829-9a34-78a7748ad64b en equipo N/A. Estado: 591d9d00-45b8-4f0f-a652-eabd33478b4d. Tiempo: 2023-12-27 21:30:00 - 2023-12-27 22:02:00.",
+                "document_url": "/view-document/default_activities_9d4777bb-4b78-4da2-bd00-6dc9e5756de1",
+                "metadata": {
+                    "page": null,
+                    "source": "default.activities",
+                    "brand": null,
+                    "model": null
+                }
+            },
+            {
+                "fuente": "default_activities_009d4c98-7e88-11f0-9dc1-028eb50f0405",
+                "score": 1.130562424659729,
+                "relevance_score": 10,
+                "confidence_label": "Baja",
+                "llm_explanation": "No proporciona informaci\u00f3n \u00fatil sobre el problema del ruido extra\u00f1o, solo menciona una actividad t\u00e9cnica sin detalles.",
+                "contexto": "Actividad t\u00e9cnica realizada por None en equipo N/A. Estado: 591d9d00-45b8-4f0f-a652-eabd33478b4d. Tiempo: None - None.",
+                "document_url": "/view-document/default_activities_009d4c98-7e88-11f0-9dc1-028eb50f0405",
+                "metadata": {
+                    "page": null,
+                    "source": "default.activities",
+                    "brand": null,
+                    "model": null
+                }
+            },
+            {
+                "fuente": "default_activities_2c66d63d-7e01-11f0-9dc1-028eb50f0405",
+                "score": 1.130562424659729,
+                "relevance_score": 10,
+                "confidence_label": "Baja",
+                "llm_explanation": "Este documento no es relevante para la pregunta, ya que no ofrece informaci\u00f3n sobre el ruido extra\u00f1o del equipo.",
+                "contexto": "Actividad t\u00e9cnica realizada por None en equipo N/A. Estado: 591d9d00-45b8-4f0f-a652-eabd33478b4d. Tiempo: None - None.",
+                "document_url": "/view-document/default_activities_2c66d63d-7e01-11f0-9dc1-028eb50f0405",
+                "metadata": {
+                    "page": null,
+                    "source": "default.activities",
+                    "brand": null,
+                    "model": null
+                }
+            },
+            {
+                "fuente": "default_activities_2f411e57-7e8c-11f0-9dc1-028eb50f0405",
+                "score": 1.130562424659729,
+                "relevance_score": 10,
+                "confidence_label": "Baja",
+                "llm_explanation": "No contiene informaci\u00f3n \u00fatil sobre el ruido extra\u00f1o, solo menciona una actividad t\u00e9cnica sin detalles relevantes.",
+                "contexto": "Actividad t\u00e9cnica realizada por None en equipo N/A. Estado: 591d9d00-45b8-4f0f-a652-eabd33478b4d. Tiempo: None - None.",
+                "document_url": "/view-document/default_activities_2f411e57-7e8c-11f0-9dc1-028eb50f0405",
+                "metadata": {
+                    "page": null,
+                    "source": "default.activities",
+                    "brand": null,
+                    "model": null
+                }
+            },
+            {
+                "fuente": "default_activities_48d48716-7e88-11f0-9dc1-028eb50f0405",
+                "score": 1.130562424659729,
+                "relevance_score": 10,
+                "confidence_label": "Baja",
+                "llm_explanation": "Este documento no aborda el problema del ruido extra\u00f1o y se limita a mencionar una actividad t\u00e9cnica sin contexto \u00fatil.",
+                "contexto": "Actividad t\u00e9cnica realizada por None en equipo N/A. Estado: 591d9d00-45b8-4f0f-a652-eabd33478b4d. Tiempo: None - None.",
+                "document_url": "/view-document/default_activities_48d48716-7e88-11f0-9dc1-028eb50f0405",
+                "metadata": {
+                    "page": null,
+                    "source": "default.activities",
+                    "brand": null,
+                    "model": null
+                }
+            },
+            {
+                "fuente": "default_activities_5eb43857-7e04-11f0-9dc1-028eb50f0405",
+                "score": 1.130562424659729,
+                "relevance_score": 10,
+                "confidence_label": "Baja",
+                "llm_explanation": "No proporciona informaci\u00f3n relevante sobre el ruido extra\u00f1o, solo menciona una actividad t\u00e9cnica sin detalles.",
+                "contexto": "Actividad t\u00e9cnica realizada por None en equipo N/A. Estado: 591d9d00-45b8-4f0f-a652-eabd33478b4d. Tiempo: None - None.",
+                "document_url": "/view-document/default_activities_5eb43857-7e04-11f0-9dc1-028eb50f0405",
+                "metadata": {
+                    "page": null,
+                    "source": "default.activities",
+                    "brand": null,
+                    "model": null
+                }
+            },
+            {
+                "fuente": "default_activities_72af0fdb-7e87-11f0-9dc1-028eb50f0405",
+                "score": 1.130562424659729,
+                "relevance_score": 10,
+                "confidence_label": "Baja",
+                "llm_explanation": "Este documento no es \u00fatil para resolver el problema del ruido extra\u00f1o, ya que carece de informaci\u00f3n relevante.",
+                "contexto": "Actividad t\u00e9cnica realizada por None en equipo N/A. Estado: 591d9d00-45b8-4f0f-a652-eabd33478b4d. Tiempo: None - None.",
+                "document_url": "/view-document/default_activities_72af0fdb-7e87-11f0-9dc1-028eb50f0405",
+                "metadata": {
+                    "page": null,
+                    "source": "default.activities",
+                    "brand": null,
+                    "model": null
+                }
+            },
+            {
+                "fuente": "default_activities_72af1177-7e87-11f0-9dc1-028eb50f0405",
+                "score": 1.130562424659729,
+                "relevance_score": 10,
+                "confidence_label": "Baja",
+                "llm_explanation": "No ofrece informaci\u00f3n \u00fatil sobre el ruido extra\u00f1o del equipo, solo menciona una actividad t\u00e9cnica sin detalles.",
+                "contexto": "Actividad t\u00e9cnica realizada por None en equipo N/A. Estado: 591d9d00-45b8-4f0f-a652-eabd33478b4d. Tiempo: None - None.",
+                "document_url": "/view-document/default_activities_72af1177-7e87-11f0-9dc1-028eb50f0405",
+                "metadata": {
+                    "page": null,
+                    "source": "default.activities",
+                    "brand": null,
+                    "model": null
+                }
+            }
+        ]
+    }
+}
