@@ -162,6 +162,8 @@ def predict_fallas(
                         "source": hit.get("metadata", {}).get("source"),
                         "brand": hit.get("metadata", {}).get("brand"),
                         "model": hit.get("metadata", {}).get("model"),
+                        "source_file": hit.get("metadata", {}).get("source_file"),  # Nombre archivo original
+                        "chunk_type": hit.get("metadata", {}).get("chunk_type"),  # Tipo de chunk
                     },
                 }
                 for hit in ranked_hits

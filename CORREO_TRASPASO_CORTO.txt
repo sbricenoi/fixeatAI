@@ -1,0 +1,213 @@
+═══════════════════════════════════════════════════════════════════════
+CORREO DE TRASPASO - PROYECTO FIXEAT AI (VERSIÓN CORTA)
+═══════════════════════════════════════════════════════════════════════
+
+Asunto: Traspaso de Proyecto - FIXEAT AI: Predictor Inteligente de Fallas
+
+Estimado/a [Nombre],
+
+Te hago entrega formal del proyecto FIXEAT AI, un sistema de IA para diagnóstico de fallas en equipos de cocina industrial que está funcionando en producción desde diciembre 2025.
+
+═══════════════════════════════════════════════════════════════════════
+📋 RESUMEN EJECUTIVO
+═══════════════════════════════════════════════════════════════════════
+
+FIXEAT AI es un sistema basado en RAG (Retrieval-Augmented Generation) que:
+• Analiza problemas técnicos descritos en lenguaje natural
+• Busca en una base de conocimiento vectorial (ChromaDB)
+• Utiliza GPT-4o-mini para análisis inteligente
+• Sugiere fallas probables con nivel de confianza (hasta 0.85)
+• Recomienda repuestos, herramientas y pasos de reparación
+
+Métricas actuales:
+• Estado: ✅ ACTIVO en producción
+• Tasa de éxito: 100%
+• Tiempo de respuesta: 25-50 segundos
+• Documentos consultados: 10-20 por query
+
+═══════════════════════════════════════════════════════════════════════
+🔗 ACCESOS Y RECURSOS
+═══════════════════════════════════════════════════════════════════════
+
+1. REPOSITORIO GITHUB
+   URL: https://github.com/sbricenoi/fixeatAI
+   Branch: main
+   Estado: Limpieza completa realizada el 2/Feb/2026
+
+2. SERVIDOR DE PRODUCCIÓN (AWS EC2)
+   IP: 18.220.79.28
+   Usuario: ec2-user
+   SSH Key: fixeatIA.pem (solicitar por canal seguro)
+   Comando: ssh -i fixeatIA.pem ec2-user@18.220.79.28
+
+3. SERVICIOS EN PRODUCCIÓN
+   • API: http://18.220.79.28:8000
+   • MCP/KB: http://18.220.79.28:7070
+   • Health checks: /health en ambos servicios
+
+4. CREDENCIALES
+   • OpenAI API Key: Solicitar archivo .env (NO está en Git)
+   • Variables requeridas: OPENAI_API_KEY, USE_LLM, LLM_MODEL
+
+═══════════════════════════════════════════════════════════════════════
+🚀 CÓMO COMENZAR
+═══════════════════════════════════════════════════════════════════════
+
+PASO 1: Clonar y configurar localmente
+  git clone https://github.com/sbricenoi/fixeatAI.git
+  cd fixeatAI
+  python3 -m venv .venv
+  source .venv/bin/activate
+  pip install -e .
+  cp .env.example .env
+  # Editar .env con tu OPENAI_API_KEY
+
+PASO 2: Levantar servicios locales (2 terminales)
+  Terminal 1: make dev-mcp
+  Terminal 2: make run
+
+PASO 3: Verificar funcionamiento
+  curl http://localhost:8000/health
+  curl http://localhost:7000/health
+
+PASO 4: Conectar a producción
+  ssh -i fixeatIA.pem ec2-user@18.220.79.28
+  cd fixeatAI
+  docker-compose ps
+
+═══════════════════════════════════════════════════════════════════════
+📚 DOCUMENTACIÓN
+═══════════════════════════════════════════════════════════════════════
+
+La documentación completa está en la carpeta docs/ del repositorio:
+
+docs/
+├── README.md                   # Índice maestro
+├── 01-getting-started/        # Quickstart, arquitectura
+├── 02-api/                    # API reference completa
+├── 03-features/               # Predictor, KB, taxonomía
+├── 04-development/            # Desarrollo local, testing
+├── 05-deployment/             # AWS, Docker, runbooks
+├── 06-presentations/          # Demos para clientes
+└── 07-testing-results/        # Resultados de pruebas
+
+Documentos clave para empezar:
+1. README.md (raíz) - Visión general
+2. docs/01-getting-started/quickstart.md - Inicio rápido
+3. docs/01-getting-started/arquitectura.md - Arquitectura
+4. docs/05-deployment/deployment-guide.md - Deploy
+5. LIMPIEZA_PROYECTO.md - Cambios recientes (Feb 2/2026)
+
+═══════════════════════════════════════════════════════════════════════
+🏗️ ARQUITECTURA (SIMPLIFICADA)
+═══════════════════════════════════════════════════════════════════════
+
+Cliente → API (FastAPI, puerto 8000)
+           ↓
+        RAG Core
+           ↓
+    ┌──────┴──────┐
+    ↓             ↓
+  MCP/KB       GPT-4o-mini
+  (ChromaDB)   (OpenAI)
+  Puerto 7070
+
+Componentes:
+• app/main.py - API con endpoint /api/v1/predict-fallas
+• mcp/server_demo.py - Servidor de Knowledge Base
+• services/ - Módulos core (kb, llm, orch, predictor, taxonomy)
+• docker-compose.yml - 2 servicios (mcp + api)
+
+═══════════════════════════════════════════════════════════════════════
+🔧 MANTENIMIENTO EN PRODUCCIÓN
+═══════════════════════════════════════════════════════════════════════
+
+Actualizar código:
+  ssh -i fixeatIA.pem ec2-user@18.220.79.28
+  cd fixeatAI
+  git pull origin main
+  docker-compose down --remove-orphans
+  docker-compose build --no-cache
+  docker-compose up -d
+  docker-compose ps
+
+Ver logs:
+  docker-compose logs -f api
+  docker-compose logs -f mcp
+
+Health checks:
+  curl http://localhost:8000/health
+  curl http://localhost:7070/health
+
+═══════════════════════════════════════════════════════════════════════
+📝 CHECKLIST DE TRANSFERENCIA
+═══════════════════════════════════════════════════════════════════════
+
+Antes de considerar el traspaso completo, verifica:
+
+[ ] Acceso al repositorio GitHub
+[ ] Clave SSH fixeatIA.pem recibida
+[ ] Archivo .env con credenciales recibido
+[ ] Conexión exitosa al servidor de producción
+[ ] Proyecto ejecutado localmente con éxito
+[ ] Al menos 1 llamada exitosa a API de producción
+[ ] Lectura de README.md y arquitectura
+[ ] Revisión del estado de servicios en producción
+[ ] Conocimiento del proceso de actualización
+[ ] Contactos de soporte disponibles
+
+═══════════════════════════════════════════════════════════════════════
+🎯 PRÓXIMOS PASOS INMEDIATOS
+═══════════════════════════════════════════════════════════════════════
+
+Prioridad ALTA:
+1. Solicitar fixeatIA.pem y archivo .env
+2. Clonar repo y ejecutar localmente
+3. Conectarte al servidor y verificar estado
+4. Leer documentación principal (README + arquitectura)
+5. Hacer 3 pruebas de la API
+
+Prioridad MEDIA:
+6. Configurar monitoreo y alertas
+7. Verificar backups de la KB
+8. Implementar tests automatizados
+
+═══════════════════════════════════════════════════════════════════════
+📞 CONTACTO
+═══════════════════════════════════════════════════════════════════════
+
+Para cualquier consulta o aclaración:
+
+Desarrollador saliente: [Tu nombre]
+Email: [Tu email]
+Teléfono: [Tu teléfono]
+
+GitHub Issues: https://github.com/sbricenoi/fixeatAI/issues
+
+═══════════════════════════════════════════════════════════════════════
+📎 ADJUNTOS
+═══════════════════════════════════════════════════════════════════════
+
+He preparado un documento completo con todos los detalles:
+• CORREO_TRASPASO_PROYECTO.md (en el repositorio)
+
+Este documento incluye:
+- Arquitectura detallada
+- Stack tecnológico completo
+- Ejemplos de requests/responses
+- Comandos útiles
+- Guía de troubleshooting
+- Y mucho más...
+
+═══════════════════════════════════════════════════════════════════════
+
+El proyecto está estable, bien documentado y listo para que lo asumas.
+Si tienes cualquier duda, no dudes en contactarme.
+
+Saludos,
+
+[Tu Nombre]
+[Tu Cargo]
+[Fecha: 2 de febrero de 2026]
+
+═══════════════════════════════════════════════════════════════════════

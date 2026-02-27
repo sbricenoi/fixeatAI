@@ -285,7 +285,7 @@ def generate_document_url(doc_id: str, metadata: dict[str, Any] | None = None) -
     page = metadata.get("page")
     
     # Caso 1: Source es URL (HTTP/HTTPS/S3)
-    if source.startswith(("http://", "https://", "s3://")):
+    if source and source.startswith(("http://", "https://", "s3://")):
         base_url = source
         
         # Limpiar fragmento existente si hay
@@ -311,9 +311,16 @@ def generate_document_url(doc_id: str, metadata: dict[str, Any] | None = None) -
         else:
             return base_url
     
-    # Caso 2: doc_id tiene formato legacy con #c (chunk)
+    # Caso 2: doc_id tiene formato legacy con #c (chunk) y posible URL
     if "#c" in doc_id:
         base_id = doc_id.split("#")[0]
+        
+        # Si el base_id es una URL, usarla
+        if base_id.startswith(("http://", "https://", "s3://")):
+            if page is not None:
+                return f"{base_id}#page={page}"
+            else:
+                return base_id
         
         # Si source está disponible, usarlo
         if source:
@@ -324,11 +331,20 @@ def generate_document_url(doc_id: str, metadata: dict[str, Any] | None = None) -
         
         # Si hay página pero no source, usar formato legacy mejorado
         if page is not None:
-            return f"{base_id}#page={page}"
+            return f"/view-document/{base_id}?page={page}"
         else:
-            return doc_id
+            return f"/view-document/{doc_id}"
     
-    # Caso 3: Ruta local o sin source específico
+    # Caso 3: Source con formato "default.services", "default.activities", etc.
+    # Estos son datos importados de BD - agregar metadata descriptivo
+    if source and source.startswith("default."):
+        source_type = source.split(".")[-1]  # "services", "activities", etc.
+        if page is not None:
+            return f"/view-document/{doc_id}?page={page}&source={source_type}"
+        else:
+            return f"/view-document/{doc_id}?source={source_type}"
+    
+    # Caso 4: Ruta local o sin source específico
     # Usar endpoint de visualización del servidor MCP
     if page is not None:
         return f"/view-document/{doc_id}?page={page}"

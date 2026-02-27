@@ -182,8 +182,16 @@ cython_debug/
 
 # SSH Keys and certificates
 *.pem
+*.pem.zip
 *.key
+*.key.zip
 *.crt
+
+# Environment files (credentials)
+.env
+env.txt
+.env.local
+.env.production
 
 # ChromaDB local data
 chroma_local/
