@@ -1089,13 +1089,13 @@ def _download_s3_pdf(bucket: str, key: str, region: str) -> bytes:
     return response["Body"].read()
 
 
-def _ingest_pdf_bytes(pdf_bytes: bytes, stem: str, source_url: str) -> int:
+def _ingest_pdf_bytes(pdf_bytes: bytes, stem: str, source_url: str, brand: str | None = None, model: str | None = None) -> int:
     """Ingesta un PDF en memoria por páginas. Retorna número de páginas ingresadas."""
     if not _PYMUPDF_AVAILABLE:
         text = _extract_text_from_pdf(pdf_bytes)
         if text:
             items = _build_canonical_items(
-                source_url, text, {"source": source_url, "source_type": "s3_pdf"}
+                source_url, text, {"source": source_url, "source_type": "s3_pdf", "brand": brand, "model": model}
             )
             ingest_docs([d.model_dump() for d in items])
             return len(items)
@@ -1117,6 +1117,8 @@ def _ingest_pdf_bytes(pdf_bytes: bytes, stem: str, source_url: str) -> int:
                 "page": num + 1,
                 "total_pages": total_pages,
                 "chunk_type": "page",
+                "brand": brand,
+                "model": model,
             },
         })
     doc.close()
@@ -1170,7 +1172,10 @@ def _run_sync_background(bucket: str, prefix: str, region: str) -> None:
             update(current_file=pdf["stem"])
             try:
                 pdf_bytes = _download_s3_pdf(bucket, pdf["key"], region)
-                pages = _ingest_pdf_bytes(pdf_bytes, pdf["stem"], pdf["url"])
+                # Extraer brand del path S3: kb/Melitta/file.pdf → "Melitta"
+                key_parts = pdf["key"].split("/")
+                brand = key_parts[-2] if len(key_parts) >= 3 else None
+                pages = _ingest_pdf_bytes(pdf_bytes, pdf["stem"], pdf["url"], brand=brand)
                 synced += 1
                 update(synced=synced)
                 print(f"   ✅ [sync] {pdf['stem']} — {pages} páginas")

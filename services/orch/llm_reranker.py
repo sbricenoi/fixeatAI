@@ -9,9 +9,9 @@ Este módulo implementa un segundo paso de análisis donde el LLM:
 
 from __future__ import annotations
 from typing import Any, List, Dict
-import os
 import json
-import requests
+
+from services.llm.client import LLMClient
 
 
 def rerank_with_llm(
@@ -51,16 +51,7 @@ def rerank_with_llm(
     
     if not candidates:
         return []
-    
-    # Configuración del LLM
-    llm_api_key = os.getenv("OPENAI_API_KEY")
-    llm_model = model_name or os.getenv("LLM_MODEL", "gpt-4o-mini")
-    llm_base_url = os.getenv("LLM_BASE_URL", "https://api.openai.com/v1")
-    
-    if not llm_api_key:
-        print("⚠️  OPENAI_API_KEY no configurado, retornando candidatos sin re-ranking")
-        return candidates[:top_k]
-    
+
     # Construir contexto para el LLM
     context_info = f"Marca: {marca or 'N/A'}, Modelo: {modelo or 'N/A'}"
     
@@ -84,7 +75,7 @@ def rerank_with_llm(
         })
     
     # Prompt para el LLM
-    system_prompt = """Eres un experto en diagnóstico de equipos industriales Rational (hornos, vaporizadores).
+    system_prompt = """Eres un experto en diagnóstico de equipos industriales de cocina profesional.
 
 Tu tarea es ANALIZAR documentos técnicos y determinar cuál responde MEJOR a la pregunta del usuario.
 
@@ -138,38 +129,13 @@ IMPORTANTE:
 
 Analiza cada documento y retorna el JSON con los rankings de relevancia."""
 
-    # Llamar al LLM
+    # Llamar al LLM usando LLMClient (respeta LLM_BASE_URL y OPENAI_API_KEY)
     try:
-        headers = {
-            "Content-Type": "application/json",
-            "Authorization": f"Bearer {llm_api_key}"
-        }
-        
-        payload = {
-            "model": llm_model,
-            "messages": [
-                {"role": "system", "content": system_prompt},
-                {"role": "user", "content": user_prompt}
-            ],
-            "temperature": 0.1,  # Muy bajo para respuestas determinísticas
-            "response_format": {"type": "json_object"}  # Forzar JSON
-        }
-        
-        print(f"🤖 Llamando LLM re-ranker ({llm_model})...")
-        response = requests.post(
-            f"{llm_base_url}/chat/completions",
-            headers=headers,
-            json=payload,
-            timeout=30
-        )
-        
-        if response.status_code != 200:
-            print(f"❌ Error en LLM re-ranker: {response.status_code}")
-            return candidates[:top_k]
-        
-        result = response.json()
-        llm_response = result["choices"][0]["message"]["content"]
-        
+        llm_model = model_name or None
+        llm = LLMClient()
+        print(f"🤖 Llamando LLM re-ranker ({llm._model})...")
+        llm_response = llm.complete_json(system_prompt, user_prompt)
+
         # Parsear respuesta del LLM
         rankings_data = json.loads(llm_response)
         rankings = rankings_data.get("rankings", [])

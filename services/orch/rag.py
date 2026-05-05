@@ -94,14 +94,8 @@ def predict_with_llm(mcp_url: str, descripcion: str, equipo: Dict[str, Any], top
     brand = (equipo or {}).get("marca") or (equipo or {}).get("brand")
     model = (equipo or {}).get("modelo") or (equipo or {}).get("model")
     
-    # Normalizar modelo para filtrado
-    model_normalized = None
-    if model:
-        model_lower = model.lower().replace(" ", "").replace("-", "")
-        if "icombiclassic" in model_lower or "classic" in model_lower:
-            model_normalized = "iCombi Classic"
-        elif "icombipro" in model_lower or "pro" in model_lower:
-            model_normalized = "iCombi Pro"
+    # Usar el modelo tal como viene para el boost (sin hardcode por marca)
+    model_normalized = model if model else None
     
     # OPTIMIZACIÓN: Para búsqueda híbrida con códigos de error,
     # NO diluir la query con marca/modelo ya que reduce keyword matching
