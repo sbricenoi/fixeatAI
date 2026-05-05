@@ -178,10 +178,27 @@ def predict_fallas(
                 print(f"     Relevancia LLM: {relevance}% ({ctx['confidence_label']})")
                 if ctx.get('llm_explanation'):
                     print(f"     Razón: {ctx['llm_explanation'][:80]}...")
-            
-            # Actualizar fuentes
-            if "fuentes" not in data or not data["fuentes"]:
-                data["fuentes"] = [hit["doc_id"] for hit in ranked_hits[:10]]
+
+            # Siempre sincronizar fuentes con los contextos re-rankeados (incluye document_url)
+            data["fuentes"] = [
+                ctx.get("document_url") or ctx["fuente"]
+                for ctx in data["contextos"]
+            ]
+
+            # Detectar cuando el re-ranker indica que ningún documento es relevante
+            max_relevance = max(
+                (ctx.get("relevance_score", 0) for ctx in data["contextos"]), default=0
+            )
+            if max_relevance < 50:
+                data["signals"]["low_evidence"] = True
+                brand_info = f"{marca or ''} {modelo or ''}".strip()
+                data["feedback_coherencia"] = (
+                    f"No se encontraron documentos específicos para {brand_info or 'el equipo consultado'} "
+                    "en la base de conocimiento. El diagnóstico es genérico y puede no ser preciso para este equipo."
+                )
+                for falla in data.get("fallas_probables", []):
+                    falla["confidence"] = min(falla.get("confidence", 0.3), 0.35)
+                print(f"⚠️  low_evidence detectado por re-ranker: max_relevance={max_relevance}%")
         else:
             # Fallback: lista vacía pero con estructura válida
             print(f"⚠️  ADVERTENCIA: No se encontraron documentos para '{req.descripcion_problema}'")
