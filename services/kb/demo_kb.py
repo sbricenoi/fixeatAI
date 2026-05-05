@@ -295,27 +295,6 @@ def generate_document_url(doc_id: str, metadata: dict[str, Any] | None = None) -
         if "?" in base_url:
             base_url = base_url.split("?")[0]
 
-        # Generar pre-signed URL para buckets S3 privados
-        if ".s3." in base_url or base_url.startswith("s3://"):
-            try:
-                import boto3
-                from urllib.parse import urlparse
-                parsed = urlparse(base_url)
-                # https://bucket.s3.region.amazonaws.com/key
-                bucket = parsed.netloc.split(".s3.")[0]
-                key = parsed.path.lstrip("/")
-                region = os.getenv("AWS_DEFAULT_REGION", "us-east-1")
-                s3_client = boto3.client("s3", region_name=region)
-                presigned = s3_client.generate_presigned_url(
-                    "get_object",
-                    Params={"Bucket": bucket, "Key": key},
-                    ExpiresIn=3600,
-                )
-                # El fragmento #page=N es client-side y no afecta la firma S3
-                return f"{presigned}#page={page}" if page is not None else presigned
-            except Exception:
-                pass  # fallback a URL directa
-
         if page is not None:
             return f"{base_url}#page={page}"
         return base_url
