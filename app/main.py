@@ -108,8 +108,8 @@ def predict_fallas(
         # Usar los hits que ya recuperó predict_with_llm
         hits = data.pop("_raw_hits", [])
         
-        # GARANTIZAR que SIEMPRE haya contextos en la respuesta
-        if not hits or "contextos" not in data or not data.get("contextos"):
+        # Fallback: buscar contextos solo si predict_with_llm no devolvió hits
+        if not hits:
             print(f"⚠️  No hay hits disponibles, haciendo búsqueda directa de contextos...")
             try:
                 response = requests.post(
