@@ -51,7 +51,7 @@ app.add_middleware(
 
 
 def _clean_url(url: Optional[str]) -> Optional[str]:
-    """Elimina parámetros de firma AWS de una URL, conservando el fragmento #page=N."""
+    """Retorna URL limpia con endpoint regional S3 correcto, sin parámetros de firma."""
     if not url:
         return url
     fragment = ""
@@ -60,6 +60,9 @@ def _clean_url(url: Optional[str]) -> Optional[str]:
         fragment = "#" + fragment
     if "?" in url:
         url = url.split("?")[0]
+    # Normalizar al endpoint regional correcto (evita redirects 301 que la app móvil no sigue)
+    region = os.getenv("AWS_DEFAULT_REGION", "us-east-2")
+    url = re.sub(r"\.s3(?:\.[\w-]+)?\.amazonaws\.com", f".s3.{region}.amazonaws.com", url)
     return url + fragment
 
 
