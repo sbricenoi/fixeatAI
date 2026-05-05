@@ -50,6 +50,19 @@ app.add_middleware(
 )
 
 
+def _clean_url(url: Optional[str]) -> Optional[str]:
+    """Elimina parámetros de firma AWS de una URL, conservando el fragmento #page=N."""
+    if not url:
+        return url
+    fragment = ""
+    if "#" in url:
+        url, fragment = url.split("#", 1)
+        fragment = "#" + fragment
+    if "?" in url:
+        url = url.split("?")[0]
+    return url + fragment
+
+
 def build_response(
     data: Any,
     message: str = "OK",
@@ -151,20 +164,20 @@ def predict_fallas(
             # Construir contextos con información del LLM re-ranker
             data["contextos"] = [
                 {
-                    "fuente": hit["doc_id"],
+                    "fuente": re.sub(r"_page_\d+_chunk_\d+$", "", hit["doc_id"]),
                     "score": hit["score"],
                     "relevance_score": hit.get("llm_relevance_score", 0),
                     "confidence_label": hit.get("llm_confidence", "Media"),
                     "llm_explanation": hit.get("llm_explanation", ""),
                     "contexto": hit.get("context", hit.get("snippet", ""))[:1500],
-                    "document_url": hit.get("document_url"),
+                    "document_url": _clean_url(hit.get("document_url")),
                     "metadata": {
                         "page": hit.get("metadata", {}).get("page"),
                         "source": hit.get("metadata", {}).get("source"),
                         "brand": hit.get("metadata", {}).get("brand"),
                         "model": hit.get("metadata", {}).get("model"),
-                        "source_file": hit.get("metadata", {}).get("source_file"),  # Nombre archivo original
-                        "chunk_type": hit.get("metadata", {}).get("chunk_type"),  # Tipo de chunk
+                        "source_file": hit.get("metadata", {}).get("source_file"),
+                        "chunk_type": hit.get("metadata", {}).get("chunk_type"),
                     },
                 }
                 for hit in ranked_hits
@@ -180,10 +193,11 @@ def predict_fallas(
                 if ctx.get('llm_explanation'):
                     print(f"     Razón: {ctx['llm_explanation'][:80]}...")
 
-            # Siempre sincronizar fuentes con los contextos re-rankeados (incluye document_url)
+            # Sincronizar fuentes con los contextos re-rankeados (URLs limpias)
             data["fuentes"] = [
-                ctx.get("document_url") or ctx["fuente"]
+                ctx["document_url"] or ctx["fuente"]
                 for ctx in data["contextos"]
+                if ctx.get("document_url") or ctx.get("fuente")
             ]
 
             # Detectar cuando el re-ranker indica que ningún documento es relevante
