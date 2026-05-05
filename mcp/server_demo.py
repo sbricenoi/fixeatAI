@@ -1172,9 +1172,9 @@ def _run_sync_background(bucket: str, prefix: str, region: str) -> None:
             update(current_file=pdf["stem"])
             try:
                 pdf_bytes = _download_s3_pdf(bucket, pdf["key"], region)
-                # Extraer brand del path S3: kb/Melitta/file.pdf → "Melitta"
+                # Extraer brand del path S3: kb/Marca/... → "Marca" (siempre índice 1)
                 key_parts = pdf["key"].split("/")
-                brand = key_parts[-2] if len(key_parts) >= 3 else None
+                brand = key_parts[1] if len(key_parts) >= 3 else None
                 pages = _ingest_pdf_bytes(pdf_bytes, pdf["stem"], pdf["url"], brand=brand)
                 synced += 1
                 update(synced=synced)
@@ -1200,6 +1200,71 @@ def _run_sync_background(bucket: str, prefix: str, region: str) -> None:
             errors=[{"file": "general", "error": str(exc)}],
         )
         print(f"❌ [sync] Error fatal: {exc}")
+
+
+def _extract_brand_from_url(url: str | None) -> str | None:
+    """Extrae la marca del path S3: .../kb/Marca/... → 'Marca'"""
+    if not url:
+        return None
+    url_clean = url.split("#")[0]
+    parts = url_clean.split("/")
+    try:
+        kb_idx = parts.index("kb")
+        if kb_idx + 1 < len(parts):
+            brand = parts[kb_idx + 1]
+            return brand if brand else None
+    except ValueError:
+        pass
+    return None
+
+
+@app.post("/tools/patch_brand_metadata")
+def tool_patch_brand_metadata() -> dict:
+    """Migración: actualiza el campo 'brand' en metadata para documentos sin brand.
+
+    Extrae la marca del campo 'source' (URL S3) en la metadata existente.
+    """
+    from services.kb.demo_kb import _collection
+
+    try:
+        results = _collection.get(include=["documents", "metadatas"])
+        all_ids = results["ids"]
+        all_metadatas = results["metadatas"]
+
+        to_update_ids: list[str] = []
+        to_update_metadatas: list[dict] = []
+        brands_found: dict[str, int] = {}
+
+        for doc_id, metadata in zip(all_ids, all_metadatas):
+            if metadata.get("brand"):
+                continue
+
+            extracted_brand = _extract_brand_from_url(metadata.get("source", ""))
+            if extracted_brand:
+                new_metadata = {k: v for k, v in {**metadata, "brand": extracted_brand}.items() if v is not None}
+                to_update_ids.append(doc_id)
+                to_update_metadatas.append(new_metadata)
+                brands_found[extracted_brand] = brands_found.get(extracted_brand, 0) + 1
+
+        if to_update_ids:
+            batch_size = 500
+            for i in range(0, len(to_update_ids), batch_size):
+                _collection.update(
+                    ids=to_update_ids[i:i + batch_size],
+                    metadatas=to_update_metadatas[i:i + batch_size],
+                )
+            print(f"✅ [patch_brand] {len(to_update_ids)} documentos actualizados: {brands_found}")
+
+        return {
+            "ok": True,
+            "total_docs": len(all_ids),
+            "updated": len(to_update_ids),
+            "skipped_already_had_brand": len(all_ids) - len(to_update_ids),
+            "brands_updated": brands_found,
+        }
+
+    except Exception as e:
+        return {"ok": False, "error": str(e)}
 
 
 class KBSyncS3Request(BaseModel):
