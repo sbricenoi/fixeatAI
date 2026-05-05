@@ -284,33 +284,41 @@ def generate_document_url(doc_id: str, metadata: dict[str, Any] | None = None) -
     
     source = metadata.get("source", "")
     page = metadata.get("page")
-    
+
     # Caso 1: Source es URL (HTTP/HTTPS/S3)
     if source and source.startswith(("http://", "https://", "s3://")):
         base_url = source
-        
-        # Limpiar fragmento existente si hay
+
+        # Limpiar fragmento y query existentes
         if "#" in base_url:
             base_url = base_url.split("#")[0]
         if "?" in base_url:
             base_url = base_url.split("?")[0]
-        
-        # Agregar página si existe - usar múltiples formatos para compatibilidad
+
+        # Generar pre-signed URL para buckets S3 privados
+        if ".s3." in base_url or base_url.startswith("s3://"):
+            try:
+                import boto3
+                from urllib.parse import urlparse
+                parsed = urlparse(base_url)
+                # https://bucket.s3.region.amazonaws.com/key
+                bucket = parsed.netloc.split(".s3.")[0]
+                key = parsed.path.lstrip("/")
+                region = os.getenv("AWS_DEFAULT_REGION", "us-east-1")
+                s3_client = boto3.client("s3", region_name=region)
+                presigned = s3_client.generate_presigned_url(
+                    "get_object",
+                    Params={"Bucket": bucket, "Key": key},
+                    ExpiresIn=3600,
+                )
+                # El fragmento #page=N es client-side y no afecta la firma S3
+                return f"{presigned}#page={page}" if page is not None else presigned
+            except Exception:
+                pass  # fallback a URL directa
+
         if page is not None:
-            # Formato 1: Estándar #page=N (funciona en Chrome, Firefox, Adobe Reader)
-            url_standard = f"{base_url}#page={page}"
-            
-            # Formato 2: Alternativo con query param (algunos visores)
-            # url_query = f"{base_url}?page={page}"
-            
-            # Formato 3: Google Docs Viewer (más compatible pero requiere URL pública)
-            # url_google = f"https://docs.google.com/viewer?url={urllib.parse.quote(base_url)}&embedded=true#page={page}"
-            
-            # Por defecto usar formato estándar
-            # El cliente puede modificar según su visor
-            return url_standard
-        else:
-            return base_url
+            return f"{base_url}#page={page}"
+        return base_url
     
     # Caso 2: doc_id tiene formato legacy con #c (chunk) y posible URL
     if "#c" in doc_id:
