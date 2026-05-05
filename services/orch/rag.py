@@ -296,7 +296,7 @@ def predict_with_llm(mcp_url: str, descripcion: str, equipo: Dict[str, Any], top
     # 4. INVOCACIÓN del LLM
     try:
         llm = LLMClient()
-        raw = llm.complete_json(system_prompt, user_prompt)
+        raw = llm.complete_json(system_prompt, user_prompt, force_json=True, max_tokens=2000)
         data = _parse_json_safely(raw)
     except Exception as e:
         print(f"Error en LLM: {e}")
