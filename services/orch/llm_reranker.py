@@ -131,7 +131,7 @@ Analiza cada documento y retorna el JSON con los rankings de relevancia."""
 
     # Llamar al LLM usando LLMClient (respeta LLM_BASE_URL y OPENAI_API_KEY)
     try:
-        llm = LLMClient()
+        llm = LLMClient(agent="reranker")
         print(f"🤖 Llamando LLM re-ranker ({llm._model})...")
         raw = llm.complete_json(system_prompt, user_prompt, force_json=True, max_tokens=2000)
 
