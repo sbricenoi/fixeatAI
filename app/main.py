@@ -146,18 +146,52 @@ def predict_fallas(
                 print(f"❌ Error en búsqueda directa de contextos: {e}")
                 hits = []
 
+        # SEGUNDA BÚSQUEDA: usando nombres de fallas identificadas por el RAG
+        # Busca documentación específica de las fallas, no solo de la query original
+        fallas_identificadas = data.get("fallas_probables", [])
+        if hits and fallas_identificadas:
+            try:
+                marca_eq = (req.equipo or {}).get("marca") or (req.equipo or {}).get("brand")
+                failure_terms = " ".join(f.get("falla", "") for f in fallas_identificadas[:2])
+                segunda_query = f"{marca_eq or ''} {failure_terms}".strip()
+                print(f"🔍 Segunda búsqueda (fallas identificadas): '{segunda_query[:80]}'")
+                res2 = requests.post(
+                    f"{MCP_SERVER_URL}/tools/kb_search_hybrid",
+                    json={
+                        "query": segunda_query,
+                        "top_k": 10,
+                        "semantic_weight": 0.5,
+                        "keyword_weight": 0.5,
+                        "context_chars": 2000,
+                        "where": {"brand": marca_eq} if marca_eq else None,
+                    },
+                    timeout=15,
+                )
+                hits2 = res2.json().get("hits", [])
+                # Merge: agregar solo docs no vistos, priorizando los nuevos
+                existing_ids = {h["doc_id"] for h in hits}
+                nuevos = [h for h in hits2 if h["doc_id"] not in existing_ids]
+                hits = hits + nuevos
+                print(f"🔍 Merge: {len(nuevos)} docs nuevos agregados → total {len(hits)}")
+            except Exception as e:
+                print(f"⚠️  Error en segunda búsqueda: {e}")
+
         # APLICAR LLM RE-RANKER
         if hits:
             marca = req.equipo.get("marca") or req.equipo.get("brand") if req.equipo else None
             modelo = req.equipo.get("modelo") or req.equipo.get("model") if req.equipo else None
-            
+
             print(f"🤖 Aplicando LLM Re-Ranker (query: '{req.descripcion_problema[:50]}...')")
             print(f"   Equipo: {marca or 'N/A'} {modelo or 'N/A'}")
             print(f"   Candidatos: {len(hits)} documentos")
             
-            # LLM analiza y ordena por relevancia REAL
+            # Query enriquecida: problema original + fallas identificadas
+            fallas_str = "; ".join(f.get("falla", "") for f in fallas_identificadas[:2])
+            rerank_query = f"{req.descripcion_problema}. Fallas identificadas: {fallas_str}" if fallas_str else req.descripcion_problema
+
+            # LLM analiza y ordena por relevancia REAL contra query enriquecida
             ranked_hits = rerank_with_llm(
-                query=req.descripcion_problema,
+                query=rerank_query,
                 candidates=hits,
                 marca=marca,
                 modelo=modelo,
