@@ -1,9 +1,6 @@
 #!/usr/bin/env python3
 """Script para ingestar múltiples PDFs desde URLs con procesamiento por páginas."""
 
-import sys
-sys.path.insert(0, '/Users/sbriceno/Documents/projects/fixeatAI')
-
 import tempfile
 from pathlib import Path
 import requests
