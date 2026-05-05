@@ -1089,8 +1089,40 @@ def _download_s3_pdf(bucket: str, key: str, region: str) -> bytes:
     return response["Body"].read()
 
 
+_CHUNK_SIZE = 600
+_CHUNK_OVERLAP = 100
+
+
+def _split_text_into_chunks(text: str, chunk_size: int = _CHUNK_SIZE, overlap: int = _CHUNK_OVERLAP) -> list[str]:
+    """Divide texto en chunks solapados, prefiriendo cortes en saltos de línea o puntos."""
+    text = text.strip()
+    if not text:
+        return []
+    if len(text) <= chunk_size:
+        return [text]
+
+    chunks: list[str] = []
+    start = 0
+    while start < len(text):
+        end = min(start + chunk_size, len(text))
+        if end < len(text):
+            for sep in ["\n", ". ", " "]:
+                bp = text.rfind(sep, end - 150, end)
+                if bp != -1:
+                    end = bp + len(sep)
+                    break
+        chunk = text[start:end].strip()
+        if chunk:
+            chunks.append(chunk)
+        if end >= len(text):
+            break
+        start = end - overlap
+
+    return chunks
+
+
 def _ingest_pdf_bytes(pdf_bytes: bytes, stem: str, source_url: str, brand: str | None = None, model: str | None = None) -> int:
-    """Ingesta un PDF en memoria por páginas. Retorna número de páginas ingresadas."""
+    """Ingesta un PDF en memoria por chunks semánticos. Retorna número de chunks ingresados."""
     if not _PYMUPDF_AVAILABLE:
         text = _extract_text_from_pdf(pdf_bytes)
         if text:
@@ -1103,30 +1135,35 @@ def _ingest_pdf_bytes(pdf_bytes: bytes, stem: str, source_url: str, brand: str |
 
     doc = fitz.open(stream=io.BytesIO(pdf_bytes), filetype="pdf")
     total_pages = len(doc)
-    page_docs = []
+    all_chunks: list[dict] = []
     for num in range(total_pages):
         texto = doc[num].get_text("text").strip()
         if not texto:
             continue
-        page_docs.append({
-            "id": f"{stem}_page_{num + 1}",
-            "text": texto,
-            "metadata": {
-                "source": source_url,
-                "source_type": "s3_pdf",
-                "page": num + 1,
-                "total_pages": total_pages,
-                "chunk_type": "page",
-                "brand": brand,
-                "model": model,
-            },
-        })
+        page_num = num + 1
+        chunks = _split_text_into_chunks(texto)
+        for chunk_idx, chunk_text in enumerate(chunks):
+            all_chunks.append({
+                "id": f"{stem}_page_{page_num}_chunk_{chunk_idx}",
+                "text": chunk_text,
+                "metadata": {
+                    "source": source_url,
+                    "source_type": "s3_pdf",
+                    "page": page_num,
+                    "total_pages": total_pages,
+                    "chunk_type": "text_chunk",
+                    "chunk_index": chunk_idx,
+                    "brand": brand,
+                    "model": model,
+                    "source_file": stem,
+                },
+            })
     doc.close()
 
-    for i in range(0, len(page_docs), 10):
-        ingest_docs(page_docs[i : i + 10])
+    for i in range(0, len(all_chunks), 10):
+        ingest_docs(all_chunks[i : i + 10])
 
-    return len(page_docs)
+    return len(all_chunks)
 
 
 # Estado global del proceso de sincronización S3
@@ -1161,7 +1198,7 @@ def _run_sync_background(bucket: str, prefix: str, region: str) -> None:
         print(f"   [sync] {len(s3_pdfs)} PDFs en S3")
 
         existing_ids = set(_collection.get(include=[])["ids"])
-        new_pdfs = [p for p in s3_pdfs if f"{p['stem']}_page_1" not in existing_ids]
+        new_pdfs = [p for p in s3_pdfs if f"{p['stem']}_page_1_chunk_0" not in existing_ids]
         already = len(s3_pdfs) - len(new_pdfs)
         update(already_ingested=already, new_found=len(new_pdfs))
         print(f"   [sync] Ya ingresados: {already} | Nuevos: {len(new_pdfs)}")
@@ -1374,7 +1411,7 @@ def tool_kb_sync_s3(req: KBSyncS3Request) -> dict:
         try:
             s3_pdfs = _list_s3_pdfs(req.bucket, req.prefix, req.region)
             existing_ids = set(_collection.get(include=[])["ids"])
-            new_pdfs = [p for p in s3_pdfs if f"{p['stem']}_page_1" not in existing_ids]
+            new_pdfs = [p for p in s3_pdfs if f"{p['stem']}_page_1_chunk_0" not in existing_ids]
             return {
                 "dry_run": True,
                 "total_s3": len(s3_pdfs),
@@ -1395,6 +1432,106 @@ def tool_kb_sync_s3(req: KBSyncS3Request) -> dict:
     return {
         "message": "Sincronización iniciada en background.",
         "monitor": "GET /tools/kb_sync_s3/status",
+        "config": {"bucket": req.bucket, "prefix": req.prefix, "region": req.region},
+    }
+
+
+class RechunkRequest(BaseModel):
+    bucket: str = "aibo-archivos"
+    prefix: str = "kb/"
+    region: str = "us-east-1"
+
+
+@app.post("/tools/kb_rechunk")
+def kb_rechunk(req: RechunkRequest):
+    """Limpia ChromaDB y re-ingesta todos los PDFs de S3 con chunking semántico.
+
+    ATENCIÓN: Borra todos los documentos existentes antes de re-ingestar.
+    Usar solo cuando se quiera re-procesar la KB completa con la nueva lógica de chunks.
+    """
+    has_key = bool(os.getenv("AWS_ACCESS_KEY_ID", "").strip())
+    has_secret = bool(os.getenv("AWS_SECRET_ACCESS_KEY", "").strip())
+    if not has_key or not has_secret:
+        return {"error": "Credenciales AWS no configuradas en .env"}
+
+    with _sync_lock:
+        if _sync_state.get("status") == "running":
+            return {"error": "Ya hay una sincronización en curso.", "state": dict(_sync_state)}
+
+    def _run_rechunk():
+        from services.kb.demo_kb import _collection
+        with _sync_lock:
+            _sync_state.clear()
+            _sync_state.update({
+                "status": "running",
+                "started_at": datetime.utcnow().isoformat() + "Z",
+                "phase": "clearing",
+                "total_s3": 0,
+                "synced": 0,
+                "errors": [],
+            })
+
+        def update(**kwargs):
+            with _sync_lock:
+                _sync_state.update(kwargs)
+
+        try:
+            # 1. Borrar colección completa
+            existing = _collection.get(include=[])["ids"]
+            print(f"🗑️  [rechunk] Borrando {len(existing)} documentos existentes...")
+            if existing:
+                _collection.delete(ids=existing)
+            print(f"✅ [rechunk] ChromaDB vaciado")
+            update(phase="syncing", cleared=len(existing))
+
+            # 2. Listar y re-ingestar todos los PDFs de S3
+            s3_pdfs = _list_s3_pdfs(req.bucket, req.prefix, req.region)
+            update(total_s3=len(s3_pdfs))
+            print(f"📋 [rechunk] {len(s3_pdfs)} PDFs en S3, iniciando re-ingesta...")
+
+            synced = 0
+            errors: list[dict] = []
+            for pdf in s3_pdfs:
+                update(current_file=pdf["stem"])
+                try:
+                    pdf_bytes = _download_s3_pdf(req.bucket, pdf["key"], req.region)
+                    key_parts = pdf["key"].split("/")
+                    brand = key_parts[1] if len(key_parts) >= 3 else None
+                    chunks = _ingest_pdf_bytes(pdf_bytes, pdf["stem"], pdf["url"], brand=brand)
+                    synced += 1
+                    update(synced=synced)
+                    print(f"   ✅ [rechunk] {pdf['stem']} — {chunks} chunks")
+                except Exception as exc:
+                    errors.append({"file": pdf["stem"], "error": str(exc)})
+                    update(errors=errors)
+                    print(f"   ❌ [rechunk] {pdf['stem']}: {exc}")
+
+            update(
+                status="done",
+                phase="done",
+                completed_at=datetime.utcnow().isoformat() + "Z",
+                current_file=None,
+                errors=errors,
+            )
+            print(f"✅ [rechunk] Completado: {synced}/{len(s3_pdfs)} archivos")
+
+        except Exception as exc:
+            update(
+                status="error",
+                phase="error",
+                completed_at=datetime.utcnow().isoformat() + "Z",
+                current_file=None,
+                errors=[{"file": "general", "error": str(exc)}],
+            )
+            print(f"❌ [rechunk] Error fatal: {exc}")
+
+    thread = threading.Thread(target=_run_rechunk, daemon=True)
+    thread.start()
+
+    return {
+        "message": "Re-chunking iniciado en background. ChromaDB será vaciado y re-ingesta desde S3.",
+        "monitor": "GET /tools/kb_sync_s3/status",
+        "warning": "Todos los documentos existentes serán eliminados antes de re-ingestar.",
         "config": {"bucket": req.bucket, "prefix": req.prefix, "region": req.region},
     }
 
