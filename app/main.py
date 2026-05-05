@@ -165,7 +165,7 @@ def predict_fallas(
             data["contextos"] = [
                 {
                     "fuente": re.sub(r"_page_\d+_chunk_\d+$", "", hit["doc_id"]),
-                    "score": hit["score"],
+                    "score": round(min(hit["score"], 1.0), 4),
                     "relevance_score": hit.get("llm_relevance_score", 0),
                     "confidence_label": hit.get("llm_confidence", "Media"),
                     "llm_explanation": hit.get("llm_explanation", ""),
@@ -247,7 +247,7 @@ def predict_fallas(
             "contextos": [
                 {
                     "fuente": hit["doc_id"],
-                    "score": hit["score"],
+                    "score": round(min(hit["score"], 1.0), 4),
                     "contexto": hit.get("context", hit.get("snippet", ""))[:1500],
                     "document_url": hit.get("document_url"),
                     "metadata": {
