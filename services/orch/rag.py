@@ -116,25 +116,35 @@ def predict_with_llm(mcp_url: str, descripcion: str, equipo: Dict[str, Any], top
     model_boost = 1.5 if model_normalized else 1.0  # 50% boost para modelo correcto
     print(f"🎯 Modelo detectado: {model_normalized or 'N/A'}, boost={model_boost}x")
 
-    # Usar kb_search_hybrid: combina búsqueda semántica + keyword matching
-    # Esto mejora SIGNIFICATIVAMENTE la relevancia para códigos de error técnicos
+    # Filtrar por marca si está disponible en metadata
+    where_brand = {"brand": brand} if brand else None
+
     payload = {
-        "query": query_enriched, 
-        "top_k": top_k * 2,  # Obtener más resultados para post-filtering
-        "semantic_weight": 0.3,  # Reducimos peso semántico para códigos
-        "keyword_weight": 0.7,   # Aumentamos peso keywords (detecta "service 25", "error 42", etc.)
-        "context_chars": 2000,   # Contexto ampliado
+        "query": query_enriched,
+        "top_k": top_k * 2,
+        "semantic_weight": 0.3,
+        "keyword_weight": 0.7,
+        "context_chars": 2000,
+        "where": where_brand,
     }
-    
+
     print(f"🔍 Buscando en KB HÍBRIDA: query='{query_enriched}' top_k={top_k}")
     print(f"🔍 MCP URL: {mcp_url}/tools/kb_search_hybrid")
-    print(f"🔍 Pesos: semantic=0.4, keyword=0.6")
-    
+    print(f"🔍 Filtro marca: {where_brand}")
+
     try:
         res = requests.post(f"{mcp_url}/tools/kb_search_hybrid", json=payload, timeout=30)
         print(f"🔍 Status KB: {res.status_code}")
         hits = res.json().get("hits", [])
         print(f"🔍 Hits encontrados: {len(hits)}")
+
+        # Fallback sin filtro de marca si no hay resultados (docs sin brand en metadata)
+        if not hits and where_brand:
+            print(f"⚠️  Sin resultados para brand={brand}, reintentando sin filtro de marca...")
+            payload["where"] = None
+            res = requests.post(f"{mcp_url}/tools/kb_search_hybrid", json=payload, timeout=30)
+            hits = res.json().get("hits", [])
+            print(f"🔍 Hits sin filtro: {len(hits)}")
         if hits:
             first_hit = hits[0]
             context_len = len(first_hit.get("context", ""))

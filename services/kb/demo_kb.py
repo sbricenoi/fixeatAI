@@ -51,9 +51,10 @@ def ingest_docs(docs: list[dict[str, Any]]) -> None:
     # Chroma requiere metadatas no vacíos; forzamos un valor por defecto
     metadatas = []
     for d in docs:
-        md = d.get("metadata") or {"source": "unspecified"}
-        # asegurar al menos un atributo
-        if isinstance(md, dict) and len(md) == 0:
+        md = d.get("metadata") or {}
+        # ChromaDB no soporta None en metadata — eliminar claves con valor None
+        md = {k: v for k, v in md.items() if v is not None}
+        if not md:
             md = {"source": "unspecified"}
         metadatas.append(md)
 
