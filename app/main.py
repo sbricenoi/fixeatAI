@@ -196,7 +196,12 @@ def predict_fallas(
                 if ctx.get('llm_explanation'):
                     print(f"     Razón: {ctx['llm_explanation'][:80]}...")
 
-            # Sincronizar fuentes con los contextos re-rankeados (URLs limpias)
+            # Filtrar contextos: solo los relevantes (>= 50%) y máximo 5
+            data["contextos"] = [
+                ctx for ctx in data["contextos"] if ctx.get("relevance_score", 0) >= 50
+            ][:5]
+
+            # Sincronizar fuentes con los contextos filtrados (URLs limpias)
             data["fuentes"] = [
                 ctx["document_url"] or ctx["fuente"]
                 for ctx in data["contextos"]
