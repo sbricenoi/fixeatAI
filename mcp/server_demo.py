@@ -1305,7 +1305,7 @@ def tool_patch_brand_metadata() -> dict:
 
 
 class KBSyncS3Request(BaseModel):
-    bucket: str = os.getenv("S3_BUCKET", "desa-aibo-wp")
+    bucket: str = os.getenv("S3_BUCKET", "fixeat-dev")
     prefix: str = os.getenv("S3_PREFIX", "test/")
     region: str = os.getenv("AWS_DEFAULT_REGION", "us-east-1")
     dry_run: bool = False
@@ -1320,7 +1320,7 @@ def tool_kb_sync_s3_info() -> dict:
     """
     from services.kb.demo_kb import _collection
 
-    bucket = os.getenv("S3_BUCKET", "desa-aibo-wp")
+    bucket = os.getenv("S3_BUCKET", "fixeat-dev")
     prefix = os.getenv("S3_PREFIX", "test/")
     region = os.getenv("AWS_DEFAULT_REGION", "us-east-1")
     has_key = bool(os.getenv("AWS_ACCESS_KEY_ID", "").strip())
@@ -1437,7 +1437,7 @@ def tool_kb_sync_s3(req: KBSyncS3Request) -> dict:
 
 
 class RechunkRequest(BaseModel):
-    bucket: str = os.getenv("S3_BUCKET", "desa-aibo-wp")
+    bucket: str = os.getenv("S3_BUCKET", "fixeat-dev")
     prefix: str = "kb/"
     region: str = "us-east-1"
 
