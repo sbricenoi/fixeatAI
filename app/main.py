@@ -7,6 +7,7 @@ Usa RAG (Retrieval-Augmented Generation) con LLM y Knowledge Base vectorial.
 from __future__ import annotations
 
 import os
+import re
 import uuid
 from typing import Any, Optional
 import json
@@ -244,6 +245,11 @@ def predict_fallas(
             ]
         }
     
+    # Limpiar referencias internas [source:...] del rationale
+    for falla in data.get("fallas_probables", []):
+        if "rationale" in falla:
+            falla["rationale"] = re.sub(r"\s*\[source:[^\]]+\]", "", falla["rationale"]).strip()
+
     log_event(logging.INFO, x_trace_id, "predict_fallas", num_hits=len(hits), llm_used=USE_LLM)
     return build_response(data=data, message="Predicción generada", code="OK", trace_id=x_trace_id)
 
