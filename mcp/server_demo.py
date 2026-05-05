@@ -1307,7 +1307,7 @@ def tool_patch_brand_metadata() -> dict:
 class KBSyncS3Request(BaseModel):
     bucket: str = os.getenv("S3_BUCKET", "fixeat-dev")
     prefix: str = os.getenv("S3_PREFIX", "test/")
-    region: str = os.getenv("AWS_DEFAULT_REGION", "us-east-1")
+    region: str = os.getenv("AWS_DEFAULT_REGION", "us-east-2")
     dry_run: bool = False
 
 
@@ -1322,7 +1322,7 @@ def tool_kb_sync_s3_info() -> dict:
 
     bucket = os.getenv("S3_BUCKET", "fixeat-dev")
     prefix = os.getenv("S3_PREFIX", "test/")
-    region = os.getenv("AWS_DEFAULT_REGION", "us-east-1")
+    region = os.getenv("AWS_DEFAULT_REGION", "us-east-2")
     has_key = bool(os.getenv("AWS_ACCESS_KEY_ID", "").strip())
     has_secret = bool(os.getenv("AWS_SECRET_ACCESS_KEY", "").strip())
 
@@ -1439,7 +1439,7 @@ def tool_kb_sync_s3(req: KBSyncS3Request) -> dict:
 class RechunkRequest(BaseModel):
     bucket: str = os.getenv("S3_BUCKET", "fixeat-dev")
     prefix: str = "kb/"
-    region: str = "us-east-1"
+    region: str = os.getenv("AWS_DEFAULT_REGION", "us-east-2")
 
 
 @app.post("/tools/kb_rechunk")
