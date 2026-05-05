@@ -1437,7 +1437,7 @@ def tool_kb_sync_s3(req: KBSyncS3Request) -> dict:
 
 
 class RechunkRequest(BaseModel):
-    bucket: str = "aibo-archivos"
+    bucket: str = os.getenv("S3_BUCKET", "desa-aibo-wp")
     prefix: str = "kb/"
     region: str = "us-east-1"
 
