@@ -47,15 +47,25 @@ class LLMClient:
         self._temperature = temperature
         self._max_tokens = max_tokens
 
-    def complete_json(self, system_prompt: str, user_prompt: str) -> str:
+    def complete_json(
+        self,
+        system_prompt: str,
+        user_prompt: str,
+        force_json: bool = False,
+        max_tokens: int | None = None,
+    ) -> str:
+        kwargs: dict = {}
+        if force_json:
+            kwargs["response_format"] = {"type": "json_object"}
         resp = self._client.chat.completions.create(
             model=self._model,
             temperature=self._temperature,
-            max_tokens=self._max_tokens,
+            max_tokens=max_tokens or self._max_tokens,
             messages=[
                 {"role": "system", "content": system_prompt},
                 {"role": "user", "content": user_prompt},
             ],
+            **kwargs,
         )
         return resp.choices[0].message.content or "{}"
 
