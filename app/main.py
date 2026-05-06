@@ -51,7 +51,8 @@ app.add_middleware(
 
 
 def _clean_url(url: Optional[str]) -> Optional[str]:
-    """Retorna URL limpia con endpoint regional S3 correcto, sin parámetros de firma."""
+    """Retorna URL limpia con endpoint regional S3 correcto, sin parámetros de firma y con path codificado."""
+    from urllib.parse import urlparse, quote, urlunparse
     if not url:
         return url
     fragment = ""
@@ -63,6 +64,10 @@ def _clean_url(url: Optional[str]) -> Optional[str]:
     # Normalizar al endpoint regional correcto (evita redirects 301 que la app móvil no sigue)
     region = os.getenv("AWS_DEFAULT_REGION", "us-east-2")
     url = re.sub(r"\.s3(?:\.[\w-]+)?\.amazonaws\.com", f".s3.{region}.amazonaws.com", url)
+    # Codificar espacios y caracteres especiales en el path (ej: "Flowchart - ES" → "Flowchart%20-%20ES")
+    parsed = urlparse(url)
+    encoded_path = quote(parsed.path, safe="/")
+    url = urlunparse(parsed._replace(path=encoded_path))
     return url + fragment
 
 
