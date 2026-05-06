@@ -72,149 +72,68 @@ def _parse_json_safely(raw: str) -> Dict[str, Any]:
     }
 
 
-def predict_with_llm(mcp_url: str, descripcion: str, equipo: Dict[str, Any], top_k: int = 5) -> Dict[str, Any]:
+def _search_kb(mcp_url: str, descripcion: str, brand: str | None, model: str | None, top_k: int) -> List[Dict[str, Any]]:
+    """Búsqueda híbrida en KB con fallback y boost de modelo."""
+    import re
+    tiene_codigo_error = bool(re.search(r'\b(service|servicio|error|código|s_)\s*\d+', descripcion.lower()))
+    query_enriched = descripcion if tiene_codigo_error else f"{brand or ''} {model or ''} {descripcion}".strip()
+    where_brand = {"brand": brand} if brand else None
+    model_boost = 1.5 if model else 1.0
+
+    payload = {"query": query_enriched, "top_k": top_k * 2, "semantic_weight": 0.3, "keyword_weight": 0.7, "context_chars": 2000, "where": where_brand}
+    print(f"🔍 Buscando en KB: query='{query_enriched[:60]}' top_k={top_k}")
+
+    hits: List[Dict[str, Any]] = []
+    try:
+        res = requests.post(f"{mcp_url}/tools/kb_search_hybrid", json=payload, timeout=30)
+        hits = res.json().get("hits", [])
+        if not hits and where_brand:
+            payload["where"] = None
+            res = requests.post(f"{mcp_url}/tools/kb_search_hybrid", json=payload, timeout=30)
+            hits = res.json().get("hits", [])
+    except Exception as e:
+        print(f"❌ Error en búsqueda KB: {e}")
+        try:
+            res = requests.post(f"{mcp_url}/tools/kb_search_extended", json={"query": query_enriched, "top_k": top_k, "context_chars": 2000}, timeout=10)
+            hits = res.json().get("hits", [])
+        except Exception:
+            hits = []
+
+    # Model boost reranking
+    if hits and model:
+        model_variants = [model.lower().replace(" ", ""), model.lower().replace(" ", "_"), model.lower()]
+        for hit in hits:
+            doc_id = hit.get("doc_id", "").lower()
+            meta = hit.get("metadata", {})
+            if any(v in doc_id or v in str(meta.get("model", "")).lower() for v in model_variants):
+                hit["score"] = hit.get("score", 0) * model_boost
+        hits.sort(key=lambda x: x.get("score", 0), reverse=True)
+
+    print(f"🔍 {len(hits[:top_k])} hits obtenidos")
+    return hits[:top_k]
+
+
+def predict_with_llm(mcp_url: str, descripcion: str, equipo: Dict[str, Any], top_k: int = 5, pre_fetched_hits: List[Dict[str, Any]] | None = None) -> Dict[str, Any]:
     """Genera predicción usando LLM con contexto de KB.
-    
-    Este es el FLUJO PRINCIPAL del sistema:
-    1. Recupera contexto relevante de KB usando embeddings semánticos
-    2. Construye prompt enriquecido con ese contexto
-    3. El LLM lee el contenido REAL de los manuales y genera respuesta
-    4. NO usa diccionarios estáticos - todo viene del contenido
-    
+
     Args:
         mcp_url: URL del servicio MCP con KB
         descripcion: Descripción del problema reportado
         equipo: Información del equipo (marca, modelo, etc)
         top_k: Número de documentos a recuperar de KB
-        
+        pre_fetched_hits: Hits pre-cargados (omite búsqueda si se proveen)
+
     Returns:
         Diccionario con predicción estructurada basada en contenido real
     """
-    # 1. RECUPERACIÓN: Búsqueda HÍBRIDA OPTIMIZADA para iCombi Classic
     brand = (equipo or {}).get("marca") or (equipo or {}).get("brand")
     model = (equipo or {}).get("modelo") or (equipo or {}).get("model")
-    
-    # Usar el modelo tal como viene para el boost (sin hardcode por marca)
-    model_normalized = model if model else None
-    
-    # OPTIMIZACIÓN: Para búsqueda híbrida con códigos de error,
-    # NO diluir la query con marca/modelo ya que reduce keyword matching
-    # Los códigos de error son más específicos que la marca
-    import re
-    tiene_codigo_error = bool(re.search(r'\b(service|servicio|error|código|s_)\s*\d+', descripcion.lower()))
-    
-    if tiene_codigo_error:
-        # Query limpia para mejor keyword matching
-        query_enriched = descripcion
+
+    if pre_fetched_hits is not None:
+        hits = pre_fetched_hits
+        print(f"⚡ Usando {len(hits)} hits pre-cargados")
     else:
-        # Query enriquecida para búsqueda semántica general
-        query_enriched = f"{brand or ''} {model or ''} {descripcion}".strip()
-    
-    # FILTRADO POR METADATA: Si tenemos modelo específico, lo usamos para RERANKING
-    # No usamos where filter porque ChromaDB tiene limitaciones y querríamos más resultados
-    # En su lugar, haremos post-processing para dar boost a docs del modelo correcto
-    model_boost = 1.5 if model_normalized else 1.0  # 50% boost para modelo correcto
-    print(f"🎯 Modelo detectado: {model_normalized or 'N/A'}, boost={model_boost}x")
-
-    # Filtrar por marca si está disponible en metadata
-    where_brand = {"brand": brand} if brand else None
-
-    payload = {
-        "query": query_enriched,
-        "top_k": top_k * 2,
-        "semantic_weight": 0.3,
-        "keyword_weight": 0.7,
-        "context_chars": 2000,
-        "where": where_brand,
-    }
-
-    print(f"🔍 Buscando en KB HÍBRIDA: query='{query_enriched}' top_k={top_k}")
-    print(f"🔍 MCP URL: {mcp_url}/tools/kb_search_hybrid")
-    print(f"🔍 Filtro marca: {where_brand}")
-
-    try:
-        res = requests.post(f"{mcp_url}/tools/kb_search_hybrid", json=payload, timeout=30)
-        print(f"🔍 Status KB: {res.status_code}")
-        hits = res.json().get("hits", [])
-        print(f"🔍 Hits encontrados: {len(hits)}")
-
-        # Fallback sin filtro de marca si no hay resultados (docs sin brand en metadata)
-        if not hits and where_brand:
-            print(f"⚠️  Sin resultados para brand={brand}, reintentando sin filtro de marca...")
-            payload["where"] = None
-            res = requests.post(f"{mcp_url}/tools/kb_search_hybrid", json=payload, timeout=30)
-            hits = res.json().get("hits", [])
-            print(f"🔍 Hits sin filtro: {len(hits)}")
-        if hits:
-            first_hit = hits[0]
-            context_len = len(first_hit.get("context", ""))
-            print(f"🔍 Primer hit: {first_hit.get('doc_id', 'N/A')} - score: {first_hit.get('score', 0):.3f} - context_len: {context_len}")
-            # Mostrar scores híbridos si están disponibles
-            if 'semantic_score' in first_hit and 'keyword_score' in first_hit:
-                print(f"    └─ semantic: {first_hit['semantic_score']:.3f}, keyword: {first_hit['keyword_score']:.3f}")
-            if 'error_codes_found' in first_hit:
-                print(f"    └─ códigos detectados: {first_hit['error_codes_found']}")
-    except Exception as e:
-        print(f"❌ Error en búsqueda KB híbrida: {e}")
-        # Fallback a kb_search_extended si híbrida falla
-        try:
-            print(f"🔄 Fallback a kb_search_extended...")
-            payload_fallback = {
-                "query": query_enriched,
-                "top_k": top_k,
-                "context_chars": 2000,
-                "include_full_text": False
-            }
-            res = requests.post(f"{mcp_url}/tools/kb_search_extended", json=payload_fallback, timeout=10)
-            hits = res.json().get("hits", [])
-            print(f"🔍 Hits con fallback: {len(hits)}")
-        except Exception as e2:
-            print(f"❌ Error en fallback: {e2}")
-            hits = []
-    
-    # POST-PROCESSING: Reranking para dar boost a documentos del modelo correcto
-    if hits and model_normalized:
-        print(f"🎯 Aplicando reranking para modelo: {model_normalized}")
-        
-        # Normalizar variantes del modelo para matching flexible
-        model_variants = [
-            model_normalized.lower().replace(" ", ""),  # "icombiclassic"
-            model_normalized.lower().replace(" ", "_"),  # "icombi_classic"
-            model_normalized.lower(),  # "icombi classic"
-            model_normalized.replace(" ", ""),  # "iCombiClassic"
-        ]
-        
-        reranked_hits = []
-        for hit in hits:
-            doc_id = hit.get("doc_id", "").lower()
-            metadata = hit.get("metadata", {})
-            model_meta = str(metadata.get("model", "")).lower()
-            source_meta = str(metadata.get("source", "")).lower()
-            
-            # Verificar si el documento es del modelo correcto
-            is_correct_model = any(
-                variant in doc_id or variant in model_meta or variant in source_meta
-                for variant in model_variants
-            )
-            
-            # Aplicar boost al score
-            original_score = hit.get("score", 0)
-            if is_correct_model:
-                hit["score"] = original_score * model_boost
-                hit["model_boosted"] = True
-                print(f"  ✅ Boost aplicado a: {hit.get('doc_id')[:60]} (score: {original_score:.3f} → {hit['score']:.3f})")
-            
-            reranked_hits.append(hit)
-        
-        # Reordenar por score (ahora con boost)
-        hits = sorted(reranked_hits, key=lambda x: x.get("score", 0), reverse=True)
-        print(f"🔄 Top 3 después de reranking:")
-        for i, hit in enumerate(hits[:3], 1):
-            boosted = "⭐" if hit.get("model_boosted") else "  "
-            print(f"  {boosted}{i}. {hit.get('doc_id')[:60]} (score: {hit.get('score', 0):.3f})")
-        
-        # Limitar a top_k original después de reranking
-        hits = hits[:top_k]
+        hits = _search_kb(mcp_url, descripcion, brand, model, top_k)
     
     context = build_context_from_hits(hits)
     num_hits = len(hits)

@@ -9,6 +9,7 @@ from __future__ import annotations
 import os
 import re
 import uuid
+from concurrent.futures import ThreadPoolExecutor
 from typing import Any, Optional
 import json
 import logging
@@ -19,7 +20,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 
 from services.predictor.heuristic import infer_from_hits
-from services.orch.rag import predict_with_llm
+from services.orch.rag import predict_with_llm, _search_kb
 from services.orch.llm_reranker import rerank_with_llm
 
 
@@ -124,85 +125,54 @@ def predict_fallas(
     4. Respuesta estructurada con protocolos de seguridad
     """
     if USE_LLM:
-        # Modo LLM: RAG Pipeline completo
-        data = predict_with_llm(MCP_SERVER_URL, req.descripcion_problema, req.equipo, top_k=10)
-        
-        # Usar los hits que ya recuperó predict_with_llm
-        hits = data.pop("_raw_hits", [])
-        
-        # Fallback: buscar contextos solo si predict_with_llm no devolvió hits
-        if not hits:
-            print(f"⚠️  No hay hits disponibles, haciendo búsqueda directa de contextos...")
-            try:
-                response = requests.post(
-                    f"{MCP_SERVER_URL}/tools/kb_search_hybrid",
-                    json={
-                        "query": req.descripcion_problema,
-                        "top_k": 10,
-                        "semantic_weight": 0.3,
-                        "keyword_weight": 0.7,
-                        "context_chars": 2000
-                    },
-                    timeout=15,
-                )
-                hits = response.json().get("hits", [])
-                print(f"✅ Búsqueda directa: {len(hits)} hits encontrados")
-            except Exception as e:
-                print(f"❌ Error en búsqueda directa de contextos: {e}")
-                hits = []
+        marca = (req.equipo or {}).get("marca") or (req.equipo or {}).get("brand")
+        modelo = (req.equipo or {}).get("modelo") or (req.equipo or {}).get("model")
+        TOP_K = 6  # Reducido de 10 a 6 (opción 3)
 
-        # SEGUNDA BÚSQUEDA: usando nombres de fallas identificadas por el RAG
-        # Busca documentación específica de las fallas, no solo de la query original
+        # 1. Búsqueda inicial KB
+        initial_hits = _search_kb(MCP_SERVER_URL, req.descripcion_problema, marca, modelo, TOP_K)
+
+        # 2. PARALELO: RAG (diagnóstico) + Re-ranker (sobre hits iniciales)
+        print(f"⚡ Ejecutando RAG y Re-ranker en paralelo ({len(initial_hits)} hits)...")
+        with ThreadPoolExecutor(max_workers=2) as executor:
+            future_rag = executor.submit(
+                predict_with_llm, MCP_SERVER_URL, req.descripcion_problema, req.equipo, TOP_K, initial_hits
+            )
+            future_rerank = executor.submit(
+                rerank_with_llm, req.descripcion_problema, initial_hits, marca, modelo, TOP_K
+            )
+            data = future_rag.result()
+            ranked_hits = future_rerank.result()
+
+        hits = data.pop("_raw_hits", initial_hits)
         fallas_identificadas = data.get("fallas_probables", [])
-        if hits and fallas_identificadas:
+
+        # 3. SEGUNDA BÚSQUEDA condicional: solo si relevancia máxima < 70%
+        max_relevance_initial = max((h.get("llm_relevance_score", 0) for h in ranked_hits), default=0)
+        if max_relevance_initial < 70 and fallas_identificadas:
             try:
-                marca_eq = (req.equipo or {}).get("marca") or (req.equipo or {}).get("brand")
                 failure_terms = " ".join(f.get("falla", "") for f in fallas_identificadas[:2])
-                segunda_query = f"{marca_eq or ''} {failure_terms}".strip()
-                print(f"🔍 Segunda búsqueda (fallas identificadas): '{segunda_query[:80]}'")
-                res2 = requests.post(
-                    f"{MCP_SERVER_URL}/tools/kb_search_hybrid",
-                    json={
-                        "query": segunda_query,
-                        "top_k": 10,
-                        "semantic_weight": 0.5,
-                        "keyword_weight": 0.5,
-                        "context_chars": 2000,
-                        "where": {"brand": marca_eq} if marca_eq else None,
-                    },
-                    timeout=15,
-                )
-                hits2 = res2.json().get("hits", [])
-                # Merge: agregar solo docs no vistos, priorizando los nuevos
-                existing_ids = {h["doc_id"] for h in hits}
+                segunda_query = f"{marca or ''} {failure_terms}".strip()
+                print(f"🔍 Segunda búsqueda (relevancia={max_relevance_initial}% < 70%): '{segunda_query[:70]}'")
+                hits2 = _search_kb(MCP_SERVER_URL, segunda_query, marca, modelo, TOP_K)
+                existing_ids = {h["doc_id"] for h in ranked_hits}
                 nuevos = [h for h in hits2 if h["doc_id"] not in existing_ids]
-                hits = hits + nuevos
-                print(f"🔍 Merge: {len(nuevos)} docs nuevos agregados → total {len(hits)}")
+                if nuevos:
+                    fallas_str = "; ".join(f.get("falla", "") for f in fallas_identificadas[:2])
+                    rerank_query = f"{req.descripcion_problema}. Fallas: {fallas_str}"
+                    ranked_hits = rerank_with_llm(rerank_query, nuevos + ranked_hits, marca, modelo, TOP_K)
+                    print(f"🔍 Segunda búsqueda: {len(nuevos)} nuevos docs, re-rank completado")
             except Exception as e:
                 print(f"⚠️  Error en segunda búsqueda: {e}")
+        else:
+            # Enriquecer query del re-ranker con fallas identificadas si ya hay buena relevancia
+            if fallas_identificadas:
+                fallas_str = "; ".join(f.get("falla", "") for f in fallas_identificadas[:2])
+                rerank_query = f"{req.descripcion_problema}. Fallas: {fallas_str}"
+                ranked_hits = rerank_with_llm(rerank_query, ranked_hits, marca, modelo, TOP_K)
 
-        # APLICAR LLM RE-RANKER
-        if hits:
-            marca = req.equipo.get("marca") or req.equipo.get("brand") if req.equipo else None
-            modelo = req.equipo.get("modelo") or req.equipo.get("model") if req.equipo else None
-
-            print(f"🤖 Aplicando LLM Re-Ranker (query: '{req.descripcion_problema[:50]}...')")
-            print(f"   Equipo: {marca or 'N/A'} {modelo or 'N/A'}")
-            print(f"   Candidatos: {len(hits)} documentos")
-            
-            # Query enriquecida: problema original + fallas identificadas
-            fallas_str = "; ".join(f.get("falla", "") for f in fallas_identificadas[:2])
-            rerank_query = f"{req.descripcion_problema}. Fallas identificadas: {fallas_str}" if fallas_str else req.descripcion_problema
-
-            # LLM analiza y ordena por relevancia REAL contra query enriquecida
-            ranked_hits = rerank_with_llm(
-                query=rerank_query,
-                candidates=hits,
-                marca=marca,
-                modelo=modelo,
-                top_k=10
-            )
-            
+        # 4. CONSTRUIR RESPUESTA
+        if ranked_hits:
             # Construir contextos con información del LLM re-ranker
             data["contextos"] = [
                 {
@@ -262,11 +232,9 @@ def predict_fallas(
                     falla["confidence"] = min(falla.get("confidence", 0.3), 0.35)
                 print(f"⚠️  low_evidence detectado por re-ranker: max_relevance={max_relevance}%")
         else:
-            # Fallback: lista vacía pero con estructura válida
-            print(f"⚠️  ADVERTENCIA: No se encontraron documentos para '{req.descripcion_problema}'")
+            print(f"⚠️  Sin hits para '{req.descripcion_problema}'")
             data["contextos"] = []
-            if "fuentes" not in data:
-                data["fuentes"] = []
+            data.setdefault("fuentes", [])
     else:
         # Modo sin LLM: heurística basada en KB
         hits = []
@@ -311,7 +279,8 @@ def predict_fallas(
         if "rationale" in falla:
             falla["rationale"] = re.sub(r"\s*\[source:[^\]]+\]", "", falla["rationale"]).strip()
 
-    log_event(logging.INFO, x_trace_id, "predict_fallas", num_hits=len(hits), llm_used=USE_LLM)
+    num_hits = len(ranked_hits) if USE_LLM and "ranked_hits" in dir() else len(locals().get("hits", []))
+    log_event(logging.INFO, x_trace_id, "predict_fallas", num_hits=num_hits, llm_used=USE_LLM)
     return build_response(data=data, message="Predicción generada", code="OK", trace_id=x_trace_id)
 
 
