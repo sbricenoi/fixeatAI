@@ -224,10 +224,14 @@ def predict_with_llm(mcp_url: str, descripcion: str, equipo: Dict[str, Any], top
         "4. 'confidence' debe estar en [0,1] con 2 decimales.\n"
         "5. Genera 1-3 fallas probables según la evidencia disponible.\n"
         "6. Si el contexto es limitado, usa confidencias bajas (0.3-0.5) y sé explícito en el rationale.\n"
-        "7. Si el PROBLEMA REPORTADO no describe un problema técnico real de un equipo "
-        "(ej: saludos, frases sin sentido técnico, preguntas generales), retorna:\n"
+        "7. El campo 'feedback_coherencia' SIEMPRE debe ser una frase en español natural evaluando "
+        "la coherencia del problema reportado con las fallas encontradas. NUNCA uses códigos, "
+        "palabras en inglés ni términos internos en este campo.\n"
+        "8. EXCEPCIÓN: Si el PROBLEMA REPORTADO no describe ningún síntoma técnico real "
+        "(ej: saludos como 'Hola', frases sin sentido, preguntas no relacionadas con equipos), "
+        "retorna ÚNICAMENTE este JSON exacto sin modificaciones:\n"
         '   {"fallas_probables": [], "feedback_coherencia": "no_technical_input"}\n'
-        "8. Responde SOLO el JSON, sin explicaciones adicionales ni markdown."
+        "9. Responde SOLO el JSON, sin explicaciones adicionales ni markdown."
     )
     
     equipment_info = f"Marca: {brand or 'N/A'}, Modelo: {model or 'N/A'}"
