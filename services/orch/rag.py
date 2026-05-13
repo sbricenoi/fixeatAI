@@ -72,13 +72,36 @@ def _parse_json_safely(raw: str) -> Dict[str, Any]:
     }
 
 
+def _extract_model_code(model: str | None) -> str | None:
+    """Extrae código corto de modelo desde strings largos (ej: descripción completa del equipo).
+
+    Problema: la app móvil puede enviar el nombre completo del equipo como modelo,
+    ej: "HORNO COMBINADO ELECTRICO DE 05 BANDEJAS... MOD: XECC-0523-EPR-PLUS"
+    Esto genera queries enormes que confunden la búsqueda KB.
+    """
+    import re
+    if not model or len(model) <= 25:
+        return model
+    # Buscar patrón "MOD: XECC-0523" o "MOD. XECC-0523"
+    match = re.search(r'MOD[:\s.]+([A-Z0-9][A-Z0-9\-]+)', model, re.IGNORECASE)
+    if match:
+        return match.group(1)
+    # Buscar token con formato de código (ej: XECC-0523-EPR-PLUS, iCombi-Pro)
+    for token in model.split():
+        if re.match(r'^[A-Z][A-Z0-9]{1,}-[A-Z0-9\-]{3,}$', token, re.IGNORECASE):
+            return token
+    # Truncar a 25 chars como último recurso
+    return model[:25]
+
+
 def _search_kb(mcp_url: str, descripcion: str, brand: str | None, model: str | None, top_k: int) -> List[Dict[str, Any]]:
     """Búsqueda híbrida en KB con fallback y boost de modelo."""
     import re
+    model_code = _extract_model_code(model)
     tiene_codigo_error = bool(re.search(r'\b(service|servicio|error|código|s_)\s*\d+', descripcion.lower()))
-    query_enriched = descripcion if tiene_codigo_error else f"{brand or ''} {model or ''} {descripcion}".strip()
+    query_enriched = descripcion if tiene_codigo_error else f"{brand or ''} {model_code or ''} {descripcion}".strip()
     where_brand = {"brand": brand} if brand else None
-    model_boost = 1.5 if model else 1.0
+    model_boost = 1.5 if model_code else 1.0
 
     payload = {"query": query_enriched, "top_k": top_k * 2, "semantic_weight": 0.3, "keyword_weight": 0.7, "context_chars": 2000, "where": where_brand}
     print(f"🔍 Buscando en KB: query='{query_enriched[:60]}' top_k={top_k}")
@@ -88,9 +111,24 @@ def _search_kb(mcp_url: str, descripcion: str, brand: str | None, model: str | N
         res = requests.post(f"{mcp_url}/tools/kb_search_hybrid", json=payload, timeout=30)
         hits = res.json().get("hits", [])
         if not hits and where_brand:
-            payload["where"] = None
-            res = requests.post(f"{mcp_url}/tools/kb_search_hybrid", json=payload, timeout=30)
-            hits = res.json().get("hits", [])
+            # Intentar variantes de capitalización (app móvil puede enviar "UNOX" pero KB tiene "Unox")
+            brand_variants = list(dict.fromkeys([
+                brand.title(), brand.lower(), brand.upper(), brand.capitalize()  # type: ignore[union-attr]
+            ]))
+            for variant in brand_variants:
+                if variant == brand:
+                    continue
+                payload["where"] = {"brand": variant}
+                res = requests.post(f"{mcp_url}/tools/kb_search_hybrid", json=payload, timeout=30)
+                hits = res.json().get("hits", [])
+                if hits:
+                    print(f"🔍 Brand normalizado: '{brand}' → '{variant}'")
+                    break
+            # Fallback final: sin filtro de brand
+            if not hits:
+                payload["where"] = None
+                res = requests.post(f"{mcp_url}/tools/kb_search_hybrid", json=payload, timeout=30)
+                hits = res.json().get("hits", [])
     except Exception as e:
         print(f"❌ Error en búsqueda KB: {e}")
         try:
@@ -100,8 +138,8 @@ def _search_kb(mcp_url: str, descripcion: str, brand: str | None, model: str | N
             hits = []
 
     # Model boost reranking
-    if hits and model:
-        model_variants = [model.lower().replace(" ", ""), model.lower().replace(" ", "_"), model.lower()]
+    if hits and model_code:
+        model_variants = [model_code.lower().replace(" ", ""), model_code.lower().replace(" ", "_"), model_code.lower()]
         for hit in hits:
             doc_id = hit.get("doc_id", "").lower()
             meta = hit.get("metadata", {})
