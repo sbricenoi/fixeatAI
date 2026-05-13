@@ -300,8 +300,9 @@ def predict_fallas(
         falla.pop("herramientas_sugeridas", None)
         falla.pop("pasos", None)
 
-    # Quitar quality_metrics de la respuesta
+    # Quitar campos internos / no usados en la app
     data.pop("quality_metrics", None)
+    data.pop("feedback_coherencia", None)
 
     num_hits = len(ranked_hits) if USE_LLM and "ranked_hits" in dir() else len(locals().get("hits", []))
     log_event(logging.INFO, x_trace_id, "predict_fallas", num_hits=num_hits, llm_used=USE_LLM)
