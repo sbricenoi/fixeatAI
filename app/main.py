@@ -274,10 +274,34 @@ def predict_fallas(
             ]
         }
     
+    # Detectar entrada no técnica (LLM retorna señal "no_technical_input")
+    if data.get("feedback_coherencia") == "no_technical_input" or (
+        not data.get("fallas_probables") and data.get("feedback_coherencia") == "no_technical_input"
+    ):
+        num_hits = len(locals().get("ranked_hits", locals().get("hits", [])))
+        log_event(logging.INFO, x_trace_id, "predict_fallas", num_hits=num_hits, llm_used=USE_LLM, non_technical=True)
+        return build_response(
+            data={
+                "fallas_probables": [],
+                "feedback_coherencia": "La descripción ingresada no corresponde a un problema técnico de equipo. Por favor describe el síntoma o falla que presenta el equipo.",
+                "fuentes": [],
+                "contextos": [],
+            },
+            message="Descripción no técnica",
+            code="NON_TECHNICAL_INPUT",
+            trace_id=x_trace_id,
+        )
+
     # Limpiar referencias internas [source:...] del rationale
+    # y quitar campos no usados en la app (herramientas_sugeridas, pasos)
     for falla in data.get("fallas_probables", []):
         if "rationale" in falla:
             falla["rationale"] = re.sub(r"\s*\[source:[^\]]+\]", "", falla["rationale"]).strip()
+        falla.pop("herramientas_sugeridas", None)
+        falla.pop("pasos", None)
+
+    # Quitar quality_metrics de la respuesta
+    data.pop("quality_metrics", None)
 
     num_hits = len(ranked_hits) if USE_LLM and "ranked_hits" in dir() else len(locals().get("hits", []))
     log_event(logging.INFO, x_trace_id, "predict_fallas", num_hits=num_hits, llm_used=USE_LLM)

@@ -212,13 +212,7 @@ def predict_with_llm(mcp_url: str, descripcion: str, equipo: Dict[str, Any], top
         '      "falla": "descripción de la falla detectada",\n'
         '      "confidence": 0.85,\n'
         '      "rationale": "explicación citando [source:doc_id]",\n'
-        '      "repuestos_sugeridos": ["repuesto1", "repuesto2"],\n'
-        '      "herramientas_sugeridas": ["herramienta1", "herramienta2"],\n'
-        "      \"pasos\": [\n"
-        '        {"orden": 1, "descripcion": "paso", "tipo": "seguridad"},\n'
-        '        {"orden": 2, "descripcion": "paso", "tipo": "diagnostico"},\n'
-        '        {"orden": 3, "descripcion": "paso", "tipo": "reparacion"}\n'
-        "      ]\n"
+        '      "repuestos_sugeridos": ["repuesto1", "repuesto2"]\n'
         "    }\n"
         "  ],\n"
         '  "feedback_coherencia": "evaluación de la coherencia del problema reportado"\n'
@@ -226,15 +220,13 @@ def predict_with_llm(mcp_url: str, descripcion: str, equipo: Dict[str, Any], top
         "REGLAS CRÍTICAS:\n"
         "1. USA ÚNICAMENTE información del CONTEXTO proporcionado. NO inventes datos.\n"
         "2. Cada 'rationale' DEBE citar fuentes específicas como [source:doc_id].\n"
-        "3. Los 'repuestos_sugeridos' y 'herramientas_sugeridas' deben estar mencionados o derivables del contexto.\n"
-        "4. Los 'pasos' DEBEN incluir:\n"
-        "   - INICIO: 3 pasos de seguridad (desconexión eléctrica, EPP, verificación de presión)\n"
-        "   - MEDIO: 3-5 pasos de diagnóstico específicos del problema\n"
-        "   - MEDIO: 2-4 pasos de reparación si aplica\n"
-        "   - FIN: 1 paso de seguridad final (verificación y prueba supervisada)\n"
-        "5. 'confidence' debe estar en [0,1] con 2 decimales.\n"
-        "6. Genera 1-3 fallas probables según la evidencia disponible.\n"
-        "7. Si el contexto es limitado, usa confidencias bajas (0.3-0.5) y sé explícito en el rationale.\n"
+        "3. Los 'repuestos_sugeridos' deben estar mencionados o derivables del contexto.\n"
+        "4. 'confidence' debe estar en [0,1] con 2 decimales.\n"
+        "5. Genera 1-3 fallas probables según la evidencia disponible.\n"
+        "6. Si el contexto es limitado, usa confidencias bajas (0.3-0.5) y sé explícito en el rationale.\n"
+        "7. Si el PROBLEMA REPORTADO no describe un problema técnico real de un equipo "
+        "(ej: saludos, frases sin sentido técnico, preguntas generales), retorna:\n"
+        '   {"fallas_probables": [], "feedback_coherencia": "no_technical_input"}\n'
         "8. Responde SOLO el JSON, sin explicaciones adicionales ni markdown."
     )
     
