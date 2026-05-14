@@ -283,11 +283,11 @@ def predict_fallas(
         return build_response(
             data={
                 "fallas_probables": [],
-                "feedback_coherencia": "La descripción ingresada no corresponde a un problema técnico de equipo. Por favor describe el síntoma o falla que presenta el equipo.",
+                "feedback_coherencia": "No encontré documentación relevante\n\nDescribe mejor la falla o solicita cargar nuevos documentos a tu administador.",
                 "fuentes": [],
                 "contextos": [],
             },
-            message="Descripción no técnica",
+            message="No encontré documentación relevante\n\nDescribe mejor la falla o solicita cargar nuevos documentos a tu administador.",
             code="NON_TECHNICAL_INPUT",
             trace_id=x_trace_id,
         )
