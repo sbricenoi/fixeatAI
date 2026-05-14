@@ -228,9 +228,12 @@ def predict_with_llm(mcp_url: str, descripcion: str, equipo: Dict[str, Any], top
         "la coherencia del problema reportado con las fallas encontradas. NUNCA uses códigos, "
         "palabras en inglés ni términos internos en este campo.\n"
         "8. EXCEPCIÓN: Si el PROBLEMA REPORTADO no describe ningún síntoma técnico real "
-        "(ej: saludos como 'Hola', frases sin sentido, preguntas no relacionadas con equipos), "
+        "(ej: saludos, frases sin sentido, preguntas informativas como '¿cuánto carga?', "
+        "'¿cómo se usa?', '¿cuál es la temperatura?', consultas de especificaciones o capacidades), "
         "retorna ÚNICAMENTE este JSON exacto sin modificaciones:\n"
         '   {"fallas_probables": [], "feedback_coherencia": "no_technical_input"}\n'
+        "   Solo aplica el análisis de fallas cuando el usuario describe un SÍNTOMA O FALLA "
+        "(ej: 'no enciende', 'hace ruido', 'no calienta', 'error X', 'perdió presión').\n"
         "9. Responde SOLO el JSON, sin explicaciones adicionales ni markdown."
     )
     
@@ -270,6 +273,11 @@ def predict_with_llm(mcp_url: str, descripcion: str, equipo: Dict[str, Any], top
         }
     
     # 5. VALIDACIÓN Y ENRIQUECIMIENTO
+    # Preservar sentinel de entrada no técnica antes de cualquier fallback
+    if data.get("feedback_coherencia") == "no_technical_input":
+        data["_raw_hits"] = hits
+        return data
+
     validated_failures = []
     for failure in data.get("fallas_probables", []):
         rationale = failure.get("rationale", "")
