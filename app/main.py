@@ -144,6 +144,21 @@ def predict_fallas(
             data = future_rag.result()
             ranked_hits = future_rerank.result()
 
+        # Detectar entrada no técnica temprano, antes de cualquier procesamiento adicional
+        if data.get("feedback_coherencia") == "no_technical_input":
+            log_event(logging.INFO, x_trace_id, "predict_fallas", num_hits=len(initial_hits), llm_used=USE_LLM, non_technical=True)
+            return build_response(
+                data={
+                    "fallas_probables": [],
+                    "feedback_coherencia": "No encontré documentación relevante\n\nDescribe mejor la falla o solicita cargar nuevos documentos a tu administador.",
+                    "fuentes": [],
+                    "contextos": [],
+                },
+                message="No encontré documentación relevante\n\nDescribe mejor la falla o solicita cargar nuevos documentos a tu administador.",
+                code="NON_TECHNICAL_INPUT",
+                trace_id=x_trace_id,
+            )
+
         hits = data.pop("_raw_hits", initial_hits)
         fallas_identificadas = data.get("fallas_probables", [])
 
