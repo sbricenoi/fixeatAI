@@ -73,26 +73,17 @@ def _parse_json_safely(raw: str) -> Dict[str, Any]:
 
 
 def _enrich_service_code_query(descripcion: str) -> str:
-    """Enriquece queries de códigos de servicio con palabras clave técnicas.
+    """Enriquece queries de códigos de servicio para búsqueda exacta.
 
-    Mapea códigos de error (ej: "Servicio 12") a términos técnicos específicos
-    para mejorar la búsqueda semántica en la KB.
+    Transforma "Error servicio 43" en "S_43" para encontrar documentos específicos.
     """
     import re
 
-    service_keywords = {
-        "12": "Bloque de solenoides sensor CDS medición agua caudal",
-        "34": "Comunicación interna datos BUS defectuosa",
-        "42": "Válvula solenoide electrodo nivel",
-        "72": "Motor ventilador eSTL conexión bus",
-    }
-
     match = re.search(r'\b(?:service|servicio|s_|error)\s*(\d+(?:\.\d+)?)', descripcion.lower())
     if match:
-        code = match.group(1).split('.')[0]
-        keywords = service_keywords.get(code, "")
-        if keywords:
-            return f"{descripcion} {keywords}"
+        code = match.group(1)
+        # Buscar por formato S_XX primero, luego por Servicio XX
+        return f"S_{code} Servicio {code}"
 
     return descripcion
 
@@ -128,7 +119,11 @@ def _search_kb(mcp_url: str, descripcion: str, brand: str | None, model: str | N
     where_brand = {"brand": brand} if brand else None
     model_boost = 1.5 if model_code else 1.0
 
-    payload = {"query": query_enriched, "top_k": top_k * 2, "semantic_weight": 0.3, "keyword_weight": 0.7, "context_chars": 2000, "where": where_brand}
+    # Para códigos de servicio, usar más weight en keywords para encontrar S_XX exacto
+    if tiene_codigo_error:
+        payload = {"query": query_enriched, "top_k": top_k * 2, "semantic_weight": 0.2, "keyword_weight": 0.8, "context_chars": 2000, "where": where_brand}
+    else:
+        payload = {"query": query_enriched, "top_k": top_k * 2, "semantic_weight": 0.3, "keyword_weight": 0.7, "context_chars": 2000, "where": where_brand}
     print(f"🔍 Buscando en KB: query='{query_enriched[:60]}' top_k={top_k}")
 
     hits: List[Dict[str, Any]] = []
