@@ -72,6 +72,31 @@ def _parse_json_safely(raw: str) -> Dict[str, Any]:
     }
 
 
+def _enrich_service_code_query(descripcion: str) -> str:
+    """Enriquece queries de códigos de servicio con palabras clave técnicas.
+
+    Mapea códigos de error (ej: "Servicio 12") a términos técnicos específicos
+    para mejorar la búsqueda semántica en la KB.
+    """
+    import re
+
+    service_keywords = {
+        "12": "Bloque de solenoides sensor CDS medición agua caudal",
+        "34": "Comunicación interna datos BUS defectuosa",
+        "42": "Válvula solenoide electrodo nivel",
+        "72": "Motor ventilador eSTL conexión bus",
+    }
+
+    match = re.search(r'\b(?:service|servicio|s_|error)\s*(\d+(?:\.\d+)?)', descripcion.lower())
+    if match:
+        code = match.group(1).split('.')[0]
+        keywords = service_keywords.get(code, "")
+        if keywords:
+            return f"{descripcion} {keywords}"
+
+    return descripcion
+
+
 def _extract_model_code(model: str | None) -> str | None:
     """Extrae código corto de modelo desde strings largos (ej: descripción completa del equipo).
 
@@ -99,7 +124,7 @@ def _search_kb(mcp_url: str, descripcion: str, brand: str | None, model: str | N
     import re
     model_code = _extract_model_code(model)
     tiene_codigo_error = bool(re.search(r'\b(service|servicio|error|código|s_)\s*\d+', descripcion.lower()))
-    query_enriched = descripcion if tiene_codigo_error else f"{brand or ''} {model_code or ''} {descripcion}".strip()
+    query_enriched = _enrich_service_code_query(descripcion) if tiene_codigo_error else f"{brand or ''} {model_code or ''} {descripcion}".strip()
     where_brand = {"brand": brand} if brand else None
     model_boost = 1.5 if model_code else 1.0
 
