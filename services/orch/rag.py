@@ -137,6 +137,16 @@ def _search_kb(mcp_url: str, descripcion: str, brand: str | None, model: str | N
         except Exception:
             hits = []
 
+    # Filtrar solo documentos de IA/ para mejorar calidad de respuestas
+    hits_ia = [
+        h for h in hits
+        if "IA/" in h.get("metadata", {}).get("source", "") or
+           "_IA" in h.get("doc_id", "") or
+           "IA/" in h.get("document_url", "")
+    ]
+    # Si hay hits de IA/, usarlos; si no, usar todos (fallback)
+    hits = hits_ia if hits_ia else hits
+
     # Model boost reranking
     if hits and model_code:
         model_variants = [model_code.lower().replace(" ", ""), model_code.lower().replace(" ", "_"), model_code.lower()]
@@ -147,7 +157,7 @@ def _search_kb(mcp_url: str, descripcion: str, brand: str | None, model: str | N
                 hit["score"] = hit.get("score", 0) * model_boost
         hits.sort(key=lambda x: x.get("score", 0), reverse=True)
 
-    print(f"🔍 {len(hits[:top_k])} hits obtenidos")
+    print(f"🔍 {len(hits[:top_k])} hits obtenidos (filtrados por IA/)")
     return hits[:top_k]
 
 
