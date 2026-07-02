@@ -489,6 +489,19 @@ _TITLE_LINE_RE = re.compile(
 # "22" matchee dentro de "220", "221", etc.).
 _LABEL_CODE_RE = re.compile(rf'\b{_ERROR_LABEL}\s*[:\-_]?\s*(\d+)(?!\d)', re.IGNORECASE)
 
+# Otro formato de título visto en manuales (ej. tableros de calderas/cafeteras):
+# "<Nombre del grupo>: 0204 - xxxx", donde "xxxx" es un placeholder literal de
+# la columna de sub-estados en la tabla debajo. El código de ESTE título es el
+# código de grupo real; los mismos 4 dígitos (0104/0204/0304/0404) se repiten
+# como sub-estados genéricos dentro de la tabla de CADA grupo, así que un
+# match de fila (sin el sufijo "- xxxx") no debe confundirse con el título.
+_GROUP_HEADER_RE = re.compile(r':\s*(\d{2,6})\s*-\s*x{2,}', re.IGNORECASE)
+
+
+def _normalize_code(code: str) -> str:
+    """Normaliza un código quitando ceros a la izquierda (ej. "0204" == "204")."""
+    return code.lstrip('0') or '0'
+
 
 def _code_boundary_pattern(code: str) -> re.Pattern:
     """Regex que matchea `code` sólo como número completo tras una etiqueta.
@@ -535,7 +548,7 @@ def _keyword_boost_search(
     except Exception:
         return {}
 
-    code_set = set(error_codes)
+    code_set = {_normalize_code(c) for c in error_codes}
     boundary_patterns = {code: _code_boundary_pattern(code) for code in error_codes}
 
     title_scores: dict[str, float] = {}
@@ -546,11 +559,16 @@ def _keyword_boost_search(
         if not text:
             continue
 
-        # 1. Buscar el código en líneas título (encabezados de error)
+        # 1. Buscar el código en líneas título (encabezados de error).
+        # Se combinan dos formatos vistos en los manuales:
+        #  - Etiqueta + código: "Error S_22:", "Servicio 22 ..."
+        #  - Título de grupo: "<Nombre>: 0204 - xxxx"
         title_codes_in_doc: set[str] = set()
         for line in text.split("\n"):
             if _TITLE_LINE_RE.match(line):
                 title_codes_in_doc.update(_LABEL_CODE_RE.findall(line))
+        title_codes_in_doc.update(_GROUP_HEADER_RE.findall(text))
+        title_codes_in_doc = {_normalize_code(c) for c in title_codes_in_doc}
 
         title_hits = code_set & title_codes_in_doc
         if title_hits:
