@@ -475,38 +475,57 @@ def _detect_error_codes(query: str) -> list[str]:
     return sorted(list(codes))
 
 
+_ERROR_LABEL = r'(?:service|servicio|s_|error|c[oó]digo|code)'
+
+# Línea "título" de error: empieza (permitiendo viñetas/numeración) con una
+# etiqueta de error. Ej: "Error S_22:", "S_22 iCombi Pro / Servicio 22 ...".
+_TITLE_LINE_RE = re.compile(
+    rf'^[\s\-•*\d\.\)]{{0,10}}{_ERROR_LABEL}\b', re.IGNORECASE
+)
+
+# Par etiqueta+código dentro de una línea título. No exige límite de palabra
+# al final del número para no descartar subíndices legítimos (S_22_1, 22.1),
+# pero sí exige que el propio código no continúe con otro dígito (evita que
+# "22" matchee dentro de "220", "221", etc.).
+_LABEL_CODE_RE = re.compile(rf'\b{_ERROR_LABEL}\s*[:\-_]?\s*(\d+)(?!\d)', re.IGNORECASE)
+
+
+def _code_boundary_pattern(code: str) -> re.Pattern:
+    """Regex que matchea `code` sólo como número completo tras una etiqueta.
+
+    Evita falsos positivos por sub-string: buscar "22" no debe matchear
+    "220", "221" ni "1220" (donde 22 aparece incrustado en otro código).
+    """
+    return re.compile(rf'\b{_ERROR_LABEL}\s*[:\-_]?\s*{re.escape(code)}(?!\d)', re.IGNORECASE)
+
+
 def _keyword_boost_search(
-    query: str, 
+    query: str,
     error_codes: list[str],
     top_k: int = 20,
     where: dict[str, Any] | None = None
 ) -> dict[str, float]:
     """Búsqueda por keyword con scoring para códigos de error.
-    
+
+    Prioriza los códigos que aparecen en una línea "título" (el encabezado
+    real del error, ej. "Error S_22: ..."). Si el código sólo aparece
+    incrustado en el cuerpo del texto o como subíndice de OTRO error
+    (ej. "220", "1220"), no se lo considera un match de título — esto evita
+    que una consulta por "error 22" retorne documentos de errores distintos
+    que simplemente mencionan "22" de pasada.
+
     Args:
         query: Query original
         error_codes: Códigos de error detectados
         top_k: Número de resultados
         where: Filtros de metadata
-        
+
     Returns:
         Dict de {doc_id: keyword_score}
     """
     if not error_codes:
         return {}
-    
-    # Construir patrones de búsqueda para cada código
-    search_patterns = []
-    for code in error_codes:
-        search_patterns.extend([
-            f"service {code}",
-            f"servicio {code}",
-            f"service{code}",
-            f"s_{code}",
-            f"s{code}",
-            f"error {code}",
-        ])
-    
+
     # Obtener todos los documentos (o filtrados)
     try:
         if where:
@@ -515,27 +534,46 @@ def _keyword_boost_search(
             results = _collection.get(include=["documents", "metadatas"])
     except Exception:
         return {}
-    
-    # Scoring por matches de keywords
-    keyword_scores = {}
+
+    code_set = set(error_codes)
+    boundary_patterns = {code: _code_boundary_pattern(code) for code in error_codes}
+
+    title_scores: dict[str, float] = {}
+    body_scores: dict[str, float] = {}
+
     for i, doc_id in enumerate(results["ids"]):
-        text = results["documents"][i].lower() if i < len(results["documents"]) else ""
-        score = 0.0
-        
-        for pattern in search_patterns:
-            # Contar ocurrencias del patrón
-            count = text.count(pattern.lower())
-            if count > 0:
-                # Boost score basado en:
-                # - Número de ocurrencias
-                # - Qué tan específico es el patrón
-                pattern_weight = 2.0 if "_" in pattern or pattern.startswith("service ") else 1.0
-                score += count * pattern_weight
-        
-        if score > 0:
-            keyword_scores[doc_id] = score
-    
-    return keyword_scores
+        text = results["documents"][i] if i < len(results["documents"]) else ""
+        if not text:
+            continue
+
+        # 1. Buscar el código en líneas título (encabezados de error)
+        title_codes_in_doc: set[str] = set()
+        for line in text.split("\n"):
+            if _TITLE_LINE_RE.match(line):
+                title_codes_in_doc.update(_LABEL_CODE_RE.findall(line))
+
+        title_hits = code_set & title_codes_in_doc
+        if title_hits:
+            title_scores[doc_id] = float(len(title_hits)) * 3.0
+
+        # 2. Señal secundaria: menciones en el cuerpo (con límites exactos,
+        # sin sub-string matching), por si ningún documento tiene título.
+        body_score = 0.0
+        for code in error_codes:
+            count = len(boundary_patterns[code].findall(text))
+            if count:
+                body_score += count
+        if body_score > 0:
+            body_scores[doc_id] = body_score
+
+    # Si algún documento tiene el código en el título, usar SOLO esos matches:
+    # filtra las coincidencias que son sólo referencias/subíndices de otros errores.
+    if title_scores:
+        return title_scores
+
+    # Fallback: ningún documento sigue el formato de título esperado — usar
+    # matches de cuerpo con límites exactos para no perder recall.
+    return body_scores
 
 
 def kb_search_hybrid(
