@@ -544,13 +544,24 @@ def _keyword_boost_search(
     if not error_codes:
         return {}, set()
 
-    # Obtener todos los documentos (o filtrados)
+    # Obtener todos los documentos (o filtrados). Se pasa "limit" explícito
+    # (count() + margen) porque algunas versiones/backends de ChromaDB
+    # truncan get() a un tope por defecto cuando no se especifica límite,
+    # lo que dejaba fuera de este scan documentos que sí contenían el
+    # código buscado en colecciones grandes (miles de chunks).
     try:
-        if where:
-            results = _collection.get(where=where, include=["documents", "metadatas"])
-        else:
-            results = _collection.get(include=["documents", "metadatas"])
+        scan_limit = _collection.count() + 100
     except Exception:
+        scan_limit = None
+    try:
+        get_kwargs: dict[str, Any] = {"include": ["documents", "metadatas"]}
+        if where:
+            get_kwargs["where"] = where
+        if scan_limit:
+            get_kwargs["limit"] = scan_limit
+        results = _collection.get(**get_kwargs)
+    except Exception as e:
+        print(f"❌ Error en _keyword_boost_search al escanear la colección: {e}")
         return {}, set()
 
     code_set = {_normalize_code(c) for c in error_codes}
