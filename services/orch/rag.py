@@ -175,7 +175,10 @@ def _search_kb(mcp_url: str, descripcion: str, brand: str | None, model: str | N
             meta = hit.get("metadata", {})
             if any(v in doc_id or v in str(meta.get("model", "")).lower() for v in model_variants):
                 hit["score"] = hit.get("score", 0) * model_boost
-        hits.sort(key=lambda x: x.get("score", 0), reverse=True)
+        # "exact_code_match" (código de error en el título, no un subíndice de
+        # otro error) siempre va primero — el boost de modelo no debe hacerlo
+        # perder su lugar frente a un hit sin ese match.
+        hits.sort(key=lambda x: (x.get("exact_code_match", False), x.get("score", 0)), reverse=True)
 
     print(f"🔍 {len(hits[:top_k])} hits obtenidos (filtrados por IA/)")
     return hits[:top_k]

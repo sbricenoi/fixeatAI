@@ -517,7 +517,7 @@ def _keyword_boost_search(
     error_codes: list[str],
     top_k: int = 20,
     where: dict[str, Any] | None = None
-) -> dict[str, float]:
+) -> tuple[dict[str, float], set[str]]:
     """Búsqueda por keyword con scoring para códigos de error.
 
     Prioriza los códigos que aparecen en una línea "título" (el encabezado
@@ -534,10 +534,15 @@ def _keyword_boost_search(
         where: Filtros de metadata
 
     Returns:
-        Dict de {doc_id: keyword_score}
+        Tupla (scores, title_match_doc_ids):
+        - scores: Dict de {doc_id: keyword_score}
+        - title_match_doc_ids: doc_ids cuyo score viene de un match de TÍTULO
+          (código exacto, no una fila/subíndice de otro error). Se usa aguas
+          abajo para blindar estos hits de un re-ranker de LLM que podría
+          confundirse con menciones incidentales del mismo código.
     """
     if not error_codes:
-        return {}
+        return {}, set()
 
     # Obtener todos los documentos (o filtrados)
     try:
@@ -546,7 +551,7 @@ def _keyword_boost_search(
         else:
             results = _collection.get(include=["documents", "metadatas"])
     except Exception:
-        return {}
+        return {}, set()
 
     code_set = {_normalize_code(c) for c in error_codes}
     boundary_patterns = {code: _code_boundary_pattern(code) for code in error_codes}
@@ -587,11 +592,11 @@ def _keyword_boost_search(
     # Si algún documento tiene el código en el título, usar SOLO esos matches:
     # filtra las coincidencias que son sólo referencias/subíndices de otros errores.
     if title_scores:
-        return title_scores
+        return title_scores, set(title_scores.keys())
 
     # Fallback: ningún documento sigue el formato de título esperado — usar
     # matches de cuerpo con límites exactos para no perder recall.
-    return body_scores
+    return body_scores, set()
 
 
 def kb_search_hybrid(
@@ -641,7 +646,7 @@ def kb_search_hybrid(
     )
     
     # 4. Búsqueda por keywords
-    keyword_scores = _keyword_boost_search(
+    keyword_scores, title_match_doc_ids = _keyword_boost_search(
         query=query,
         error_codes=error_codes,
         top_k=top_k * 3,
@@ -704,17 +709,28 @@ def kb_search_hybrid(
             except Exception:
                 continue
     
-    # Crear lista final con scores híbridos
+    # Crear lista final con scores híbridos. Los matches de TÍTULO (código
+    # exacto) se garantizan en el resultado aunque no entren en el top_k por
+    # score puro, y se marcan con "exact_code_match" para que consumidores
+    # aguas abajo (ej. el re-ranker de LLM) no los descarten por confundirse
+    # con menciones incidentales del mismo código en otros documentos.
+    ranked_doc_ids = [doc_id for doc_id, _ in sorted(combined_scores.items(), key=lambda x: -x[1])[:top_k]]
+    for doc_id in title_match_doc_ids:
+        if doc_id not in ranked_doc_ids:
+            ranked_doc_ids.append(doc_id)
+
     hybrid_results = []
-    for doc_id, hybrid_score in sorted(combined_scores.items(), key=lambda x: -x[1])[:top_k]:
+    for doc_id in ranked_doc_ids:
         if doc_id in semantic_results_dict:
             result = semantic_results_dict[doc_id].copy()
-            result["score"] = hybrid_score
+            result["score"] = combined_scores.get(doc_id, 0.0)
             result["semantic_score"] = semantic_scores.get(doc_id, 0.0)
             result["keyword_score"] = keyword_scores.get(doc_id, 0.0)
             result["error_codes_found"] = error_codes
+            result["exact_code_match"] = doc_id in title_match_doc_ids
             hybrid_results.append(result)
-    
+
+    hybrid_results.sort(key=lambda r: (r.get("exact_code_match", False), r.get("score", 0.0)), reverse=True)
     return hybrid_results
 
 

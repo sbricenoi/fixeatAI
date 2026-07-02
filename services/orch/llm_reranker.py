@@ -65,13 +65,14 @@ def rerank_with_llm(
         
         # Truncar contenido a 500 caracteres para reducir tokens
         content_preview = content[:500] + "..." if len(content) > 500 else content
-        
+
         documents_summary.append({
             "id": idx,
             "doc_id": doc_id,
             "page": page,
             "source": source,
-            "content": content_preview
+            "content": content_preview,
+            "codigo_error_exacto": candidate.get("exact_code_match", False),
         })
     
     # Prompt para el LLM
@@ -116,6 +117,11 @@ IMPORTANTE:
 - Si un documento NO responde la pregunta, dale un score bajo (0-40)
 - Prioriza documentos de TROUBLESHOOTING sobre manuales de instalación
 - Si la pregunta menciona un código de error específico (ej. "service 25"), prioriza documentos que mencionen ese código exacto
+- El campo "codigo_error_exacto" ya fue verificado de forma determinística: si es true, ese documento
+  define el código de error consultado en su TÍTULO/encabezado (no es una mención de paso ni un
+  subíndice de otro error). Dale 90-100 salvo que el contenido sea claramente irrelevante al problema
+  descrito. Si es false pero el texto menciona el mismo número, es probablemente una fila/subíndice de
+  OTRO error — no lo confundas con el error consultado aunque el número coincida.
 """
 
     user_prompt = f"""**CONTEXTO DEL EQUIPO:**
@@ -163,15 +169,26 @@ Analiza cada documento y retorna el JSON con los rankings de relevancia."""
                 "confidence": "Baja",
                 "explanation": "No analizado por el LLM"
             })
-            
-            candidate["llm_relevance_score"] = ranking_info["relevance_score"]
-            candidate["llm_confidence"] = ranking_info["confidence"]
+
+            exact_match = bool(candidate.get("exact_code_match"))
+            llm_score = ranking_info["relevance_score"]
+            # Piso determinístico: si el código de error fue confirmado en el
+            # título del documento (no una fila/subíndice de otro error), no
+            # dejamos que una alucinación del LLM lo entierre por debajo de
+            # otro candidato que sólo menciona el mismo número de pasada.
+            if exact_match:
+                llm_score = max(llm_score, 90)
+
+            candidate["llm_relevance_score"] = llm_score
+            candidate["llm_confidence"] = "Alta" if exact_match else ranking_info["confidence"]
             candidate["llm_explanation"] = ranking_info["explanation"]
             enriched_candidates.append(candidate)
-        
-        # Ordenar por score del LLM
+
+        # Ordenar por (match exacto de código, score del LLM). El match exacto
+        # manda primero siempre, para blindar contra errores de juicio del LLM
+        # con contenido truncado a 500 caracteres.
         enriched_candidates.sort(
-            key=lambda x: x.get("llm_relevance_score", 0),
+            key=lambda x: (x.get("exact_code_match", False), x.get("llm_relevance_score", 0)),
             reverse=True
         )
         
