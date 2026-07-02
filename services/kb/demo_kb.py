@@ -564,6 +564,9 @@ def _keyword_boost_search(
         print(f"❌ Error en _keyword_boost_search al escanear la colección: {e}")
         return {}, set()
 
+    scanned = len(results.get("ids", []))
+    print(f"🔍 _keyword_boost_search: escaneados {scanned} docs (scan_limit={scan_limit}, where={where}) buscando códigos {error_codes}")
+
     code_set = {_normalize_code(c) for c in error_codes}
     boundary_patterns = {code: _code_boundary_pattern(code) for code in error_codes}
 
