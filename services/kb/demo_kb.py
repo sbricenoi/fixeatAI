@@ -738,12 +738,12 @@ def kb_search_hybrid(
                         "context": doc_result["documents"][0][:context_chars] if doc_result["documents"] else "",
                         "metadata": doc_result["metadatas"][0] if doc_result["metadatas"] else {},
                         "document_url": generate_document_url(
-                            doc_result["metadatas"][0].get("source", "") if doc_result["metadatas"] else "",
-                            page=doc_result["metadatas"][0].get("page") if doc_result["metadatas"] else None,
-                            doc_id=doc_id
+                            doc_id,
+                            doc_result["metadatas"][0] if doc_result["metadatas"] else {}
                         )
                     }
-            except Exception:
+            except Exception as e:
+                print(f"❌ Error recuperando doc adicional de keyword search '{doc_id}': {e}")
                 continue
     
     # Crear lista final con scores híbridos. Los matches de TÍTULO (código
