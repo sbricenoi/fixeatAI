@@ -503,6 +503,12 @@ def _normalize_code(code: str) -> str:
     return code.lstrip('0') or '0'
 
 
+# Diagnóstico temporal: expone datos del último escaneo para poder
+# inspeccionarlos vía HTTP (los print() de este módulo no están apareciendo
+# en los logs del contenedor por motivos aún no determinados).
+_last_scan_debug: dict[str, Any] = {}
+
+
 def _code_boundary_pattern(code: str) -> re.Pattern:
     """Regex que matchea `code` sólo como número completo tras una etiqueta.
 
@@ -562,10 +568,24 @@ def _keyword_boost_search(
         results = _collection.get(**get_kwargs)
     except Exception as e:
         print(f"❌ Error en _keyword_boost_search al escanear la colección: {e}")
+        _last_scan_debug.clear()
+        _last_scan_debug.update({"error": str(e), "where": where, "error_codes": error_codes})
         return {}, set()
 
     scanned = len(results.get("ids", []))
     print(f"🔍 _keyword_boost_search: escaneados {scanned} docs (scan_limit={scan_limit}, where={where}) buscando códigos {error_codes}")
+    _last_scan_debug.clear()
+    _last_scan_debug.update({
+        "scanned": scanned,
+        "scan_limit": scan_limit,
+        "collection_count": None,
+        "where": where,
+        "error_codes": error_codes,
+    })
+    try:
+        _last_scan_debug["collection_count"] = _collection.count()
+    except Exception:
+        pass
 
     code_set = {_normalize_code(c) for c in error_codes}
     boundary_patterns = {code: _code_boundary_pattern(code) for code in error_codes}
@@ -602,6 +622,9 @@ def _keyword_boost_search(
                 body_score += count
         if body_score > 0:
             body_scores[doc_id] = body_score
+
+    _last_scan_debug["title_matches"] = len(title_scores)
+    _last_scan_debug["body_matches"] = len(body_scores)
 
     # Si algún documento tiene el código en el título, usar SOLO esos matches:
     # filtra las coincidencias que son sólo referencias/subíndices de otros errores.

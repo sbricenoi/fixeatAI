@@ -169,6 +169,8 @@ def tool_kb_search_hybrid(req: KBSearchHybridRequest) -> dict:
         - context, metadata, document_url, etc.
     """
     try:
+        from services.kb.demo_kb import _last_scan_debug
+
         hits = kb_search_hybrid(
             query=req.query,
             top_k=req.top_k,
@@ -185,7 +187,9 @@ def tool_kb_search_hybrid(req: KBSearchHybridRequest) -> dict:
             "weights": {
                 "semantic": req.semantic_weight,
                 "keyword": req.keyword_weight
-            }
+            },
+            # Diagnóstico temporal (ver services/kb/demo_kb.py::_keyword_boost_search)
+            "_debug_scan": dict(_last_scan_debug),
         }
     except Exception as e:
         print(f"Error en kb_search_hybrid: {e}")
