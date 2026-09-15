@@ -13,7 +13,8 @@ dependencies = [
   "beautifulsoup4>=4.12.3",
   "openai>=1.40.0",
   "pymysql>=1.1.0",
-  "pymupdf>=1.24.0"
+  "pymupdf>=1.24.0",
+  "boto3>=1.34.0"
 ]
 
 [project.optional-dependencies]

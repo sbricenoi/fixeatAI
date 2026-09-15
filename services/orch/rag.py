@@ -72,145 +72,139 @@ def _parse_json_safely(raw: str) -> Dict[str, Any]:
     }
 
 
-def predict_with_llm(mcp_url: str, descripcion: str, equipo: Dict[str, Any], top_k: int = 5) -> Dict[str, Any]:
+def _enrich_service_code_query(descripcion: str) -> str:
+    """Enriquece queries de códigos de servicio para búsqueda exacta.
+
+    Transforma "Error servicio 43" en "S_43" para encontrar documentos específicos.
+    """
+    import re
+
+    match = re.search(r'\b(?:service|servicio|s_|error)\s*(\d+(?:\.\d+)?)', descripcion.lower())
+    if match:
+        code = match.group(1)
+        # Buscar por formato S_XX primero, luego por Servicio XX
+        return f"S_{code} Servicio {code}"
+
+    return descripcion
+
+
+def _extract_model_code(model: str | None) -> str | None:
+    """Extrae código corto de modelo desde strings largos (ej: descripción completa del equipo).
+
+    Problema: la app móvil puede enviar el nombre completo del equipo como modelo,
+    ej: "HORNO COMBINADO ELECTRICO DE 05 BANDEJAS... MOD: XECC-0523-EPR-PLUS"
+    Esto genera queries enormes que confunden la búsqueda KB.
+    """
+    import re
+    if not model or len(model) <= 25:
+        return model
+    # Buscar patrón "MOD: XECC-0523" o "MOD. XECC-0523"
+    match = re.search(r'MOD[:\s.]+([A-Z0-9][A-Z0-9\-]+)', model, re.IGNORECASE)
+    if match:
+        return match.group(1)
+    # Buscar token con formato de código (ej: XECC-0523-EPR-PLUS, iCombi-Pro)
+    for token in model.split():
+        if re.match(r'^[A-Z][A-Z0-9]{1,}-[A-Z0-9\-]{3,}$', token, re.IGNORECASE):
+            return token
+    # Truncar a 25 chars como último recurso
+    return model[:25]
+
+
+def _search_kb(mcp_url: str, descripcion: str, brand: str | None, model: str | None, top_k: int) -> List[Dict[str, Any]]:
+    """Búsqueda híbrida en KB con fallback y boost de modelo."""
+    import re
+    model_code = _extract_model_code(model)
+    tiene_codigo_error = bool(re.search(r'\b(service|servicio|error|código|s_)\s*\d+', descripcion.lower()))
+    query_enriched = _enrich_service_code_query(descripcion) if tiene_codigo_error else f"{brand or ''} {model_code or ''} {descripcion}".strip()
+    where_brand = {"brand": brand} if brand else None
+    model_boost = 1.5 if model_code else 1.0
+
+    # Para códigos de servicio, usar más weight en keywords para encontrar S_XX exacto
+    if tiene_codigo_error:
+        payload = {"query": query_enriched, "top_k": top_k * 2, "semantic_weight": 0.2, "keyword_weight": 0.8, "context_chars": 2000, "where": where_brand}
+    else:
+        payload = {"query": query_enriched, "top_k": top_k * 2, "semantic_weight": 0.3, "keyword_weight": 0.7, "context_chars": 2000, "where": where_brand}
+    print(f"🔍 Buscando en KB: query='{query_enriched[:60]}' top_k={top_k}")
+
+    hits: List[Dict[str, Any]] = []
+    try:
+        res = requests.post(f"{mcp_url}/tools/kb_search_hybrid", json=payload, timeout=30)
+        hits = res.json().get("hits", [])
+        if not hits and where_brand:
+            # Intentar variantes de capitalización (app móvil puede enviar "UNOX" pero KB tiene "Unox")
+            brand_variants = list(dict.fromkeys([
+                brand.title(), brand.lower(), brand.upper(), brand.capitalize()  # type: ignore[union-attr]
+            ]))
+            for variant in brand_variants:
+                if variant == brand:
+                    continue
+                payload["where"] = {"brand": variant}
+                res = requests.post(f"{mcp_url}/tools/kb_search_hybrid", json=payload, timeout=30)
+                hits = res.json().get("hits", [])
+                if hits:
+                    print(f"🔍 Brand normalizado: '{brand}' → '{variant}'")
+                    break
+            # Fallback final: sin filtro de brand
+            if not hits:
+                payload["where"] = None
+                res = requests.post(f"{mcp_url}/tools/kb_search_hybrid", json=payload, timeout=30)
+                hits = res.json().get("hits", [])
+    except Exception as e:
+        print(f"❌ Error en búsqueda KB: {e}")
+        try:
+            res = requests.post(f"{mcp_url}/tools/kb_search_extended", json={"query": query_enriched, "top_k": top_k, "context_chars": 2000}, timeout=10)
+            hits = res.json().get("hits", [])
+        except Exception:
+            hits = []
+
+    # Filtrar solo documentos de IA/ para mejorar calidad de respuestas
+    hits_ia = [
+        h for h in hits
+        if "IA/" in h.get("metadata", {}).get("source", "") or
+           "_IA" in h.get("doc_id", "") or
+           "IA/" in h.get("document_url", "")
+    ]
+    # Si hay hits de IA/, usarlos; si no, usar todos (fallback)
+    hits = hits_ia if hits_ia else hits
+
+    # Model boost reranking
+    if hits and model_code:
+        model_variants = [model_code.lower().replace(" ", ""), model_code.lower().replace(" ", "_"), model_code.lower()]
+        for hit in hits:
+            doc_id = hit.get("doc_id", "").lower()
+            meta = hit.get("metadata", {})
+            if any(v in doc_id or v in str(meta.get("model", "")).lower() for v in model_variants):
+                hit["score"] = hit.get("score", 0) * model_boost
+        # "exact_code_match" (código de error en el título, no un subíndice de
+        # otro error) siempre va primero — el boost de modelo no debe hacerlo
+        # perder su lugar frente a un hit sin ese match.
+        hits.sort(key=lambda x: (x.get("exact_code_match", False), x.get("score", 0)), reverse=True)
+
+    print(f"🔍 {len(hits[:top_k])} hits obtenidos (filtrados por IA/)")
+    return hits[:top_k]
+
+
+def predict_with_llm(mcp_url: str, descripcion: str, equipo: Dict[str, Any], top_k: int = 5, pre_fetched_hits: List[Dict[str, Any]] | None = None) -> Dict[str, Any]:
     """Genera predicción usando LLM con contexto de KB.
-    
-    Este es el FLUJO PRINCIPAL del sistema:
-    1. Recupera contexto relevante de KB usando embeddings semánticos
-    2. Construye prompt enriquecido con ese contexto
-    3. El LLM lee el contenido REAL de los manuales y genera respuesta
-    4. NO usa diccionarios estáticos - todo viene del contenido
-    
+
     Args:
         mcp_url: URL del servicio MCP con KB
         descripcion: Descripción del problema reportado
         equipo: Información del equipo (marca, modelo, etc)
         top_k: Número de documentos a recuperar de KB
-        
+        pre_fetched_hits: Hits pre-cargados (omite búsqueda si se proveen)
+
     Returns:
         Diccionario con predicción estructurada basada en contenido real
     """
-    # 1. RECUPERACIÓN: Búsqueda HÍBRIDA OPTIMIZADA para iCombi Classic
     brand = (equipo or {}).get("marca") or (equipo or {}).get("brand")
     model = (equipo or {}).get("modelo") or (equipo or {}).get("model")
-    
-    # Normalizar modelo para filtrado
-    model_normalized = None
-    if model:
-        model_lower = model.lower().replace(" ", "").replace("-", "")
-        if "icombiclassic" in model_lower or "classic" in model_lower:
-            model_normalized = "iCombi Classic"
-        elif "icombipro" in model_lower or "pro" in model_lower:
-            model_normalized = "iCombi Pro"
-    
-    # OPTIMIZACIÓN: Para búsqueda híbrida con códigos de error,
-    # NO diluir la query con marca/modelo ya que reduce keyword matching
-    # Los códigos de error son más específicos que la marca
-    import re
-    tiene_codigo_error = bool(re.search(r'\b(service|servicio|error|código|s_)\s*\d+', descripcion.lower()))
-    
-    if tiene_codigo_error:
-        # Query limpia para mejor keyword matching
-        query_enriched = descripcion
-    else:
-        # Query enriquecida para búsqueda semántica general
-        query_enriched = f"{brand or ''} {model or ''} {descripcion}".strip()
-    
-    # FILTRADO POR METADATA: Si tenemos modelo específico, lo usamos para RERANKING
-    # No usamos where filter porque ChromaDB tiene limitaciones y querríamos más resultados
-    # En su lugar, haremos post-processing para dar boost a docs del modelo correcto
-    model_boost = 1.5 if model_normalized else 1.0  # 50% boost para modelo correcto
-    print(f"🎯 Modelo detectado: {model_normalized or 'N/A'}, boost={model_boost}x")
 
-    # Usar kb_search_hybrid: combina búsqueda semántica + keyword matching
-    # Esto mejora SIGNIFICATIVAMENTE la relevancia para códigos de error técnicos
-    payload = {
-        "query": query_enriched, 
-        "top_k": top_k * 2,  # Obtener más resultados para post-filtering
-        "semantic_weight": 0.3,  # Reducimos peso semántico para códigos
-        "keyword_weight": 0.7,   # Aumentamos peso keywords (detecta "service 25", "error 42", etc.)
-        "context_chars": 2000,   # Contexto ampliado
-    }
-    
-    print(f"🔍 Buscando en KB HÍBRIDA: query='{query_enriched}' top_k={top_k}")
-    print(f"🔍 MCP URL: {mcp_url}/tools/kb_search_hybrid")
-    print(f"🔍 Pesos: semantic=0.4, keyword=0.6")
-    
-    try:
-        res = requests.post(f"{mcp_url}/tools/kb_search_hybrid", json=payload, timeout=30)
-        print(f"🔍 Status KB: {res.status_code}")
-        hits = res.json().get("hits", [])
-        print(f"🔍 Hits encontrados: {len(hits)}")
-        if hits:
-            first_hit = hits[0]
-            context_len = len(first_hit.get("context", ""))
-            print(f"🔍 Primer hit: {first_hit.get('doc_id', 'N/A')} - score: {first_hit.get('score', 0):.3f} - context_len: {context_len}")
-            # Mostrar scores híbridos si están disponibles
-            if 'semantic_score' in first_hit and 'keyword_score' in first_hit:
-                print(f"    └─ semantic: {first_hit['semantic_score']:.3f}, keyword: {first_hit['keyword_score']:.3f}")
-            if 'error_codes_found' in first_hit:
-                print(f"    └─ códigos detectados: {first_hit['error_codes_found']}")
-    except Exception as e:
-        print(f"❌ Error en búsqueda KB híbrida: {e}")
-        # Fallback a kb_search_extended si híbrida falla
-        try:
-            print(f"🔄 Fallback a kb_search_extended...")
-            payload_fallback = {
-                "query": query_enriched,
-                "top_k": top_k,
-                "context_chars": 2000,
-                "include_full_text": False
-            }
-            res = requests.post(f"{mcp_url}/tools/kb_search_extended", json=payload_fallback, timeout=10)
-            hits = res.json().get("hits", [])
-            print(f"🔍 Hits con fallback: {len(hits)}")
-        except Exception as e2:
-            print(f"❌ Error en fallback: {e2}")
-            hits = []
-    
-    # POST-PROCESSING: Reranking para dar boost a documentos del modelo correcto
-    if hits and model_normalized:
-        print(f"🎯 Aplicando reranking para modelo: {model_normalized}")
-        
-        # Normalizar variantes del modelo para matching flexible
-        model_variants = [
-            model_normalized.lower().replace(" ", ""),  # "icombiclassic"
-            model_normalized.lower().replace(" ", "_"),  # "icombi_classic"
-            model_normalized.lower(),  # "icombi classic"
-            model_normalized.replace(" ", ""),  # "iCombiClassic"
-        ]
-        
-        reranked_hits = []
-        for hit in hits:
-            doc_id = hit.get("doc_id", "").lower()
-            metadata = hit.get("metadata", {})
-            model_meta = str(metadata.get("model", "")).lower()
-            source_meta = str(metadata.get("source", "")).lower()
-            
-            # Verificar si el documento es del modelo correcto
-            is_correct_model = any(
-                variant in doc_id or variant in model_meta or variant in source_meta
-                for variant in model_variants
-            )
-            
-            # Aplicar boost al score
-            original_score = hit.get("score", 0)
-            if is_correct_model:
-                hit["score"] = original_score * model_boost
-                hit["model_boosted"] = True
-                print(f"  ✅ Boost aplicado a: {hit.get('doc_id')[:60]} (score: {original_score:.3f} → {hit['score']:.3f})")
-            
-            reranked_hits.append(hit)
-        
-        # Reordenar por score (ahora con boost)
-        hits = sorted(reranked_hits, key=lambda x: x.get("score", 0), reverse=True)
-        print(f"🔄 Top 3 después de reranking:")
-        for i, hit in enumerate(hits[:3], 1):
-            boosted = "⭐" if hit.get("model_boosted") else "  "
-            print(f"  {boosted}{i}. {hit.get('doc_id')[:60]} (score: {hit.get('score', 0):.3f})")
-        
-        # Limitar a top_k original después de reranking
-        hits = hits[:top_k]
+    if pre_fetched_hits is not None:
+        hits = pre_fetched_hits
+        print(f"⚡ Usando {len(hits)} hits pre-cargados")
+    else:
+        hits = _search_kb(mcp_url, descripcion, brand, model, top_k)
     
     context = build_context_from_hits(hits)
     num_hits = len(hits)
@@ -251,13 +245,7 @@ def predict_with_llm(mcp_url: str, descripcion: str, equipo: Dict[str, Any], top
         '      "falla": "descripción de la falla detectada",\n'
         '      "confidence": 0.85,\n'
         '      "rationale": "explicación citando [source:doc_id]",\n'
-        '      "repuestos_sugeridos": ["repuesto1", "repuesto2"],\n'
-        '      "herramientas_sugeridas": ["herramienta1", "herramienta2"],\n'
-        "      \"pasos\": [\n"
-        '        {"orden": 1, "descripcion": "paso", "tipo": "seguridad"},\n'
-        '        {"orden": 2, "descripcion": "paso", "tipo": "diagnostico"},\n'
-        '        {"orden": 3, "descripcion": "paso", "tipo": "reparacion"}\n'
-        "      ]\n"
+        '      "repuestos_sugeridos": ["repuesto1", "repuesto2"]\n'
         "    }\n"
         "  ],\n"
         '  "feedback_coherencia": "evaluación de la coherencia del problema reportado"\n'
@@ -265,16 +253,21 @@ def predict_with_llm(mcp_url: str, descripcion: str, equipo: Dict[str, Any], top
         "REGLAS CRÍTICAS:\n"
         "1. USA ÚNICAMENTE información del CONTEXTO proporcionado. NO inventes datos.\n"
         "2. Cada 'rationale' DEBE citar fuentes específicas como [source:doc_id].\n"
-        "3. Los 'repuestos_sugeridos' y 'herramientas_sugeridas' deben estar mencionados o derivables del contexto.\n"
-        "4. Los 'pasos' DEBEN incluir:\n"
-        "   - INICIO: 3 pasos de seguridad (desconexión eléctrica, EPP, verificación de presión)\n"
-        "   - MEDIO: 3-5 pasos de diagnóstico específicos del problema\n"
-        "   - MEDIO: 2-4 pasos de reparación si aplica\n"
-        "   - FIN: 1 paso de seguridad final (verificación y prueba supervisada)\n"
-        "5. 'confidence' debe estar en [0,1] con 2 decimales.\n"
-        "6. Genera 1-3 fallas probables según la evidencia disponible.\n"
-        "7. Si el contexto es limitado, usa confidencias bajas (0.3-0.5) y sé explícito en el rationale.\n"
-        "8. Responde SOLO el JSON, sin explicaciones adicionales ni markdown."
+        "3. Los 'repuestos_sugeridos' deben estar mencionados o derivables del contexto.\n"
+        "4. 'confidence' debe estar en [0,1] con 2 decimales.\n"
+        "5. Genera 1-3 fallas probables según la evidencia disponible.\n"
+        "6. Si el contexto es limitado, usa confidencias bajas (0.3-0.5) y sé explícito en el rationale.\n"
+        "7. El campo 'feedback_coherencia' SIEMPRE debe ser una frase en español natural evaluando "
+        "la coherencia del problema reportado con las fallas encontradas. NUNCA uses códigos, "
+        "palabras en inglés ni términos internos en este campo.\n"
+        "8. EXCEPCIÓN: Si el PROBLEMA REPORTADO no describe ningún síntoma técnico real "
+        "(ej: saludos, frases sin sentido, preguntas informativas como '¿cuánto carga?', "
+        "'¿cómo se usa?', '¿cuál es la temperatura?', consultas de especificaciones o capacidades), "
+        "retorna ÚNICAMENTE este JSON exacto sin modificaciones:\n"
+        '   {"fallas_probables": [], "feedback_coherencia": "no_technical_input"}\n'
+        "   Solo aplica el análisis de fallas cuando el usuario describe un SÍNTOMA O FALLA "
+        "(ej: 'no enciende', 'hace ruido', 'no calienta', 'error X', 'perdió presión').\n"
+        "9. Responde SOLO el JSON, sin explicaciones adicionales ni markdown."
     )
     
     equipment_info = f"Marca: {brand or 'N/A'}, Modelo: {model or 'N/A'}"
@@ -292,7 +285,7 @@ def predict_with_llm(mcp_url: str, descripcion: str, equipo: Dict[str, Any], top
     # 4. INVOCACIÓN del LLM
     try:
         llm = LLMClient()
-        raw = llm.complete_json(system_prompt, user_prompt)
+        raw = llm.complete_json(system_prompt, user_prompt, force_json=True, max_tokens=2000)
         data = _parse_json_safely(raw)
     except Exception as e:
         print(f"Error en LLM: {e}")
@@ -313,6 +306,11 @@ def predict_with_llm(mcp_url: str, descripcion: str, equipo: Dict[str, Any], top
         }
     
     # 5. VALIDACIÓN Y ENRIQUECIMIENTO
+    # Preservar sentinel de entrada no técnica antes de cualquier fallback
+    if data.get("feedback_coherencia") == "no_technical_input":
+        data["_raw_hits"] = hits
+        return data
+
     validated_failures = []
     for failure in data.get("fallas_probables", []):
         rationale = failure.get("rationale", "")

@@ -17,6 +17,15 @@ from bs4 import BeautifulSoup
 import base64
 import io
 import mimetypes
+import xml.etree.ElementTree as ET
+from pathlib import Path
+import threading
+
+try:
+    import fitz  # PyMuPDF
+    _PYMUPDF_AVAILABLE = True
+except ImportError:
+    _PYMUPDF_AVAILABLE = False
 
 from services.kb.demo_kb import (
     kb_search, 
@@ -160,6 +169,8 @@ def tool_kb_search_hybrid(req: KBSearchHybridRequest) -> dict:
         - context, metadata, document_url, etc.
     """
     try:
+        from services.kb.demo_kb import _last_scan_debug
+
         hits = kb_search_hybrid(
             query=req.query,
             top_k=req.top_k,
@@ -176,7 +187,9 @@ def tool_kb_search_hybrid(req: KBSearchHybridRequest) -> dict:
             "weights": {
                 "semantic": req.semantic_weight,
                 "keyword": req.keyword_weight
-            }
+            },
+            # Diagnóstico temporal (ver services/kb/demo_kb.py::_keyword_boost_search)
+            "_debug_scan": dict(_last_scan_debug),
         }
     except Exception as e:
         print(f"Error en kb_search_hybrid: {e}")
@@ -1039,6 +1052,492 @@ def view_document(doc_id: str, page: Optional[int] = None) -> dict:
             "error": f"Error procesando solicitud: {str(e)}",
             "doc_id": doc_id
         }
+
+
+try:
+    import boto3
+    from botocore.exceptions import NoCredentialsError, ClientError as BotoClientError
+    _BOTO3_AVAILABLE = True
+except ImportError:
+    _BOTO3_AVAILABLE = False
+
+
+def _s3_client(region: str):
+    """Crea cliente boto3 usando credenciales de variables de entorno."""
+    return boto3.client(
+        "s3",
+        region_name=region,
+        aws_access_key_id=os.getenv("AWS_ACCESS_KEY_ID") or None,
+        aws_secret_access_key=os.getenv("AWS_SECRET_ACCESS_KEY") or None,
+    )
+
+
+def _list_s3_pdfs(bucket: str, prefix: str, region: str) -> list[dict]:
+    """Lista PDFs en S3 usando boto3 (bucket privado o público)."""
+    s3 = _s3_client(region)
+    paginator = s3.get_paginator("list_objects_v2")
+    pdfs = []
+    for page in paginator.paginate(Bucket=bucket, Prefix=prefix):
+        for obj in page.get("Contents", []):
+            key = obj["Key"]
+            if key.lower().endswith(".pdf"):
+                url = f"https://{bucket}.s3.{region}.amazonaws.com/{key}"
+                pdfs.append({"key": key, "url": url, "stem": Path(key).stem})
+    return pdfs
+
+
+def _download_s3_pdf(bucket: str, key: str, region: str) -> bytes:
+    """Descarga un objeto S3 directamente con boto3."""
+    s3 = _s3_client(region)
+    response = s3.get_object(Bucket=bucket, Key=key)
+    return response["Body"].read()
+
+
+_CHUNK_SIZE = 600
+_CHUNK_OVERLAP = 100
+
+
+def _split_text_into_chunks(text: str, chunk_size: int = _CHUNK_SIZE, overlap: int = _CHUNK_OVERLAP) -> list[str]:
+    """Divide texto en chunks solapados, prefiriendo cortes en saltos de línea o puntos."""
+    text = text.strip()
+    if not text:
+        return []
+    if len(text) <= chunk_size:
+        return [text]
+
+    chunks: list[str] = []
+    start = 0
+    while start < len(text):
+        end = min(start + chunk_size, len(text))
+        if end < len(text):
+            for sep in ["\n", ". ", " "]:
+                bp = text.rfind(sep, end - 150, end)
+                if bp != -1:
+                    end = bp + len(sep)
+                    break
+        chunk = text[start:end].strip()
+        if chunk:
+            chunks.append(chunk)
+        if end >= len(text):
+            break
+        start = end - overlap
+
+    return chunks
+
+
+def _ingest_pdf_bytes(pdf_bytes: bytes, stem: str, source_url: str, brand: str | None = None, model: str | None = None) -> int:
+    """Ingesta un PDF en memoria por chunks semánticos. Retorna número de chunks ingresados."""
+    if not _PYMUPDF_AVAILABLE:
+        text = _extract_text_from_pdf(pdf_bytes)
+        if text:
+            items = _build_canonical_items(
+                source_url, text, {"source": source_url, "source_type": "s3_pdf", "brand": brand, "model": model}
+            )
+            ingest_docs([d.model_dump() for d in items])
+            return len(items)
+        return 0
+
+    doc = fitz.open(stream=io.BytesIO(pdf_bytes), filetype="pdf")
+    total_pages = len(doc)
+    all_chunks: list[dict] = []
+    for num in range(total_pages):
+        texto = doc[num].get_text("text").strip()
+        if not texto:
+            continue
+        page_num = num + 1
+        chunks = _split_text_into_chunks(texto)
+        for chunk_idx, chunk_text in enumerate(chunks):
+            all_chunks.append({
+                "id": f"{stem}_page_{page_num}_chunk_{chunk_idx}",
+                "text": chunk_text,
+                "metadata": {
+                    "source": source_url,
+                    "source_type": "s3_pdf",
+                    "page": page_num,
+                    "total_pages": total_pages,
+                    "chunk_type": "text_chunk",
+                    "chunk_index": chunk_idx,
+                    "brand": brand,
+                    "model": model,
+                    "source_file": stem,
+                },
+            })
+    doc.close()
+
+    for i in range(0, len(all_chunks), 10):
+        ingest_docs(all_chunks[i : i + 10])
+
+    return len(all_chunks)
+
+
+# Estado global del proceso de sincronización S3
+_sync_state: dict[str, Any] = {"status": "idle"}
+_sync_lock = threading.Lock()
+
+
+def _run_sync_background(bucket: str, prefix: str, region: str) -> None:
+    """Ejecuta la sincronización S3 → ChromaDB en un hilo separado."""
+    from services.kb.demo_kb import _collection
+
+    def update(**kwargs: Any) -> None:
+        with _sync_lock:
+            _sync_state.update(kwargs)
+
+    update(
+        status="running",
+        started_at=datetime.utcnow().isoformat() + "Z",
+        completed_at=None,
+        total_s3=0,
+        already_ingested=0,
+        new_found=0,
+        synced=0,
+        current_file=None,
+        errors=[],
+    )
+
+    try:
+        print(f"📋 [sync] Listando s3://{bucket}/{prefix}")
+        s3_pdfs = _list_s3_pdfs(bucket, prefix, region)
+        update(total_s3=len(s3_pdfs))
+        print(f"   [sync] {len(s3_pdfs)} PDFs en S3")
+
+        existing_ids = set(_collection.get(include=[])["ids"])
+        new_pdfs = [p for p in s3_pdfs if f"{p['stem']}_page_1_chunk_0" not in existing_ids]
+        already = len(s3_pdfs) - len(new_pdfs)
+        update(already_ingested=already, new_found=len(new_pdfs))
+        print(f"   [sync] Ya ingresados: {already} | Nuevos: {len(new_pdfs)}")
+
+        synced = 0
+        errors: list[dict] = []
+        for pdf in new_pdfs:
+            update(current_file=pdf["stem"])
+            try:
+                pdf_bytes = _download_s3_pdf(bucket, pdf["key"], region)
+                # Extraer brand del path S3: kb/Marca/... → "Marca" (siempre índice 1)
+                key_parts = pdf["key"].split("/")
+                brand = key_parts[1] if len(key_parts) >= 3 else None
+                pages = _ingest_pdf_bytes(pdf_bytes, pdf["stem"], pdf["url"], brand=brand)
+                synced += 1
+                update(synced=synced)
+                print(f"   ✅ [sync] {pdf['stem']} — {pages} páginas")
+            except Exception as exc:
+                errors.append({"file": pdf["stem"], "error": str(exc)})
+                update(errors=errors)
+                print(f"   ❌ [sync] {pdf['stem']}: {exc}")
+
+        update(
+            status="done",
+            completed_at=datetime.utcnow().isoformat() + "Z",
+            current_file=None,
+            errors=errors,
+        )
+        print(f"✅ [sync] Completado: {synced}/{len(new_pdfs)} archivos")
+
+    except Exception as exc:
+        update(
+            status="error",
+            completed_at=datetime.utcnow().isoformat() + "Z",
+            current_file=None,
+            errors=[{"file": "general", "error": str(exc)}],
+        )
+        print(f"❌ [sync] Error fatal: {exc}")
+
+
+def _extract_brand_from_url(url: str | None) -> str | None:
+    """Extrae la marca del path S3: .../kb/Marca/... → 'Marca'"""
+    if not url:
+        return None
+    url_clean = url.split("#")[0]
+    parts = url_clean.split("/")
+    try:
+        kb_idx = parts.index("kb")
+        if kb_idx + 1 < len(parts):
+            brand = parts[kb_idx + 1]
+            return brand if brand else None
+    except ValueError:
+        pass
+    return None
+
+
+@app.post("/tools/patch_brand_metadata")
+def tool_patch_brand_metadata() -> dict:
+    """Migración: actualiza el campo 'brand' en metadata para documentos sin brand.
+
+    Extrae la marca del campo 'source' (URL S3) en la metadata existente.
+    """
+    from services.kb.demo_kb import _collection
+
+    try:
+        results = _collection.get(include=["documents", "metadatas"])
+        all_ids = results["ids"]
+        all_metadatas = results["metadatas"]
+
+        to_update_ids: list[str] = []
+        to_update_metadatas: list[dict] = []
+        brands_found: dict[str, int] = {}
+
+        for doc_id, metadata in zip(all_ids, all_metadatas):
+            if metadata.get("brand"):
+                continue
+
+            extracted_brand = _extract_brand_from_url(metadata.get("source", ""))
+            if extracted_brand:
+                new_metadata = {k: v for k, v in {**metadata, "brand": extracted_brand}.items() if v is not None}
+                to_update_ids.append(doc_id)
+                to_update_metadatas.append(new_metadata)
+                brands_found[extracted_brand] = brands_found.get(extracted_brand, 0) + 1
+
+        if to_update_ids:
+            batch_size = 500
+            for i in range(0, len(to_update_ids), batch_size):
+                _collection.update(
+                    ids=to_update_ids[i:i + batch_size],
+                    metadatas=to_update_metadatas[i:i + batch_size],
+                )
+            print(f"✅ [patch_brand] {len(to_update_ids)} documentos actualizados: {brands_found}")
+
+        return {
+            "ok": True,
+            "total_docs": len(all_ids),
+            "updated": len(to_update_ids),
+            "skipped_already_had_brand": len(all_ids) - len(to_update_ids),
+            "brands_updated": brands_found,
+        }
+
+    except Exception as e:
+        return {"ok": False, "error": str(e)}
+
+
+class KBSyncS3Request(BaseModel):
+    bucket: str = os.getenv("S3_BUCKET", "fixeat-dev")
+    prefix: str = os.getenv("S3_PREFIX", "test/")
+    region: str = os.getenv("AWS_DEFAULT_REGION", "us-east-2")
+    dry_run: bool = False
+
+
+@app.get("/tools/kb_sync_s3/info")
+def tool_kb_sync_s3_info() -> dict:
+    """Diagnóstico: muestra la configuración S3 activa y el estado del KB.
+
+    Útil para verificar que el bucket, prefijo y credenciales son correctos
+    antes de ejecutar una sincronización.
+    """
+    from services.kb.demo_kb import _collection
+
+    bucket = os.getenv("S3_BUCKET", "fixeat-dev")
+    prefix = os.getenv("S3_PREFIX", "test/")
+    region = os.getenv("AWS_DEFAULT_REGION", "us-east-2")
+    has_key = bool(os.getenv("AWS_ACCESS_KEY_ID", "").strip())
+    has_secret = bool(os.getenv("AWS_SECRET_ACCESS_KEY", "").strip())
+
+    # Contar documentos en ChromaDB
+    try:
+        chroma_ids = _collection.get(include=[])["ids"]
+        chroma_count = len(chroma_ids)
+        # Contar PDFs únicos (por stem antes de "_page_")
+        stems = set()
+        for doc_id in chroma_ids:
+            if "_page_" in doc_id:
+                stems.add(doc_id.split("_page_")[0])
+        ingested_pdfs = len(stems)
+    except Exception:
+        chroma_count = -1
+        ingested_pdfs = -1
+
+    # Probar conexión con S3 si hay credenciales
+    s3_reachable = False
+    s3_error = None
+    s3_pdf_count = None
+    if _BOTO3_AVAILABLE and has_key and has_secret:
+        try:
+            pdfs = _list_s3_pdfs(bucket, prefix, region)
+            s3_reachable = True
+            s3_pdf_count = len(pdfs)
+        except Exception as e:
+            s3_error = str(e)
+    elif not _BOTO3_AVAILABLE:
+        s3_error = "boto3 no está instalado. Ejecuta: pip install boto3"
+    else:
+        s3_error = "Credenciales AWS no configuradas en .env (AWS_ACCESS_KEY_ID / AWS_SECRET_ACCESS_KEY)"
+
+    return {
+        "config": {
+            "bucket": bucket,
+            "prefix": prefix,
+            "region": region,
+            "s3_url": f"s3://{bucket}/{prefix}",
+        },
+        "credentials": {
+            "boto3_available": _BOTO3_AVAILABLE,
+            "aws_key_set": has_key,
+            "aws_secret_set": has_secret,
+        },
+        "s3": {
+            "reachable": s3_reachable,
+            "pdf_count": s3_pdf_count,
+            "error": s3_error,
+        },
+        "chromadb": {
+            "total_chunks": chroma_count,
+            "ingested_pdfs": ingested_pdfs,
+        },
+    }
+
+
+@app.get("/tools/kb_sync_s3/status")
+def tool_kb_sync_s3_status() -> dict:
+    """Retorna el estado actual de la sincronización S3 en curso o la última completada."""
+    with _sync_lock:
+        return dict(_sync_state)
+
+
+@app.post("/tools/kb_sync_s3")
+def tool_kb_sync_s3(req: KBSyncS3Request) -> dict:
+    """Inicia la sincronización S3 → KB en background y retorna inmediatamente.
+
+    El proceso corre en un hilo separado. Monitorea el progreso con:
+        GET /tools/kb_sync_s3/status
+    """
+    if not _BOTO3_AVAILABLE:
+        return {"error": "boto3 no está instalado. Ejecuta: pip install boto3"}
+
+    has_key = bool(os.getenv("AWS_ACCESS_KEY_ID", "").strip())
+    has_secret = bool(os.getenv("AWS_SECRET_ACCESS_KEY", "").strip())
+    if not has_key or not has_secret:
+        return {"error": "Credenciales AWS no configuradas en .env (AWS_ACCESS_KEY_ID / AWS_SECRET_ACCESS_KEY)"}
+
+    with _sync_lock:
+        if _sync_state.get("status") == "running":
+            return {"error": "Ya hay una sincronización en curso.", "state": dict(_sync_state)}
+
+    if req.dry_run:
+        from services.kb.demo_kb import _collection
+        try:
+            s3_pdfs = _list_s3_pdfs(req.bucket, req.prefix, req.region)
+            existing_ids = set(_collection.get(include=[])["ids"])
+            new_pdfs = [p for p in s3_pdfs if f"{p['stem']}_page_1_chunk_0" not in existing_ids]
+            return {
+                "dry_run": True,
+                "total_s3": len(s3_pdfs),
+                "already_ingested": len(s3_pdfs) - len(new_pdfs),
+                "new_found": len(new_pdfs),
+                "new_files": [p["url"] for p in new_pdfs],
+            }
+        except Exception as e:
+            return {"error": str(e)}
+
+    thread = threading.Thread(
+        target=_run_sync_background,
+        args=(req.bucket, req.prefix, req.region),
+        daemon=True,
+    )
+    thread.start()
+
+    return {
+        "message": "Sincronización iniciada en background.",
+        "monitor": "GET /tools/kb_sync_s3/status",
+        "config": {"bucket": req.bucket, "prefix": req.prefix, "region": req.region},
+    }
+
+
+class RechunkRequest(BaseModel):
+    bucket: str = os.getenv("S3_BUCKET", "fixeat-dev")
+    prefix: str = "kb/"
+    region: str = os.getenv("AWS_DEFAULT_REGION", "us-east-2")
+
+
+@app.post("/tools/kb_rechunk")
+def kb_rechunk(req: RechunkRequest):
+    """Limpia ChromaDB y re-ingesta todos los PDFs de S3 con chunking semántico.
+
+    ATENCIÓN: Borra todos los documentos existentes antes de re-ingestar.
+    Usar solo cuando se quiera re-procesar la KB completa con la nueva lógica de chunks.
+    """
+    has_key = bool(os.getenv("AWS_ACCESS_KEY_ID", "").strip())
+    has_secret = bool(os.getenv("AWS_SECRET_ACCESS_KEY", "").strip())
+    if not has_key or not has_secret:
+        return {"error": "Credenciales AWS no configuradas en .env"}
+
+    with _sync_lock:
+        if _sync_state.get("status") == "running":
+            return {"error": "Ya hay una sincronización en curso.", "state": dict(_sync_state)}
+
+    def _run_rechunk():
+        from services.kb.demo_kb import _collection
+        with _sync_lock:
+            _sync_state.clear()
+            _sync_state.update({
+                "status": "running",
+                "started_at": datetime.utcnow().isoformat() + "Z",
+                "phase": "clearing",
+                "total_s3": 0,
+                "synced": 0,
+                "errors": [],
+            })
+
+        def update(**kwargs):
+            with _sync_lock:
+                _sync_state.update(kwargs)
+
+        try:
+            # 1. Borrar colección completa
+            existing = _collection.get(include=[])["ids"]
+            print(f"🗑️  [rechunk] Borrando {len(existing)} documentos existentes...")
+            if existing:
+                _collection.delete(ids=existing)
+            print(f"✅ [rechunk] ChromaDB vaciado")
+            update(phase="syncing", cleared=len(existing))
+
+            # 2. Listar y re-ingestar todos los PDFs de S3
+            s3_pdfs = _list_s3_pdfs(req.bucket, req.prefix, req.region)
+            update(total_s3=len(s3_pdfs))
+            print(f"📋 [rechunk] {len(s3_pdfs)} PDFs en S3, iniciando re-ingesta...")
+
+            synced = 0
+            errors: list[dict] = []
+            for pdf in s3_pdfs:
+                update(current_file=pdf["stem"])
+                try:
+                    pdf_bytes = _download_s3_pdf(req.bucket, pdf["key"], req.region)
+                    key_parts = pdf["key"].split("/")
+                    brand = key_parts[1] if len(key_parts) >= 3 else None
+                    chunks = _ingest_pdf_bytes(pdf_bytes, pdf["stem"], pdf["url"], brand=brand)
+                    synced += 1
+                    update(synced=synced)
+                    print(f"   ✅ [rechunk] {pdf['stem']} — {chunks} chunks")
+                except Exception as exc:
+                    errors.append({"file": pdf["stem"], "error": str(exc)})
+                    update(errors=errors)
+                    print(f"   ❌ [rechunk] {pdf['stem']}: {exc}")
+
+            update(
+                status="done",
+                phase="done",
+                completed_at=datetime.utcnow().isoformat() + "Z",
+                current_file=None,
+                errors=errors,
+            )
+            print(f"✅ [rechunk] Completado: {synced}/{len(s3_pdfs)} archivos")
+
+        except Exception as exc:
+            update(
+                status="error",
+                phase="error",
+                completed_at=datetime.utcnow().isoformat() + "Z",
+                current_file=None,
+                errors=[{"file": "general", "error": str(exc)}],
+            )
+            print(f"❌ [rechunk] Error fatal: {exc}")
+
+    thread = threading.Thread(target=_run_rechunk, daemon=True)
+    thread.start()
+
+    return {
+        "message": "Re-chunking iniciado en background. ChromaDB será vaciado y re-ingesta desde S3.",
+        "monitor": "GET /tools/kb_sync_s3/status",
+        "warning": "Todos los documentos existentes serán eliminados antes de re-ingestar.",
+        "config": {"bucket": req.bucket, "prefix": req.prefix, "region": req.region},
+    }
 
 
 @app.get("/health")

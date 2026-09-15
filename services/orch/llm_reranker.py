@@ -9,9 +9,9 @@ Este módulo implementa un segundo paso de análisis donde el LLM:
 
 from __future__ import annotations
 from typing import Any, List, Dict
-import os
 import json
-import requests
+
+from services.llm.client import LLMClient
 
 
 def rerank_with_llm(
@@ -51,16 +51,7 @@ def rerank_with_llm(
     
     if not candidates:
         return []
-    
-    # Configuración del LLM
-    llm_api_key = os.getenv("OPENAI_API_KEY")
-    llm_model = model_name or os.getenv("LLM_MODEL", "gpt-4o-mini")
-    llm_base_url = os.getenv("LLM_BASE_URL", "https://api.openai.com/v1")
-    
-    if not llm_api_key:
-        print("⚠️  OPENAI_API_KEY no configurado, retornando candidatos sin re-ranking")
-        return candidates[:top_k]
-    
+
     # Construir contexto para el LLM
     context_info = f"Marca: {marca or 'N/A'}, Modelo: {modelo or 'N/A'}"
     
@@ -74,17 +65,18 @@ def rerank_with_llm(
         
         # Truncar contenido a 500 caracteres para reducir tokens
         content_preview = content[:500] + "..." if len(content) > 500 else content
-        
+
         documents_summary.append({
             "id": idx,
             "doc_id": doc_id,
             "page": page,
             "source": source,
-            "content": content_preview
+            "content": content_preview,
+            "codigo_error_exacto": candidate.get("exact_code_match", False),
         })
     
     # Prompt para el LLM
-    system_prompt = """Eres un experto en diagnóstico de equipos industriales Rational (hornos, vaporizadores).
+    system_prompt = """Eres un experto en diagnóstico de equipos industriales de cocina profesional.
 
 Tu tarea es ANALIZAR documentos técnicos y determinar cuál responde MEJOR a la pregunta del usuario.
 
@@ -125,6 +117,11 @@ IMPORTANTE:
 - Si un documento NO responde la pregunta, dale un score bajo (0-40)
 - Prioriza documentos de TROUBLESHOOTING sobre manuales de instalación
 - Si la pregunta menciona un código de error específico (ej. "service 25"), prioriza documentos que mencionen ese código exacto
+- El campo "codigo_error_exacto" ya fue verificado de forma determinística: si es true, ese documento
+  define el código de error consultado en su TÍTULO/encabezado (no es una mención de paso ni un
+  subíndice de otro error). Dale 90-100 salvo que el contenido sea claramente irrelevante al problema
+  descrito. Si es false pero el texto menciona el mismo número, es probablemente una fila/subíndice de
+  OTRO error — no lo confundas con el error consultado aunque el número coincida.
 """
 
     user_prompt = f"""**CONTEXTO DEL EQUIPO:**
@@ -138,40 +135,25 @@ IMPORTANTE:
 
 Analiza cada documento y retorna el JSON con los rankings de relevancia."""
 
-    # Llamar al LLM
+    # Llamar al LLM usando LLMClient (respeta LLM_BASE_URL y OPENAI_API_KEY)
     try:
-        headers = {
-            "Content-Type": "application/json",
-            "Authorization": f"Bearer {llm_api_key}"
-        }
-        
-        payload = {
-            "model": llm_model,
-            "messages": [
-                {"role": "system", "content": system_prompt},
-                {"role": "user", "content": user_prompt}
-            ],
-            "temperature": 0.1,  # Muy bajo para respuestas determinísticas
-            "response_format": {"type": "json_object"}  # Forzar JSON
-        }
-        
-        print(f"🤖 Llamando LLM re-ranker ({llm_model})...")
-        response = requests.post(
-            f"{llm_base_url}/chat/completions",
-            headers=headers,
-            json=payload,
-            timeout=30
-        )
-        
-        if response.status_code != 200:
-            print(f"❌ Error en LLM re-ranker: {response.status_code}")
-            return candidates[:top_k]
-        
-        result = response.json()
-        llm_response = result["choices"][0]["message"]["content"]
-        
-        # Parsear respuesta del LLM
-        rankings_data = json.loads(llm_response)
+        llm = LLMClient(agent="reranker")
+        print(f"🤖 Llamando LLM re-ranker ({llm._model})...")
+        raw = llm.complete_json(system_prompt, user_prompt, force_json=True, max_tokens=2000)
+
+        # Parsing robusto: extraer JSON aunque el LLM añada texto antes/después
+        raw = (raw or "").strip()
+        rankings_data: dict = {}
+        if raw:
+            try:
+                rankings_data = json.loads(raw)
+            except json.JSONDecodeError:
+                start, end = raw.find("{"), raw.rfind("}")
+                if start != -1 and end > start:
+                    try:
+                        rankings_data = json.loads(raw[start : end + 1])
+                    except Exception:
+                        pass
         rankings = rankings_data.get("rankings", [])
         
         print(f"✅ LLM re-ranker completado: {len(rankings)} documentos analizados")
@@ -187,15 +169,26 @@ Analiza cada documento y retorna el JSON con los rankings de relevancia."""
                 "confidence": "Baja",
                 "explanation": "No analizado por el LLM"
             })
-            
-            candidate["llm_relevance_score"] = ranking_info["relevance_score"]
-            candidate["llm_confidence"] = ranking_info["confidence"]
+
+            exact_match = bool(candidate.get("exact_code_match"))
+            llm_score = ranking_info["relevance_score"]
+            # Piso determinístico: si el código de error fue confirmado en el
+            # título del documento (no una fila/subíndice de otro error), no
+            # dejamos que una alucinación del LLM lo entierre por debajo de
+            # otro candidato que sólo menciona el mismo número de pasada.
+            if exact_match:
+                llm_score = max(llm_score, 90)
+
+            candidate["llm_relevance_score"] = llm_score
+            candidate["llm_confidence"] = "Alta" if exact_match else ranking_info["confidence"]
             candidate["llm_explanation"] = ranking_info["explanation"]
             enriched_candidates.append(candidate)
-        
-        # Ordenar por score del LLM
+
+        # Ordenar por (match exacto de código, score del LLM). El match exacto
+        # manda primero siempre, para blindar contra errores de juicio del LLM
+        # con contenido truncado a 500 caracteres.
         enriched_candidates.sort(
-            key=lambda x: x.get("llm_relevance_score", 0),
+            key=lambda x: (x.get("exact_code_match", False), x.get("llm_relevance_score", 0)),
             reverse=True
         )
         

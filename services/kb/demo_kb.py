@@ -51,9 +51,10 @@ def ingest_docs(docs: list[dict[str, Any]]) -> None:
     # Chroma requiere metadatas no vacíos; forzamos un valor por defecto
     metadatas = []
     for d in docs:
-        md = d.get("metadata") or {"source": "unspecified"}
-        # asegurar al menos un atributo
-        if isinstance(md, dict) and len(md) == 0:
+        md = d.get("metadata") or {}
+        # ChromaDB no soporta None en metadata — eliminar claves con valor None
+        md = {k: v for k, v in md.items() if v is not None}
+        if not md:
             md = {"source": "unspecified"}
         metadatas.append(md)
 
@@ -283,33 +284,20 @@ def generate_document_url(doc_id: str, metadata: dict[str, Any] | None = None) -
     
     source = metadata.get("source", "")
     page = metadata.get("page")
-    
+
     # Caso 1: Source es URL (HTTP/HTTPS/S3)
     if source and source.startswith(("http://", "https://", "s3://")):
         base_url = source
-        
-        # Limpiar fragmento existente si hay
+
+        # Limpiar fragmento y query existentes
         if "#" in base_url:
             base_url = base_url.split("#")[0]
         if "?" in base_url:
             base_url = base_url.split("?")[0]
-        
-        # Agregar página si existe - usar múltiples formatos para compatibilidad
+
         if page is not None:
-            # Formato 1: Estándar #page=N (funciona en Chrome, Firefox, Adobe Reader)
-            url_standard = f"{base_url}#page={page}"
-            
-            # Formato 2: Alternativo con query param (algunos visores)
-            # url_query = f"{base_url}?page={page}"
-            
-            # Formato 3: Google Docs Viewer (más compatible pero requiere URL pública)
-            # url_google = f"https://docs.google.com/viewer?url={urllib.parse.quote(base_url)}&embedded=true#page={page}"
-            
-            # Por defecto usar formato estándar
-            # El cliente puede modificar según su visor
-            return url_standard
-        else:
-            return base_url
+            return f"{base_url}#page={page}"
+        return base_url
     
     # Caso 2: doc_id tiene formato legacy con #c (chunk) y posible URL
     if "#c" in doc_id:
@@ -487,67 +475,165 @@ def _detect_error_codes(query: str) -> list[str]:
     return sorted(list(codes))
 
 
+_ERROR_LABEL = r'(?:service|servicio|s_|error|c[oó]digo|code)'
+
+# Línea "título" de error: empieza (permitiendo viñetas/numeración) con una
+# etiqueta de error. Ej: "Error S_22:", "S_22 iCombi Pro / Servicio 22 ...".
+_TITLE_LINE_RE = re.compile(
+    rf'^[\s\-•*\d\.\)]{{0,10}}{_ERROR_LABEL}\b', re.IGNORECASE
+)
+
+# Par etiqueta+código dentro de una línea título. No exige límite de palabra
+# al final del número para no descartar subíndices legítimos (S_22_1, 22.1),
+# pero sí exige que el propio código no continúe con otro dígito (evita que
+# "22" matchee dentro de "220", "221", etc.).
+_LABEL_CODE_RE = re.compile(rf'\b{_ERROR_LABEL}\s*[:\-_]?\s*(\d+)(?!\d)', re.IGNORECASE)
+
+# Otro formato de título visto en manuales (ej. tableros de calderas/cafeteras):
+# "<Nombre del grupo>: 0204 - xxxx", donde "xxxx" es un placeholder literal de
+# la columna de sub-estados en la tabla debajo. El código de ESTE título es el
+# código de grupo real; los mismos 4 dígitos (0104/0204/0304/0404) se repiten
+# como sub-estados genéricos dentro de la tabla de CADA grupo, así que un
+# match de fila (sin el sufijo "- xxxx") no debe confundirse con el título.
+_GROUP_HEADER_RE = re.compile(r':\s*(\d{2,6})\s*-\s*x{2,}', re.IGNORECASE)
+
+
+def _normalize_code(code: str) -> str:
+    """Normaliza un código quitando ceros a la izquierda (ej. "0204" == "204")."""
+    return code.lstrip('0') or '0'
+
+
+# Diagnóstico temporal: expone datos del último escaneo para poder
+# inspeccionarlos vía HTTP (los print() de este módulo no están apareciendo
+# en los logs del contenedor por motivos aún no determinados).
+_last_scan_debug: dict[str, Any] = {}
+
+
+def _code_boundary_pattern(code: str) -> re.Pattern:
+    """Regex que matchea `code` sólo como número completo tras una etiqueta.
+
+    Evita falsos positivos por sub-string: buscar "22" no debe matchear
+    "220", "221" ni "1220" (donde 22 aparece incrustado en otro código).
+    """
+    return re.compile(rf'\b{_ERROR_LABEL}\s*[:\-_]?\s*{re.escape(code)}(?!\d)', re.IGNORECASE)
+
+
 def _keyword_boost_search(
-    query: str, 
+    query: str,
     error_codes: list[str],
     top_k: int = 20,
     where: dict[str, Any] | None = None
-) -> dict[str, float]:
+) -> tuple[dict[str, float], set[str]]:
     """Búsqueda por keyword con scoring para códigos de error.
-    
+
+    Prioriza los códigos que aparecen en una línea "título" (el encabezado
+    real del error, ej. "Error S_22: ..."). Si el código sólo aparece
+    incrustado en el cuerpo del texto o como subíndice de OTRO error
+    (ej. "220", "1220"), no se lo considera un match de título — esto evita
+    que una consulta por "error 22" retorne documentos de errores distintos
+    que simplemente mencionan "22" de pasada.
+
     Args:
         query: Query original
         error_codes: Códigos de error detectados
         top_k: Número de resultados
         where: Filtros de metadata
-        
+
     Returns:
-        Dict de {doc_id: keyword_score}
+        Tupla (scores, title_match_doc_ids):
+        - scores: Dict de {doc_id: keyword_score}
+        - title_match_doc_ids: doc_ids cuyo score viene de un match de TÍTULO
+          (código exacto, no una fila/subíndice de otro error). Se usa aguas
+          abajo para blindar estos hits de un re-ranker de LLM que podría
+          confundirse con menciones incidentales del mismo código.
     """
     if not error_codes:
-        return {}
-    
-    # Construir patrones de búsqueda para cada código
-    search_patterns = []
-    for code in error_codes:
-        search_patterns.extend([
-            f"service {code}",
-            f"servicio {code}",
-            f"service{code}",
-            f"s_{code}",
-            f"s{code}",
-            f"error {code}",
-        ])
-    
-    # Obtener todos los documentos (o filtrados)
+        return {}, set()
+
+    # Obtener todos los documentos (o filtrados). Se pasa "limit" explícito
+    # (count() + margen) porque algunas versiones/backends de ChromaDB
+    # truncan get() a un tope por defecto cuando no se especifica límite,
+    # lo que dejaba fuera de este scan documentos que sí contenían el
+    # código buscado en colecciones grandes (miles de chunks).
     try:
-        if where:
-            results = _collection.get(where=where, include=["documents", "metadatas"])
-        else:
-            results = _collection.get(include=["documents", "metadatas"])
+        scan_limit = _collection.count() + 100
     except Exception:
-        return {}
-    
-    # Scoring por matches de keywords
-    keyword_scores = {}
+        scan_limit = None
+    try:
+        get_kwargs: dict[str, Any] = {"include": ["documents", "metadatas"]}
+        if where:
+            get_kwargs["where"] = where
+        if scan_limit:
+            get_kwargs["limit"] = scan_limit
+        results = _collection.get(**get_kwargs)
+    except Exception as e:
+        print(f"❌ Error en _keyword_boost_search al escanear la colección: {e}")
+        _last_scan_debug.clear()
+        _last_scan_debug.update({"error": str(e), "where": where, "error_codes": error_codes})
+        return {}, set()
+
+    scanned = len(results.get("ids", []))
+    print(f"🔍 _keyword_boost_search: escaneados {scanned} docs (scan_limit={scan_limit}, where={where}) buscando códigos {error_codes}")
+    _last_scan_debug.clear()
+    _last_scan_debug.update({
+        "scanned": scanned,
+        "scan_limit": scan_limit,
+        "collection_count": None,
+        "where": where,
+        "error_codes": error_codes,
+    })
+    try:
+        _last_scan_debug["collection_count"] = _collection.count()
+    except Exception:
+        pass
+
+    code_set = {_normalize_code(c) for c in error_codes}
+    boundary_patterns = {code: _code_boundary_pattern(code) for code in error_codes}
+
+    title_scores: dict[str, float] = {}
+    body_scores: dict[str, float] = {}
+
     for i, doc_id in enumerate(results["ids"]):
-        text = results["documents"][i].lower() if i < len(results["documents"]) else ""
-        score = 0.0
-        
-        for pattern in search_patterns:
-            # Contar ocurrencias del patrón
-            count = text.count(pattern.lower())
-            if count > 0:
-                # Boost score basado en:
-                # - Número de ocurrencias
-                # - Qué tan específico es el patrón
-                pattern_weight = 2.0 if "_" in pattern or pattern.startswith("service ") else 1.0
-                score += count * pattern_weight
-        
-        if score > 0:
-            keyword_scores[doc_id] = score
-    
-    return keyword_scores
+        text = results["documents"][i] if i < len(results["documents"]) else ""
+        if not text:
+            continue
+
+        # 1. Buscar el código en líneas título (encabezados de error).
+        # Se combinan dos formatos vistos en los manuales:
+        #  - Etiqueta + código: "Error S_22:", "Servicio 22 ..."
+        #  - Título de grupo: "<Nombre>: 0204 - xxxx"
+        title_codes_in_doc: set[str] = set()
+        for line in text.split("\n"):
+            if _TITLE_LINE_RE.match(line):
+                title_codes_in_doc.update(_LABEL_CODE_RE.findall(line))
+        title_codes_in_doc.update(_GROUP_HEADER_RE.findall(text))
+        title_codes_in_doc = {_normalize_code(c) for c in title_codes_in_doc}
+
+        title_hits = code_set & title_codes_in_doc
+        if title_hits:
+            title_scores[doc_id] = float(len(title_hits)) * 3.0
+
+        # 2. Señal secundaria: menciones en el cuerpo (con límites exactos,
+        # sin sub-string matching), por si ningún documento tiene título.
+        body_score = 0.0
+        for code in error_codes:
+            count = len(boundary_patterns[code].findall(text))
+            if count:
+                body_score += count
+        if body_score > 0:
+            body_scores[doc_id] = body_score
+
+    _last_scan_debug["title_matches"] = len(title_scores)
+    _last_scan_debug["body_matches"] = len(body_scores)
+
+    # Si algún documento tiene el código en el título, usar SOLO esos matches:
+    # filtra las coincidencias que son sólo referencias/subíndices de otros errores.
+    if title_scores:
+        return title_scores, set(title_scores.keys())
+
+    # Fallback: ningún documento sigue el formato de título esperado — usar
+    # matches de cuerpo con límites exactos para no perder recall.
+    return body_scores, set()
 
 
 def kb_search_hybrid(
@@ -597,7 +683,7 @@ def kb_search_hybrid(
     )
     
     # 4. Búsqueda por keywords
-    keyword_scores = _keyword_boost_search(
+    keyword_scores, title_match_doc_ids = _keyword_boost_search(
         query=query,
         error_codes=error_codes,
         top_k=top_k * 3,
@@ -652,25 +738,36 @@ def kb_search_hybrid(
                         "context": doc_result["documents"][0][:context_chars] if doc_result["documents"] else "",
                         "metadata": doc_result["metadatas"][0] if doc_result["metadatas"] else {},
                         "document_url": generate_document_url(
-                            doc_result["metadatas"][0].get("source", "") if doc_result["metadatas"] else "",
-                            page=doc_result["metadatas"][0].get("page") if doc_result["metadatas"] else None,
-                            doc_id=doc_id
+                            doc_id,
+                            doc_result["metadatas"][0] if doc_result["metadatas"] else {}
                         )
                     }
-            except Exception:
+            except Exception as e:
+                print(f"❌ Error recuperando doc adicional de keyword search '{doc_id}': {e}")
                 continue
     
-    # Crear lista final con scores híbridos
+    # Crear lista final con scores híbridos. Los matches de TÍTULO (código
+    # exacto) se garantizan en el resultado aunque no entren en el top_k por
+    # score puro, y se marcan con "exact_code_match" para que consumidores
+    # aguas abajo (ej. el re-ranker de LLM) no los descarten por confundirse
+    # con menciones incidentales del mismo código en otros documentos.
+    ranked_doc_ids = [doc_id for doc_id, _ in sorted(combined_scores.items(), key=lambda x: -x[1])[:top_k]]
+    for doc_id in title_match_doc_ids:
+        if doc_id not in ranked_doc_ids:
+            ranked_doc_ids.append(doc_id)
+
     hybrid_results = []
-    for doc_id, hybrid_score in sorted(combined_scores.items(), key=lambda x: -x[1])[:top_k]:
+    for doc_id in ranked_doc_ids:
         if doc_id in semantic_results_dict:
             result = semantic_results_dict[doc_id].copy()
-            result["score"] = hybrid_score
+            result["score"] = combined_scores.get(doc_id, 0.0)
             result["semantic_score"] = semantic_scores.get(doc_id, 0.0)
             result["keyword_score"] = keyword_scores.get(doc_id, 0.0)
             result["error_codes_found"] = error_codes
+            result["exact_code_match"] = doc_id in title_match_doc_ids
             hybrid_results.append(result)
-    
+
+    hybrid_results.sort(key=lambda r: (r.get("exact_code_match", False), r.get("score", 0.0)), reverse=True)
     return hybrid_results
 
 

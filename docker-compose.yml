@@ -1,5 +1,3 @@
-version: "3.9"
-
 services:
   # ============================================================
   # MCP SERVICE - Knowledge Base Server
@@ -8,6 +6,8 @@ services:
     build: .
     image: fixeatai:latest
     container_name: fixeatai-mcp
+    env_file:
+      - .env
     environment:
       - ROLE=mcp
       - CHROMA_PATH=/data/chroma

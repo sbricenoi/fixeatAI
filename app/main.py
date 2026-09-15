@@ -7,7 +7,9 @@ Usa RAG (Retrieval-Augmented Generation) con LLM y Knowledge Base vectorial.
 from __future__ import annotations
 
 import os
+import re
 import uuid
+from concurrent.futures import ThreadPoolExecutor
 from typing import Any, Optional
 import json
 import logging
@@ -18,7 +20,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 
 from services.predictor.heuristic import infer_from_hits
-from services.orch.rag import predict_with_llm
+from services.orch.rag import predict_with_llm, _search_kb
 from services.orch.llm_reranker import rerank_with_llm
 
 
@@ -47,6 +49,27 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
+
+def _clean_url(url: Optional[str]) -> Optional[str]:
+    """Retorna URL limpia con endpoint regional S3 correcto, sin parámetros de firma y con path codificado."""
+    from urllib.parse import urlparse, quote, urlunparse
+    if not url:
+        return url
+    fragment = ""
+    if "#" in url:
+        url, fragment = url.split("#", 1)
+        fragment = "#" + fragment
+    if "?" in url:
+        url = url.split("?")[0]
+    # Normalizar al endpoint regional correcto (evita redirects 301 que la app móvil no sigue)
+    region = os.getenv("AWS_DEFAULT_REGION", "us-east-2")
+    url = re.sub(r"\.s3(?:\.[\w-]+)?\.amazonaws\.com", f".s3.{region}.amazonaws.com", url)
+    # Codificar espacios y caracteres especiales en el path (ej: "Flowchart - ES" → "Flowchart%20-%20ES")
+    parsed = urlparse(url)
+    encoded_path = quote(parsed.path, safe="/")
+    url = urlunparse(parsed._replace(path=encoded_path))
+    return url + fragment
 
 
 def build_response(
@@ -102,68 +125,86 @@ def predict_fallas(
     4. Respuesta estructurada con protocolos de seguridad
     """
     if USE_LLM:
-        # Modo LLM: RAG Pipeline completo
-        data = predict_with_llm(MCP_SERVER_URL, req.descripcion_problema, req.equipo, top_k=10)
-        
-        # Usar los hits que ya recuperó predict_with_llm
-        hits = data.pop("_raw_hits", [])
-        
-        # GARANTIZAR que SIEMPRE haya contextos en la respuesta
-        if not hits or "contextos" not in data or not data.get("contextos"):
-            print(f"⚠️  No hay hits disponibles, haciendo búsqueda directa de contextos...")
-            try:
-                response = requests.post(
-                    f"{MCP_SERVER_URL}/tools/kb_search_hybrid",
-                    json={
-                        "query": req.descripcion_problema,
-                        "top_k": 10,
-                        "semantic_weight": 0.3,
-                        "keyword_weight": 0.7,
-                        "context_chars": 2000
-                    },
-                    timeout=15,
-                )
-                hits = response.json().get("hits", [])
-                print(f"✅ Búsqueda directa: {len(hits)} hits encontrados")
-            except Exception as e:
-                print(f"❌ Error en búsqueda directa de contextos: {e}")
-                hits = []
+        marca = (req.equipo or {}).get("marca") or (req.equipo or {}).get("brand")
+        modelo = (req.equipo or {}).get("modelo") or (req.equipo or {}).get("model")
+        TOP_K = 6  # Reducido de 10 a 6 (opción 3)
 
-        # APLICAR LLM RE-RANKER
-        if hits:
-            marca = req.equipo.get("marca") or req.equipo.get("brand") if req.equipo else None
-            modelo = req.equipo.get("modelo") or req.equipo.get("model") if req.equipo else None
-            
-            print(f"🤖 Aplicando LLM Re-Ranker (query: '{req.descripcion_problema[:50]}...')")
-            print(f"   Equipo: {marca or 'N/A'} {modelo or 'N/A'}")
-            print(f"   Candidatos: {len(hits)} documentos")
-            
-            # LLM analiza y ordena por relevancia REAL
-            ranked_hits = rerank_with_llm(
-                query=req.descripcion_problema,
-                candidates=hits,
-                marca=marca,
-                modelo=modelo,
-                top_k=10
+        # 1. Búsqueda inicial KB
+        initial_hits = _search_kb(MCP_SERVER_URL, req.descripcion_problema, marca, modelo, TOP_K)
+
+        # 2. PARALELO: RAG (diagnóstico) + Re-ranker (sobre hits iniciales)
+        print(f"⚡ Ejecutando RAG y Re-ranker en paralelo ({len(initial_hits)} hits)...")
+        with ThreadPoolExecutor(max_workers=2) as executor:
+            future_rag = executor.submit(
+                predict_with_llm, MCP_SERVER_URL, req.descripcion_problema, req.equipo, TOP_K, initial_hits
             )
-            
+            future_rerank = executor.submit(
+                rerank_with_llm, req.descripcion_problema, initial_hits, marca, modelo, TOP_K
+            )
+            data = future_rag.result()
+            ranked_hits = future_rerank.result()
+
+        # Detectar entrada no técnica temprano, antes de cualquier procesamiento adicional
+        if data.get("feedback_coherencia") == "no_technical_input":
+            log_event(logging.INFO, x_trace_id, "predict_fallas", num_hits=len(initial_hits), llm_used=USE_LLM, non_technical=True)
+            return build_response(
+                data={
+                    "fallas_probables": [],
+                    "feedback_coherencia": "No encontré documentación relevante\n\nDescribe mejor la falla o solicita cargar nuevos documentos a tu administador.",
+                    "fuentes": [],
+                    "contextos": [],
+                },
+                message="No encontré documentación relevante\n\nDescribe mejor la falla o solicita cargar nuevos documentos a tu administador.",
+                code="NON_TECHNICAL_INPUT",
+                trace_id=x_trace_id,
+            )
+
+        hits = data.pop("_raw_hits", initial_hits)
+        fallas_identificadas = data.get("fallas_probables", [])
+
+        # 3. SEGUNDA BÚSQUEDA condicional: solo si relevancia máxima < 70%
+        max_relevance_initial = max((h.get("llm_relevance_score", 0) for h in ranked_hits), default=0)
+        if max_relevance_initial < 70 and fallas_identificadas:
+            try:
+                failure_terms = " ".join(f.get("falla", "") for f in fallas_identificadas[:2])
+                segunda_query = f"{marca or ''} {failure_terms}".strip()
+                print(f"🔍 Segunda búsqueda (relevancia={max_relevance_initial}% < 70%): '{segunda_query[:70]}'")
+                hits2 = _search_kb(MCP_SERVER_URL, segunda_query, marca, modelo, TOP_K)
+                existing_ids = {h["doc_id"] for h in ranked_hits}
+                nuevos = [h for h in hits2 if h["doc_id"] not in existing_ids]
+                if nuevos:
+                    fallas_str = "; ".join(f.get("falla", "") for f in fallas_identificadas[:2])
+                    rerank_query = f"{req.descripcion_problema}. Fallas: {fallas_str}"
+                    ranked_hits = rerank_with_llm(rerank_query, nuevos + ranked_hits, marca, modelo, TOP_K)
+                    print(f"🔍 Segunda búsqueda: {len(nuevos)} nuevos docs, re-rank completado")
+            except Exception as e:
+                print(f"⚠️  Error en segunda búsqueda: {e}")
+        else:
+            # Enriquecer query del re-ranker con fallas identificadas si ya hay buena relevancia
+            if fallas_identificadas:
+                fallas_str = "; ".join(f.get("falla", "") for f in fallas_identificadas[:2])
+                rerank_query = f"{req.descripcion_problema}. Fallas: {fallas_str}"
+                ranked_hits = rerank_with_llm(rerank_query, ranked_hits, marca, modelo, TOP_K)
+
+        # 4. CONSTRUIR RESPUESTA
+        if ranked_hits:
             # Construir contextos con información del LLM re-ranker
             data["contextos"] = [
                 {
-                    "fuente": hit["doc_id"],
-                    "score": hit["score"],
+                    "fuente": re.sub(r"_page_\d+_chunk_\d+$", "", hit["doc_id"]),
+                    "score": round(min(hit["score"], 1.0), 4),
                     "relevance_score": hit.get("llm_relevance_score", 0),
                     "confidence_label": hit.get("llm_confidence", "Media"),
                     "llm_explanation": hit.get("llm_explanation", ""),
                     "contexto": hit.get("context", hit.get("snippet", ""))[:1500],
-                    "document_url": hit.get("document_url"),
+                    "document_url": _clean_url(hit.get("document_url")),
                     "metadata": {
                         "page": hit.get("metadata", {}).get("page"),
                         "source": hit.get("metadata", {}).get("source"),
                         "brand": hit.get("metadata", {}).get("brand"),
                         "model": hit.get("metadata", {}).get("model"),
-                        "source_file": hit.get("metadata", {}).get("source_file"),  # Nombre archivo original
-                        "chunk_type": hit.get("metadata", {}).get("chunk_type"),  # Tipo de chunk
+                        "source_file": hit.get("metadata", {}).get("source_file"),
+                        "chunk_type": hit.get("metadata", {}).get("chunk_type"),
                     },
                 }
                 for hit in ranked_hits
@@ -178,16 +219,37 @@ def predict_fallas(
                 print(f"     Relevancia LLM: {relevance}% ({ctx['confidence_label']})")
                 if ctx.get('llm_explanation'):
                     print(f"     Razón: {ctx['llm_explanation'][:80]}...")
-            
-            # Actualizar fuentes
-            if "fuentes" not in data or not data["fuentes"]:
-                data["fuentes"] = [hit["doc_id"] for hit in ranked_hits[:10]]
+
+            # Filtrar contextos: solo los relevantes (>= 50%) y máximo 5
+            data["contextos"] = [
+                ctx for ctx in data["contextos"] if ctx.get("relevance_score", 0) >= 50
+            ][:5]
+
+            # Sincronizar fuentes con los contextos filtrados (URLs limpias)
+            data["fuentes"] = [
+                ctx["document_url"] or ctx["fuente"]
+                for ctx in data["contextos"]
+                if ctx.get("document_url") or ctx.get("fuente")
+            ]
+
+            # Detectar cuando el re-ranker indica que ningún documento es relevante
+            max_relevance = max(
+                (ctx.get("relevance_score", 0) for ctx in data["contextos"]), default=0
+            )
+            if max_relevance < 50:
+                data["signals"]["low_evidence"] = True
+                brand_info = f"{marca or ''} {modelo or ''}".strip()
+                data["feedback_coherencia"] = (
+                    f"No se encontraron documentos específicos para {brand_info or 'el equipo consultado'} "
+                    "en la base de conocimiento. El diagnóstico es genérico y puede no ser preciso para este equipo."
+                )
+                for falla in data.get("fallas_probables", []):
+                    falla["confidence"] = min(falla.get("confidence", 0.3), 0.35)
+                print(f"⚠️  low_evidence detectado por re-ranker: max_relevance={max_relevance}%")
         else:
-            # Fallback: lista vacía pero con estructura válida
-            print(f"⚠️  ADVERTENCIA: No se encontraron documentos para '{req.descripcion_problema}'")
+            print(f"⚠️  Sin hits para '{req.descripcion_problema}'")
             data["contextos"] = []
-            if "fuentes" not in data:
-                data["fuentes"] = []
+            data.setdefault("fuentes", [])
     else:
         # Modo sin LLM: heurística basada en KB
         hits = []
@@ -215,7 +277,7 @@ def predict_fallas(
             "contextos": [
                 {
                     "fuente": hit["doc_id"],
-                    "score": hit["score"],
+                    "score": round(min(hit["score"], 1.0), 4),
                     "contexto": hit.get("context", hit.get("snippet", ""))[:1500],
                     "document_url": hit.get("document_url"),
                     "metadata": {
@@ -227,7 +289,38 @@ def predict_fallas(
             ]
         }
     
-    log_event(logging.INFO, x_trace_id, "predict_fallas", num_hits=len(hits), llm_used=USE_LLM)
+    # Detectar entrada no técnica (LLM retorna señal "no_technical_input")
+    if data.get("feedback_coherencia") == "no_technical_input" or (
+        not data.get("fallas_probables") and data.get("feedback_coherencia") == "no_technical_input"
+    ):
+        num_hits = len(locals().get("ranked_hits", locals().get("hits", [])))
+        log_event(logging.INFO, x_trace_id, "predict_fallas", num_hits=num_hits, llm_used=USE_LLM, non_technical=True)
+        return build_response(
+            data={
+                "fallas_probables": [],
+                "feedback_coherencia": "No encontré documentación relevante\n\nDescribe mejor la falla o solicita cargar nuevos documentos a tu administador.",
+                "fuentes": [],
+                "contextos": [],
+            },
+            message="No encontré documentación relevante\n\nDescribe mejor la falla o solicita cargar nuevos documentos a tu administador.",
+            code="NON_TECHNICAL_INPUT",
+            trace_id=x_trace_id,
+        )
+
+    # Limpiar referencias internas [source:...] del rationale
+    # y quitar campos no usados en la app (herramientas_sugeridas, pasos)
+    for falla in data.get("fallas_probables", []):
+        if "rationale" in falla:
+            falla["rationale"] = re.sub(r"\s*\[source:[^\]]+\]", "", falla["rationale"]).strip()
+        falla.pop("herramientas_sugeridas", None)
+        falla.pop("pasos", None)
+
+    # Quitar campos internos / no usados en la app
+    data.pop("quality_metrics", None)
+    data.pop("feedback_coherencia", None)
+
+    num_hits = len(ranked_hits) if USE_LLM and "ranked_hits" in dir() else len(locals().get("hits", []))
+    log_event(logging.INFO, x_trace_id, "predict_fallas", num_hits=num_hits, llm_used=USE_LLM)
     return build_response(data=data, message="Predicción generada", code="OK", trace_id=x_trace_id)
 
 
